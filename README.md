@@ -1,41 +1,146 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2017-12-14
+Last Update: 2018-01-10
 
 ----------
 
 # Weblog
 
+
 ----------
 
-2016/03/24
-https://news.mynavi.jp/article/20160324-a137/
-外国人は日本のお金を見てどう思った? | マイナビニュース
+## 2018-01
 
-2015/06/01
-https://doctors-me.com/doctor/symptom/84/column/1188
-知らなかった！ じつは雑菌だらけの10のモノ
-1. 台所のスポンジ 
-2. まな板 
-3. お金 
-4. スマホ 
-5. 水道の蛇口 
-6. パソコンのキーボード 
-7. マットレス 
-8. ハンドバッグやポーチ 
-9. レストランのメニュー 
-10. カーペット 
+http://biometrics.gr.jp/annualmtg_2018/index.html
+2018年度日本計量生物学会年会を2018年3月29日（木）午後および3月30日（金）に統計数理研究所にて開催します．
 
-2015年5月19日 
-http://trapradar.net/life/dirty-things/
-実はトイレより汚い意外な物13選 | トラップ・レーダー
+https://connpass.com/event/75366/
+応用統計学会・日本計量生物学会チュートリアルセミナー2018 - connpass
 
-2014年06月07日
-https://matome.naver.jp/odai/2140057460215399801
-手洗い必須！日常的に触れている実はとても雑菌まみれなモノ - NAVER まとめ 
-1.スマートフォン
-2.お金
-3.パソコンのキーボード、マウス
-4.トイレのドアノブや蛇口
+http://www.applstat.gr.jp
+応用統計学会トップページ
+
+http://www.applstat.gr.jp/member/admission.html
+入会の御案内
+
+http://www.biometrics.gr.jp
+一般社団法人 日本計量生物学会　The Biometric Society of Japan
+
+
+
+http://yutori-datascience.hatenablog.com/entry/2018/01/09/181821
+業務メール書き方チートシート - tkm2261's blog
+
+
+----------
+
+## 2017-09
+
+http://natgeo.nikkeibp.co.jp/atcl/news/16/c/092100055/
+鶏に乱用の抗生物質、耐性菌の温床と識者が警告 | ナショナルジオグラフィック日本版サイト
+目的は「成長促進」、米では人間の4倍を家畜に投与、その実態と展望を聞く
+2017.09.22
+
+https://www.m3.com/open/clinical/news/article/559530/
+「優性」「劣性」言い換え報道、学会が一部否定
+日本人類遺伝学会、「日本遺伝学会と協議の事実ない」とコメント
+2017年9月27日
+
+https://mainichi.jp/articles/20170913/k00/00m/040/036000c
+遺伝学会：優性・劣性の用語見直し　文科省にも改訂要請へ - 毎日新聞
+2017年9月12日
+
+http://gsj3.jp/revisionterm.html
+遺伝学用語改訂について
+2017.9.11 日本遺伝学会
+
+----------
+
+https://twitter.com/ryotaiino/status/943384227625578496
+Ryota IINO（分子機械） on Twitter: "再掲。学生に限らず。→私の恩師は人によっては推薦書作成を断っていました。当時は酷いなと思ったけど今は理解できる。「私の強い推薦状により入学した学生がカスだとわかれば，私の推薦状はそれ以降一切信用されません」私が書く米欧の大学院向けの推薦状について：林文夫… https://t.co/Xosw5sTlNS"
+
+https://twitter.com/Tyu_Shi/status/942824493285703680
+Tyu_Shi on Twitter: "poplarとmaizeの根から単離されたバクテリア484株のゲノムを読んで、既知のゲノム3千株以上と比較ゲノム解析してplant-associated gene clustersを探索したのか。 https://t.co/DVNlG9j13e"
+1:30 PM - 18 Dec 2017
+
+https://twitter.com/MicrobiomDigest/status/936394562381029377
+Elisabeth Bik on Twitter: "Strain-resolved analysis of hospital rooms and infants reveals overlap between the human and room microbiome Metagenomic study of microbial… https://t.co/sSXhDvasCH"
+7:40 PM - 30 Nov 2017
+
+
+https://twitter.com/Tyu_Shi/status/940987045790412800
+Tyu_Shi on Twitter: "Metagenome Assembled Genomesの評価方法としてよく使われている、Single copy genesを用いたcompletenessとcontaminationの指標についての、コンパクトにまとまった良い説明だ。 https://t.co/rfYMlQba35"
+11:49 AM - 13 Dec 2017
+
+https://www.microbe.net/2017/12/13/why-genome-completeness-and-contamination-estimates-are-more-complicated-than-you-think/ 
+Why genome completeness and contamination estimates are more complicated than you think – microBEnet: the microbiology of the Built Environment network
+
+
+12:19 PM - 11 Dec 2017
+https://twitter.com/NatureBiotech/status/940269831181557760
+Nature Biotechnology on Twitter: "Metagenomic binning and association of plasmids with bacterial host genomes using DNA methylation https://t.co/Un1Mm1p561 #epigenomics… https://t.co/FCvLuBgoxb"
+
+
+
+https://twitter.com/NatureMicrobiol/status/940566982742740992
+Nature Microbiology‏ 
+@NatureMicrobiol
+ Dec 12
+More
+Current issue: #pangenome correspondences: 
+
+1. Michiel Vos & @AdamEyreWalker: are #pangenomes adaptive? http://bit.ly/2nHM5DU  
+
+2. @bjesseshapiro on applying population genetics: http://bit.ly/2nHM82y  
+
+3. @jomcinerney @alanmcn1 & @Evol_Molly reply: http://bit.ly/2nHMaaG 
+
+
+https://twitter.com/pathogenomenick/status/939889344453730304
+"On the Problem of Sequence Leakage" by @OmicsOmicsBlog 
+http://omicsomics.blogspot.co.uk/2017/12/on-problem-of-sequence-leakage.html …
+
+Related: have noticed that students are confused that genome 'X' not in GenBank when they know it's been sequenced.
+4 replies 13 retweets 29 likes
+Reply  4   Retweeted  13   Like  29   Direct message
+
+https://twitter.com/ASMicrobiology/status/939872479820111872
+@ASMicrobiology
+ Dec 10
+More
+WGS shows that one species is actually (at least) four. Increasing our concept of a microbial species has many implications, including in understanding infections http://ow.ly/PsSI30h5qLc 
+
+
+https://twitter.com/phy_papers/status/939461903306260481
+phypapers on Twitter: "BUSCO applications from quality assessments to gene prediction and phylogenomics. https://t.co/k8Yj1hCta0"
+6:49 AM - 9 Dec 2017
+
+
+https://twitter.com/Tyu_Shi/status/938098486280515584
+Tyu_Shi on Twitter: "J. Bacteriol.がこの1-2年で出した、Chromosome & Gene expression regulation, Bacterial cell, Pathogenesis & Host interactionのminireviewのThematic collec… https://t.co/hPReoqTdHZ"
+
+
+evolvability
+https://twitter.com/mbiojournal/status/932941916211175424
+
+Curtis Huttenhowerラボの論文
+https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1359-z
+Experimental design and quantitative analysis of microbial community multiomics
+Genome Biology2017
+
+https://twitter.com/thePeerJ/status/936536355772993537
+PeerJ - the journal on Twitter: "Kullback Leibler divergence in complete bacterial and phage genomes https://t.co/qN0QBSUXeR #Genomics https://t.co/CaMp8FbmKe"
+5:04 AM - 1 Dec 2017
+
+----------
+### BUSCO
+
+https://www.ncbi.nlm.nih.gov/pubmed/29220515
+Mol Biol Evol. 2017 Dec 6. doi: 10.1093/molbev/msx319. [Epub ahead of print]
+BUSCO applications from quality assessments to gene prediction and phylogenomics.
+
+2017-07-19
+http://kazumaxneo.hatenablog.com/entry/2017/07/19/145640
+アセンブル結果をCore gene setの検出数で評価する　BUSCO - macでインフォマティクス
 
 ----------
 ### Tax4Fun
@@ -73,6 +178,40 @@ JOBIM 2015 - ASaiM: an environment to analyze intestinal microbiota - Demo with 
 https://twitter.com/galaxyproject/status/794453380202725376
 Galaxy Project on Twitter: "Computational workflow for fine-grained analysis of metagenomic samples, Pérez-Wohlfeil et al. https://t.co/MAJKM97Pxb #usegalaxy @InfoUMA https://t.co/FAtN47hRES"
 
+
+
+----------
+
+
+2016/03/24
+https://news.mynavi.jp/article/20160324-a137/
+外国人は日本のお金を見てどう思った? | マイナビニュース
+
+2015/06/01
+https://doctors-me.com/doctor/symptom/84/column/1188
+知らなかった！ じつは雑菌だらけの10のモノ
+1. 台所のスポンジ 
+2. まな板 
+3. お金 
+4. スマホ 
+5. 水道の蛇口 
+6. パソコンのキーボード 
+7. マットレス 
+8. ハンドバッグやポーチ 
+9. レストランのメニュー 
+10. カーペット 
+
+2015年5月19日 
+http://trapradar.net/life/dirty-things/
+実はトイレより汚い意外な物13選 | トラップ・レーダー
+
+2014年06月07日
+https://matome.naver.jp/odai/2140057460215399801
+手洗い必須！日常的に触れている実はとても雑菌まみれなモノ - NAVER まとめ 
+1.スマートフォン
+2.お金
+3.パソコンのキーボード、マウス
+4.トイレのドアノブや蛇口
 
 ----------
 
