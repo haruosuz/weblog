@@ -5,25 +5,29 @@ Last Update: 2018-01-10
 
 # Weblog
 
-
 ----------
 
 ## 2018-01
 
-http://biometrics.gr.jp/annualmtg_2018/index.html
-2018年度日本計量生物学会年会を2018年3月29日（木）午後および3月30日（金）に統計数理研究所にて開催します．
+https://ja.wikipedia.org/wiki/名古屋議定書
 
 https://connpass.com/event/75366/
 応用統計学会・日本計量生物学会チュートリアルセミナー2018 - connpass
+Registration Period
+2018/01/12(Fri) 00:00 〜
+2018/03/01(Thu) 00:00
 
-http://www.applstat.gr.jp
-応用統計学会トップページ
+http://biometrics.gr.jp/annualmtg_2018/index.html
+2018年度日本計量生物学会年会を2018年3月29日（木）午後および3月30日（金）に統計数理研究所にて開催します．
+事前参加申し込み：
+2018/1/30 - 2/28
 
-http://www.applstat.gr.jp/member/admission.html
-入会の御案内
+http://www.applstat.gr.jp/annual/index.html
+応用統計学会2018年年会
+日時：日時： 2018 年 3 月 28 日（水）
+会場： 統計数理研究所・大会議室 (http://www.ism.ac.jp/access/index_j.html) 
+参加費： 正会員，後援学会員3,000 円，非会員5,000 円， 学生（会員，非会員とも）1,000 円
 
-http://www.biometrics.gr.jp
-一般社団法人 日本計量生物学会　The Biometric Society of Japan
 
 
 
