@@ -9,6 +9,13 @@ Last Update: 2018-01-10
 
 ## 2018-01
 
+
+	for FILE in *.zip; do DIR=$(basename $FILE .zip); mkdir $DIR; unzip $FILE -d $DIR; done
+
+	find my_project -name ".DS_Store" | xargs rm
+
+[[PDF]2017年度 秋学期授業カレンダー](https://www.sfc.keio.ac.jp/doc/2017f_calendar_170228.pdf)
+
 https://ja.wikipedia.org/wiki/名古屋議定書
 
 https://connpass.com/event/75366/
