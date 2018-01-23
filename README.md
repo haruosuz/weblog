@@ -10,9 +10,44 @@ Last Update: 2018-01-10
 ## 2018-01
 
 
-	for FILE in *.zip; do DIR=$(basename $FILE .zip); mkdir $DIR; unzip $FILE -d $DIR; done
+https://twitter.com/hkanekane/status/953209719010635776
+hkane on Twitter: "バイオインフォ トレーニング用ワークブック 使いやすい https://t.co/vI99OcpgEq"
+5:18 AM - 16 Jan 2018
 
-	find my_project -name ".DS_Store" | xargs rm
+https://twitter.com/isugif/status/953021431473782784
+Genome Informatics on Twitter: "#pagxxvi #PAG2018 Bioinformatics training is important; my group has been working on a bioinformatics workbook. While in the early stages, please check it out, send feedback on topics to include. https://t.co/rxXORe1qAU"
+
+https://isugenomics.github.io/bioinformatics-workbook/
+Bioinformatics Workbook | bioinformatics-workbook
+
+
+https://twitter.com/leeswijzer/status/952293010141827073
+MINAKA Nobuhiro on Twitter: "［欹耳袋］連載〈統計の落とし穴と蜘蛛の糸〉の第9回記事「秘宝：確率分布曼荼羅の発見！」 https://t.co/LSXrS7EVMq が公開されました．"
+4:35 PM - 13 Jan 2018
+
+
+----------
+
+
+## 2017
+
+
+https://twitter.com/okunokaruta/status/922731395394371584
+奥野かるた店 on Twitter: "【新商品　感染症カルタ　12月上旬発売】予約受付開始しました。エボラ出血熱、アタマジラミ、黄熱病、ポリオ、狂犬病、サルモネラ、エキノコックス、はしか、結核、猫ひっかき病など…感染症の秘密がわかるカルタ！！詳しくは、こちらのブログから https://t.co/UoDZcNcU48 #jugem_blog… https://t.co/1BKZ6XQsp6"
+
+----------
+
+2017.06.21
+https://bi.biopapyrus.jp/os/linux/bash.html
+bash | Linux で利用できるシェルスクリプト（文字列・配列・構文などの取り扱い方）
+
+	dna="TAGCATGCAGTCTATTATCGGATCGATGCTGACTAGTCAGCT"
+	echo ${#dna}
+	echo ${dna:0:5}
+	echo ${dna//T/U}
+	echo ${dna/T/U}
+
+----------
 
 [[PDF]2017年度 秋学期授業カレンダー](https://www.sfc.keio.ac.jp/doc/2017f_calendar_170228.pdf)
 
