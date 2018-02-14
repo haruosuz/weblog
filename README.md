@@ -35,6 +35,14 @@ https://www.amazon.co.jp/進化論の射程―生物学の哲学入門-現代哲
 http://d.hatena.ne.jp/shorebird/20090622
 書評　「進化論の射程」 - shorebird　進化心理学中心の書評など
 
+http://d.hatena.ne.jp/shorebird/20130811
+書評　「科学と証拠」 - shorebird　進化心理学中心の書評など
+科学と証拠―統計の哲学 入門―
+作者: エリオット・ソーバー
+
+http://orangestar.hatenadiary.jp/entry/2016/01/22/073000
+イラストでわかる『銃・病原菌・鉄』 - orangestarの雑記
+
 ----------
 
 ## 2018-01
