@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2018-01-10
+Last Update: 2018-02-14
 
 ----------
 
@@ -7,6 +7,33 @@ Last Update: 2018-01-10
 
 https://europepmc.org
 Europe PMC
+
+----------
+
+https://ja.wikipedia.org/wiki/生物学の哲学
+
+https://www.amazon.co.jp/生物学の哲学入門-森元-良太/dp/4326102543
+
+2016年8月
+http://www.keisoshobo.co.jp/book/b239975.html
+生物学の哲学入門 - 株式会社　勁草書房
+
+https://bookmeter.com/books/11086330
+生物学の哲学入門 感想 森元 良太,田中 泉吏 - 読書メーター
+
+2016-12-22
+http://d.hatena.ne.jp/shorebird/20161222
+書評　「生物学の哲学入門」 - shorebird　進化心理学中心の書評など
+
+2016-11-11
+http://d.hatena.ne.jp/sakstyle/20161111/p1
+森元良太・田中泉吏『生物学の哲学入門』 - logical cypher scape
+
+https://www.amazon.co.jp/進化論の射程―生物学の哲学入門-現代哲学への招待Great-Works-エリオット-ソーバー/dp/4393323181
+
+2009-06-22
+http://d.hatena.ne.jp/shorebird/20090622
+書評　「進化論の射程」 - shorebird　進化心理学中心の書評など
 
 ----------
 
@@ -33,24 +60,6 @@ https://twitter.com/okunokaruta/status/922731395394371584
 [[PDF]2017年度 秋学期授業カレンダー](https://www.sfc.keio.ac.jp/doc/2017f_calendar_170228.pdf)
 
 https://ja.wikipedia.org/wiki/名古屋議定書
-
-https://connpass.com/event/75366/
-応用統計学会・日本計量生物学会チュートリアルセミナー2018 - connpass
-Registration Period
-2018/01/12(Fri) 00:00 〜
-2018/03/01(Thu) 00:00
-
-http://biometrics.gr.jp/annualmtg_2018/index.html
-2018年度日本計量生物学会年会を2018年3月29日（木）午後および3月30日（金）に統計数理研究所にて開催します．
-事前参加申し込み：
-2018/1/30 - 2/28
-
-http://www.applstat.gr.jp/annual/index.html
-応用統計学会2018年年会
-日時：日時： 2018 年 3 月 28 日（水）
-会場： 統計数理研究所・大会議室 (http://www.ism.ac.jp/access/index_j.html) 
-参加費： 正会員，後援学会員3,000 円，非会員5,000 円， 学生（会員，非会員とも）1,000 円
-
 
 http://yutori-datascience.hatenablog.com/entry/2018/01/09/181821
 業務メール書き方チートシート - tkm2261's blog
@@ -102,6 +111,16 @@ http://www.virologyhighlights.com/from-design-of-a-genome-sequence-to-generation
 From design of a genome sequence to generation of a synthetic virus
 - Our basic idea was to design and construct a virus of defined genome sequence, chosen as a consensus, possibly ancestral sequence. 
 
+
+----------
+
+# 2014
+
+【2014/06/16】
+http://sciencebook.blog110.fc2.com/blog-entry-2149.html
+『 国際誌エディターが教えるアクセプトされる論文の書きかた 』
+
+科学の本英文は、100や2.3などの算用数字で書きはじめてはいけません。
 
 
 ----------
@@ -176,6 +195,12 @@ Collaborative environmental DNA sampling from petal surfaces of flowering cherry
 Posted July 19, 2017.
 
 ----------
+
+
+
+https://twitter.com/hashtag/metasub15
+Christopher Mason ‏@mason_lab  Jun 20
+\#metasub15 John Brownstein @johnbrownstein gave a great talk about Healthmap http://www.healthmap.org  and crowd-sourced medicine
 
 https://twitter.com/gogoviral
 Julie Nadel ‏@JulieNadel  Jun 19
@@ -283,6 +308,16 @@ The report states that 88% of stations were cleaned fewer than eight times a yea
  - [地下鉄で新型インフルエンザ対策実験：政治経済ニュース！](http://seizikeizai.seesaa.net/article/111617412.html)
 
 ----------
+
+https://sfcclip.net/2014/06/7032/
+喉の渇きを潤そう! SFCの自動販売機はここだ ∣ SFC CLIP
+
+https://sfcclip.net/2013/11/6720/
+メディアセンターでほっと一息 1階ラウンジに自動販売機が設置 ∣ SFC CLIP
+
+https://sfcclip.net/2009/07/838/
+暑い日も寒い日も24時間営業中! SFCの自動販売機25台 ∣ SFC CLIP
+
 
 
 
