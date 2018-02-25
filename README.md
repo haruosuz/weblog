@@ -5,8 +5,31 @@ Last Update: 2018-02-14
 
 # Weblog
 
+https://twitter.com/endBooks
+科学に佇む読書心 (@endBooks) | Twitter
+
 https://europepmc.org
 Europe PMC
+
+https://healthpolicyhealthecon.com/2017/12/02/causal-inference-book/
+『「原因と結果」の経済学』の無料公開！ – 医療政策学×医療経済学
+
+----------
+
+
+## 2018-02
+
+9:16 AM - 23 Feb 2018
+https://twitter.com/JMonlong/status/967040480960761856
+Jean Monlong on Twitter: "Time between manuscript reception to acceptance/publication (and other infos) for journals in my field. https://t.co/kgbi6XooK9 #SubmissionStrategy… https://t.co/h7LftpyJgQ"
+
+![](https://pbs.twimg.com/media/DWueE4WX0AEYOii.jpg)
+
+
+2018年2月10日
+https://ichiro-maruta.blogspot.jp/2018/02/arxiv.html
+英語論文執筆のために arXiv からの例文検索サービスを作った話 - Ichiro Maruta Homepage
+
 
 ----------
 
@@ -326,7 +349,27 @@ https://sfcclip.net/2013/11/6720/
 https://sfcclip.net/2009/07/838/
 暑い日も寒い日も24時間営業中! SFCの自動販売機25台 ∣ SFC CLIP
 
+----------
 
+## robust
+ロバスト
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2608848/
+Comparison of Correspondence Analysis Methods for Synonymous Codon Usage in Bacteria
+
+It is important to note that these results remained similar when all complete bacterial genomic sequences available from the NCBI repository on August 2008 were included (data not shown). Similar results were obtained when only long sequences with >300 codons were used (data not shown). We also verified the consistency of the results when using detection thresholds below |r| = 0.70 (data not shown). Thus we conclude that WCA is more effective than the other three methods in generating axes that correspond to variation in synonymous codon usage, regardless of the data sets and statistical criteria used.
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2602791/
+Using Mahalanobis distance to compare genomic signatures between bacterial plasmids and chromosomes
+
+We tested the robustness of our result that Mahalanobis distance performs better than the conventional δ-distance by varying chromosomal segment size, word size (e.g. tri- and tetra-nucleotides) (12,29,37) and composition of the host data set. 
+*省略* We also demonstrated that our results were robust to the composition of the host data set by testing different subsets of bacteria, e.g. 
+*省略* Thus, Mahalanobis distance performed better than δ-distance in identifying plasmid hosts based on genomic signature similarity, regardless of the datasets used.
+
+
+
+
+----------
 
 
 
