@@ -8,11 +8,25 @@ Last Update: 2018-02-14
 https://twitter.com/endBooks
 科学に佇む読書心 (@endBooks) | Twitter
 
+https://techplay.jp
+TECH PLAY［テックプレイ］ - IT勉強会・セミナーなどのイベント情報検索サービス
+
 https://europepmc.org
 Europe PMC
 
 https://healthpolicyhealthecon.com/2017/12/02/causal-inference-book/
 『「原因と結果」の経済学』の無料公開！ – 医療政策学×医療経済学
+
+http://leeswijzer.hatenablog.com/entry/2016/09/10/102132
+「種問題」ははてしなく続く - archief voor stambomen
+
+- https://twitter.com/search?q=%22抗生物質と人間%22
+- https://twitter.com/search?q=%22微生物の驚異%22
+- https://twitter.com/search?q=%22マイクロバイオームの世界%22
+- https://twitter.com/search?q=%20土と内臓%20微生物がつくる世界
+- https://twitter.com/search?q=あなたの体は９割が細菌
+- https://twitter.com/search?q=失われてゆく、我々の内なる細菌
+- https://twitter.com/search?q=世界は細菌にあふれ、人は細菌によって生かされる
 
 ----------
 
@@ -362,12 +376,7 @@ It is important to note that these results remained similar when all complete ba
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2602791/
 Using Mahalanobis distance to compare genomic signatures between bacterial plasmids and chromosomes
 
-We tested the robustness of our result that Mahalanobis distance performs better than the conventional δ-distance by varying chromosomal segment size, word size (e.g. tri- and tetra-nucleotides) (12,29,37) and composition of the host data set. 
-*省略* We also demonstrated that our results were robust to the composition of the host data set by testing different subsets of bacteria, e.g. 
-*省略* Thus, Mahalanobis distance performed better than δ-distance in identifying plasmid hosts based on genomic signature similarity, regardless of the datasets used.
-
-
-
+We tested the robustness of our result that Mahalanobis distance performs better than the conventional δ-distance by varying chromosomal segment size, word size (e.g. tri- and tetra-nucleotides) (12,29,37) and composition of the host data set. Campbell et al. (11) and Wong et al. (20) used 50-kb chromosomal segments, while van Passel et al. (25) used plasmid-size chromosomal segments; that is, the segment size was not fixed but depended on the plasmid size. In the present study, we used a fixed segment size. We found that our results remained similar when partitioning chromosomal sequences into different sizes of segments; e.g. 2, 5, 10 and 20 kb in length (data not shown). Among these, 5 kb was selected because the median rank of the genomic signature similarities between plasmids and their known hosts was maximized. The results were also consistent with those obtained when using relative abundances of different word sizes (data not shown). We also demonstrated that our results were robust to the composition of the host data set by testing different subsets of bacteria, e.g. Proteobacteria, Firmicutes, Gram-positive bacteria, Gram-negative bacteria and also when only one representative was randomly selected in the case of species for which multiple strains have been sequenced (data not shown). Thus, Mahalanobis distance performed better than δ-distance in identifying plasmid hosts based on genomic signature similarity, regardless of the datasets used.
 
 ----------
 
