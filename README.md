@@ -5,6 +5,15 @@ Last Update: 2018-02-14
 
 # Weblog
 
+
+
+https://twitter.com/hoxo_m/status/970197370548862977
+h(o x o_)m＜ わかりみ。 on Twitter: "“Rで簡単な変化点検知(changepointパッケージ) - RigelのR言語メモであーる(R言語だけとは言っていない)” https://t.co/NVruBqwjcb"
+
+https://speakerdeck.com/hoxom/bi-nu-nizhen-rarenaitamefalsebian-hua-jian-zhi-ru-men
+彼女に振られないための変化検知入門 // Speaker Deck
+
+
 https://twitter.com/endBooks
 科学に佇む読書心 (@endBooks) | Twitter
 
