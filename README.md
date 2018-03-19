@@ -6,6 +6,11 @@ Last Update: 2018-02-14
 # Weblog
 
 
+http://takehiko-i-hayashi.hatenablog.com/entry/2017/03/13/050959
+統数研での講演『バックドア基準入門』をアプします - Take a Risk：林岳彦の研究メモ
+
+https://ja.wikipedia.org/wiki/カルバック・ライブラー情報量
+
 https://twitter.com/endBooks
 科学に佇む読書心 (@endBooks) | Twitter
 
@@ -22,6 +27,13 @@ http://leeswijzer.hatenablog.com/entry/2016/09/10/102132
 「種問題」ははてしなく続く - archief voor stambomen
 
 ----------
+
+## 2018-05
+
+https://www.iibc-global.org/toeic/test/lr/guide01.html
+テスト日程・申込｜TOEIC Listening & Reading Test｜TOEIC Program｜IIBC
+第230回 2018年5月20日(日)実施
+申込受付期間 2018年3月2日(金) 10:00 ～ 2018年4月3日(火) 15:00 締切
 
 ## 2018-03
 
