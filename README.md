@@ -6,6 +6,12 @@ Last Update: 2018-02-14
 # Weblog
 
 
+http://hi.fnshr.info/2017/06/25/ut-morning/
+東京大学の1限にぎりぎり間に合う範囲はどこまでか｜Colorless Green Histories
+
+http://on-sociology.blogspot.jp/2018/03/blog-post_17.html
+計量分析を用いた論文も社会的な構築物なのか？：経済学と政治学の再現性ポリシーの違い
+
 http://takehiko-i-hayashi.hatenablog.com/entry/2017/03/13/050959
 統数研での講演『バックドア基準入門』をアプします - Take a Risk：林岳彦の研究メモ
 
