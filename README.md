@@ -5,6 +5,9 @@ Last Update: 2018-02-14
 
 # Weblog
 
+https://healthpolicyhealthecon.com/2018/03/22/the-best-diet/
+「世界一シンプルで科学的に証明された究極の食事」 – 医療政策学×医療経済学
+https://twitter.com/yusuke_tsugawa
 
 http://hi.fnshr.info/2017/06/25/ut-morning/
 東京大学の1限にぎりぎり間に合う範囲はどこまでか｜Colorless Green Histories
