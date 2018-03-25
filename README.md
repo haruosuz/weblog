@@ -5,12 +5,15 @@ Last Update: 2018-02-14
 
 # Weblog
 
+http://d.hatena.ne.jp/sakstyle/20180325/p1
+三中信宏『思考の体系学』 - logical cypher scape
+
+http://d.hatena.ne.jp/sakstyle/20161111/p1
+森元良太・田中泉吏『生物学の哲学入門』 - logical cypher scape
+
 https://healthpolicyhealthecon.com/2018/03/22/the-best-diet/
 「世界一シンプルで科学的に証明された究極の食事」 – 医療政策学×医療経済学
 https://twitter.com/yusuke_tsugawa
-
-http://hi.fnshr.info/2017/06/25/ut-morning/
-東京大学の1限にぎりぎり間に合う範囲はどこまでか｜Colorless Green Histories
 
 http://on-sociology.blogspot.jp/2018/03/blog-post_17.html
 計量分析を用いた論文も社会的な構築物なのか？：経済学と政治学の再現性ポリシーの違い
