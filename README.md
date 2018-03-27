@@ -5,6 +5,12 @@ Last Update: 2018-02-14
 
 # Weblog
 
+http://medical.nikkeibp.co.jp/leaf/all/cadetto/tuusin/201709/552936.html
+津川友介（UCLA医療政策学者）×山本雄士（ミナケア社長）
+社会的インパクトのある研究テーマの見つけ方
+9月30日まで！ 「リアルワールドデータ活用コンテスト」も募集
+2017/9/25
+
 http://d.hatena.ne.jp/sakstyle/20180325/p1
 三中信宏『思考の体系学』 - logical cypher scape
 
