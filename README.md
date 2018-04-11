@@ -11,6 +11,9 @@ https://github.com/haruosuz/metasub/blob/master/README.md
 https://github.com/haruosuz/microbe
 https://github.com/haruosuz/statistics/blob/master/README.md
 
+https://twitter.com/endBooks
+科学に佇む読書心 (@endBooks) | Twitter
+
 https://twitter.com/bluebacks_pub
 講談社ブルーバックス (@bluebacks_pub) | Twitter
 
@@ -42,9 +45,6 @@ http://takehiko-i-hayashi.hatenablog.com/entry/2017/03/13/050959
 統数研での講演『バックドア基準入門』をアプします - Take a Risk：林岳彦の研究メモ
 
 https://ja.wikipedia.org/wiki/カルバック・ライブラー情報量
-
-https://twitter.com/endBooks
-科学に佇む読書心 (@endBooks) | Twitter
 
 https://techplay.jp
 TECH PLAY［テックプレイ］ - IT勉強会・セミナーなどのイベント情報検索サービス
