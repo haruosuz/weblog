@@ -1,9 +1,17 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2018-02-14
+Last Update: 2018-04-11
 
 ----------
 
 # Weblog
+
+https://twitter.com/bluebacks_pub
+講談社ブルーバックス (@bluebacks_pub) | Twitter
+
+https://www.slideshare.net/kdmsnr/writing-a-paper-seven-suggestions
+優れた研究論文の書き方―7つの提案
+Published on Oct 31, 2015
+
 
 http://medical.nikkeibp.co.jp/leaf/all/cadetto/tuusin/201709/552936.html
 津川友介（UCLA医療政策学者）×山本雄士（ミナケア社長）
@@ -123,6 +131,8 @@ https://www.natureasia.com/ja-jp/scientificdata/pr-highlights/12340
 ----------
 
 ## 2017
+
+https://twitter.com/hashtag/ラボハック
 
 https://twitter.com/okunokaruta/status/922731395394371584
 奥野かるた店 on Twitter: "【新商品　感染症カルタ　12月上旬発売】予約受付開始しました。エボラ出血熱、アタマジラミ、黄熱病、ポリオ、狂犬病、サルモネラ、エキノコックス、はしか、結核、猫ひっかき病など…感染症の秘密がわかるカルタ！！詳しくは、こちらのブログから https://t.co/UoDZcNcU48 #jugem_blog… https://t.co/1BKZ6XQsp6"
