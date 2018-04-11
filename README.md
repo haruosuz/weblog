@@ -5,6 +5,12 @@ Last Update: 2018-04-11
 
 # Weblog
 
+https://github.com/haruosuz/DS4GD/tree/master/2018
+https://github.com/haruosuz/evolve/blob/master/README.md
+https://github.com/haruosuz/metasub/blob/master/README.md
+https://github.com/haruosuz/microbe
+https://github.com/haruosuz/statistics/blob/master/README.md
+
 https://twitter.com/bluebacks_pub
 講談社ブルーバックス (@bluebacks_pub) | Twitter
 
