@@ -11,11 +11,34 @@ https://github.com/haruosuz/metasub/blob/master/README.md
 https://github.com/haruosuz/microbe
 https://github.com/haruosuz/statistics/blob/master/README.md
 
+https://twitter.com/hashtag/究極の食事
+
+https://twitter.com/bilderberg54
+https://twitter.com/yoniumuhibi
+
+https://wired.jp/2018/03/31/to-stay-healthy-on-your-flight/
+飛行機で病気に感染したくなければ、「通路側の席」は避けるべし──その理由を専門家が生物学的に解明｜WIRED.jp
+
+https://twitter.com/yusuke_tsugawa/status/984596474603323392
+津川友介 on Twitter: "皆様が大好きな「白米」に関して、1日何杯までだったら健康に悪くないのか、記事を書きました。ご一読頂けると幸いです。 #究極の食事 最先端の医学では｢白米は体に悪い｣が常識だ UCLA医学部助教授が教える｢不都合な真実｣ | 健康 - 東洋経済オンライン https://t.co/JffPxS2HZB @Toyokeizai"
+https://toyokeizai.net/articles/-/215982
+最先端の医学では｢白米は体に悪い｣が常識だ | 健康 | 東洋経済オンライン | 経済ニュースの新基準
+
+April 13, 2018
+https://www.minot.bio/home/2018/4/12/tracking-outbreaks-with-whole-genome-sequencing
+Tracking outbreaks with whole-genome sequencing — Minot Lab
+
 https://twitter.com/endBooks
 科学に佇む読書心 (@endBooks) | Twitter
 
 https://twitter.com/bluebacks_pub
 講談社ブルーバックス (@bluebacks_pub) | Twitter
+
+http://www.rehabilimemo.com
+
+https://twitter.com/_knakashima_
+http://k-nakashima.net/twitter_matome/
+【スポーツ健康科学分野】Twitterでの簡易論文紹介まとめ
 
 https://www.slideshare.net/kdmsnr/writing-a-paper-seven-suggestions
 優れた研究論文の書き方―7つの提案
@@ -423,5 +446,6 @@ We tested the robustness of our result that Mahalanobis distance performs better
 
 ----------
 
+https://ja.wikipedia.org/wiki/グラニースミス
 
 
