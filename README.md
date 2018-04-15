@@ -5,6 +5,9 @@ Last Update: 2018-04-11
 
 # Weblog
 
+https://haremashita.hatenablog.com/entry/2018/03/19/220842
+Critical Analysis（批評分析小論文） - 自分を改善したい人のブログ
+
 https://github.com/haruosuz/DS4GD/tree/master/2018
 https://github.com/haruosuz/evolve/blob/master/README.md
 https://github.com/haruosuz/metasub/blob/master/README.md
