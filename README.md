@@ -5,10 +5,6 @@ Last Update: 2018-04-11
 
 # Weblog
 
-http://www.philosophy.bun.kyoto-u.ac.jp/junotk/ja/index.html
-大塚淳のサイト
-https://junotkja.wordpress.com/2014/09/21/私家版「科学哲学とは何か」/
-https://junotkja.wordpress.com/2015/02/02/レンズ職人としての科学哲学者/
 
 2018年7月11日（水）～13日（金）
 http://meeting-jsme2018.com/symposium.html
