@@ -5,6 +5,19 @@ Last Update: 2018-04-11
 
 # Weblog
 
+2018年7月11日（水）～13日（金）
+http://meeting-jsme2018.com/symposium.html
+シンポジウム | 日本微生物生態学会 第32回大会
+シンポジウム１
+｢進化・群集生態学の新手法で切り拓く微生物研究のフロンティア」
+東樹宏和（京都大学）、岩崎渉（東京大学）
+
+http://www.sfc.lib.keio.ac.jp
+
+進化論はなぜ哲学の問題になるのか
+
+文化系統学への招待
+
 https://haremashita.hatenablog.com/entry/2018/03/19/220842
 Critical Analysis（批評分析小論文） - 自分を改善したい人のブログ
 
