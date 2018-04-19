@@ -5,45 +5,11 @@ Last Update: 2018-04-11
 
 # Weblog
 
-
-2018年7月11日（水）～13日（金）
-http://meeting-jsme2018.com/symposium.html
-シンポジウム | 日本微生物生態学会 第32回大会
-シンポジウム１
-｢進化・群集生態学の新手法で切り拓く微生物研究のフロンティア」
-東樹宏和（京都大学）、岩崎渉（東京大学）
-
-http://www.sfc.lib.keio.ac.jp
-
-進化論はなぜ哲学の問題になるのか
-
-文化系統学への招待
-
-https://haremashita.hatenablog.com/entry/2018/03/19/220842
-Critical Analysis（批評分析小論文） - 自分を改善したい人のブログ
-
 https://github.com/haruosuz/DS4GD/tree/master/2018
 https://github.com/haruosuz/evolve/blob/master/README.md
 https://github.com/haruosuz/metasub/blob/master/README.md
 https://github.com/haruosuz/microbe
 https://github.com/haruosuz/statistics/blob/master/README.md
-
-https://twitter.com/hashtag/究極の食事
-
-https://twitter.com/bilderberg54
-https://twitter.com/yoniumuhibi
-
-https://wired.jp/2018/03/31/to-stay-healthy-on-your-flight/
-飛行機で病気に感染したくなければ、「通路側の席」は避けるべし──その理由を専門家が生物学的に解明｜WIRED.jp
-
-https://twitter.com/yusuke_tsugawa/status/984596474603323392
-津川友介 on Twitter: "皆様が大好きな「白米」に関して、1日何杯までだったら健康に悪くないのか、記事を書きました。ご一読頂けると幸いです。 #究極の食事 最先端の医学では｢白米は体に悪い｣が常識だ UCLA医学部助教授が教える｢不都合な真実｣ | 健康 - 東洋経済オンライン https://t.co/JffPxS2HZB @Toyokeizai"
-https://toyokeizai.net/articles/-/215982
-最先端の医学では｢白米は体に悪い｣が常識だ | 健康 | 東洋経済オンライン | 経済ニュースの新基準
-
-April 13, 2018
-https://www.minot.bio/home/2018/4/12/tracking-outbreaks-with-whole-genome-sequencing
-Tracking outbreaks with whole-genome sequencing — Minot Lab
 
 https://twitter.com/endBooks
 科学に佇む読書心 (@endBooks) | Twitter
@@ -57,16 +23,39 @@ https://twitter.com/_knakashima_
 http://k-nakashima.net/twitter_matome/
 【スポーツ健康科学分野】Twitterでの簡易論文紹介まとめ
 
+https://twitter.com/toharabrothers
+
+https://twitter.com/hashtag/究極の食事
+
+https://www.lifehacker.jp/2018/04/bad-habits-mental-energy.html
+
+https://haremashita.hatenablog.com/entry/2018/03/19/220842
+Critical Analysis（批評分析小論文） - 自分を改善したい人のブログ
+
 https://www.slideshare.net/kdmsnr/writing-a-paper-seven-suggestions
 優れた研究論文の書き方―7つの提案
 Published on Oct 31, 2015
 
+https://twitter.com/bilderberg54
+https://twitter.com/yoniumuhibi
+
+http://www.sfc.lib.keio.ac.jp
+
+進化論はなぜ哲学の問題になるのか
+
+文化系統学への招待
+
+https://twitter.com/yusuke_tsugawa/status/984596474603323392
+津川友介 on Twitter: "皆様が大好きな「白米」に関して、1日何杯までだったら健康に悪くないのか、記事を書きました。ご一読頂けると幸いです。 #究極の食事 最先端の医学では｢白米は体に悪い｣が常識だ UCLA医学部助教授が教える｢不都合な真実｣ | 健康 - 東洋経済オンライン https://t.co/JffPxS2HZB @Toyokeizai"
+https://toyokeizai.net/articles/-/215982
+最先端の医学では｢白米は体に悪い｣が常識だ | 健康 | 東洋経済オンライン | 経済ニュースの新基準
 
 http://medical.nikkeibp.co.jp/leaf/all/cadetto/tuusin/201709/552936.html
 津川友介（UCLA医療政策学者）×山本雄士（ミナケア社長）
 社会的インパクトのある研究テーマの見つけ方
 9月30日まで！ 「リアルワールドデータ活用コンテスト」も募集
 2017/9/25
+
 
 http://d.hatena.ne.jp/sakstyle/20180325/p1
 三中信宏『思考の体系学』 - logical cypher scape
