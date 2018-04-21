@@ -8,8 +8,9 @@ Last Update: 2018-04-11
 https://github.com/haruosuz/DS4GD/tree/master/2018
 https://github.com/haruosuz/evolve/blob/master/README.md
 https://github.com/haruosuz/metasub/blob/master/README.md
-https://github.com/haruosuz/microbe
 https://github.com/haruosuz/statistics/blob/master/README.md
+https://github.com/haruosuz/microbe
+https://github.com/haruosuz/microbe/blob/master/README.md
 
 https://twitter.com/endBooks
 科学に佇む読書心 (@endBooks) | Twitter
@@ -38,12 +39,6 @@ Published on Oct 31, 2015
 
 https://twitter.com/bilderberg54
 https://twitter.com/yoniumuhibi
-
-http://www.sfc.lib.keio.ac.jp
-
-進化論はなぜ哲学の問題になるのか
-
-文化系統学への招待
 
 https://twitter.com/yusuke_tsugawa/status/984596474603323392
 津川友介 on Twitter: "皆様が大好きな「白米」に関して、1日何杯までだったら健康に悪くないのか、記事を書きました。ご一読頂けると幸いです。 #究極の食事 最先端の医学では｢白米は体に悪い｣が常識だ UCLA医学部助教授が教える｢不都合な真実｣ | 健康 - 東洋経済オンライン https://t.co/JffPxS2HZB @Toyokeizai"
