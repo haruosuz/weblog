@@ -12,23 +12,24 @@ https://github.com/haruosuz/statistics/blob/master/README.md
 https://github.com/haruosuz/microbe
 https://github.com/haruosuz/microbe/blob/master/README.md
 
+[taxa:3310] 【新刊】「立ち読み」どうぞ→三中信宏『系統体系学の世界』勁草書房
+【コンパニオンサイト】http://leeswijzer.org/files/SystematicPhilosophy.html
+の「まえがき」（6pp.）と「あとがき」（8pp.）が〈けいそうビブリオ〉の「あとがきたちよみ」コーナーで公開されました：
+http://keisobiblio.com/2018/04/24/atogakitachiyomi_keitotaikeigaku/ [html]
+http://keisobiblio.com/wp/wp-content/uploads/2018/04/keitotaikeigaku_tachiyomi.pdf
+[pdf]
+
 https://twitter.com/endBooks
 科学に佇む読書心 (@endBooks) | Twitter
 
 https://twitter.com/bluebacks_pub
 講談社ブルーバックス (@bluebacks_pub) | Twitter
 
-http://www.rehabilimemo.com
-
-https://twitter.com/_knakashima_
-http://k-nakashima.net/twitter_matome/
-【スポーツ健康科学分野】Twitterでの簡易論文紹介まとめ
-
-https://twitter.com/toharabrothers
+2017/05/07 2017/12/22
+http://k-nakashima.net/blog-list/
+トレーナーがチェックしておきたい科学的根拠に基づいたブログおすすめ10選
 
 https://twitter.com/hashtag/究極の食事
-
-https://www.lifehacker.jp/2018/04/bad-habits-mental-energy.html
 
 https://haremashita.hatenablog.com/entry/2018/03/19/220842
 Critical Analysis（批評分析小論文） - 自分を改善したい人のブログ
@@ -81,6 +82,20 @@ https://healthpolicyhealthecon.com/2017/12/02/causal-inference-book/
 
 http://leeswijzer.hatenablog.com/entry/2016/09/10/102132
 「種問題」ははてしなく続く - archief voor stambomen
+
+----------
+
+
+- 2011年02月 [環境科学と生態学のためのR統計 | 共立出版](http://www.kyoritsu-pub.co.jp/bookdetail/9784320057128)
+- 大垣俊一 [Argonauta 15: 10-22 (2008) 多様度と類似度、分類学的新指標](http://www.mus-nh.city.osaka.jp/iso/argo/nl15/nl15-10-22.pdf)
+- 大垣俊一 [Argonauta 1: 15-26 (1999) 群集組成の多変量解析](http://www.mus-nh.city.osaka.jp/iso/argo/nl01/nl01-15-26.html)
+- [夏原由博 (1996) チョウ群集調査データの解析法](http://www.info.human.nagoya-u.ac.jp/~natu/epub/cho.PDF )
+- 2008.02.18 [生物多様性について１：シャノン＝ウィーバー指標（Shannon-Wiener) | 地中海ブログ](http://blog.archiphoto.info/?eid=569433)
+- [論文の紹介： 生物多様性を進化系統学的な尺度で測る (情報：農業と環境 No.83 2007.3)](http://www.niaes.affrc.go.jp/magazine/083/mgzn08304.html)
+
+- https://ja.wikipedia.org/wiki/遺伝的多様性
+- https://ja.wikipedia.org/wiki/バイオアッセイ
+- https://ja.wikipedia.org/wiki/保全生態学
 
 ----------
 
