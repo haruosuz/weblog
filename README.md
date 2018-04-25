@@ -12,12 +12,16 @@ https://github.com/haruosuz/statistics/blob/master/README.md
 https://github.com/haruosuz/microbe
 https://github.com/haruosuz/microbe/blob/master/README.md
 
+
 [taxa:3310] 【新刊】「立ち読み」どうぞ→三中信宏『系統体系学の世界』勁草書房
 【コンパニオンサイト】http://leeswijzer.org/files/SystematicPhilosophy.html
 の「まえがき」（6pp.）と「あとがき」（8pp.）が〈けいそうビブリオ〉の「あとがきたちよみ」コーナーで公開されました：
 http://keisobiblio.com/2018/04/24/atogakitachiyomi_keitotaikeigaku/ [html]
 http://keisobiblio.com/wp/wp-content/uploads/2018/04/keitotaikeigaku_tachiyomi.pdf
 [pdf]
+
+https://www.sfc.keio.ac.jp/gsmg/about/faculty/
+教員 | 慶應義塾大学大学院政策・メディア研究科
 
 https://twitter.com/endBooks
 科学に佇む読書心 (@endBooks) | Twitter
@@ -40,6 +44,14 @@ Published on Oct 31, 2015
 
 https://twitter.com/bilderberg54
 https://twitter.com/yoniumuhibi
+
+
+http://robertcampbell.jp/blog/2018/04/30.html
+平成30年度　東京大学入学式　来賓祝辞 - BLOG｜ロバート キャンベル公式サイト｜Robert Campbell Official Web Site
+
+2018.03.29
+http://college.nikkei.co.jp/article/112272017.html
+人生を経済学で考えよう（14）　小テストを行うなら、授業の前か後か｜慶應大学 中室牧子ゼミ｜日経カレッジカフェ | 大学生のためのキャリア支援メディア
 
 https://twitter.com/yusuke_tsugawa/status/984596474603323392
 津川友介 on Twitter: "皆様が大好きな「白米」に関して、1日何杯までだったら健康に悪くないのか、記事を書きました。ご一読頂けると幸いです。 #究極の食事 最先端の医学では｢白米は体に悪い｣が常識だ UCLA医学部助教授が教える｢不都合な真実｣ | 健康 - 東洋経済オンライン https://t.co/JffPxS2HZB @Toyokeizai"
