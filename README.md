@@ -5,20 +5,24 @@ Last Update: 2018-04-11
 
 # Weblog
 
+
+## Table of Contents
+- [Updates](#updates)
+- [link](#link)
+- [leeswijzer](#MINAKA Nobuhiro)
+- [yusuke_tsugawa](#yusuke_tsugawa)
+
+----------
+## Updates
+
+## link
+
 https://github.com/haruosuz/DS4GD/tree/master/2018
 https://github.com/haruosuz/evolve/blob/master/README.md
 https://github.com/haruosuz/metasub/blob/master/README.md
 https://github.com/haruosuz/statistics/blob/master/README.md
 https://github.com/haruosuz/microbe
 https://github.com/haruosuz/microbe/blob/master/README.md
-
-
-[taxa:3310] 【新刊】「立ち読み」どうぞ→三中信宏『系統体系学の世界』勁草書房
-【コンパニオンサイト】http://leeswijzer.org/files/SystematicPhilosophy.html
-の「まえがき」（6pp.）と「あとがき」（8pp.）が〈けいそうビブリオ〉の「あとがきたちよみ」コーナーで公開されました：
-http://keisobiblio.com/2018/04/24/atogakitachiyomi_keitotaikeigaku/ [html]
-http://keisobiblio.com/wp/wp-content/uploads/2018/04/keitotaikeigaku_tachiyomi.pdf
-[pdf]
 
 https://www.sfc.keio.ac.jp/gsmg/about/faculty/
 教員 | 慶應義塾大学大学院政策・メディア研究科
@@ -29,85 +33,6 @@ https://twitter.com/endBooks
 https://twitter.com/bluebacks_pub
 講談社ブルーバックス (@bluebacks_pub) | Twitter
 
-2017/05/07 2017/12/22
-http://k-nakashima.net/blog-list/
-トレーナーがチェックしておきたい科学的根拠に基づいたブログおすすめ10選
-
-https://twitter.com/hashtag/究極の食事
-
-https://haremashita.hatenablog.com/entry/2018/03/19/220842
-Critical Analysis（批評分析小論文） - 自分を改善したい人のブログ
-
-https://www.slideshare.net/kdmsnr/writing-a-paper-seven-suggestions
-優れた研究論文の書き方―7つの提案
-Published on Oct 31, 2015
-
-https://twitter.com/bilderberg54
-https://twitter.com/yoniumuhibi
-
-
-http://robertcampbell.jp/blog/2018/04/30.html
-平成30年度　東京大学入学式　来賓祝辞 - BLOG｜ロバート キャンベル公式サイト｜Robert Campbell Official Web Site
-
-2018.03.29
-http://college.nikkei.co.jp/article/112272017.html
-人生を経済学で考えよう（14）　小テストを行うなら、授業の前か後か｜慶應大学 中室牧子ゼミ｜日経カレッジカフェ | 大学生のためのキャリア支援メディア
-
-https://twitter.com/yusuke_tsugawa/status/984596474603323392
-津川友介 on Twitter: "皆様が大好きな「白米」に関して、1日何杯までだったら健康に悪くないのか、記事を書きました。ご一読頂けると幸いです。 #究極の食事 最先端の医学では｢白米は体に悪い｣が常識だ UCLA医学部助教授が教える｢不都合な真実｣ | 健康 - 東洋経済オンライン https://t.co/JffPxS2HZB @Toyokeizai"
-https://toyokeizai.net/articles/-/215982
-最先端の医学では｢白米は体に悪い｣が常識だ | 健康 | 東洋経済オンライン | 経済ニュースの新基準
-
-http://medical.nikkeibp.co.jp/leaf/all/cadetto/tuusin/201709/552936.html
-津川友介（UCLA医療政策学者）×山本雄士（ミナケア社長）
-社会的インパクトのある研究テーマの見つけ方
-9月30日まで！ 「リアルワールドデータ活用コンテスト」も募集
-2017/9/25
-
-
-http://d.hatena.ne.jp/sakstyle/20180325/p1
-三中信宏『思考の体系学』 - logical cypher scape
-
-http://d.hatena.ne.jp/sakstyle/20161111/p1
-森元良太・田中泉吏『生物学の哲学入門』 - logical cypher scape
-
-https://healthpolicyhealthecon.com/2018/03/22/the-best-diet/
-「世界一シンプルで科学的に証明された究極の食事」 – 医療政策学×医療経済学
-https://twitter.com/yusuke_tsugawa
-
-http://on-sociology.blogspot.jp/2018/03/blog-post_17.html
-計量分析を用いた論文も社会的な構築物なのか？：経済学と政治学の再現性ポリシーの違い
-
-http://takehiko-i-hayashi.hatenablog.com/entry/2017/03/13/050959
-統数研での講演『バックドア基準入門』をアプします - Take a Risk：林岳彦の研究メモ
-
-https://ja.wikipedia.org/wiki/カルバック・ライブラー情報量
-
-https://techplay.jp
-TECH PLAY［テックプレイ］ - IT勉強会・セミナーなどのイベント情報検索サービス
-
-https://europepmc.org
-Europe PMC
-
-https://healthpolicyhealthecon.com/2017/12/02/causal-inference-book/
-『「原因と結果」の経済学』の無料公開！ – 医療政策学×医療経済学
-
-http://leeswijzer.hatenablog.com/entry/2016/09/10/102132
-「種問題」ははてしなく続く - archief voor stambomen
-
-----------
-
-
-- 2011年02月 [環境科学と生態学のためのR統計 | 共立出版](http://www.kyoritsu-pub.co.jp/bookdetail/9784320057128)
-- 大垣俊一 [Argonauta 15: 10-22 (2008) 多様度と類似度、分類学的新指標](http://www.mus-nh.city.osaka.jp/iso/argo/nl15/nl15-10-22.pdf)
-- 大垣俊一 [Argonauta 1: 15-26 (1999) 群集組成の多変量解析](http://www.mus-nh.city.osaka.jp/iso/argo/nl01/nl01-15-26.html)
-- [夏原由博 (1996) チョウ群集調査データの解析法](http://www.info.human.nagoya-u.ac.jp/~natu/epub/cho.PDF )
-- 2008.02.18 [生物多様性について１：シャノン＝ウィーバー指標（Shannon-Wiener) | 地中海ブログ](http://blog.archiphoto.info/?eid=569433)
-- [論文の紹介： 生物多様性を進化系統学的な尺度で測る (情報：農業と環境 No.83 2007.3)](http://www.niaes.affrc.go.jp/magazine/083/mgzn08304.html)
-
-- https://ja.wikipedia.org/wiki/遺伝的多様性
-- https://ja.wikipedia.org/wiki/バイオアッセイ
-- https://ja.wikipedia.org/wiki/保全生態学
 
 ----------
 
@@ -137,40 +62,6 @@ https://ichiro-maruta.blogspot.jp/2018/02/arxiv.html
 英語論文執筆のために arXiv からの例文検索サービスを作った話 - Ichiro Maruta Homepage
 
 
-----------
-
-https://ja.wikipedia.org/wiki/生物学の哲学
-
-https://www.amazon.co.jp/生物学の哲学入門-森元-良太/dp/4326102543
-
-2016年8月
-http://www.keisoshobo.co.jp/book/b239975.html
-生物学の哲学入門 - 株式会社　勁草書房
-
-https://bookmeter.com/books/11086330
-生物学の哲学入門 感想 森元 良太,田中 泉吏 - 読書メーター
-
-2016-12-22
-http://d.hatena.ne.jp/shorebird/20161222
-書評　「生物学の哲学入門」 - shorebird　進化心理学中心の書評など
-
-2016-11-11
-http://d.hatena.ne.jp/sakstyle/20161111/p1
-森元良太・田中泉吏『生物学の哲学入門』 - logical cypher scape
-
-https://www.amazon.co.jp/進化論の射程―生物学の哲学入門-現代哲学への招待Great-Works-エリオット-ソーバー/dp/4393323181
-
-2009-06-22
-http://d.hatena.ne.jp/shorebird/20090622
-書評　「進化論の射程」 - shorebird　進化心理学中心の書評など
-
-http://d.hatena.ne.jp/shorebird/20130811
-書評　「科学と証拠」 - shorebird　進化心理学中心の書評など
-科学と証拠―統計の哲学 入門―
-作者: エリオット・ソーバー
-
-http://orangestar.hatenadiary.jp/entry/2016/01/22/073000
-イラストでわかる『銃・病原菌・鉄』 - orangestarの雑記
 
 ----------
 
@@ -250,7 +141,6 @@ http://www.virologyhighlights.com/from-design-of-a-genome-sequence-to-generation
 From design of a genome sequence to generation of a synthetic virus
 - Our basic idea was to design and construct a virus of defined genome sequence, chosen as a consensus, possibly ancestral sequence. 
 
-
 ----------
 
 # 2014
@@ -260,6 +150,157 @@ http://sciencebook.blog110.fc2.com/blog-entry-2149.html
 『 国際誌エディターが教えるアクセプトされる論文の書きかた 』
 
 科学の本英文は、100や2.3などの算用数字で書きはじめてはいけません。
+
+
+## 
+
+
+2017/05/07 2017/12/22
+http://k-nakashima.net/blog-list/
+トレーナーがチェックしておきたい科学的根拠に基づいたブログおすすめ10選
+
+https://haremashita.hatenablog.com/entry/2018/03/19/220842
+Critical Analysis（批評分析小論文） - 自分を改善したい人のブログ
+
+https://www.slideshare.net/kdmsnr/writing-a-paper-seven-suggestions
+優れた研究論文の書き方―7つの提案
+Published on Oct 31, 2015
+
+https://twitter.com/bilderberg54
+https://twitter.com/yoniumuhibi
+
+http://robertcampbell.jp/blog/2018/04/30.html
+平成30年度　東京大学入学式　来賓祝辞 - BLOG｜ロバート キャンベル公式サイト｜Robert Campbell Official Web Site
+
+
+http://d.hatena.ne.jp/sakstyle/20180325/p1
+三中信宏『思考の体系学』 - logical cypher scape
+
+http://d.hatena.ne.jp/sakstyle/20161111/p1
+森元良太・田中泉吏『生物学の哲学入門』 - logical cypher scape
+
+http://on-sociology.blogspot.jp/2018/03/blog-post_17.html
+計量分析を用いた論文も社会的な構築物なのか？：経済学と政治学の再現性ポリシーの違い
+
+http://takehiko-i-hayashi.hatenablog.com/entry/2017/03/13/050959
+統数研での講演『バックドア基準入門』をアプします - Take a Risk：林岳彦の研究メモ
+
+----------
+
+https://ja.wikipedia.org/wiki/カルバック・ライブラー情報量
+
+https://techplay.jp
+TECH PLAY［テックプレイ］ - IT勉強会・セミナーなどのイベント情報検索サービス
+
+https://europepmc.org
+Europe PMC
+
+----------
+
+## leeswijzer
+MINAKA Nobuhiro
+
+https://twitter.com/leeswijzer
+
+http://leeswijzer.hatenablog.com/entry/2016/09/10/102132
+「種問題」ははてしなく続く - archief voor stambomen
+
+[taxa:3310] 【新刊】「立ち読み」どうぞ→三中信宏『系統体系学の世界』勁草書房
+【コンパニオンサイト】http://leeswijzer.org/files/SystematicPhilosophy.html
+の「まえがき」（6pp.）と「あとがき」（8pp.）が〈けいそうビブリオ〉の「あとがきたちよみ」コーナーで公開されました：
+http://keisobiblio.com/2018/04/24/atogakitachiyomi_keitotaikeigaku/ [html]
+http://keisobiblio.com/wp/wp-content/uploads/2018/04/keitotaikeigaku_tachiyomi.pdf
+[pdf]
+
+## yusuke_tsugawa
+https://twitter.com/yusuke_tsugawa
+
+https://twitter.com/hashtag/究極の食事
+
+2018-04
+https://togetter.com/li/1222611
+世界一シンプルで科学的に証明された究極の食事について - Togetter
+
+https://toyokeizai.net/articles/-/217690
+医学的に｢健康に良い食べ物｣は5つしかない | 健康 | 東洋経済オンライン | 経済ニュースの新基準
+
+https://healthpolicyhealthecon.com/2018/03/22/the-best-diet/
+「世界一シンプルで科学的に証明された究極の食事」 – 医療政策学×医療経済学
+
+https://twitter.com/yusuke_tsugawa/status/984596474603323392
+津川友介 on Twitter: "皆様が大好きな「白米」に関して、1日何杯までだったら健康に悪くないのか、記事を書きました。ご一読頂けると幸いです。 #究極の食事 最先端の医学では｢白米は体に悪い｣が常識だ UCLA医学部助教授が教える｢不都合な真実｣ | 健康 - 東洋経済オンライン https://t.co/JffPxS2HZB @Toyokeizai"
+https://toyokeizai.net/articles/-/215982
+最先端の医学では｢白米は体に悪い｣が常識だ | 健康 | 東洋経済オンライン | 経済ニュースの新基準
+
+https://healthpolicyhealthecon.com/2017/12/02/causal-inference-book/
+『「原因と結果」の経済学』の無料公開！ – 医療政策学×医療経済学
+
+2017/9/25
+http://medical.nikkeibp.co.jp/leaf/all/cadetto/tuusin/201709/552936.html
+津川友介（UCLA医療政策学者）×山本雄士（ミナケア社長）
+社会的インパクトのある研究テーマの見つけ方
+
+2018.03.29
+http://college.nikkei.co.jp/article/112272017.html
+人生を経済学で考えよう（14）　小テストを行うなら、授業の前か後か｜慶應大学 中室牧子ゼミ｜日経カレッジカフェ | 大学生のためのキャリア支援メディア
+
+----------
+
+- 2011年02月 [環境科学と生態学のためのR統計 | 共立出版](http://www.kyoritsu-pub.co.jp/bookdetail/9784320057128)
+- 大垣俊一 [Argonauta 15: 10-22 (2008) 多様度と類似度、分類学的新指標](http://www.mus-nh.city.osaka.jp/iso/argo/nl15/nl15-10-22.pdf)
+- 大垣俊一 [Argonauta 1: 15-26 (1999) 群集組成の多変量解析](http://www.mus-nh.city.osaka.jp/iso/argo/nl01/nl01-15-26.html)
+- [夏原由博 (1996) チョウ群集調査データの解析法](http://www.info.human.nagoya-u.ac.jp/~natu/epub/cho.PDF )
+- 2008.02.18 [生物多様性について１：シャノン＝ウィーバー指標（Shannon-Wiener) | 地中海ブログ](http://blog.archiphoto.info/?eid=569433)
+- [論文の紹介： 生物多様性を進化系統学的な尺度で測る (情報：農業と環境 No.83 2007.3)](http://www.niaes.affrc.go.jp/magazine/083/mgzn08304.html)
+
+- https://ja.wikipedia.org/wiki/遺伝的多様性
+- https://ja.wikipedia.org/wiki/バイオアッセイ
+- https://ja.wikipedia.org/wiki/保全生態学
+
+----------
+
+https://ja.wikipedia.org/wiki/生物学の哲学
+
+https://www.amazon.co.jp/生物学の哲学入門-森元-良太/dp/4326102543
+
+2016年8月
+http://www.keisoshobo.co.jp/book/b239975.html
+生物学の哲学入門 - 株式会社　勁草書房
+
+https://bookmeter.com/books/11086330
+生物学の哲学入門 感想 森元 良太,田中 泉吏 - 読書メーター
+
+2016-12-22
+http://d.hatena.ne.jp/shorebird/20161222
+書評　「生物学の哲学入門」 - shorebird　進化心理学中心の書評など
+
+2016-11-11
+http://d.hatena.ne.jp/sakstyle/20161111/p1
+森元良太・田中泉吏『生物学の哲学入門』 - logical cypher scape
+
+https://www.amazon.co.jp/進化論の射程―生物学の哲学入門-現代哲学への招待Great-Works-エリオット-ソーバー/dp/4393323181
+
+2009-06-22
+http://d.hatena.ne.jp/shorebird/20090622
+書評　「進化論の射程」 - shorebird　進化心理学中心の書評など
+
+http://d.hatena.ne.jp/shorebird/20130811
+書評　「科学と証拠」 - shorebird　進化心理学中心の書評など
+科学と証拠―統計の哲学 入門―
+作者: エリオット・ソーバー
+
+http://orangestar.hatenadiary.jp/entry/2016/01/22/073000
+イラストでわかる『銃・病原菌・鉄』 - orangestarの雑記
+
+
+
+----------
+
+
+
+
+
+
 
 
 ----------
