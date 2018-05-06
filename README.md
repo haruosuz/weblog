@@ -1,20 +1,19 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2018-04-11
+Last Update: 2018-05-06
 
 ----------
 
 # Weblog
 
-
 ## Table of Contents
-- [Updates](#updates)
 - [link](#link)
-- [leeswijzer](#MINAKA Nobuhiro)
-- [yusuke_tsugawa](#yusuke_tsugawa)
+- [Updates](#updates)
+- [people](#people)
+  - [leeswijzer](#leeswijzer) MINAKA Nobuhiro
+  - [yusuke_tsugawa](#yusuke_tsugawa)
+- unclassified(#unclassified)
 
 ----------
-## Updates
-
 ## link
 
 https://github.com/haruosuz/DS4GD/tree/master/2018
@@ -24,9 +23,6 @@ https://github.com/haruosuz/statistics/blob/master/README.md
 https://github.com/haruosuz/microbe
 https://github.com/haruosuz/microbe/blob/master/README.md
 
-https://www.sfc.keio.ac.jp/gsmg/about/faculty/
-教員 | 慶應義塾大学大学院政策・メディア研究科
-
 https://twitter.com/endBooks
 科学に佇む読書心 (@endBooks) | Twitter
 
@@ -34,14 +30,30 @@ https://twitter.com/bluebacks_pub
 講談社ブルーバックス (@bluebacks_pub) | Twitter
 
 
+https://twitter.com/bilderberg54
+https://twitter.com/yoniumuhibi
+
 ----------
 
-## 2018-05
+https://techplay.jp
+TECH PLAY［テックプレイ］ - IT勉強会・セミナーなどのイベント情報検索サービス
+
+https://europepmc.org
+Europe PMC
+
+----------
+## Updates
 
 https://www.iibc-global.org/toeic/test/lr/guide01.html
 テスト日程・申込｜TOEIC Listening & Reading Test｜TOEIC Program｜IIBC
-第230回 2018年5月20日(日)実施
-申込受付期間 2018年3月2日(金) 10:00 ～ 2018年4月3日(火) 15:00 締切
+
+## 2018
+
+http://robertcampbell.jp/blog/2018/04/30.html
+平成30年度　東京大学入学式　来賓祝辞 - BLOG｜ロバート キャンベル公式サイト｜Robert Campbell Official Web Site
+
+https://haremashita.hatenablog.com/entry/2018/03/19/220842
+Critical Analysis（批評分析小論文） - 自分を改善したい人のブログ
 
 ## 2018-03
 
@@ -61,38 +73,18 @@ Jean Monlong on Twitter: "Time between manuscript reception to acceptance/public
 https://ichiro-maruta.blogspot.jp/2018/02/arxiv.html
 英語論文執筆のために arXiv からの例文検索サービスを作った話 - Ichiro Maruta Homepage
 
-
-
-----------
-
-## 2018-01
-
-
-https://sites.google.com/site/museumbioinfo/meetings/20180125
-第08回研究会 2018/01/25 - Japan Museum Bioinformatics (Museomics) Working Group
-https://twitter.com/hashtag/museomejp
-
-2018年1月24日
-https://www.natureasia.com/ja-jp/scientificdata/pr-highlights/12340
-導入種と侵入種の国際登録制度
-
 ----------
 
 ## 2017
+
+2017/05/07 2017/12/22
+http://k-nakashima.net/blog-list/
+トレーナーがチェックしておきたい科学的根拠に基づいたブログおすすめ10選
 
 https://twitter.com/hashtag/ラボハック
 
 https://twitter.com/okunokaruta/status/922731395394371584
 奥野かるた店 on Twitter: "【新商品　感染症カルタ　12月上旬発売】予約受付開始しました。エボラ出血熱、アタマジラミ、黄熱病、ポリオ、狂犬病、サルモネラ、エキノコックス、はしか、結核、猫ひっかき病など…感染症の秘密がわかるカルタ！！詳しくは、こちらのブログから https://t.co/UoDZcNcU48 #jugem_blog… https://t.co/1BKZ6XQsp6"
-
-----------
-
-[[PDF]2017年度 秋学期授業カレンダー](https://www.sfc.keio.ac.jp/doc/2017f_calendar_170228.pdf)
-
-https://ja.wikipedia.org/wiki/名古屋議定書
-
-http://yutori-datascience.hatenablog.com/entry/2018/01/09/181821
-業務メール書き方チートシート - tkm2261's blog
 
 ----------
 
@@ -135,13 +127,17 @@ Phys. Rev. E 96, 032410 (2017) - Theoretical microbial ecology without species
 
 # 2017-06
 
-https://twitter.com/hashtag/TokyoR?src=hash
-
 http://www.virologyhighlights.com/from-design-of-a-genome-sequence-to-generation-of-a-synthetic-virus/?sf90553347=1
 From design of a genome sequence to generation of a synthetic virus
 - Our basic idea was to design and construct a virus of defined genome sequence, chosen as a consensus, possibly ancestral sequence. 
 
 ----------
+
+# 2015
+
+https://www.slideshare.net/kdmsnr/writing-a-paper-seven-suggestions
+優れた研究論文の書き方―7つの提案
+Published on Oct 31, 2015
 
 # 2014
 
@@ -155,24 +151,6 @@ http://sciencebook.blog110.fc2.com/blog-entry-2149.html
 ## 
 
 
-2017/05/07 2017/12/22
-http://k-nakashima.net/blog-list/
-トレーナーがチェックしておきたい科学的根拠に基づいたブログおすすめ10選
-
-https://haremashita.hatenablog.com/entry/2018/03/19/220842
-Critical Analysis（批評分析小論文） - 自分を改善したい人のブログ
-
-https://www.slideshare.net/kdmsnr/writing-a-paper-seven-suggestions
-優れた研究論文の書き方―7つの提案
-Published on Oct 31, 2015
-
-https://twitter.com/bilderberg54
-https://twitter.com/yoniumuhibi
-
-http://robertcampbell.jp/blog/2018/04/30.html
-平成30年度　東京大学入学式　来賓祝辞 - BLOG｜ロバート キャンベル公式サイト｜Robert Campbell Official Web Site
-
-
 http://d.hatena.ne.jp/sakstyle/20180325/p1
 三中信宏『思考の体系学』 - logical cypher scape
 
@@ -184,65 +162,6 @@ http://on-sociology.blogspot.jp/2018/03/blog-post_17.html
 
 http://takehiko-i-hayashi.hatenablog.com/entry/2017/03/13/050959
 統数研での講演『バックドア基準入門』をアプします - Take a Risk：林岳彦の研究メモ
-
-----------
-
-https://ja.wikipedia.org/wiki/カルバック・ライブラー情報量
-
-https://techplay.jp
-TECH PLAY［テックプレイ］ - IT勉強会・セミナーなどのイベント情報検索サービス
-
-https://europepmc.org
-Europe PMC
-
-----------
-
-## leeswijzer
-MINAKA Nobuhiro
-
-https://twitter.com/leeswijzer
-
-http://leeswijzer.hatenablog.com/entry/2016/09/10/102132
-「種問題」ははてしなく続く - archief voor stambomen
-
-[taxa:3310] 【新刊】「立ち読み」どうぞ→三中信宏『系統体系学の世界』勁草書房
-【コンパニオンサイト】http://leeswijzer.org/files/SystematicPhilosophy.html
-の「まえがき」（6pp.）と「あとがき」（8pp.）が〈けいそうビブリオ〉の「あとがきたちよみ」コーナーで公開されました：
-http://keisobiblio.com/2018/04/24/atogakitachiyomi_keitotaikeigaku/ [html]
-http://keisobiblio.com/wp/wp-content/uploads/2018/04/keitotaikeigaku_tachiyomi.pdf
-[pdf]
-
-## yusuke_tsugawa
-https://twitter.com/yusuke_tsugawa
-
-https://twitter.com/hashtag/究極の食事
-
-2018-04
-https://togetter.com/li/1222611
-世界一シンプルで科学的に証明された究極の食事について - Togetter
-
-https://toyokeizai.net/articles/-/217690
-医学的に｢健康に良い食べ物｣は5つしかない | 健康 | 東洋経済オンライン | 経済ニュースの新基準
-
-https://healthpolicyhealthecon.com/2018/03/22/the-best-diet/
-「世界一シンプルで科学的に証明された究極の食事」 – 医療政策学×医療経済学
-
-https://twitter.com/yusuke_tsugawa/status/984596474603323392
-津川友介 on Twitter: "皆様が大好きな「白米」に関して、1日何杯までだったら健康に悪くないのか、記事を書きました。ご一読頂けると幸いです。 #究極の食事 最先端の医学では｢白米は体に悪い｣が常識だ UCLA医学部助教授が教える｢不都合な真実｣ | 健康 - 東洋経済オンライン https://t.co/JffPxS2HZB @Toyokeizai"
-https://toyokeizai.net/articles/-/215982
-最先端の医学では｢白米は体に悪い｣が常識だ | 健康 | 東洋経済オンライン | 経済ニュースの新基準
-
-https://healthpolicyhealthecon.com/2017/12/02/causal-inference-book/
-『「原因と結果」の経済学』の無料公開！ – 医療政策学×医療経済学
-
-2017/9/25
-http://medical.nikkeibp.co.jp/leaf/all/cadetto/tuusin/201709/552936.html
-津川友介（UCLA医療政策学者）×山本雄士（ミナケア社長）
-社会的インパクトのある研究テーマの見つけ方
-
-2018.03.29
-http://college.nikkei.co.jp/article/112272017.html
-人生を経済学で考えよう（14）　小テストを行うなら、授業の前か後か｜慶應大学 中室牧子ゼミ｜日経カレッジカフェ | 大学生のためのキャリア支援メディア
 
 ----------
 
@@ -292,16 +211,75 @@ http://d.hatena.ne.jp/shorebird/20130811
 http://orangestar.hatenadiary.jp/entry/2016/01/22/073000
 イラストでわかる『銃・病原菌・鉄』 - orangestarの雑記
 
+----------
+
+## people
+
+## leeswijzer
+MINAKA Nobuhiro
+
+https://twitter.com/leeswijzer
+
+http://leeswijzer.hatenablog.com/entry/2016/09/10/102132
+「種問題」ははてしなく続く - archief voor stambomen
+
+[taxa:3310] 【新刊】「立ち読み」どうぞ→三中信宏『系統体系学の世界』勁草書房
+【コンパニオンサイト】http://leeswijzer.org/files/SystematicPhilosophy.html
+の「まえがき」（6pp.）と「あとがき」（8pp.）が〈けいそうビブリオ〉の「あとがきたちよみ」コーナーで公開されました：
+http://keisobiblio.com/2018/04/24/atogakitachiyomi_keitotaikeigaku/ [html]
+http://keisobiblio.com/wp/wp-content/uploads/2018/04/keitotaikeigaku_tachiyomi.pdf
+[pdf]
+
+## yusuke_tsugawa
+https://twitter.com/yusuke_tsugawa
+
+https://twitter.com/hashtag/究極の食事
+
+2018-04
+https://togetter.com/li/1222611
+世界一シンプルで科学的に証明された究極の食事について - Togetter
+
+https://i-voce.jp/feed/9330/
+医学的に｢健康に良い食べ物｣は5つしかない【正しい健康情報の読み解き方】｜東洋経済オンライン
+
+https://healthpolicyhealthecon.com/2018/03/22/the-best-diet/
+「世界一シンプルで科学的に証明された究極の食事」 – 医療政策学×医療経済学
+
+https://healthpolicyhealthecon.com/2017/12/02/causal-inference-book/
+『「原因と結果」の経済学』の無料公開！ – 医療政策学×医療経済学
+
+2017/9/25
+http://medical.nikkeibp.co.jp/leaf/all/cadetto/tuusin/201709/552936.html
+津川友介（UCLA医療政策学者）×山本雄士（ミナケア社長）
+社会的インパクトのある研究テーマの見つけ方
+
+2018.03.29
+http://college.nikkei.co.jp/article/112272017.html
+人生を経済学で考えよう（14）　小テストを行うなら、授業の前か後か｜慶應大学 中室牧子ゼミ｜日経カレッジカフェ | 大学生のためのキャリア支援メディア
+
+----------
+
+## unclassified
+
+
+[[PDF]2017年度 秋学期授業カレンダー](https://www.sfc.keio.ac.jp/doc/2017f_calendar_170228.pdf)
+
+https://www.sfc.keio.ac.jp/gsmg/about/faculty/
+教員 | 慶應義塾大学大学院政策・メディア研究科
 
 
 ----------
 
+https://ja.wikipedia.org/wiki/カルバック・ライブラー情報量
 
+https://ja.wikipedia.org/wiki/名古屋議定書
 
+http://yutori-datascience.hatenablog.com/entry/2018/01/09/181821
+業務メール書き方チートシート - tkm2261's blog
 
+----------
 
-
-
+https://ja.wikipedia.org/wiki/グラニースミス
 
 ----------
 
@@ -513,8 +491,10 @@ Using Mahalanobis distance to compare genomic signatures between bacterial plasm
 
 We tested the robustness of our result that Mahalanobis distance performs better than the conventional δ-distance by varying chromosomal segment size, word size (e.g. tri- and tetra-nucleotides) (12,29,37) and composition of the host data set. Campbell et al. (11) and Wong et al. (20) used 50-kb chromosomal segments, while van Passel et al. (25) used plasmid-size chromosomal segments; that is, the segment size was not fixed but depended on the plasmid size. In the present study, we used a fixed segment size. We found that our results remained similar when partitioning chromosomal sequences into different sizes of segments; e.g. 2, 5, 10 and 20 kb in length (data not shown). Among these, 5 kb was selected because the median rank of the genomic signature similarities between plasmids and their known hosts was maximized. The results were also consistent with those obtained when using relative abundances of different word sizes (data not shown). We also demonstrated that our results were robust to the composition of the host data set by testing different subsets of bacteria, e.g. Proteobacteria, Firmicutes, Gram-positive bacteria, Gram-negative bacteria and also when only one representative was randomly selected in the case of species for which multiple strains have been sequenced (data not shown). Thus, Mahalanobis distance performed better than δ-distance in identifying plasmid hosts based on genomic signature similarity, regardless of the datasets used.
 
+
+
 ----------
 
-https://ja.wikipedia.org/wiki/グラニースミス
+
 
 
