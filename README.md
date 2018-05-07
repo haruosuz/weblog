@@ -32,7 +32,6 @@ https://twitter.com/endBooks
 https://twitter.com/bluebacks_pub
 講談社ブルーバックス (@bluebacks_pub) | Twitter
 
-
 https://twitter.com/bilderberg54
 https://twitter.com/yoniumuhibi
 
@@ -51,6 +50,10 @@ https://www.iibc-global.org/toeic/test/lr/guide01.html
 ## Updates
 
 ## 2018
+
+2018-05-07
+https://ksmzn.hatenablog.com/entry/Wonderful-R-03
+『再現可能性のすゝめ ―RStudioによるデータ解析とレポート作成― 』を読みました
 
 https://twitter.com/toukei_kentei/status/993274434306756608
 統計検定 on Twitter: "平成30年6月17日 統計検定試験 もうすぐ締め切りです！ 受験のお申し込みはお早めに！ 一般会場個人受験（個人申込） ・WEB申込　5月11日（金）15時00分 ・郵送申込　5月11 日（金）必着 https://t.co/caIGEUx6Ij https://t.co/caIGEUx6Ij"
