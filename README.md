@@ -239,7 +239,7 @@ https://twitter.com/hashtag/究極の食事
 https://togetter.com/li/1222611
 世界一シンプルで科学的に証明された究極の食事について - Togetter
 
-https://i-voce.jp/feed/9330/
+https://i-voce.jp/feed/9567/
 医学的に｢健康に良い食べ物｣は5つしかない【正しい健康情報の読み解き方】｜東洋経済オンライン
 
 https://healthpolicyhealthecon.com/2018/03/22/the-best-diet/
