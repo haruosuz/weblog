@@ -26,28 +26,46 @@ https://github.com/haruosuz/statistics/blob/master/README.md
 https://github.com/haruosuz/microbe
 https://github.com/haruosuz/microbe/blob/master/README.md
 
+----------
+
+https://twitter.com/bilderberg54
+https://twitter.com/yoniumuhibi
+
 https://twitter.com/endBooks
 科学に佇む読書心 (@endBooks) | Twitter
 
 https://twitter.com/bluebacks_pub
 講談社ブルーバックス (@bluebacks_pub) | Twitter
 
-https://twitter.com/bilderberg54
-https://twitter.com/yoniumuhibi
-
-----------
+https://techplay.jp
+TECH PLAY［テックプレイ］ - IT勉強会・セミナーなどのイベント情報検索サービス
 
 https://europepmc.org
 Europe PMC
-
-https://techplay.jp
-TECH PLAY［テックプレイ］ - IT勉強会・セミナーなどのイベント情報検索サービス
 
 https://www.iibc-global.org/toeic/test/lr/guide01.html
 テスト日程・申込｜TOEIC Listening & Reading Test｜TOEIC Program｜IIBC
 
 ----------
 ## Updates
+
+https://blog.kaerucloud.com/entry/ssdhdd
+MacBook(Air)のデザインにマッチする外付け＜SSD・HDD＞ 9選！！オシャレでオススメです！
+
+2018.05.17
+https://nabi1080.net/mac/mac-tips/65537/
+TimeMachineを使う場合、1つの外付けHDDで2台のMacのバックアップが取れるんです！ | 部長ナビのブログ
+
+2018.04.03
+http://utsusapuri.com/mac-timemachine-hdd/
+MacのTime Machineですぐに使える外付けHDDのオススメを網羅した | ヒラノート
+
+https://estpolis.com/2017/02/34783.html
+MacのTime Machineバックアップにおすすめのハードディスクは？ロジテック製USB3.0 HDD使用レポート | アナザーディメンション
+2016年4月に購入した12インチMacBook
+
+http://sims-lab.com/archives/171023-macbook12.html
+MacBook 12インチのTimeMachineトラブルと解決方法 | SIMS LAB
 
 ## 2018
 
