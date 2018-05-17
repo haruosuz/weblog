@@ -106,6 +106,10 @@ http://www.c.u-tokyo.ac.jp/info/about/history/dean/2013-2015/h27.3.25ishii.html
 
 ----------
 
+2012年01月10日
+http://blog.livedoor.jp/midwhite/archives/5069921.html
+意識の高い学士ブログ : 僕がSFCを嫌う理由
+
 ----------
 
 ## people
@@ -114,6 +118,9 @@ http://www.c.u-tokyo.ac.jp/info/about/history/dean/2013-2015/h27.3.25ishii.html
 MINAKA Nobuhiro
 
 https://twitter.com/leeswijzer
+
+https://note.mu/leeswijzer/n/ne827077ad556
+姉妹本3冊を書き終えて｜leeswijzer｜note
 
 http://leeswijzer.hatenablog.com/entry/2016/09/10/102132
 「種問題」ははてしなく続く - archief voor stambomen
@@ -129,6 +136,12 @@ http://keisobiblio.com/wp/wp-content/uploads/2018/04/keitotaikeigaku_tachiyomi.p
 https://twitter.com/yusuke_tsugawa
 
 https://twitter.com/hashtag/究極の食事
+
+http://minato.sip21c.org/bulbul2/20180507.html
+【第1828回】 GW明け初日から講義で，津川友介『世界一シンプルで科学的に証明された究極の食事』を勧めたが鵜呑みはせず批判的に読むことが大事（2018年5月7日）
+http://minato.sip21c.org/bulbul2/20180506.html
+牧田善二『医者が教える食事術　最強の教科書：20万人を診てわかった医学的に正しい食べ方68』
+津川友介『世界一シンプルで科学的に証明された究極の食事』
 
 2018-04
 https://togetter.com/li/1222611
@@ -173,6 +186,7 @@ https://sfcclip.net/2009/07/838/
 ----------
 
 ## unclassified
+
 
 https://twitter.com/hashtag/みんなのお薦め学術本晒そうぜ
 
