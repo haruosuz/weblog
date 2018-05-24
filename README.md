@@ -49,24 +49,6 @@ https://www.iibc-global.org/toeic/test/lr/guide01.html
 ----------
 ## Updates
 
-https://blog.kaerucloud.com/entry/ssdhdd
-MacBook(Air)のデザインにマッチする外付け＜SSD・HDD＞ 9選！！オシャレでオススメです！
-
-2018.05.17
-https://nabi1080.net/mac/mac-tips/65537/
-TimeMachineを使う場合、1つの外付けHDDで2台のMacのバックアップが取れるんです！ | 部長ナビのブログ
-
-2018.04.03
-http://utsusapuri.com/mac-timemachine-hdd/
-MacのTime Machineですぐに使える外付けHDDのオススメを網羅した | ヒラノート
-
-https://estpolis.com/2017/02/34783.html
-MacのTime Machineバックアップにおすすめのハードディスクは？ロジテック製USB3.0 HDD使用レポート | アナザーディメンション
-2016年4月に購入した12インチMacBook
-
-http://sims-lab.com/archives/171023-macbook12.html
-MacBook 12インチのTimeMachineトラブルと解決方法 | SIMS LAB
-
 ## 2018
 
 2018-05-07
@@ -154,6 +136,10 @@ http://keisobiblio.com/wp/wp-content/uploads/2018/04/keitotaikeigaku_tachiyomi.p
 https://twitter.com/yusuke_tsugawa
 
 https://twitter.com/hashtag/究極の食事
+
+2018年5月18日
+http://minato.sip21c.org/bookreview/evidence-based-diet.html
+書評：津川友介『世界一シンプルで科学的に証明された究極の食事』東洋経済新報社
 
 http://minato.sip21c.org/bulbul2/20180507.html
 【第1828回】 GW明け初日から講義で，津川友介『世界一シンプルで科学的に証明された究極の食事』を勧めたが鵜呑みはせず批判的に読むことが大事（2018年5月7日）
