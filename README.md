@@ -51,6 +51,10 @@ https://www.iibc-global.org/toeic/test/lr/guide01.html
 
 ## 2018
 
+http://id.fnshr.info/2018/05/25/toriaezu/
+とりあえずビール、とりあえず分散分析｜Colorless Green Ideas
+
+
 2018-05-07
 https://ksmzn.hatenablog.com/entry/Wonderful-R-03
 『再現可能性のすゝめ ―RStudioによるデータ解析とレポート作成― 』を読みました
