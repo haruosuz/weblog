@@ -51,8 +51,9 @@ https://www.iibc-global.org/toeic/test/lr/guide01.html
 
 ## 2018
 
-http://id.fnshr.info/2018/05/25/toriaezu/
-とりあえずビール、とりあえず分散分析｜Colorless Green Ideas
+2018-05-24
+http://www.wynned.com/entry/aum-nakagawa-paper
+オウム死刑囚が執筆した論文をレビューする
 
 
 2018-05-07
