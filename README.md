@@ -28,6 +28,7 @@ https://github.com/haruosuz/microbe/blob/master/README.md
 
 ----------
 
+https://twitter.com/Tyu_Shi
 https://twitter.com/bilderberg54
 https://twitter.com/yoniumuhibi
 
@@ -47,6 +48,15 @@ https://www.iibc-global.org/toeic/test/lr/guide01.html
 テスト日程・申込｜TOEIC Listening & Reading Test｜TOEIC Program｜IIBC
 
 ----------
+
+https://twitter.com/i/moments/1000738412117147648
+All metagenomes searched at once?
+
+https://twitter.com/merenbey/status/1001592427369648128
+A. Murat Eren (Meren) on Twitter: "K-mers aren't reads, reads aren't genes, genes aren't genomes, & genomes you get from metagenomes are often nothing but consensus sequences of large population of cells heterogeneity of which is defined by the heuristics of your assembler of which you likely know next to nothing.… https://t.co/gCVybgHCQH"
+6:33 PM - 29 May 2018
+
+----------
 ## Updates
 
 ## 2018
@@ -55,14 +65,13 @@ https://www.iibc-global.org/toeic/test/lr/guide01.html
 http://www.wynned.com/entry/aum-nakagawa-paper
 オウム死刑囚が執筆した論文をレビューする
 
+2018年5月23日
+https://www.editage.jp/insights/the-secret-to-using-tenses-in-scientific-writing
+科学論文における時制の使い分け | Editage Insights
 
 2018-05-07
 https://ksmzn.hatenablog.com/entry/Wonderful-R-03
 『再現可能性のすゝめ ―RStudioによるデータ解析とレポート作成― 』を読みました
-
-https://twitter.com/toukei_kentei/status/993274434306756608
-統計検定 on Twitter: "平成30年6月17日 統計検定試験 もうすぐ締め切りです！ 受験のお申し込みはお早めに！ 一般会場個人受験（個人申込） ・WEB申込　5月11日（金）15時00分 ・郵送申込　5月11 日（金）必着 https://t.co/caIGEUx6Ij https://t.co/caIGEUx6Ij"
-7:40 PM - 6 May 2018
 
 http://robertcampbell.jp/blog/2018/04/30.html
 平成30年度　東京大学入学式　来賓祝辞 - BLOG｜ロバート キャンベル公式サイト｜Robert Campbell Official Web Site
