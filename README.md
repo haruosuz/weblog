@@ -7,7 +7,7 @@ Last Update: 2018-05-06
 
 ## Table of Contents
 - [link](#link)
-- [Updates](#updates)
+- [updates](#updates)
   - [2018](#2018)
   - [2017](#2017)
   - [2016](#2016)
@@ -52,14 +52,21 @@ https://www.iibc-global.org/toeic/test/lr/guide01.html
 https://twitter.com/i/moments/1000738412117147648
 All metagenomes searched at once?
 
+----------
+## updates
+
+## 2018
+
+https://twitter.com/u_ribo/status/1001779864377016321
+Uryu Shinya on Twitter: "私は応用の話だったのですが、これまでにまとめられた資料の中でも特に @monotropastrum さんの「ggplot2をつかってみる」 https://t.co/0HPk4PiEC5 と @yutannihilation さんの「ggplot2再入門」 https://t.co/BnasXqIwJp が守備範囲が広く、また大事な部分をしっかりと抑えている印象でした。"
+6:58 AM - 30 May 2018
+
+https://speakerdeck.com/yutannihilation/ggplot2zai-ru-men
+ggplot2再入門 // Speaker Deck
+
 https://twitter.com/merenbey/status/1001592427369648128
 A. Murat Eren (Meren) on Twitter: "K-mers aren't reads, reads aren't genes, genes aren't genomes, & genomes you get from metagenomes are often nothing but consensus sequences of large population of cells heterogeneity of which is defined by the heuristics of your assembler of which you likely know next to nothing.… https://t.co/gCVybgHCQH"
 6:33 PM - 29 May 2018
-
-----------
-## Updates
-
-## 2018
 
 2018-05-24
 http://www.wynned.com/entry/aum-nakagawa-paper
