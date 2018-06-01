@@ -52,17 +52,33 @@ https://www.iibc-global.org/toeic/test/lr/guide01.html
 https://twitter.com/i/moments/1000738412117147648
 All metagenomes searched at once?
 
+https://speakerdeck.com/yutannihilation/ggplot2zai-ru-men
+ggplot2再入門 // Speaker Deck
+
 ----------
 ## updates
 
 ## 2018
 
+http://www.saitou-naruya-laboratory.org/meetings/NJ50000_jpn.html
+斎藤・根井(1987)近隣結合法論文の引用件数５万件越えを祝う特別シンポジウム
+日程: 科学紀元１８年（西暦2018年）６月２日（土）
+会場：国立遺伝学研究所　講堂
+
+https://twitter.com/leeswijzer/status/1001711785605500928
+MINAKA Nobuhiro on Twitter: "［つくば］今週末，三島の遺伝研で開催される近隣結合法祝賀シンポジウム https://t.co/9cRvABvrzY の紙芝居をひねっているなう．"
+2:27 AM - 30 May 2018
+
+https://twitter.com/Saitou_Sayer/status/980781894135463936
+斎藤成也 on Twitter: "ちょうど２ヶ月後の今日、６月２日（土）に、静岡県三島市にある国立遺伝学研究所にて、Saitou & Nei (1987) 近隣結合法論文がGoogle Scholar Citations５万突破したのを記念する特別シンポジウムを開催します。 HP=https://t.co/oFsVXUXfDt ジコチューですみません！　２０名が英語で講演します。"
+
 https://twitter.com/u_ribo/status/1001779864377016321
 Uryu Shinya on Twitter: "私は応用の話だったのですが、これまでにまとめられた資料の中でも特に @monotropastrum さんの「ggplot2をつかってみる」 https://t.co/0HPk4PiEC5 と @yutannihilation さんの「ggplot2再入門」 https://t.co/BnasXqIwJp が守備範囲が広く、また大事な部分をしっかりと抑えている印象でした。"
 6:58 AM - 30 May 2018
 
-https://speakerdeck.com/yutannihilation/ggplot2zai-ru-men
-ggplot2再入門 // Speaker Deck
+https://twitter.com/u_ribo/status/1001772130378235904
+Uryu Shinya on Twitter: "本日、某所で行なわれた会での発表（できなかった）資料を公開しました！ 📊「痒い所に手が届く、ggplot2作図の技」🎨ということでtidyverseとの合わせ技や流行りのパッケージを紹介しています（画像は作図の一例です）⚡️ https://t.co/WOrrn3HMwO … https://t.co/xB249P9ZN3… https://t.co/1yN5pHbGwo"
+6:27 AM - 30 May 2018
 
 https://twitter.com/merenbey/status/1001592427369648128
 A. Murat Eren (Meren) on Twitter: "K-mers aren't reads, reads aren't genes, genes aren't genomes, & genomes you get from metagenomes are often nothing but consensus sequences of large population of cells heterogeneity of which is defined by the heuristics of your assembler of which you likely know next to nothing.… https://t.co/gCVybgHCQH"
