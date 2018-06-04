@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2018-05-06
+Last Update: 2018-06-04
 
 ----------
 
@@ -15,6 +15,9 @@ Last Update: 2018-05-06
   - [leeswijzer](#leeswijzer) MINAKA Nobuhiro
   - [yusuke_tsugawa](#yusuke_tsugawa)
 - [unclassified](#unclassified)
+- [sfc](#sfc)
+- [robust](#robust)
+
 
 ----------
 ## link
@@ -335,6 +338,43 @@ We tested the robustness of our result that Mahalanobis distance performs better
 
 
 ----------
+
+https://ja.wikipedia.org/wiki/DPP-4
+DPP-4（Dipeptidyl Peptidase-4、EC3.4.14.5）とは腸管ホルモンであるインクレチンの不活化を行う酵素（セリンプロテアーゼ）であり、細胞膜上をはじめ可溶性タンパク質として血液中にも存在している。
+
+https://www.natureasia.com/ja-jp/nature/555/7698/
+https://www.natureasia.com/secure/ja-jp/ealert-sample/html-nature-ja-jp
+
+肥満状態で肝細胞が分泌するDPP4は脂肪組織の炎症とインスリン抵抗性を促進する
+Hepatocyte-secreted DPP4 in obesity promotes adipose inflammation and insulin resistance 
+
+https://www.natureasia.com/ja-jp/nature/555/7698/nature26138/肥満状態で肝細胞が分泌するDPP4は脂肪組織の炎症とインスリン抵抗性を促進する
+
+代謝学：肥満状態で肝細胞が分泌するDPP4は脂肪組織の炎症とインスリン抵抗性を促進する
+
+Nature 555, 7698 |  Published: 2018年3月21日 |  doi: 10.1038/nature26138
+
+肥満によって生じる代謝疾患には、複数の臓器の循環性因子による機能的一体化が関わっているが、肝臓と内臓脂肪組織（VAT）とのクロストークについてはほとんど知られていない。肥満の場合、VATには炎症性脂肪組織マクロファージ（ATM）が浸潤する。肥満したヒトでは、脂肪組織の炎症とインスリン抵抗性の間に密接な相関関係が見られ、肥満マウスでは全身性の炎症やATMの炎症を抑えるとインスリン感受性が改善する。しかし、肥満の際に脂肪組織の病的炎症を促進する過程は、十分解明されていない。今回我々は、マウスの肥満は肝細胞を刺激してジペプチジルペプチダーゼ4（DPP4）を合成、分泌させ、これが血漿中の第Xa因子と作用してATMに炎症を起こさせることを明らかにする。肝細胞でのDPP4発現を抑制すると、VATの炎症とインスリン抵抗性が抑えられる。しかし、DPP4阻害剤のシタグリプチンを経口投与しても、同様な影響は見られない。炎症とインスリン抵抗性は、ATMでのカベオリン1やPAR2の発現抑制によっても抑えられる。カベオリン1はDPP4の、PAR2は第Xa因子の作用をそれぞれ仲介する。従って、肥満の際には肝細胞が産生するDPP4がVATの炎症とインスリン抵抗性を促進している。この経路を標的にすれば、DPP4阻害剤の経口投与で観察されるのとは別の代謝的に有益な影響が見られるかもしれない。
+
+
+----------
+
+2018年5月15日　担当：藤井　博司
+
+Manfredo Viera et.al., Science 359, 1156-1161 (2018)
+
+Translocation of a gut pathobiont drives autoimmunity in mice and humans.
+
+担当者コメント
+
+ヒトの体内には多くの共生細菌叢が存在する。中でも腸内細菌叢はその代謝産物と栄養を宿主とお互いに依存しており、必須である。また、腸管粘膜における腸内細菌叢による免疫反応は局所だけでなく全身の免疫反応に影響を与えており、自己免疫疾患の病態に寄与しているとも考えられている。近年、粘膜層においてのみならず、腸間膜リンパ節に存在する（translocateを起こした）細菌がIL-10を誘導し、正常の状態において全身の免疫反応を調節しているという報告がされた。本研究では、自己免疫疾患発症におけるbacterial translocationの役割を検証した。ループスモデルマウスである(NZW x BXSB)F1マウスを抗生剤（バンコマイシンなど）で治療することにより、血清中の自己抗体価が低下し生存率も有意に延長した。これらのマウスの腸間膜リンパ節、肝臓にはグラム陽性球菌であるEntelococcus gallinariumのtranslocationが認められた。E.gallinariumをC57BL/6に単独共生させることにより、腸管におけるtight junctionに関連する分子の発現低下、Aryl hydrogen receptorに関連する分子の発現上昇、plasmacytoid DC、血清自己抗体、Th17の上昇などが認められ、(NZW x BXSB)F1マウスにE.gallinariumのワクチン投与することにより、自己抗体が減少し、生存率も延長した。ヒトSLE、自己免疫性肝炎患者の肝臓内にもE.gallinariumがtranslocateしており、E.gallinariumの菌体/RNAによりヒト肝細胞にAhRなどの誘導も認められた。これらのことから、特定の細菌の周辺リンパ組織、肝臓へのtranslocationが遺伝的素因のある宿主において自己免疫疾患を引き起こす可能性が示唆された。
+
+
+----------
+
+
+----------
+
 
 
 
