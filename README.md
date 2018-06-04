@@ -339,6 +339,22 @@ We tested the robustness of our result that Mahalanobis distance performs better
 
 ----------
 
+http://lafrenze.hatenablog.com/entry/2015/08/04/120205
+高速で論文がバリバリ読める落合先生のフォーマットがいい感じだったのでメモ - 書架とラフレンツェ
+
+http://okatenari.com/2017/06/02/post-595/
+英語論文の読み方のコツはこれ！メーカーで研究職の僕が実践している方法 | 本日はおかてんなり
+
+https://rabotiku-sato.com/entry/2016/11/29/020928/
+【５分でわかる！】研究室での英語論文の読み方のコツ | ラボライブ！
+
+20150616
+http://hikaru1122.hatenadiary.jp/entry/ronbun-no-yomikata
+効率的な論文の読み方とは？　論文の読み方を知るための論文 - Knowledge As Practice
+
+
+----------
+
 https://ja.wikipedia.org/wiki/DPP-4
 DPP-4（Dipeptidyl Peptidase-4、EC3.4.14.5）とは腸管ホルモンであるインクレチンの不活化を行う酵素（セリンプロテアーゼ）であり、細胞膜上をはじめ可溶性タンパク質として血液中にも存在している。
 
