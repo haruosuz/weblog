@@ -342,6 +342,8 @@ We tested the robustness of our result that Mahalanobis distance performs better
 https://ja.wikipedia.org/wiki/DPP-4
 DPP-4（Dipeptidyl Peptidase-4、EC3.4.14.5）とは腸管ホルモンであるインクレチンの不活化を行う酵素（セリンプロテアーゼ）であり、細胞膜上をはじめ可溶性タンパク質として血液中にも存在している。
 
+https://www.ncbi.nlm.nih.gov/pubmed/29562231
+
 https://www.natureasia.com/ja-jp/nature/555/7698/
 https://www.natureasia.com/secure/ja-jp/ealert-sample/html-nature-ja-jp
 
@@ -358,6 +360,10 @@ Nature 555, 7698 |  Published: 2018年3月21日 |  doi: 10.1038/nature26138
 
 
 ----------
+
+https://www.ncbi.nlm.nih.gov/pubmed/29590047
+
+http://www.rh.med.tohoku.ac.jp/class/journal-club.html
 
 2018年5月15日　担当：藤井　博司
 
