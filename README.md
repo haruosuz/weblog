@@ -360,41 +360,6 @@ https://rabotiku-sato.com/entry/2016/11/29/020928/
 http://hikaru1122.hatenadiary.jp/entry/ronbun-no-yomikata
 効率的な論文の読み方とは？　論文の読み方を知るための論文 - Knowledge As Practice
 
-
-----------
-
-https://www.ncbi.nlm.nih.gov/pubmed/29562231
-
-https://www.natureasia.com/ja-jp/nature/555/7698/
-https://www.natureasia.com/secure/ja-jp/ealert-sample/html-nature-ja-jp
-
-肥満状態で肝細胞が分泌するDPP4は脂肪組織の炎症とインスリン抵抗性を促進する
-Hepatocyte-secreted DPP4 in obesity promotes adipose inflammation and insulin resistance 
-
-https://www.natureasia.com/ja-jp/nature/555/7698/nature26138/肥満状態で肝細胞が分泌するDPP4は脂肪組織の炎症とインスリン抵抗性を促進する
-
-https://ja.wikipedia.org/wiki/DPP-4
-DPP-4（Dipeptidyl Peptidase-4、EC3.4.14.5）とは腸管ホルモンであるインクレチンの不活化を行う酵素（セリンプロテアーゼ）であり、細胞膜上をはじめ可溶性タンパク質として血液中にも存在している。
-
-
-----------
-
-https://www.ncbi.nlm.nih.gov/pubmed/29590047
-
-http://www.rh.med.tohoku.ac.jp/class/journal-club.html
-
-2018年5月15日　担当：藤井　博司
-
-Manfredo Viera et.al., Science 359, 1156-1161 (2018)
-
-Translocation of a gut pathobiont drives autoimmunity in mice and humans.
-
-----------
-
-https://togetter.com/li/1233837
-「退職して博士課程に行く」名誉のためか？甘えか？批判の声もあるけど「学問が好きだから」ではだめなのか？ - Togetter
-
-
 ----------
 
 
