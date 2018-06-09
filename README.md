@@ -155,6 +155,34 @@ https://twitter.com/leeswijzer
 https://note.mu/leeswijzer/n/ne827077ad556
 姉妹本3冊を書き終えて｜leeswijzer｜note
 
+http://cse.naro.affrc.go.jp/minaka/cladist/cladist-top.html
+結界〈Ｔ〉の一里塚 —— 彷徨する系統樹思考者のために
+
+2014年2月5日（水） ——
+09:30〜10:30　生物統計学概論（2）：ベイズ統計学 → YouTube
+10:40〜12:00　ベイズ法の演習 → YouTube
+
+2）2015年9月24日 → 生物体系学概論
+使用ソフトウェアの紹介とインストール
+MEGA: 距離法・最節約法・最尤法による分子系統推定ソフトウェア
+PAUP*: 最節約法・最尤法・距離法による系統推定ソフトウェア
+MrBayes: ベイズ法による分子系統推定ソフトウェア
+
+11）2015年12月17日→ ベイズ統計学
+ベイズ統計学に関する解説
+Bayesian Coin Tosser と MC Robot による Bayesian MCMC の実習
+MrBayes のインストールと説明
+
+http://cse.naro.affrc.go.jp/minaka/cladist/cladist-old.html
+三中信宏・体系学講義のハンドアウト倉庫（2003年以降）
+
+http://cse.naro.affrc.go.jp/minaka/cladist/BayesianStatistics2014.pdf
+ベイズ統計学
+̶ ベイズの定理からベイズ的推論へ ̶
+三中 信宏
+MINAKA Nobuhiro
+
+
 http://leeswijzer.hatenablog.com/entry/2016/09/10/102132
 「種問題」ははてしなく続く - archief voor stambomen
 
