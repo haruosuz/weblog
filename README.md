@@ -6,7 +6,6 @@ Last Update: 2018-06-04
 # Weblog
 
 ## Table of Contents
-- [link](#link)
 - [featuring](#featuring)
 - [updates](#updates)
   - [2018](#2018)
@@ -18,9 +17,10 @@ Last Update: 2018-06-04
 - [unclassified](#unclassified)
 - [sfc](#sfc)
 - [robust](#robust)
+- [link](#link)
 
 ----------
-## link
+## featuring
 
 https://github.com/haruosuz/DS4GD/tree/master/2018
 https://github.com/haruosuz/evolve/blob/master/README.md
@@ -29,35 +29,10 @@ https://github.com/haruosuz/statistics/blob/master/README.md
 https://github.com/haruosuz/microbe
 https://github.com/haruosuz/microbe/blob/master/README.md
 
-----------
-
 https://twitter.com/who_me
 
 http://camp.yaboten.net/entry/gojomep
 五城目キャンプ - まちに還すコミュニケーション
-
-https://twitter.com/Tyu_Shi
-https://twitter.com/bilderberg54
-https://twitter.com/yoniumuhibi
-
-https://twitter.com/endBooks
-科学に佇む読書心 (@endBooks) | Twitter
-
-https://twitter.com/bluebacks_pub
-講談社ブルーバックス (@bluebacks_pub) | Twitter
-
-https://techplay.jp
-TECH PLAY［テックプレイ］ - IT勉強会・セミナーなどのイベント情報検索サービス
-
-https://europepmc.org
-Europe PMC
-
-https://www.iibc-global.org/toeic/test/lr/guide01.html
-テスト日程・申込｜TOEIC Listening & Reading Test｜TOEIC Program｜IIBC
-
-----------
-## featuring
-
 
 https://twitter.com/i/moments/1000738412117147648
 All metagenomes searched at once?
@@ -67,7 +42,6 @@ ggplot2再入門 // Speaker Deck
 
 https://news.yahoo.co.jp/byline/nishikawashinichi/20180428-00084466/
 酵母ゲノムに刻まれた人類と発酵の歴史
-
 
 ----------
 
@@ -353,6 +327,29 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2602791/
 Using Mahalanobis distance to compare genomic signatures between bacterial plasmids and chromosomes
 
 We tested the robustness of our result that Mahalanobis distance performs better than the conventional δ-distance by varying chromosomal segment size, word size (e.g. tri- and tetra-nucleotides) (12,29,37) and composition of the host data set. Campbell et al. (11) and Wong et al. (20) used 50-kb chromosomal segments, while van Passel et al. (25) used plasmid-size chromosomal segments; that is, the segment size was not fixed but depended on the plasmid size. In the present study, we used a fixed segment size. We found that our results remained similar when partitioning chromosomal sequences into different sizes of segments; e.g. 2, 5, 10 and 20 kb in length (data not shown). Among these, 5 kb was selected because the median rank of the genomic signature similarities between plasmids and their known hosts was maximized. The results were also consistent with those obtained when using relative abundances of different word sizes (data not shown). We also demonstrated that our results were robust to the composition of the host data set by testing different subsets of bacteria, e.g. Proteobacteria, Firmicutes, Gram-positive bacteria, Gram-negative bacteria and also when only one representative was randomly selected in the case of species for which multiple strains have been sequenced (data not shown). Thus, Mahalanobis distance performed better than δ-distance in identifying plasmid hosts based on genomic signature similarity, regardless of the datasets used.
+
+
+----------
+## link
+
+https://twitter.com/Tyu_Shi
+https://twitter.com/bilderberg54
+https://twitter.com/yoniumuhibi
+
+https://twitter.com/endBooks
+科学に佇む読書心 (@endBooks) | Twitter
+
+https://twitter.com/bluebacks_pub
+講談社ブルーバックス (@bluebacks_pub) | Twitter
+
+https://techplay.jp
+TECH PLAY［テックプレイ］ - IT勉強会・セミナーなどのイベント情報検索サービス
+
+https://europepmc.org
+Europe PMC
+
+https://www.iibc-global.org/toeic/test/lr/guide01.html
+テスト日程・申込｜TOEIC Listening & Reading Test｜TOEIC Program｜IIBC
 
 
 ----------
