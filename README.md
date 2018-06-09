@@ -22,6 +22,11 @@ Last Update: 2018-06-04
 ----------
 ## featuring
 
+https://github.com/haruosuz/metasub#csd
+
+https://github.com/haruosuz/metasub/blob/master/README.md#csd
+
+
 https://github.com/haruosuz/DS4GD/tree/master/2018
 https://github.com/haruosuz/evolve/blob/master/README.md
 https://github.com/haruosuz/metasub/blob/master/README.md
