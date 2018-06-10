@@ -21,11 +21,7 @@ Last Update: 2018-06-04
 
 ----------
 ## featuring
-
-https://github.com/haruosuz/metasub#csd
-
 https://github.com/haruosuz/metasub/blob/master/README.md#csd
-
 
 https://github.com/haruosuz/DS4GD/tree/master/2018
 https://github.com/haruosuz/evolve/blob/master/README.md
@@ -54,22 +50,17 @@ https://news.yahoo.co.jp/byline/nishikawashinichi/20180428-00084466/
 
 ## 2018
 
+日本進化学会■第20回　東京大会（2018年8月22～25日予定 東京大学駒場キャンパス） http://darwin.c.u-tokyo.ac.jp/sesj2018/
+
+日本遺伝学会第90回大会を、2018年（平成30年）9月19日（水）から21日（金）まで、奈良先端科学技術大学院大学キャンパスにおいて開催
+
+生命医薬情報学連合大会2018年大会として2018年9月19日（水）～21日（金）に山形県鶴岡市で開催されます。 http://iibmp2018.org
+
 ### 2018-06
 
 2018年6月17日(日)
 http://www.toukei-kentei.jp
 統計検定：Japan Statistical Society Certificate
-
-- https://twitter.com/toukei_kentei
-- https://twitter.com/sugakubunka
-- https://twitter.com/hashtag/TokyoR
-- https://twitter.com/TokyoRCommunity
-
-6/9開催 #TokyoR
-https://atnd.org/events/97016
-第70回R勉強会＠東京（#TokyoR） : ATND
-2018/06/09 (土) 14:00 ~ 19:10
-会場 :日本マイクロソフト株式会社（東京都港区港南 2-16-3 品川グランドセントラルタワー 31F）
 
 ### 2018-05
 
@@ -156,6 +147,9 @@ http://blog.livedoor.jp/midwhite/archives/5069921.html
 MINAKA Nobuhiro
 
 https://twitter.com/leeswijzer
+
+http://d.hatena.ne.jp/shorebird/20180610
+書評　「統計思考の世界」 - shorebird　進化心理学中心の書評など
 
 https://note.mu/leeswijzer/n/ne827077ad556
 姉妹本3冊を書き終えて｜leeswijzer｜note
@@ -364,6 +358,11 @@ We tested the robustness of our result that Mahalanobis distance performs better
 
 ----------
 ## link
+
+- https://twitter.com/toukei_kentei
+- https://twitter.com/sugakubunka
+- https://twitter.com/hashtag/TokyoR
+- https://twitter.com/TokyoRCommunity
 
 https://twitter.com/Tyu_Shi
 https://twitter.com/bilderberg54
