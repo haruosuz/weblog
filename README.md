@@ -21,6 +21,10 @@ Last Update: 2018-06-04
 
 ----------
 ## featuring
+
+https://twitter.com/hashtag/museomejp
+https://sites.google.com/site/museumbioinfo/meetings/20180125
+
 https://github.com/haruosuz/metasub/blob/master/README.md#csd
 
 https://github.com/haruosuz/DS4GD/tree/master/2018
@@ -157,31 +161,6 @@ https://note.mu/leeswijzer/n/ne827077ad556
 http://cse.naro.affrc.go.jp/minaka/cladist/cladist-top.html
 結界〈Ｔ〉の一里塚 —— 彷徨する系統樹思考者のために
 
-2014年2月5日（水） ——
-09:30〜10:30　生物統計学概論（2）：ベイズ統計学 → YouTube
-10:40〜12:00　ベイズ法の演習 → YouTube
-
-2）2015年9月24日 → 生物体系学概論
-使用ソフトウェアの紹介とインストール
-MEGA: 距離法・最節約法・最尤法による分子系統推定ソフトウェア
-PAUP*: 最節約法・最尤法・距離法による系統推定ソフトウェア
-MrBayes: ベイズ法による分子系統推定ソフトウェア
-
-11）2015年12月17日→ ベイズ統計学
-ベイズ統計学に関する解説
-Bayesian Coin Tosser と MC Robot による Bayesian MCMC の実習
-MrBayes のインストールと説明
-
-http://cse.naro.affrc.go.jp/minaka/cladist/cladist-old.html
-三中信宏・体系学講義のハンドアウト倉庫（2003年以降）
-
-http://cse.naro.affrc.go.jp/minaka/cladist/BayesianStatistics2014.pdf
-ベイズ統計学
-̶ ベイズの定理からベイズ的推論へ ̶
-三中 信宏
-MINAKA Nobuhiro
-
-
 http://leeswijzer.hatenablog.com/entry/2016/09/10/102132
 「種問題」ははてしなく続く - archief voor stambomen
 
@@ -287,7 +266,6 @@ http://yutori-datascience.hatenablog.com/entry/2018/01/09/181821
 - https://ja.wikipedia.org/wiki/バイオアッセイ
 - https://ja.wikipedia.org/wiki/保全生態学
 
-
 ----------
 
 
@@ -302,7 +280,6 @@ http://on-sociology.blogspot.jp/2018/03/blog-post_17.html
 
 http://takehiko-i-hayashi.hatenablog.com/entry/2017/03/13/050959
 統数研での講演『バックドア基準入門』をアプします - Take a Risk：林岳彦の研究メモ
-
 
 ----------
 
@@ -401,9 +378,3 @@ http://hikaru1122.hatenadiary.jp/entry/ronbun-no-yomikata
 
 
 ----------
-
-
-
-
-
-
