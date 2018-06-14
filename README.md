@@ -378,3 +378,33 @@ http://hikaru1122.hatenadiary.jp/entry/ronbun-no-yomikata
 
 
 ----------
+
+http://k-nakashima.net/blog-list/
+トレーナーがチェックしておきたい科学的根拠に基づいたブログおすすめ10選 | パーソナルトレーナー中島健太郎のブログ｜ストレッチングと柔軟性の科学
+
+https://twitter.com/smalldoemu
+くぼたかふみ (@smalldoemu) | Twitter
+
+超　筋トレが最強のソリューションである　筋肉が人生を変える超科学的な理由
+Testosterone/久保孝史 文響社 2018年04月27日
+
+2018年6月12日 21時配信
+https://www.sinkan.jp/news/8617
+自信がない人、自分が好きになれない人への「筋トレ」のススメ - 新刊JP
+
+2018/5/9
+https://ddnavi.com/news/455178/a/
+自信がない、モテない、イライラ… あらゆる問題は筋トレで解決する！ | ダ・ヴィンチニュース
+
+20180429
+http://www.biborock.com/entry/cho-kintore-solution-review
+【最高】書評『超筋トレが最強のソリューションである』マッチョ社長最新作レビュー！ - biborock
+
+2018年4月25日 08時00分
+https://prtimes.jp/main/html/rd/p/000000117.000003336.html
+筋トレが「最強のソリューション」である科学的な理由がついに判明！｜文響社のプレスリリース
+
+
+----------
+
+
