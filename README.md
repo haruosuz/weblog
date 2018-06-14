@@ -34,11 +34,6 @@ https://github.com/haruosuz/statistics/blob/master/README.md
 https://github.com/haruosuz/microbe
 https://github.com/haruosuz/microbe/blob/master/README.md
 
-https://twitter.com/who_me
-
-http://camp.yaboten.net/entry/gojomep
-五城目キャンプ - まちに還すコミュニケーション
-
 https://twitter.com/i/moments/1000738412117147648
 All metagenomes searched at once?
 
@@ -47,6 +42,12 @@ ggplot2再入門 // Speaker Deck
 
 https://news.yahoo.co.jp/byline/nishikawashinichi/20180428-00084466/
 酵母ゲノムに刻まれた人類と発酵の歴史
+
+https://gigazine.net/news/20180216-karate-kid-cobra-kai/
+映画「ベスト・キッド」の続編となる新作ドラマ「Cobra Kai」の予告編が公開 - GIGAZINE
+
+https://www.youtube.com/watch?v=_rB36UGoP4Y
+Cobra Kai Ep 1 - “Ace Degenerate” - The Karate Kid Saga Continues - YouTube
 
 ----------
 
@@ -139,12 +140,6 @@ http://www.c.u-tokyo.ac.jp/info/about/history/dean/2013-2015/h27.3.25ishii.html
 
 ----------
 
-2012年01月10日
-http://blog.livedoor.jp/midwhite/archives/5069921.html
-意識の高い学士ブログ : 僕がSFCを嫌う理由
-
-----------
-
 ## people
 
 ## leeswijzer
@@ -171,6 +166,36 @@ http://keisobiblio.com/2018/04/24/atogakitachiyomi_keitotaikeigaku/ [html]
 http://keisobiblio.com/wp/wp-content/uploads/2018/04/keitotaikeigaku_tachiyomi.pdf
 [pdf]
 
+Feb 22, 2017
+https://www.youtube.com/watch?v=PYLukN7xUcU
+WIAD2017 Tokyo―― 1. ダイアグラム思考—分類と系統の世界観—：三中信宏氏 - YouTube
+
+KyushuUniv
+農業生物資源学特論第五
+ 講　師：三中 信宏 先生（独立行政法人農業環境技術研究所）
+ 期　間：2014年2月3日～5日 
+
+https://www.youtube.com/watch?v=6WgsOO_brQ4
+1.系統推定論概論：系統樹による多様性情報の可視化 （三中 信宏 先生）
+
+https://www.youtube.com/watch?v=QYT4BJwpSDg
+3.形質データ行列の作成と分岐分析の演習 ／ 生物統計学概論（1）：統計モデル選択と計算統計学（三中 信宏 先生）
+
+https://www.youtube.com/watch?v=0HfJpfJH-co
+4.生物統計学概論（1）：統計モデル選択と計算統計学（三中 信宏 先生）
+
+	library(TeachingDemos)
+
+https://www.youtube.com/watch?v=I5C7Nz6x7i4
+6.分子系統学（2）：分子進化の統計モデル（三中 信宏 先生）
+
+https://www.youtube.com/watch?v=LmZSk6EmxeM
+7.距離法・最節約法・最尤法の演習（三中 信宏 先生）
+
+https://www.youtube.com/watch?v=if-OYPt08YI
+11.形態測定学概論：サイズとシェイプの多変量統計学 （三中 信宏 先生）
+
+----------
 ## yusuke_tsugawa
 https://twitter.com/yusuke_tsugawa
 
@@ -225,6 +250,10 @@ https://sfcclip.net/2013/11/6720/
 
 https://sfcclip.net/2009/07/838/
 暑い日も寒い日も24時間営業中! SFCの自動販売機25台 ∣ SFC CLIP
+
+
+https://twitter.com/who_me
+
 
 ----------
 
