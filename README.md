@@ -22,6 +22,8 @@ Last Update: 2018-06-04
 ----------
 ## featuring
 
+https://twitter.com/hashtag/museomejp?f=tweets&vertical=default&src=hash
+
 https://twitter.com/hashtag/museomejp
 https://sites.google.com/site/museumbioinfo/meetings/20180125
 
