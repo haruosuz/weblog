@@ -22,17 +22,15 @@ Last Update: 2018-06-04
 ----------
 ## featuring
 
-https://twitter.com/hashtag/museomejp?f=tweets&vertical=default&src=hash
+https://github.com/haruosuz/statistics/blob/master/README.md
 
+https://twitter.com/hashtag/museomejp?f=tweets&vertical=default&src=hash
 https://twitter.com/hashtag/museomejp
 https://sites.google.com/site/museumbioinfo/meetings/20180125
 
 https://github.com/haruosuz/metasub/blob/master/README.md#csd
-
 https://github.com/haruosuz/DS4GD/tree/master/2018
 https://github.com/haruosuz/evolve/blob/master/README.md
-https://github.com/haruosuz/metasub/blob/master/README.md
-https://github.com/haruosuz/statistics/blob/master/README.md
 https://github.com/haruosuz/microbe
 https://github.com/haruosuz/microbe/blob/master/README.md
 
@@ -41,9 +39,6 @@ All metagenomes searched at once?
 
 https://speakerdeck.com/yutannihilation/ggplot2zai-ru-men
 ggplot2再入門 // Speaker Deck
-
-https://news.yahoo.co.jp/byline/nishikawashinichi/20180428-00084466/
-酵母ゲノムに刻まれた人類と発酵の歴史
 
 https://gigazine.net/news/20180216-karate-kid-cobra-kai/
 映画「ベスト・キッド」の続編となる新作ドラマ「Cobra Kai」の予告編が公開 - GIGAZINE
@@ -172,6 +167,10 @@ Feb 22, 2017
 https://www.youtube.com/watch?v=PYLukN7xUcU
 WIAD2017 Tokyo―― 1. ダイアグラム思考—分類と系統の世界観—：三中信宏氏 - YouTube
 
+http://www.agr.kyushu-u.ac.jp/lab/entomology/news-report_010.html
+農業生物資源学特論第五（講師：三中信宏博士）の講義ビデオの公開
+九州大学附属図書館付設 教材開発センター の撮影・編集によって三中先生の講義内容をビデオにて公開することができるようになりました。
+
 KyushuUniv
 農業生物資源学特論第五
  講　師：三中 信宏 先生（独立行政法人農業環境技術研究所）
@@ -186,7 +185,13 @@ https://www.youtube.com/watch?v=QYT4BJwpSDg
 https://www.youtube.com/watch?v=0HfJpfJH-co
 4.生物統計学概論（1）：統計モデル選択と計算統計学（三中 信宏 先生）
 
+http://www.math.wm.edu/~leemis/chart/UDR/UDR.html
+Univariate Distribution Relationship Chart
+
+	#install.packages("TeachingDemos")
 	library(TeachingDemos)
+	clt.examp(1)
+	clt.examp(2)
 
 https://www.youtube.com/watch?v=I5C7Nz6x7i4
 6.分子系統学（2）：分子進化の統計モデル（三中 信宏 先生）
