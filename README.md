@@ -46,6 +46,29 @@ https://gigazine.net/news/20180216-karate-kid-cobra-kai/
 https://www.youtube.com/watch?v=_rB36UGoP4Y
 Cobra Kai Ep 1 - “Ace Degenerate” - The Karate Kid Saga Continues - YouTube
 
+
+
+
+https://twitter.com/tonets/status/1010321829502676993
+大上雅史／猫じゃら氏 on Twitter: "英語論文を書く上でお世話になっている５つのウェブサイト ①Google翻訳 ②ALC英辞郎 on the WEB (Pro) ③Hyper Collocation - arXiv論文英語コロケーションDB https://t.co/DCH7C98LBm ④inMeXes - 逐次PubMed表現検索 https://t.co/86FjTdmGhN ⑤Academic Phrasebank https://t.co/sCaYaun6ij"
+
+英語論文を書く上でお世話になっている５つのウェブサイト
+
+①Google翻訳
+②ALC英辞郎 on the WEB (Pro)
+③Hyper Collocation - arXiv論文英語コロケーションDB
+https://hypcol.marutank.net/ja/ 
+④inMeXes - 逐次PubMed表現検索
+http://docman.dbcls.jp/im/ 
+⑤Academic Phrasebank
+http://www.phrasebank.manchester.ac.uk/ 
+
+https://twitter.com/bonohu/status/1008150073484558337
+朝から世話になった “inMeXesは、#DBCLS のサービスで、生命科学系の文献(PubMedに含まれるタイトルとアブストラクト)に頻出する英語表現を、1文字の入力ごとに高速に再検索可能” #togotv / “inMeXe…”
+
+http://togotv.dbcls.jp/20180126.html
+inMeXesを使って文献に頻出する英語表現や関連語を高速に検索する 2018 統合TV(togotv)｜生命科学系DB・ツール使い倒し系チャンネル
+
 ----------
 
 ## updates
@@ -53,6 +76,9 @@ Cobra Kai Ep 1 - “Ace Degenerate” - The Karate Kid Saga Continues - YouTube
 ## 2018
 
 https://www.natureindex.com/news-blog/when-it-comes-to-reproducible-science-git-is-code-for-success
+
+
+
 
 http://amr.ncgm.go.jp/information/20180612_2.html
 AMR対策 臨床セミナー in 横浜のお知らせ【7月28日開催】 | お知らせ・更新情報 | かしこく治して、明日につなぐ～抗菌薬を上手に使ってAMR対策～
