@@ -52,17 +52,31 @@ Cobra Kai Ep 1 - “Ace Degenerate” - The Karate Kid Saga Continues - YouTube
 
 ## 2018
 
-日本進化学会■第20回　東京大会（2018年8月22～25日予定 東京大学駒場キャンパス） http://darwin.c.u-tokyo.ac.jp/sesj2018/
+https://www.natureindex.com/news-blog/when-it-comes-to-reproducible-science-git-is-code-for-success
+
+http://amr.ncgm.go.jp/information/20180612_2.html
+AMR対策 臨床セミナー in 横浜のお知らせ【7月28日開催】 | お知らせ・更新情報 | かしこく治して、明日につなぐ～抗菌薬を上手に使ってAMR対策～
+日 程：2018年7月28日 (土) 16:00開演（開場 15:30）
+会 場：TKPガーデンシティPREMIUM みなとみらい ホールG
+神奈川県横浜市西区みなとみらい3-6-3 MMパークビル 5F
+
+
+- https://twitter.com/hashtag/TokyoR
+- https://twitter.com/TokyoRCommunity
+
+https://twitter.com/i/moments/1009459439416442880
+第71回 #TokyoR に関するお知らせ
+7/15(日)開催
+ゲストにHadley Wickham氏、Joseph Rickert氏
 
 日本遺伝学会第90回大会を、2018年（平成30年）9月19日（水）から21日（金）まで、奈良先端科学技術大学院大学キャンパスにおいて開催
 
 生命医薬情報学連合大会2018年大会として2018年9月19日（水）～21日（金）に山形県鶴岡市で開催されます。 http://iibmp2018.org
 
+日本進化学会■第20回　東京大会（2018年8月22～25日予定 東京大学駒場キャンパス） http://darwin.c.u-tokyo.ac.jp/sesj2018/
+
 ### 2018-06
 
-2018年6月17日(日)
-http://www.toukei-kentei.jp
-統計検定：Japan Statistical Society Certificate
 
 ### 2018-05
 
@@ -374,8 +388,7 @@ We tested the robustness of our result that Mahalanobis distance performs better
 
 - https://twitter.com/toukei_kentei
 - https://twitter.com/sugakubunka
-- https://twitter.com/hashtag/TokyoR
-- https://twitter.com/TokyoRCommunity
+
 
 https://twitter.com/Tyu_Shi
 https://twitter.com/bilderberg54
