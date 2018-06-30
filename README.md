@@ -23,6 +23,11 @@ Last Update: 2018-06-04
 ## featuring
 
 
+- https://twitter.com/bayesjuku
+- https://twitter.com/hashtag/bayesWS3rd
+- http://kosugitti.net/archives/5958
+犬4匹本出版にあたって – Kosugitti's BLOG
+
 https://connpass.com/event/89217/
 ベイズ統計WS「心理学者のためのベイズ統計学」 - connpass
 2018/06/30(Sat)
