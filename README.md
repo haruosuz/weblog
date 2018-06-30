@@ -22,8 +22,20 @@ Last Update: 2018-06-04
 ----------
 ## featuring
 
+
+https://connpass.com/event/89217/
+ベイズ統計WS「心理学者のためのベイズ統計学」 - connpass
+2018/06/30(Sat)
+10:00 〜 17:00
+
+
+https://twitter.com/hashtag/IHMC2018
+https://twitter.com/hashtag/WorldMicrobiomeDay
 https://twitter.com/WMicrobiomeDay
 
+
+https://twitter.com/3Bgoripachi/status/1012128869497753600
+ゴリぱち on Twitter: "学会用ポスターを作るときに、参考にしている資料です。 とても分かりやすくて、おすすめです。 https://t.co/8IkdlQAlLg… "
 
 https://github.com/haruosuz/statistics/blob/master/README.md
 
@@ -48,6 +60,11 @@ https://gigazine.net/news/20180216-karate-kid-cobra-kai/
 
 https://www.youtube.com/watch?v=_rB36UGoP4Y
 Cobra Kai Ep 1 - “Ace Degenerate” - The Karate Kid Saga Continues - YouTube
+
+
+
+https://www.iibc-global.org/toeic/test/lr/guide01.html
+テスト日程・申込｜TOEIC Listening & Reading Test｜TOEIC Program｜IIBC
 
 
 
@@ -439,9 +456,6 @@ TECH PLAY［テックプレイ］ - IT勉強会・セミナーなどのイベン
 https://europepmc.org
 Europe PMC
 
-https://www.iibc-global.org/toeic/test/lr/guide01.html
-テスト日程・申込｜TOEIC Listening & Reading Test｜TOEIC Program｜IIBC
-
 
 ----------
 
@@ -467,26 +481,5 @@ http://k-nakashima.net/blog-list/
 https://twitter.com/smalldoemu
 くぼたかふみ (@smalldoemu) | Twitter
 
-超　筋トレが最強のソリューションである　筋肉が人生を変える超科学的な理由
-Testosterone/久保孝史 文響社 2018年04月27日
-
-2018年6月12日 21時配信
-https://www.sinkan.jp/news/8617
-自信がない人、自分が好きになれない人への「筋トレ」のススメ - 新刊JP
-
-2018/5/9
-https://ddnavi.com/news/455178/a/
-自信がない、モテない、イライラ… あらゆる問題は筋トレで解決する！ | ダ・ヴィンチニュース
-
-20180429
-http://www.biborock.com/entry/cho-kintore-solution-review
-【最高】書評『超筋トレが最強のソリューションである』マッチョ社長最新作レビュー！ - biborock
-
-2018年4月25日 08時00分
-https://prtimes.jp/main/html/rd/p/000000117.000003336.html
-筋トレが「最強のソリューション」である科学的な理由がついに判明！｜文響社のプレスリリース
-
 
 ----------
-
-
