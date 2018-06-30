@@ -27,6 +27,11 @@ https://connpass.com/event/89217/
 ベイズ統計WS「心理学者のためのベイズ統計学」 - connpass
 2018/06/30(Sat)
 10:00 〜 17:00
+専修大学生田キャンパス 2号館 211教室
+神奈川県川崎市多摩区東三田２丁目２−１−１
+
+生田キャンパスへのアクセスは，こちら (https://www.senshu-u.ac.jp/access.html) をご覧ください。
+会場まではキャンパスマップ (https://www.senshu-u.ac.jp/about/campus/ikuta.html) をよくご確認ください。
 
 
 https://twitter.com/hashtag/IHMC2018
