@@ -23,6 +23,22 @@ Last Update: 2018-06-04
 ## featuring
 
 
+https://twitter.com/torstenseemann/status/1013354894730772480
+Torsten Seemann on Twitter: "Need a closed bacterial reference genome that's close to your sample but can't find it on @ncbi or @enasequence ? Try looking at the @NCTC_3000 collection, as not all of the asemblies have made it into the public databases yet ! https://t.co/lIolFpNJ0z"
+5:33 AM - 1 Jul 2018
+
+https://twitter.com/i/moments/1000738412117147648
+All metagenomes searched at once?
+
+https://twitter.com/merenbey/status/1001592427369648128
+A. Murat Eren (Meren) on Twitter: "K-mers aren't reads, reads aren't genes, genes aren't genomes, & genomes you get from metagenomes are often nothing but consensus sequences of large population of cells heterogeneity of which is defined by the heuristics of your assembler of which you likely know next to nothing.… https://t.co/gCVybgHCQH"
+6:33 PM - 29 May 2018
+
+Fig.2: "Deblur" -> "Deblur or DADA2" に修正し
+https://twitter.com/merenbey/status/999416078446071809
+6:25 PM - 23 May 2018
+
+
 https://twitter.com/bayesjuku
 https://twitter.com/hashtag/bayesWS3rd
 
