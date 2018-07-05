@@ -50,6 +50,13 @@ http://galaxyproject.github.io/training-material/topics/metagenomics/tutorials/m
 
 https://github.com/A-Asai/training-material/blob/master/topics/metagenomics/tutorials/mothur-miseq-sop/tutorial_ja_notag.md
 
+http://galaxyproject.github.io/training-material/topics/metagenomics/tutorials/general-tutorial/tutorial.html
+
+
+
+
+
+
 https://sites.google.com/site/colloqfoundbio/
 生物学基礎論研究会
 
