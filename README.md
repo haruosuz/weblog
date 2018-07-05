@@ -33,32 +33,26 @@ https://github.com/haruosuz/microbe
 
 ## 2018
 
-# Pitagora Galaxy Meetup
-http://wiki.pitagora-galaxy.org/wiki/index.php/Events
-2018年07月05日（木）	　Meetup 2018-07	　理研 革新知能統合研究センター （日本橋）
+### 2018-09
 
-http://wiki.pitagora-galaxy.org/wiki/index.php/Meetup_2018-07
-18:30-19:30	Galaxy Seminar #4 - 16S Microbial Analysis with Mothur Part.2
+日本遺伝学会第90回大会を、2018年（平成30年）9月19日（水）から21日（金）まで、奈良先端科学技術大学院大学キャンパスにおいて開催
 
-https://pitagora.connpass.com/event/91353/
-Galaxy の公式トレーニング教材のうち、今回は前回のセミナーで扱った 16S Microbial Analysis with Mothur の続きを日本語でハンズオンします！
+生命医薬情報学連合大会2018年大会として2018年9月19日（水）～21日（金）に山形県鶴岡市で開催されます。 http://iibmp2018.org
 
-http://galaxyproject.github.io/training-material/topics/metagenomics/
-
-http://galaxyproject.github.io/training-material/topics/metagenomics/tutorials/mothur-miseq-sop/tutorial.html
-16S Microbial Analysis with Mothur
-
-https://github.com/A-Asai/training-material/blob/master/topics/metagenomics/tutorials/mothur-miseq-sop/tutorial_ja_notag.md
-
-http://galaxyproject.github.io/training-material/topics/metagenomics/tutorials/general-tutorial/tutorial.html
-
-
-
-
-
-
+[evolve:18237] 第12回生物学基礎論研究会の開催のご案内と講演の募集
+日時：9月8日（土）～9日（日）
+場所：統計数理研究所
 https://sites.google.com/site/colloqfoundbio/
 生物学基礎論研究会
+
+木村資生記念 進化学セミナー | Welome 次世代の進化研究者！
+https://kimuraseminar.wordpress.com
+第2回 進化学セミナーの日程が決まりました！
+日程: 2018年9月1日（土）〜9月3日（月）
+場所: 大学セミナーハウス（東京都八王子市）
+https://kimuraseminar.wordpress.com/第1回%E3%80%80進化学セミナーのお知らせ/
+
+### 2018-08
 
 https://twitter.com/a_symap/status/1013667527027666944
 Masato S. Abe on Twitter: "【お知らせ】8月29日(水) - 31日(金)に統計数理研究所において複雑ネットワークに関する研究会 ”ネットワーク科学セミナー2018" を開催します。現在、ポスター講演者および聴講者を募っております。詳しくは下記HPをご覧下さい。https://t.co/jV3W6gKNC1"
@@ -67,12 +61,6 @@ http://mizutaka.sci.ibaraki.ac.jp/seminar2018/seminar2018.html
 Network Science Seminar2018
 ネットワーク科学セミナー2018 
 2018年8月29日-8月31日の3日間、統計数理研究所において"ネットワーク科学セミナー2018" を開催します。
-
-
-
-日本遺伝学会第90回大会を、2018年（平成30年）9月19日（水）から21日（金）まで、奈良先端科学技術大学院大学キャンパスにおいて開催
-
-生命医薬情報学連合大会2018年大会として2018年9月19日（水）～21日（金）に山形県鶴岡市で開催されます。 http://iibmp2018.org
 
 日本進化学会■第20回　東京大会（2018年8月22～25日予定 東京大学駒場キャンパス） http://darwin.c.u-tokyo.ac.jp/sesj2018/
 
@@ -98,6 +86,11 @@ https://twitter.com/i/moments/1009459439416442880
 第71回 #TokyoR に関するお知らせ
 7/15(日)開催
 ゲストにHadley Wickham氏、Joseph Rickert氏
+
+https://twitter.com/hashtag/SMBE2018
+http://smbe2018.jp 
+SMBE 2018 YOKOHAMA JAPAN [Conference dates] 8-12 July, 2018 [Venue] Pacifico Yokohama.
+Pre-registration Closes	June 15, 2018
 
 ### 2018-06
 
