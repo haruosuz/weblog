@@ -22,87 +22,25 @@ Last Update: 2018-06-04
 ----------
 ## featuring
 
-
-https://twitter.com/torstenseemann/status/1013354894730772480
-Torsten Seemann on Twitter: "Need a closed bacterial reference genome that's close to your sample but can't find it on @ncbi or @enasequence ? Try looking at the @NCTC_3000 collection, as not all of the asemblies have made it into the public databases yet ! https://t.co/lIolFpNJ0z"
-5:33 AM - 1 Jul 2018
-
-https://twitter.com/i/moments/1000738412117147648
-All metagenomes searched at once?
-
-https://twitter.com/merenbey/status/1001592427369648128
-A. Murat Eren (Meren) on Twitter: "K-mers aren't reads, reads aren't genes, genes aren't genomes, & genomes you get from metagenomes are often nothing but consensus sequences of large population of cells heterogeneity of which is defined by the heuristics of your assembler of which you likely know next to nothing.… https://t.co/gCVybgHCQH"
-6:33 PM - 29 May 2018
-
-Fig.2: "Deblur" -> "Deblur or DADA2" に修正し
-https://twitter.com/merenbey/status/999416078446071809
-6:25 PM - 23 May 2018
-
-
-https://twitter.com/bayesjuku
-https://twitter.com/hashtag/bayesWS3rd
-
-http://kosugitti.net/archives/5958
-犬4匹本出版にあたって – Kosugitti's BLOG
-
-https://twitter.com/hashtag/IHMC2018
-https://twitter.com/hashtag/WorldMicrobiomeDay
-https://twitter.com/WMicrobiomeDay
-
-
-https://twitter.com/3Bgoripachi/status/1012128869497753600
-ゴリぱち on Twitter: "学会用ポスターを作るときに、参考にしている資料です。 とても分かりやすくて、おすすめです。 https://t.co/8IkdlQAlLg… "
-
-https://github.com/haruosuz/statistics/blob/master/README.md
-
-https://twitter.com/hashtag/museomejp?f=tweets&vertical=default&src=hash
-https://twitter.com/hashtag/museomejp
-https://sites.google.com/site/museumbioinfo/meetings/20180125
-
-https://github.com/haruosuz/metasub/blob/master/README.md#csd
 https://github.com/haruosuz/DS4GD/tree/master/2018
-https://github.com/haruosuz/evolve/blob/master/README.md
+https://github.com/haruosuz/evolve
+https://github.com/haruosuz/metasub
 https://github.com/haruosuz/microbe
-https://github.com/haruosuz/microbe/blob/master/README.md
-
-https://twitter.com/i/moments/1000738412117147648
-All metagenomes searched at once?
-
-https://speakerdeck.com/yutannihilation/ggplot2zai-ru-men
-ggplot2再入門 // Speaker Deck
-
-https://gigazine.net/news/20180216-karate-kid-cobra-kai/
-映画「ベスト・キッド」の続編となる新作ドラマ「Cobra Kai」の予告編が公開 - GIGAZINE
-
-https://www.youtube.com/watch?v=_rB36UGoP4Y
-Cobra Kai Ep 1 - “Ace Degenerate” - The Karate Kid Saga Continues - YouTube
-
-
-https://twitter.com/tonets/status/1010321829502676993
-大上雅史／猫じゃら氏 on Twitter: "英語論文を書く上でお世話になっている５つのウェブサイト ①Google翻訳 ②ALC英辞郎 on the WEB (Pro) ③Hyper Collocation - arXiv論文英語コロケーションDB https://t.co/DCH7C98LBm ④inMeXes - 逐次PubMed表現検索 https://t.co/86FjTdmGhN ⑤Academic Phrasebank https://t.co/sCaYaun6ij"
-
-英語論文を書く上でお世話になっている５つのウェブサイト
-
-①Google翻訳
-②ALC英辞郎 on the WEB (Pro)
-③Hyper Collocation - arXiv論文英語コロケーションDB
-https://hypcol.marutank.net/ja/ 
-④inMeXes - 逐次PubMed表現検索
-http://docman.dbcls.jp/im/ 
-⑤Academic Phrasebank
-http://www.phrasebank.manchester.ac.uk/ 
-
-https://twitter.com/bonohu/status/1008150073484558337
-朝から世話になった “inMeXesは、#DBCLS のサービスで、生命科学系の文献(PubMedに含まれるタイトルとアブストラクト)に頻出する英語表現を、1文字の入力ごとに高速に再検索可能” #togotv / “inMeXe…”
-
-http://togotv.dbcls.jp/20180126.html
-inMeXesを使って文献に頻出する英語表現や関連語を高速に検索する 2018 統合TV(togotv)｜生命科学系DB・ツール使い倒し系チャンネル
 
 ----------
 
 ## updates
 
 ## 2018
+
+
+# Pitagora Galaxy Meetup
+http://wiki.pitagora-galaxy.org/wiki/index.php/Events
+2018年07月05日（木）	　Meetup 2018-07	　理研 革新知能統合研究センター （日本橋）
+
+http://wiki.pitagora-galaxy.org/wiki/index.php/Meetup_2018-07
+18:30-19:30	Galaxy Seminar #4 - 16S Microbial Analysis with Mothur Part.2
+
 
 日本遺伝学会第90回大会を、2018年（平成30年）9月19日（水）から21日（金）まで、奈良先端科学技術大学院大学キャンパスにおいて開催
 
@@ -137,23 +75,7 @@ https://twitter.com/i/moments/1009459439416442880
 
 https://www.natureindex.com/news-blog/when-it-comes-to-reproducible-science-git-is-code-for-success
 
-https://twitter.com/leeswijzer/status/1010790081303588864
-MINAKA Nobuhiro on Twitter: "［欹耳袋］来月早々の天王台でのお座敷はこちら：筑波大学生物学類集中講義「数理生物学 I［三中信宏］」：2018年7月3日（火）〜4日（水） https://t.co/JAbhLL8zuA ※「数理生物学」と銘打っていますが，実態は「生物統計学」です．まだ「客の入り」が悪いとダルムシュタットのお席亭からメールあり．"
-3:41 AM - 24 Jun 2018
-
 ### 2018-05
-
-https://twitter.com/u_ribo/status/1001779864377016321
-Uryu Shinya on Twitter: "私は応用の話だったのですが、これまでにまとめられた資料の中でも特に @monotropastrum さんの「ggplot2をつかってみる」 https://t.co/0HPk4PiEC5 と @yutannihilation さんの「ggplot2再入門」 https://t.co/BnasXqIwJp が守備範囲が広く、また大事な部分をしっかりと抑えている印象でした。"
-6:58 AM - 30 May 2018
-
-https://twitter.com/u_ribo/status/1001772130378235904
-Uryu Shinya on Twitter: "本日、某所で行なわれた会での発表（できなかった）資料を公開しました！ 📊「痒い所に手が届く、ggplot2作図の技」🎨ということでtidyverseとの合わせ技や流行りのパッケージを紹介しています（画像は作図の一例です）⚡️ https://t.co/WOrrn3HMwO … https://t.co/xB249P9ZN3… https://t.co/1yN5pHbGwo"
-6:27 AM - 30 May 2018
-
-https://twitter.com/merenbey/status/1001592427369648128
-A. Murat Eren (Meren) on Twitter: "K-mers aren't reads, reads aren't genes, genes aren't genomes, & genomes you get from metagenomes are often nothing but consensus sequences of large population of cells heterogeneity of which is defined by the heuristics of your assembler of which you likely know next to nothing.… https://t.co/gCVybgHCQH"
-6:33 PM - 29 May 2018
 
 2018-05-24
 http://www.wynned.com/entry/aum-nakagawa-paper
@@ -449,30 +371,6 @@ We tested the robustness of our result that Mahalanobis distance performs better
 
 
 ----------
-## link
-
-- https://twitter.com/toukei_kentei
-- https://twitter.com/sugakubunka
-
-
-https://twitter.com/Tyu_Shi
-https://twitter.com/bilderberg54
-https://twitter.com/yoniumuhibi
-
-https://twitter.com/endBooks
-科学に佇む読書心 (@endBooks) | Twitter
-
-https://twitter.com/bluebacks_pub
-講談社ブルーバックス (@bluebacks_pub) | Twitter
-
-https://techplay.jp
-TECH PLAY［テックプレイ］ - IT勉強会・セミナーなどのイベント情報検索サービス
-
-https://europepmc.org
-Europe PMC
-
-
-----------
 
 http://lafrenze.hatenablog.com/entry/2015/08/04/120205
 高速で論文がバリバリ読める落合先生のフォーマットがいい感じだったのでメモ - 書架とラフレンツェ
@@ -490,16 +388,73 @@ http://hikaru1122.hatenadiary.jp/entry/ronbun-no-yomikata
 
 ----------
 
+https://twitter.com/3Bgoripachi/status/1012128869497753600
+ゴリぱち on Twitter: "学会用ポスターを作るときに、参考にしている資料です。 とても分かりやすくて、おすすめです。 https://t.co/8IkdlQAlLg… "
+
+
+https://twitter.com/tonets/status/1010321829502676993
+大上雅史／猫じゃら氏 on Twitter: "英語論文を書く上でお世話になっている５つのウェブサイト ①Google翻訳 ②ALC英辞郎 on the WEB (Pro) ③Hyper Collocation - arXiv論文英語コロケーションDB https://t.co/DCH7C98LBm ④inMeXes - 逐次PubMed表現検索 https://t.co/86FjTdmGhN ⑤Academic Phrasebank https://t.co/sCaYaun6ij"
+
+英語論文を書く上でお世話になっている５つのウェブサイト
+
+①Google翻訳
+②ALC英辞郎 on the WEB (Pro)
+③Hyper Collocation - arXiv論文英語コロケーションDB
+https://hypcol.marutank.net/ja/ 
+④inMeXes - 逐次PubMed表現検索
+http://docman.dbcls.jp/im/ 
+⑤Academic Phrasebank
+http://www.phrasebank.manchester.ac.uk/ 
+
+https://twitter.com/bonohu/status/1008150073484558337
+朝から世話になった “inMeXesは、#DBCLS のサービスで、生命科学系の文献(PubMedに含まれるタイトルとアブストラクト)に頻出する英語表現を、1文字の入力ごとに高速に再検索可能” #togotv / “inMeXe…”
+
+http://togotv.dbcls.jp/20180126.html
+inMeXesを使って文献に頻出する英語表現や関連語を高速に検索する 2018 統合TV(togotv)｜生命科学系DB・ツール使い倒し系チャンネル
+
+----------
+## link
+
+https://twitter.com/bilderberg54
+https://twitter.com/yoniumuhibi
+
+https://twitter.com/endBooks
+科学に佇む読書心 (@endBooks) | Twitter
+
+https://twitter.com/bluebacks_pub
+講談社ブルーバックス (@bluebacks_pub) | Twitter
+
+https://techplay.jp
+TECH PLAY［テックプレイ］ - IT勉強会・セミナーなどのイベント情報検索サービス
+
+https://europepmc.org
+Europe PMC
+
 http://k-nakashima.net/blog-list/
 トレーナーがチェックしておきたい科学的根拠に基づいたブログおすすめ10選 | パーソナルトレーナー中島健太郎のブログ｜ストレッチングと柔軟性の科学
 
 https://twitter.com/smalldoemu
 くぼたかふみ (@smalldoemu) | Twitter
 
-
-
 https://www.iibc-global.org/toeic/test/lr/guide01.html
 テスト日程・申込｜TOEIC Listening & Reading Test｜TOEIC Program｜IIBC
 
+https://twitter.com/TJO_datasci/status/1013412162725769218
+TJO on Twitter: "「航空業界が失敗から学ぶ仕組みを構築している」話、もうちょっと詳しく書くと航空事故はどの国でも独立した事故調査委を置かねばならず、刑事・民事係争に利用されないという免責のもとで、必ず真実に迫り事故を再発させないというただその一点のみのために全ての努力が注ぎ込まれるようになっている"
+
+
+https://gigazine.net/news/20180216-karate-kid-cobra-kai/
+映画「ベスト・キッド」の続編となる新作ドラマ「Cobra Kai」の予告編が公開 - GIGAZINE
+
+https://www.youtube.com/watch?v=_rB36UGoP4Y
+Cobra Kai Ep 1 - “Ace Degenerate” - The Karate Kid Saga Continues - YouTube
+
+
+https://ja.wikipedia.org/wiki/Tf-idf
+tf-idfは、文書中に含まれる単語の重要度を評価する手法の1つであり、主に情報検索やトピック分析などの分野で用いられている。
+
+
 
 ----------
+
+
