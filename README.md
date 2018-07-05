@@ -33,13 +33,34 @@ https://github.com/haruosuz/microbe
 
 ## 2018
 
-
 # Pitagora Galaxy Meetup
 http://wiki.pitagora-galaxy.org/wiki/index.php/Events
 2018年07月05日（木）	　Meetup 2018-07	　理研 革新知能統合研究センター （日本橋）
 
 http://wiki.pitagora-galaxy.org/wiki/index.php/Meetup_2018-07
 18:30-19:30	Galaxy Seminar #4 - 16S Microbial Analysis with Mothur Part.2
+
+https://pitagora.connpass.com/event/91353/
+Galaxy の公式トレーニング教材のうち、今回は前回のセミナーで扱った 16S Microbial Analysis with Mothur の続きを日本語でハンズオンします！
+
+http://galaxyproject.github.io/training-material/topics/metagenomics/
+
+http://galaxyproject.github.io/training-material/topics/metagenomics/tutorials/mothur-miseq-sop/tutorial.html
+16S Microbial Analysis with Mothur
+
+https://github.com/A-Asai/training-material/blob/master/topics/metagenomics/tutorials/mothur-miseq-sop/tutorial_ja_notag.md
+
+https://sites.google.com/site/colloqfoundbio/
+生物学基礎論研究会
+
+https://twitter.com/a_symap/status/1013667527027666944
+Masato S. Abe on Twitter: "【お知らせ】8月29日(水) - 31日(金)に統計数理研究所において複雑ネットワークに関する研究会 ”ネットワーク科学セミナー2018" を開催します。現在、ポスター講演者および聴講者を募っております。詳しくは下記HPをご覧下さい。https://t.co/jV3W6gKNC1"
+
+http://mizutaka.sci.ibaraki.ac.jp/seminar2018/seminar2018.html
+Network Science Seminar2018
+ネットワーク科学セミナー2018 
+2018年8月29日-8月31日の3日間、統計数理研究所において"ネットワーク科学セミナー2018" を開催します。
+
 
 
 日本遺伝学会第90回大会を、2018年（平成30年）9月19日（水）から21日（金）まで、奈良先端科学技術大学院大学キャンパスにおいて開催
