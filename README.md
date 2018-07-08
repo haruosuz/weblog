@@ -22,16 +22,21 @@ Last Update: 2018-06-04
 ----------
 ## featuring
 
-https://github.com/haruosuz/DS4GD/tree/master/2018
-https://github.com/haruosuz/evolve
-https://github.com/haruosuz/metasub
-https://github.com/haruosuz/microbe
+- https://github.com/haruosuz/microbe/blob/master/references/README.papers.md
+- https://github.com/haruosuz/microbe
+- https://github.com/haruosuz/DS4GD/tree/master/2018
+- https://github.com/haruosuz/evolve
+- https://github.com/haruosuz/metasub
 
 ----------
 
 ## updates
 
 ## 2018
+
+
+https://twitter.com/Microb_Ecology
+日本微生物生態学会@めんそーれ on Twitter: "【沖縄大会】大会期間変更のお知らせ（7月12日〜13日に短縮） https://t.co/ZAYgBikQaF 今後の情報については、参加登録者への皆様へは電子メールにて配信される予定です。合わせまして、大会ウェブサイトの情報チェックしてください。何とぞよろしくお願い申し上げます。"
 
 ### 2018-09
 
