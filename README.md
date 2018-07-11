@@ -28,6 +28,10 @@ Last Update: 2018-06-04
 - https://github.com/haruosuz/evolve
 - https://github.com/haruosuz/metasub
 
+
+https://togetter.com/li/1245682
+「学術書を読んでて難しいと思ったら、飛ばしてわかるところから読め」そうした方が理解が深まるその理由とは - Togetter
+
 ----------
 
 ## updates
