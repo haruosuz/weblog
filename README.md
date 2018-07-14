@@ -28,9 +28,20 @@ Last Update: 2018-06-04
 - https://github.com/haruosuz/evolve
 - https://github.com/haruosuz/metasub
 
+- https://twitter.com/hashtag/TokyoR
+- https://twitter.com/TokyoRCommunity
 
-https://togetter.com/li/1245682
-「学術書を読んでて難しいと思ったら、飛ばしてわかるところから読め」そうした方が理解が深まるその理由とは - Togetter
+https://tokyor.connpass.com/event/92522/
+第71回R勉強会@東京（#TokyoR） - connpass
+2018/07/15(Sun)
+14:30 〜 20:30
+ヤフー株式会社
+東京都千代田区紀尾井町1-3 (東京ガーデンテラス紀尾井町 紀尾井タワー)
+
+https://twitter.com/i/moments/1009459439416442880
+第71回 #TokyoR に関するお知らせ
+7/15(日)開催
+ゲストにHadley Wickham氏、Joseph Rickert氏
 
 ----------
 
@@ -38,9 +49,13 @@ https://togetter.com/li/1245682
 
 ## 2018
 
+### 2018-07
 
-https://twitter.com/Microb_Ecology
-日本微生物生態学会@めんそーれ on Twitter: "【沖縄大会】大会期間変更のお知らせ（7月12日〜13日に短縮） https://t.co/ZAYgBikQaF 今後の情報については、参加登録者への皆様へは電子メールにて配信される予定です。合わせまして、大会ウェブサイトの情報チェックしてください。何とぞよろしくお願い申し上げます。"
+http://amr.ncgm.go.jp/information/20180612_2.html
+AMR対策 臨床セミナー in 横浜のお知らせ【7月28日開催】 | お知らせ・更新情報 | かしこく治して、明日につなぐ～抗菌薬を上手に使ってAMR対策～
+日 程：2018年7月28日 (土) 16:00開演（開場 15:30）
+会 場：TKPガーデンシティPREMIUM みなとみらい ホールG
+神奈川県横浜市西区みなとみらい3-6-3 MMパークビル 5F
 
 ### 2018-09
 
@@ -72,34 +87,6 @@ Network Science Seminar2018
 2018年8月29日-8月31日の3日間、統計数理研究所において"ネットワーク科学セミナー2018" を開催します。
 
 日本進化学会■第20回　東京大会（2018年8月22～25日予定 東京大学駒場キャンパス） http://darwin.c.u-tokyo.ac.jp/sesj2018/
-
-### 2018-07
-
-http://amr.ncgm.go.jp/information/20180612_2.html
-AMR対策 臨床セミナー in 横浜のお知らせ【7月28日開催】 | お知らせ・更新情報 | かしこく治して、明日につなぐ～抗菌薬を上手に使ってAMR対策～
-日 程：2018年7月28日 (土) 16:00開演（開場 15:30）
-会 場：TKPガーデンシティPREMIUM みなとみらい ホールG
-神奈川県横浜市西区みなとみらい3-6-3 MMパークビル 5F
-
-- https://twitter.com/hashtag/TokyoR
-- https://twitter.com/TokyoRCommunity
-
-https://tokyor.connpass.com/event/92522/
-第71回R勉強会@東京（#TokyoR） - connpass
-2018/07/15(Sun)
-14:30 〜 20:30
-ヤフー株式会社
-東京都千代田区紀尾井町1-3 (東京ガーデンテラス紀尾井町 紀尾井タワー)
-
-https://twitter.com/i/moments/1009459439416442880
-第71回 #TokyoR に関するお知らせ
-7/15(日)開催
-ゲストにHadley Wickham氏、Joseph Rickert氏
-
-https://twitter.com/hashtag/SMBE2018
-http://smbe2018.jp 
-SMBE 2018 YOKOHAMA JAPAN [Conference dates] 8-12 July, 2018 [Venue] Pacifico Yokohama.
-Pre-registration Closes	June 15, 2018
 
 ### 2018-06
 
