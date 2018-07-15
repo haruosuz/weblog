@@ -22,6 +22,7 @@ Last Update: 2018-06-04
 ----------
 ## featuring
 
+- https://github.com/haruosuz/microbe/blob/master/references/README.2018.md
 - https://github.com/haruosuz/microbe/blob/master/references/README.papers.md
 - https://github.com/haruosuz/microbe
 - https://github.com/haruosuz/DS4GD/tree/master/2018
