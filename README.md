@@ -22,33 +22,23 @@ Last Update: 2018-06-04
 ----------
 ## featuring
 
+- https://github.com/haruosuz/DS4GD/tree/master/2018
 - https://github.com/haruosuz/microbe/blob/master/references/README.2018.md
 - https://github.com/haruosuz/microbe/blob/master/references/README.papers.md
 - https://github.com/haruosuz/microbe
-- https://github.com/haruosuz/DS4GD/tree/master/2018
 - https://github.com/haruosuz/evolve
 - https://github.com/haruosuz/metasub
-
 - https://twitter.com/hashtag/TokyoR
 - https://twitter.com/TokyoRCommunity
-
-https://tokyor.connpass.com/event/92522/
-第71回R勉強会@東京（#TokyoR） - connpass
-2018/07/15(Sun)
-14:30 〜 20:30
-ヤフー株式会社
-東京都千代田区紀尾井町1-3 (東京ガーデンテラス紀尾井町 紀尾井タワー)
-
-https://twitter.com/i/moments/1009459439416442880
-第71回 #TokyoR に関するお知らせ
-7/15(日)開催
-ゲストにHadley Wickham氏、Joseph Rickert氏
 
 ----------
 
 ## updates
 
 ## 2018
+
+https://togetter.com/li/1247155
+第71回R勉強会@東京まとめ - Togetter
 
 ### 2018-07
 
