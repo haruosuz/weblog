@@ -33,6 +33,16 @@ Last Update: 2018-06-04
 
 ----------
 
+http://www.maff.go.jp/j/syouan/nouan/carta/about/
+カルタヘナ法とは：農林水産省
+
+http://www.biodic.go.jp/bch/cartagena/index.html
+ご存知ですか?カルタヘナ法
+
+https://www.weblio.jp/content/カルタヘナ法
+
+----------
+
 ## updates
 
 ## 2018
