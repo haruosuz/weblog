@@ -31,6 +31,8 @@ Last Update: 2018-06-04
 - https://twitter.com/hashtag/TokyoR
 - https://twitter.com/TokyoRCommunity
 
+http://schaechter.asmblog.org/schaechter/2017/01/do-bacterial-species-really-exist-and-why-should-we-care.html
+
 ----------
 
 http://www.maff.go.jp/j/syouan/nouan/carta/about/
