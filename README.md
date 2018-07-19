@@ -34,6 +34,20 @@ Last Update: 2018-06-04
 http://schaechter.asmblog.org/schaechter/2017/01/do-bacterial-species-really-exist-and-why-should-we-care.html
 
 ----------
+## books
+
+http://gihyo.jp/book/2018/978-4-7741-9853-8/support
+サポートページ：RユーザのためのRStudio［実践］入門 ―tidyverseによるモダンな分析フローの世界―：｜技術評論社
+
+2018年6月29日
+http://gihyo.jp/book/2018/978-4-7741-9853-8
+RユーザのためのRStudio［実践］入門 ―tidyverseによるモダンな分析フローの世界―：書籍案内｜技術評論社
+
+https://y-mattu.hatenablog.com/entry/2018/06/04/185922
+RユーザのためのRStudio[実践]入門 という本が出ます。 - ★データ解析備忘録★
+
+
+----------
 
 http://www.maff.go.jp/j/syouan/nouan/carta/about/
 カルタヘナ法とは：農林水産省
