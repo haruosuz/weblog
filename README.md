@@ -36,16 +36,16 @@ http://schaechter.asmblog.org/schaechter/2017/01/do-bacterial-species-really-exi
 ----------
 ## books
 
-http://gihyo.jp/book/2018/978-4-7741-9853-8/support
-サポートページ：RユーザのためのRStudio［実践］入門 ―tidyverseによるモダンな分析フローの世界―：｜技術評論社
 
 2018年6月29日
 http://gihyo.jp/book/2018/978-4-7741-9853-8
 RユーザのためのRStudio［実践］入門 ―tidyverseによるモダンな分析フローの世界―：書籍案内｜技術評論社
 
+http://gihyo.jp/book/2018/978-4-7741-9853-8/support
+サポートページ：RユーザのためのRStudio［実践］入門 ―tidyverseによるモダンな分析フローの世界―：｜技術評論社
+
 https://y-mattu.hatenablog.com/entry/2018/06/04/185922
 RユーザのためのRStudio[実践]入門 という本が出ます。 - ★データ解析備忘録★
-
 
 ----------
 
@@ -62,6 +62,10 @@ https://www.weblio.jp/content/カルタヘナ法
 ## updates
 
 ## 2018
+
+https://twitter.com/barasan24/status/1019612054112460801
+YOTTE in the BED on Twitter: "気象庁のオープンデータも豊富。 暑いと言われている今年の夏は本当に暑いのか。可視化してみました。 データ作りにかかる時間が９割。データが使える形で揃ってると幸せになれます。DBたいせつ。 #Tableau #TableauPublic #visualization #BI https://t.co/H5Jt70b4Hh… https://t.co/cTAQRIX38C"
+11:57 AM - 18 Jul 2018
 
 https://togetter.com/li/1247155
 第71回R勉強会@東京まとめ - Togetter
