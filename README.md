@@ -34,8 +34,17 @@ Last Update: 2018-06-04
 http://schaechter.asmblog.org/schaechter/2017/01/do-bacterial-species-really-exist-and-why-should-we-care.html
 
 ----------
-## books
 
+http://www.maff.go.jp/j/syouan/nouan/carta/about/
+カルタヘナ法とは：農林水産省
+
+http://www.biodic.go.jp/bch/cartagena/index.html
+ご存知ですか?カルタヘナ法
+
+https://www.weblio.jp/content/カルタヘナ法
+
+----------
+## books
 
 2018年6月29日
 http://gihyo.jp/book/2018/978-4-7741-9853-8
@@ -49,19 +58,13 @@ RユーザのためのRStudio[実践]入門 という本が出ます。 - ★デ
 
 ----------
 
-http://www.maff.go.jp/j/syouan/nouan/carta/about/
-カルタヘナ法とは：農林水産省
-
-http://www.biodic.go.jp/bch/cartagena/index.html
-ご存知ですか?カルタヘナ法
-
-https://www.weblio.jp/content/カルタヘナ法
-
-----------
-
 ## updates
 
 ## 2018
+
+https://twitter.com/Auf_Jugendtraum/status/1020528001300115456
+Dr. KID on Twitter: "土曜は疫学について語ります。 今回はメタ解析の導入編です。 / “システマティック・レビューとメタ解析について①　〜イントロ編〜 - ドクター・キッド” https://t.co/gWAwsKCkOJ"
+9:58 PM - 20 Jul 2018
 
 https://twitter.com/barasan24/status/1019612054112460801
 YOTTE in the BED on Twitter: "気象庁のオープンデータも豊富。 暑いと言われている今年の夏は本当に暑いのか。可視化してみました。 データ作りにかかる時間が９割。データが使える形で揃ってると幸せになれます。DBたいせつ。 #Tableau #TableauPublic #visualization #BI https://t.co/H5Jt70b4Hh… https://t.co/cTAQRIX38C"
