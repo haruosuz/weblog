@@ -62,7 +62,7 @@ RユーザのためのRStudio[実践]入門 という本が出ます。 - ★デ
 
 ## 2018
 
-https://twitter.com/Auf_Jugendtraum/status/1020528001300115456
+https://twitter.com/Dr_KID_/status/1020488169005826048
 Dr. KID on Twitter: "土曜は疫学について語ります。 今回はメタ解析の導入編です。 / “システマティック・レビューとメタ解析について①　〜イントロ編〜 - ドクター・キッド” https://t.co/gWAwsKCkOJ"
 9:58 PM - 20 Jul 2018
 
