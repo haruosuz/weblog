@@ -21,7 +21,8 @@ Last Update: 2018-06-04
 
 ----------
 ## featuring
-
+- https://sfcclip.net/bus/
+- https://github.com/haruosuz/plasmids/blob/master/references/README.md
 - https://github.com/haruosuz/DS4GD/tree/master/2018
 - https://github.com/haruosuz/microbe/blob/master/references/README.2018.md
 - https://github.com/haruosuz/microbe/blob/master/references/README.papers.md
