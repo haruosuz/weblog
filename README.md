@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2018-06-04
+Last Update: 2018-07
 
 ----------
 
@@ -10,10 +10,10 @@ Last Update: 2018-06-04
 - [updates](#updates)
   - [2018](#2018)
   - [2017](#2017)
-  - [2016](#2016)
+- [books](#books)
 - [people](#people)
   - [leeswijzer](#leeswijzer) MINAKA Nobuhiro
-  - [yusuke_tsugawa](#yusuke_tsugawa)
+  - [yusuke_tsugawa](#yusuke-tsugawa)
 - [unclassified](#unclassified)
 - [sfc](#sfc)
 - [robust](#robust)
@@ -34,34 +34,18 @@ Last Update: 2018-06-04
 
 http://schaechter.asmblog.org/schaechter/2017/01/do-bacterial-species-really-exist-and-why-should-we-care.html
 
-----------
-
-http://www.maff.go.jp/j/syouan/nouan/carta/about/
-カルタヘナ法とは：農林水産省
-
-http://www.biodic.go.jp/bch/cartagena/index.html
-ご存知ですか?カルタヘナ法
-
-https://www.weblio.jp/content/カルタヘナ法
-
-----------
-## books
-
-2018年6月29日
-http://gihyo.jp/book/2018/978-4-7741-9853-8
-RユーザのためのRStudio［実践］入門 ―tidyverseによるモダンな分析フローの世界―：書籍案内｜技術評論社
-
-http://gihyo.jp/book/2018/978-4-7741-9853-8/support
-サポートページ：RユーザのためのRStudio［実践］入門 ―tidyverseによるモダンな分析フローの世界―：｜技術評論社
-
-https://y-mattu.hatenablog.com/entry/2018/06/04/185922
-RユーザのためのRStudio[実践]入門 という本が出ます。 - ★データ解析備忘録★
+https://www.keio.ac.jp/ja/press-releases/2018/7/9/28-45182/
+｢世界一空気のきれいな地下鉄｣を志向した新規空気清浄技術を開発する 産学連携プロジェクトを開始 －地下鉄駅構内における実地調査はじまる－：[慶應義塾]
 
 ----------
 
 ## updates
 
 ## 2018
+
+https://twitter.com/thehauer/status/1021179403680862218
+I didn't think my "start-up" document for my grad students (the resources I wish *I* had when I started a PhD) would prove to be so popular, so I figured I would share them here. So, here's what I've compiled so far. #hiddencurriculum 1/12
+7:45 PM - 22 Jul 2018
 
 https://twitter.com/Dr_KID_/status/1020488169005826048
 Dr. KID on Twitter: "土曜は疫学について語ります。 今回はメタ解析の導入編です。 / “システマティック・レビューとメタ解析について①　〜イントロ編〜 - ドクター・キッド” https://t.co/gWAwsKCkOJ"
@@ -175,6 +159,19 @@ http://sciencebook.blog110.fc2.com/blog-entry-2149.html
 http://www.c.u-tokyo.ac.jp/info/about/history/dean/2013-2015/h27.3.25ishii.html
 平成26年度　教養学部学位記伝達式　式辞 - 総合情報 - 総合情報
 善意のコピペや無自覚なリツイートは時として、悪意の虚偽よりも人を迷わせます。そしてあやふやな情報がいったん真実の衣を着せられて世間に流布してしまうと、もはや誰も直接資料にあたって真偽のほどを確かめようとはしなくなります。
+
+----------
+## books
+
+2018年6月29日
+http://gihyo.jp/book/2018/978-4-7741-9853-8
+RユーザのためのRStudio［実践］入門 ―tidyverseによるモダンな分析フローの世界―：書籍案内｜技術評論社
+
+http://gihyo.jp/book/2018/978-4-7741-9853-8/support
+サポートページ：RユーザのためのRStudio［実践］入門 ―tidyverseによるモダンな分析フローの世界―：｜技術評論社
+
+https://y-mattu.hatenablog.com/entry/2018/06/04/185922
+RユーザのためのRStudio[実践]入門 という本が出ます。 - ★データ解析備忘録★
 
 ----------
 
@@ -495,6 +492,16 @@ Cobra Kai Ep 1 - “Ace Degenerate” - The Karate Kid Saga Continues - YouTube
 https://ja.wikipedia.org/wiki/Tf-idf
 tf-idfは、文書中に含まれる単語の重要度を評価する手法の1つであり、主に情報検索やトピック分析などの分野で用いられている。
 
+
+----------
+
+http://www.maff.go.jp/j/syouan/nouan/carta/about/
+カルタヘナ法とは：農林水産省
+
+http://www.biodic.go.jp/bch/cartagena/index.html
+ご存知ですか?カルタヘナ法
+
+https://www.weblio.jp/content/カルタヘナ法
 
 
 ----------
