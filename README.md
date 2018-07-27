@@ -43,6 +43,9 @@ AMR対策 臨床セミナー in 横浜のお知らせ【7月28日開催】 | お
 
 http://schaechter.asmblog.org/schaechter/2017/01/do-bacterial-species-really-exist-and-why-should-we-care.html
 
+http://yumulog.hatenablog.com/entry/2016/09/19/011833
+「なぜあなたの研究は進まないのか?」「なぜあなたは論文が書けないのか?」の2冊が素晴らしかった - yumulog | 社会人博士の日記
+
 https://www.keio.ac.jp/ja/press-releases/2018/7/9/28-45182/
 ｢世界一空気のきれいな地下鉄｣を志向した新規空気清浄技術を開発する 産学連携プロジェクトを開始 －地下鉄駅構内における実地調査はじまる－：[慶應義塾]
 
