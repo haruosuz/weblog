@@ -21,6 +21,15 @@ Last Update: 2018-07
 
 ----------
 ## featuring
+
+- https://twitter.com/AMRCRC_JAPAN
+
+http://amr.ncgm.go.jp/information/20180612_2.html
+AMR対策 臨床セミナー in 横浜のお知らせ【7月28日開催】 | お知らせ・更新情報 | かしこく治して、明日につなぐ～抗菌薬を上手に使ってAMR対策～
+日 程：2018年7月28日 (土) 16:00開演（開場 15:30）
+会 場：TKPガーデンシティPREMIUM みなとみらい ホールG
+神奈川県横浜市西区みなとみらい3-6-3 MMパークビル 5F
+
 - https://sfcclip.net/bus/
 - https://github.com/haruosuz/plasmids/blob/master/references/README.md
 - https://github.com/haruosuz/DS4GD/tree/master/2018
@@ -41,15 +50,9 @@ https://www.keio.ac.jp/ja/press-releases/2018/7/9/28-45182/
 
 ## updates
 
-### 2018-07
-
-http://amr.ncgm.go.jp/information/20180612_2.html
-AMR対策 臨床セミナー in 横浜のお知らせ【7月28日開催】 | お知らせ・更新情報 | かしこく治して、明日につなぐ～抗菌薬を上手に使ってAMR対策～
-日 程：2018年7月28日 (土) 16:00開演（開場 15:30）
-会 場：TKPガーデンシティPREMIUM みなとみらい ホールG
-神奈川県横浜市西区みなとみらい3-6-3 MMパークビル 5F
-
 ## 2018
+
+### 2018-07
 
 https://twitter.com/thehauer/status/1021179403680862218
 I didn't think my "start-up" document for my grad students (the resources I wish *I* had when I started a PhD) would prove to be so popular, so I figured I would share them here. So, here's what I've compiled so far. #hiddencurriculum 1/12
