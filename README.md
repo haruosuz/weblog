@@ -13,7 +13,7 @@ Last Update: 2018-07
 - [books](#books)
 - [people](#people)
   - [leeswijzer](#leeswijzer) MINAKA Nobuhiro
-  - [yusuke_tsugawa](#yusuke-tsugawa)
+  - [yusuke_tsugawa](#yusuke_tsugawa)
 - [unclassified](#unclassified)
 - [sfc](#sfc)
 - [robust](#robust)
@@ -48,6 +48,9 @@ http://yumulog.hatenablog.com/entry/2016/09/19/011833
 
 https://www.keio.ac.jp/ja/press-releases/2018/7/9/28-45182/
 ｢世界一空気のきれいな地下鉄｣を志向した新規空気清浄技術を開発する 産学連携プロジェクトを開始 －地下鉄駅構内における実地調査はじまる－：[慶應義塾]
+
+https://twitter.com/3Bgoripachi/status/1012128869497753600
+ゴリぱち on Twitter: "学会用ポスターを作るときに、参考にしている資料です。 とても分かりやすくて、おすすめです。 https://t.co/8IkdlQAlLg… "
 
 ----------
 
@@ -439,11 +442,10 @@ http://hikaru1122.hatenadiary.jp/entry/ronbun-no-yomikata
 効率的な論文の読み方とは？　論文の読み方を知るための論文 - Knowledge As Practice
 
 
+
+
+
 ----------
-
-https://twitter.com/3Bgoripachi/status/1012128869497753600
-ゴリぱち on Twitter: "学会用ポスターを作るときに、参考にしている資料です。 とても分かりやすくて、おすすめです。 https://t.co/8IkdlQAlLg… "
-
 
 https://twitter.com/tonets/status/1010321829502676993
 大上雅史／猫じゃら氏 on Twitter: "英語論文を書く上でお世話になっている５つのウェブサイト ①Google翻訳 ②ALC英辞郎 on the WEB (Pro) ③Hyper Collocation - arXiv論文英語コロケーションDB https://t.co/DCH7C98LBm ④inMeXes - 逐次PubMed表現検索 https://t.co/86FjTdmGhN ⑤Academic Phrasebank https://t.co/sCaYaun6ij"
