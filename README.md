@@ -22,13 +22,6 @@ Last Update: 2018-07
 ----------
 ## featuring
 
-- https://twitter.com/AMRCRC_JAPAN
-
-http://amr.ncgm.go.jp/information/20180612_2.html
-AMR対策 臨床セミナー in 横浜のお知らせ【7月28日開催】 | お知らせ・更新情報 | かしこく治して、明日につなぐ～抗菌薬を上手に使ってAMR対策～
-日 程：2018年7月28日 (土) 16:00開演（開場 15:30）
-会 場：TKPガーデンシティPREMIUM みなとみらい ホールG
-神奈川県横浜市西区みなとみらい3-6-3 MMパークビル 5F
 
 - https://sfcclip.net/bus/
 - https://github.com/haruosuz/plasmids/blob/master/references/README.md
@@ -59,6 +52,10 @@ https://twitter.com/3Bgoripachi/status/1012128869497753600
 ## 2018
 
 ### 2018-07
+
+https://twitter.com/f_nisihara/status/1023346586032558080
+Fumiaki Nishihara（西原史暁） on Twitter: "学術論文のビックデータ分析の結果から、男女格差を見いだした論文の紹介。 - 日本は科学技術分野でも男女格差がヤバすぎる https://t.co/Un74IrRn7G"
+7:16 PM - 28 Jul 2018
 
 https://twitter.com/thehauer/status/1021179403680862218
 I didn't think my "start-up" document for my grad students (the resources I wish *I* had when I started a PhD) would prove to be so popular, so I figured I would share them here. So, here's what I've compiled so far. #hiddencurriculum 1/12
