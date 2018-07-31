@@ -77,11 +77,6 @@ Stephen Turner on Twitter: "Using summary statistics to determine whether a non-
 9:30 AM - 31 Jul 2018
 https://blog.usejournal.com/using-summary-statistics-to-determine-whether-a-non-significant-result-supports-the-absence-of-an-1ff61e97f7cf
 
-
-https://twitter.com/f_nisihara/status/1023346586032558080
-Fumiaki Nishihara（西原史暁） on Twitter: "学術論文のビックデータ分析の結果から、男女格差を見いだした論文の紹介。 - 日本は科学技術分野でも男女格差がヤバすぎる https://t.co/Un74IrRn7G"
-7:16 PM - 28 Jul 2018
-
 https://twitter.com/thehauer/status/1021179403680862218
 I didn't think my "start-up" document for my grad students (the resources I wish *I* had when I started a PhD) would prove to be so popular, so I figured I would share them here. So, here's what I've compiled so far. #hiddencurriculum 1/12
 7:45 PM - 22 Jul 2018
@@ -89,6 +84,17 @@ I didn't think my "start-up" document for my grad students (the resources I wish
 https://twitter.com/Dr_KID_/status/1020488169005826048
 Dr. KID on Twitter: "土曜は疫学について語ります。 今回はメタ解析の導入編です。 / “システマティック・レビューとメタ解析について①　〜イントロ編〜 - ドクター・キッド” https://t.co/gWAwsKCkOJ"
 9:58 PM - 20 Jul 2018
+
+https://twitter.com/Dr_KID_/status/1022981447416598528
+Dr. KID on Twitter: "土曜日は疫学の日。 今回はシステマティックレビューとメタ解析において、どのように仮設をたて、文献検索をするのか、説明してみました。 論文をチェリーピッキングしないために、系統だって評価する必要があります。 https://t.co/9CoAHDceek"
+7:05 PM - 27 Jul 2018
+http://www.dr-kid.net/entry/2018/07/28/システマティック・レビューとメタ解析について②_
+
+https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md#meta-analysis
+
+https://twitter.com/f_nisihara/status/1023346586032558080
+Fumiaki Nishihara（西原史暁） on Twitter: "学術論文のビックデータ分析の結果から、男女格差を見いだした論文の紹介。 - 日本は科学技術分野でも男女格差がヤバすぎる https://t.co/Un74IrRn7G"
+7:16 PM - 28 Jul 2018
 
 https://twitter.com/barasan24/status/1019612054112460801
 YOTTE in the BED on Twitter: "気象庁のオープンデータも豊富。 暑いと言われている今年の夏は本当に暑いのか。可視化してみました。 データ作りにかかる時間が９割。データが使える形で揃ってると幸せになれます。DBたいせつ。 #Tableau #TableauPublic #visualization #BI https://t.co/H5Jt70b4Hh… https://t.co/cTAQRIX38C"
