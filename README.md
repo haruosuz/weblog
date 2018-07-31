@@ -89,10 +89,6 @@ https://twitter.com/Dr_KID_/status/1022981447416598528
 Dr. KID on Twitter: "土曜日は疫学の日。 今回はシステマティックレビューとメタ解析において、どのように仮設をたて、文献検索をするのか、説明してみました。 論文をチェリーピッキングしないために、系統だって評価する必要があります。 https://t.co/9CoAHDceek"
 7:05 PM - 27 Jul 2018
 
-http://www.dr-kid.net/entry/2018/07/28/
-
-http://www.dr-kid.net/entry/2018/07/28/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%9E%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC%E3%81%A8%E3%83%A1%E3%82%BF%E8%A7%A3%E6%9E%90%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6%E2%91%A1_
-
 https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md#meta-analysis
 
 https://twitter.com/f_nisihara/status/1023346586032558080
