@@ -201,12 +201,6 @@ http://cse.naro.affrc.go.jp/minaka/cladist/cladist-top.html
 
 第188回農林交流センターワークショップ〈分子系統学の理論と実習〉2014年11月5日（水）〜7日（金），stamboom｜Togetter
 
-http://d.hatena.ne.jp/shorebird/20180610
-書評　「統計思考の世界」 - shorebird　進化心理学中心の書評など
-
-https://note.mu/leeswijzer/n/ne827077ad556
-姉妹本3冊を書き終えて｜leeswijzer｜note
-
 http://leeswijzer.hatenablog.com/entry/2016/09/10/102132
 「種問題」ははてしなく続く - archief voor stambomen
 
@@ -220,6 +214,19 @@ http://keisobiblio.com/wp/wp-content/uploads/2018/04/keitotaikeigaku_tachiyomi.p
 Feb 22, 2017
 https://www.youtube.com/watch?v=PYLukN7xUcU
 WIAD2017 Tokyo―― 1. ダイアグラム思考—分類と系統の世界観—：三中信宏氏 - YouTube
+
+
+http://d.hatena.ne.jp/shorebird/20180610
+書評　「統計思考の世界」 - shorebird　進化心理学中心の書評など
+
+https://note.mu/leeswijzer/n/ne827077ad556
+姉妹本3冊を書き終えて｜leeswijzer｜note
+
+http://gihyo.jp/book/2018/978-4-7741-9753-1
+統計思考の世界 ～曼荼羅で読み解くデータ解析の基礎：書籍案内｜技術評論社
+目次
+http://gihyo.jp/book/2018/978-4-7741-9753-1#toc
+第11講　統計モデル選択論：統計学的アブダクションのために
 
 http://www.agr.kyushu-u.ac.jp/lab/entomology/news-report_010.html
 農業生物資源学特論第五（講師：三中信宏博士）の講義ビデオの公開
@@ -236,8 +243,11 @@ https://www.youtube.com/watch?v=6WgsOO_brQ4
 https://www.youtube.com/watch?v=QYT4BJwpSDg
 3.形質データ行列の作成と分岐分析の演習 ／ 生物統計学概論（1）：統計モデル選択と計算統計学（三中 信宏 先生）
 
-https://www.youtube.com/watch?v=0HfJpfJH-co
-4.生物統計学概論（1）：統計モデル選択と計算統計学（三中 信宏 先生）
+https://www.youtube.com/watch?v=0HfJpfJH-co&feature=youtu.be
+4.生物統計学概論（1）：統計モデル選択と計算統計学（三中 信宏 先生） - YouTube
+1:25:00
+
+51:15 線形統計モデル（LM）への入り口
 
 http://www.math.wm.edu/~leemis/chart/UDR/UDR.html
 Univariate Distribution Relationship Chart
