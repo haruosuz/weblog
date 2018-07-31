@@ -22,7 +22,6 @@ Last Update: 2018-07
 ----------
 ## featuring
 
-
 - https://sfcclip.net/bus/
 - https://github.com/haruosuz/plasmids/blob/master/references/README.md
 - https://github.com/haruosuz/DS4GD/tree/master/2018
@@ -51,7 +50,33 @@ https://twitter.com/3Bgoripachi/status/1012128869497753600
 
 ## 2018
 
+### 2018-08
+
+日本進化学会■第20回　東京大会（2018年8月22～25日予定 東京大学駒場キャンパス） http://darwin.c.u-tokyo.ac.jp/sesj2018/
+
+https://www.yodosha.co.jp/kakenhi/index.html
+科研費獲得の方法とコツ　改訂第6版
+実例とポイントでわかる申請書の書き方と応募戦略
+児島将康／著
+B5判 277頁 ISBN978-4-7581-2088-3
+定価（本体3,800円＋税）
+2018年8月7日発行予定
+
+https://twitter.com/a_symap/status/1013667527027666944
+Masato S. Abe on Twitter: "【お知らせ】8月29日(水) - 31日(金)に統計数理研究所において複雑ネットワークに関する研究会 ”ネットワーク科学セミナー2018" を開催します。現在、ポスター講演者および聴講者を募っております。詳しくは下記HPをご覧下さい。https://t.co/jV3W6gKNC1"
+
+http://mizutaka.sci.ibaraki.ac.jp/seminar2018/seminar2018.html
+Network Science Seminar2018
+ネットワーク科学セミナー2018 
+2018年8月29日-8月31日の3日間、統計数理研究所において"ネットワーク科学セミナー2018" を開催します。
+
 ### 2018-07
+
+https://twitter.com/strnr/status/1024286159747342336
+Stephen Turner on Twitter: "Using summary statistics to determine whether a non-significant result supports the absence of an effect https://t.co/SeuzU8atpt… https://t.co/Q8dapoaQh7"
+9:30 AM - 31 Jul 2018
+https://blog.usejournal.com/using-summary-statistics-to-determine-whether-a-non-significant-result-supports-the-absence-of-an-1ff61e97f7cf
+
 
 https://twitter.com/f_nisihara/status/1023346586032558080
 Fumiaki Nishihara（西原史暁） on Twitter: "学術論文のビックデータ分析の結果から、男女格差を見いだした論文の紹介。 - 日本は科学技術分野でも男女格差がヤバすぎる https://t.co/Un74IrRn7G"
@@ -69,20 +94,13 @@ https://twitter.com/barasan24/status/1019612054112460801
 YOTTE in the BED on Twitter: "気象庁のオープンデータも豊富。 暑いと言われている今年の夏は本当に暑いのか。可視化してみました。 データ作りにかかる時間が９割。データが使える形で揃ってると幸せになれます。DBたいせつ。 #Tableau #TableauPublic #visualization #BI https://t.co/H5Jt70b4Hh… https://t.co/cTAQRIX38C"
 11:57 AM - 18 Jul 2018
 
+2018/07/15(Sun)
 https://togetter.com/li/1247155
 第71回R勉強会@東京まとめ - Togetter
 
-### 2018-08
-
-https://twitter.com/a_symap/status/1013667527027666944
-Masato S. Abe on Twitter: "【お知らせ】8月29日(水) - 31日(金)に統計数理研究所において複雑ネットワークに関する研究会 ”ネットワーク科学セミナー2018" を開催します。現在、ポスター講演者および聴講者を募っております。詳しくは下記HPをご覧下さい。https://t.co/jV3W6gKNC1"
-
-http://mizutaka.sci.ibaraki.ac.jp/seminar2018/seminar2018.html
-Network Science Seminar2018
-ネットワーク科学セミナー2018 
-2018年8月29日-8月31日の3日間、統計数理研究所において"ネットワーク科学セミナー2018" を開催します。
-
-日本進化学会■第20回　東京大会（2018年8月22～25日予定 東京大学駒場キャンパス） http://darwin.c.u-tokyo.ac.jp/sesj2018/
+2018年7月13日
+http://team1mile.com/sjpr61-1/
+特集「統計革命」 | Make Statistics Great Again
 
 ### 2018-09
 
