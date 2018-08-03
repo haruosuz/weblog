@@ -41,6 +41,8 @@ http://yumulog.hatenablog.com/entry/2016/09/19/011833
 https://twitter.com/3Bgoripachi/status/1012128869497753600
 ゴリぱち on Twitter: "学会用ポスターを作るときに、参考にしている資料です。 とても分かりやすくて、おすすめです。 https://t.co/8IkdlQAlLg… "
 
+https://twitter.com/search?q=科学論文にご用心、大半は誤り%20専門家が警鐘
+
 ----------
 
 ## updates
@@ -49,6 +51,7 @@ https://twitter.com/3Bgoripachi/status/1012128869497753600
 
 ### 2018-08
 
+http://www.plasmidbiologysociety.org/plasmid-biology-2018/
 https://uw.cloud-cme.com/Ap2.aspx?EID=5866&P=5
 Plasmid Biology 2018 in Seattle, August 5-9.
 
