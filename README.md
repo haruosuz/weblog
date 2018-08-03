@@ -22,7 +22,6 @@ Last Update: 2018-07
 ----------
 ## featuring
 
-- https://sfcclip.net/bus/
 - https://github.com/haruosuz/plasmids/blob/master/references/README.md
 - https://github.com/haruosuz/DS4GD/tree/master/2018
 - https://github.com/haruosuz/microbe/blob/master/references/README.2018.md
@@ -43,6 +42,19 @@ https://twitter.com/3Bgoripachi/status/1012128869497753600
 
 https://twitter.com/search?q=科学論文にご用心、大半は誤り%20専門家が警鐘
 
+
+----------
+
+## sfc
+
+- http://www.sfc.lib.keio.ac.jp/
+- https://sfcclip.net/bus/
+
+[[PDF]2017年度 秋学期授業カレンダー](https://www.sfc.keio.ac.jp/doc/2017f_calendar_170228.pdf)
+
+https://www.sfc.keio.ac.jp/gsmg/about/faculty/
+教員 | 慶應義塾大学大学院政策・メディア研究科
+
 ----------
 
 ## updates
@@ -54,6 +66,12 @@ https://twitter.com/search?q=科学論文にご用心、大半は誤り%20専門
 http://www.plasmidbiologysociety.org/plasmid-biology-2018/
 https://uw.cloud-cme.com/Ap2.aspx?EID=5866&P=5
 Plasmid Biology 2018 in Seattle, August 5-9.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30052170
+Microb Genom. 2018 Jul 27. doi: 10.1099/mgen.0.000206. [Epub ahead of print]
+MOB-suite: software tools for clustering, reconstruction and typing of plasmids from draft assemblies.
+Robertson J1, Nash JHE2.
+
 
 日本進化学会■第20回　東京大会（2018年8月22～25日予定 東京大学駒場キャンパス） http://darwin.c.u-tokyo.ac.jp/sesj2018/
 
@@ -329,28 +347,6 @@ http://medical.nikkeibp.co.jp/leaf/all/cadetto/tuusin/201709/552936.html
 2018.03.29
 http://college.nikkei.co.jp/article/112272017.html
 人生を経済学で考えよう（14）　小テストを行うなら、授業の前か後か｜慶應大学 中室牧子ゼミ｜日経カレッジカフェ | 大学生のためのキャリア支援メディア
-
-----------
-
-## sfc
-
-[[PDF]2017年度 秋学期授業カレンダー](https://www.sfc.keio.ac.jp/doc/2017f_calendar_170228.pdf)
-
-https://www.sfc.keio.ac.jp/gsmg/about/faculty/
-教員 | 慶應義塾大学大学院政策・メディア研究科
-
-https://sfcclip.net/2014/06/7032/
-喉の渇きを潤そう! SFCの自動販売機はここだ ∣ SFC CLIP
-
-https://sfcclip.net/2013/11/6720/
-メディアセンターでほっと一息 1階ラウンジに自動販売機が設置 ∣ SFC CLIP
-
-https://sfcclip.net/2009/07/838/
-暑い日も寒い日も24時間営業中! SFCの自動販売機25台 ∣ SFC CLIP
-
-
-https://twitter.com/who_me
-
 
 ----------
 
