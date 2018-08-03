@@ -38,9 +38,6 @@ http://schaechter.asmblog.org/schaechter/2017/01/do-bacterial-species-really-exi
 http://yumulog.hatenablog.com/entry/2016/09/19/011833
 「なぜあなたの研究は進まないのか?」「なぜあなたは論文が書けないのか?」の2冊が素晴らしかった - yumulog | 社会人博士の日記
 
-https://www.keio.ac.jp/ja/press-releases/2018/7/9/28-45182/
-｢世界一空気のきれいな地下鉄｣を志向した新規空気清浄技術を開発する 産学連携プロジェクトを開始 －地下鉄駅構内における実地調査はじまる－：[慶應義塾]
-
 https://twitter.com/3Bgoripachi/status/1012128869497753600
 ゴリぱち on Twitter: "学会用ポスターを作るときに、参考にしている資料です。 とても分かりやすくて、おすすめです。 https://t.co/8IkdlQAlLg… "
 
@@ -51,6 +48,9 @@ https://twitter.com/3Bgoripachi/status/1012128869497753600
 ## 2018
 
 ### 2018-08
+
+https://uw.cloud-cme.com/Ap2.aspx?EID=5866&P=5
+Plasmid Biology 2018 in Seattle, August 5-9.
 
 日本進化学会■第20回　東京大会（2018年8月22～25日予定 東京大学駒場キャンパス） http://darwin.c.u-tokyo.ac.jp/sesj2018/
 
