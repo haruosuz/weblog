@@ -22,20 +22,20 @@ Last Update: 2018-07
 ----------
 ## featuring
 
-- https://github.com/haruosuz/plasmids/blob/master/references/README.md
-- https://github.com/haruosuz/DS4GD/tree/master/2018
-- https://github.com/haruosuz/microbe/blob/master/references/README.2018.md
-- https://github.com/haruosuz/microbe/blob/master/references/README.papers.md
-- https://github.com/haruosuz/microbe
+
+- https://github.com/haruosuz/plasmids
 - https://github.com/haruosuz/evolve
+- https://github.com/haruosuz/microbe
 - https://github.com/haruosuz/metasub
-- https://twitter.com/hashtag/TokyoR
-- https://twitter.com/TokyoRCommunity
 
-http://schaechter.asmblog.org/schaechter/2017/01/do-bacterial-species-really-exist-and-why-should-we-care.html
+http://www.plasmidbiologysociety.org/plasmid-biology-2018/
+https://uw.cloud-cme.com/Ap2.aspx?EID=5866&P=5
+Plasmid Biology 2018 in Seattle, August 5-9.
 
-http://yumulog.hatenablog.com/entry/2016/09/19/011833
-「なぜあなたの研究は進まないのか?」「なぜあなたは論文が書けないのか?」の2冊が素晴らしかった - yumulog | 社会人博士の日記
+https://www.ncbi.nlm.nih.gov/pubmed/30052170
+Microb Genom. 2018 Jul 27. doi: 10.1099/mgen.0.000206. [Epub ahead of print]
+MOB-suite: software tools for clustering, reconstruction and typing of plasmids from draft assemblies.
+Robertson J1, Nash JHE2.
 
 https://twitter.com/3Bgoripachi/status/1012128869497753600
 ゴリぱち on Twitter: "学会用ポスターを作るときに、参考にしている資料です。 とても分かりやすくて、おすすめです。 https://t.co/8IkdlQAlLg… "
@@ -63,14 +63,21 @@ https://www.sfc.keio.ac.jp/gsmg/about/faculty/
 
 ### 2018-08
 
-http://www.plasmidbiologysociety.org/plasmid-biology-2018/
-https://uw.cloud-cme.com/Ap2.aspx?EID=5866&P=5
-Plasmid Biology 2018 in Seattle, August 5-9.
+2018-08-02
+http://gendai.ismedia.jp/articles/-/56608
+『種の起源』から約160年……まだ「種」が定義できないってマジ？（山田 俊弘） | ブルーバックス | 講談社（1/3）
 
-https://www.ncbi.nlm.nih.gov/pubmed/30052170
-Microb Genom. 2018 Jul 27. doi: 10.1099/mgen.0.000206. [Epub ahead of print]
-MOB-suite: software tools for clustering, reconstruction and typing of plasmids from draft assemblies.
-Robertson J1, Nash JHE2.
+http://schaechter.asmblog.org/schaechter/2017/01/do-bacterial-species-really-exist-and-why-should-we-care.html
+
+
+https://twitter.com/3Bgoripachi/status/1025225950902931456
+ゴリぱち on Twitter: "ゲノム解析を学びたい人にとって有益な情報が詰まっている記事でした。 「NGSデータから新たな知識を導出するためのデータ解析リテラシー」 https://t.co/t5GGcj7mNC"
+11:44 PM - 2 Aug 2018
+
+https://twitter.com/eyemiyake/status/1023007444669095936
+三宅正裕 MD, PhD, MPH @ 眼科 on Twitter: "eLIFE, 2018 ゲノムデータを操作変数として用いることで観察研究データから因果関係を評価するMendelian Randomization。そろそろやってみたいのでとりあえずこの論文で勉強しています
+臨床、ゲノム、疫学のいずれもに知見とデータがあるうちの強みにマッチしそう。 https://t.co/CMSPLf3Dfk"
+8:49 PM - 27 Jul 2018
 
 
 日本進化学会■第20回　東京大会（2018年8月22～25日予定 東京大学駒場キャンパス） http://darwin.c.u-tokyo.ac.jp/sesj2018/
@@ -454,48 +461,6 @@ Using Mahalanobis distance to compare genomic signatures between bacterial plasm
 
 We tested the robustness of our result that Mahalanobis distance performs better than the conventional δ-distance by varying chromosomal segment size, word size (e.g. tri- and tetra-nucleotides) (12,29,37) and composition of the host data set. Campbell et al. (11) and Wong et al. (20) used 50-kb chromosomal segments, while van Passel et al. (25) used plasmid-size chromosomal segments; that is, the segment size was not fixed but depended on the plasmid size. In the present study, we used a fixed segment size. We found that our results remained similar when partitioning chromosomal sequences into different sizes of segments; e.g. 2, 5, 10 and 20 kb in length (data not shown). Among these, 5 kb was selected because the median rank of the genomic signature similarities between plasmids and their known hosts was maximized. The results were also consistent with those obtained when using relative abundances of different word sizes (data not shown). We also demonstrated that our results were robust to the composition of the host data set by testing different subsets of bacteria, e.g. Proteobacteria, Firmicutes, Gram-positive bacteria, Gram-negative bacteria and also when only one representative was randomly selected in the case of species for which multiple strains have been sequenced (data not shown). Thus, Mahalanobis distance performed better than δ-distance in identifying plasmid hosts based on genomic signature similarity, regardless of the datasets used.
 
-
-----------
-
-http://lafrenze.hatenablog.com/entry/2015/08/04/120205
-高速で論文がバリバリ読める落合先生のフォーマットがいい感じだったのでメモ - 書架とラフレンツェ
-
-http://okatenari.com/2017/06/02/post-595/
-英語論文の読み方のコツはこれ！メーカーで研究職の僕が実践している方法 | 本日はおかてんなり
-
-https://rabotiku-sato.com/entry/2016/11/29/020928/
-【５分でわかる！】研究室での英語論文の読み方のコツ | ラボライブ！
-
-20150616
-http://hikaru1122.hatenadiary.jp/entry/ronbun-no-yomikata
-効率的な論文の読み方とは？　論文の読み方を知るための論文 - Knowledge As Practice
-
-
-
-
-
-----------
-
-https://twitter.com/tonets/status/1010321829502676993
-大上雅史／猫じゃら氏 on Twitter: "英語論文を書く上でお世話になっている５つのウェブサイト ①Google翻訳 ②ALC英辞郎 on the WEB (Pro) ③Hyper Collocation - arXiv論文英語コロケーションDB https://t.co/DCH7C98LBm ④inMeXes - 逐次PubMed表現検索 https://t.co/86FjTdmGhN ⑤Academic Phrasebank https://t.co/sCaYaun6ij"
-
-英語論文を書く上でお世話になっている５つのウェブサイト
-
-①Google翻訳
-②ALC英辞郎 on the WEB (Pro)
-③Hyper Collocation - arXiv論文英語コロケーションDB
-https://hypcol.marutank.net/ja/ 
-④inMeXes - 逐次PubMed表現検索
-http://docman.dbcls.jp/im/ 
-⑤Academic Phrasebank
-http://www.phrasebank.manchester.ac.uk/ 
-
-https://twitter.com/bonohu/status/1008150073484558337
-朝から世話になった “inMeXesは、#DBCLS のサービスで、生命科学系の文献(PubMedに含まれるタイトルとアブストラクト)に頻出する英語表現を、1文字の入力ごとに高速に再検索可能” #togotv / “inMeXe…”
-
-http://togotv.dbcls.jp/20180126.html
-inMeXesを使って文献に頻出する英語表現や関連語を高速に検索する 2018 統合TV(togotv)｜生命科学系DB・ツール使い倒し系チャンネル
-
 ----------
 ## link
 
@@ -547,6 +512,51 @@ http://www.biodic.go.jp/bch/cartagena/index.html
 ご存知ですか?カルタヘナ法
 
 https://www.weblio.jp/content/カルタヘナ法
+
+
+----------
+
+http://yumulog.hatenablog.com/entry/2016/09/19/011833
+「なぜあなたの研究は進まないのか?」「なぜあなたは論文が書けないのか?」の2冊が素晴らしかった - yumulog | 社会人博士の日記
+
+
+----------
+
+http://lafrenze.hatenablog.com/entry/2015/08/04/120205
+高速で論文がバリバリ読める落合先生のフォーマットがいい感じだったのでメモ - 書架とラフレンツェ
+
+http://okatenari.com/2017/06/02/post-595/
+英語論文の読み方のコツはこれ！メーカーで研究職の僕が実践している方法 | 本日はおかてんなり
+
+https://rabotiku-sato.com/entry/2016/11/29/020928/
+【５分でわかる！】研究室での英語論文の読み方のコツ | ラボライブ！
+
+20150616
+http://hikaru1122.hatenadiary.jp/entry/ronbun-no-yomikata
+効率的な論文の読み方とは？　論文の読み方を知るための論文 - Knowledge As Practice
+
+
+----------
+
+https://twitter.com/tonets/status/1010321829502676993
+大上雅史／猫じゃら氏 on Twitter: "英語論文を書く上でお世話になっている５つのウェブサイト ①Google翻訳 ②ALC英辞郎 on the WEB (Pro) ③Hyper Collocation - arXiv論文英語コロケーションDB https://t.co/DCH7C98LBm ④inMeXes - 逐次PubMed表現検索 https://t.co/86FjTdmGhN ⑤Academic Phrasebank https://t.co/sCaYaun6ij"
+
+英語論文を書く上でお世話になっている５つのウェブサイト
+
+①Google翻訳
+②ALC英辞郎 on the WEB (Pro)
+③Hyper Collocation - arXiv論文英語コロケーションDB
+https://hypcol.marutank.net/ja/ 
+④inMeXes - 逐次PubMed表現検索
+http://docman.dbcls.jp/im/ 
+⑤Academic Phrasebank
+http://www.phrasebank.manchester.ac.uk/ 
+
+https://twitter.com/bonohu/status/1008150073484558337
+朝から世話になった “inMeXesは、#DBCLS のサービスで、生命科学系の文献(PubMedに含まれるタイトルとアブストラクト)に頻出する英語表現を、1文字の入力ごとに高速に再検索可能” #togotv / “inMeXe…”
+
+http://togotv.dbcls.jp/20180126.html
+inMeXesを使って文献に頻出する英語表現や関連語を高速に検索する 2018 統合TV(togotv)｜生命科学系DB・ツール使い倒し系チャンネル
 
 
 ----------
