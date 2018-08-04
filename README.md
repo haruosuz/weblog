@@ -37,6 +37,12 @@ Microb Genom. 2018 Jul 27. doi: 10.1099/mgen.0.000206. [Epub ahead of print]
 MOB-suite: software tools for clustering, reconstruction and typing of plasmids from draft assemblies.
 Robertson J1, Nash JHE2.
 
+https://www.nig.ac.jp/jimu/soken/courses/OSC/contents/Q&A_j.pdf
+Q&Aを楽しもう!
+その1:質問をしよう
+その2:質問に答えよう
+
+
 https://twitter.com/3Bgoripachi/status/1012128869497753600
 ゴリぱち on Twitter: "学会用ポスターを作るときに、参考にしている資料です。 とても分かりやすくて、おすすめです。 https://t.co/8IkdlQAlLg… "
 
