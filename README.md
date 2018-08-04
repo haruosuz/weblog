@@ -23,14 +23,13 @@ Last Update: 2018-08
 ----------
 ## featuring
 
-
-- https://github.com/haruosuz/plasmids
 - https://github.com/haruosuz/evolve
-- https://github.com/haruosuz/microbe
 - https://github.com/haruosuz/metasub
-
-http://www.plasmidbiologysociety.org/plasmid-biology-2018/
-https://uw.cloud-cme.com/Ap2.aspx?EID=5866&P=5
+- https://github.com/haruosuz/microbe
+- https://github.com/haruosuz/plasmids
+- https://twitter.com/hashtag/plasmidseattle2018
+- http://www.plasmidbiologysociety.org/plasmid-biology-2018/
+- https://uw.cloud-cme.com/Ap2.aspx?EID=5866&P=5
 Plasmid Biology 2018 in Seattle, August 5-9.
 
 https://www.ncbi.nlm.nih.gov/pubmed/30052170
