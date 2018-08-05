@@ -56,6 +56,14 @@ https://twitter.com/search?q=科学論文にご用心、大半は誤り%20専門
 
 ### 2018-08
 
+2018-08-04
+https://qiita.com/antiplastics/items/add3f8438cbe6b2b594e
+どの生物種までGO解析ができるか
+
+https://twitter.com/philomyu/status/1025905138706206720
+西内啓 Hiromu Nishiuchi on Twitter: "告知失念しておりましたが、先日ハーバードの教授になられた今井耕介先生と対談イベントやって参りまして、個人的にもその内容がめっちゃ皆さんに見て頂く価値があると感じたのでムリ言って所属事務所のご縁辿って動画を編集・公開してもらいました！良ければご覧下さい！　https://t.co/GoTNmpBXfa"
+8:43 PM - 4 Aug 2018
+
 2018-08-02
 http://gendai.ismedia.jp/articles/-/56608
 『種の起源』から約160年……まだ「種」が定義できないってマジ？（山田 俊弘） | ブルーバックス | 講談社（1/3）
