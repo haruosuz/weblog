@@ -7,10 +7,10 @@ Last Update: 2018-08
 
 ## Table of Contents
 - [featuring](#featuring)
+- [books](#books)
 - [updates](#updates)
   - [2018](#2018)
   - [2017](#2017)
-- [books](#books)
 - [robust](#robust)
 - [sfc](#sfc)
 - [link](#link)
@@ -38,6 +38,42 @@ https://twitter.com/3Bgoripachi/status/1012128869497753600
 ゴリぱち on Twitter: "学会用ポスターを作るときに、参考にしている資料です。 とても分かりやすくて、おすすめです。 https://t.co/8IkdlQAlLg… "
 
 https://twitter.com/search?q=科学論文にご用心、大半は誤り%20専門家が警鐘
+
+----------
+## books
+
+2018-05-28
+http://hiro.asks.jp/100984.html
+『生命、エネルギー、進化』を読んだよ。 : ひろゆき＠オープンSNS
+んで、エピローグでは、2010年に日本のチームが原核生物と真核生物のどちらでもない生物を発見しちゃったりした話とか、
+
+2017年5月26日
+http://wedge.ismedia.jp/articles/-/9680
+「進化にエネルギーの視点を組み込む」という大胆な発想 『生命、エネルギー、進化』　WEDGE Infinity(ウェッジ)
+
+http://d.hatena.ne.jp/shorebird/20161231
+書評　「生命，エネルギー，進化」 - shorebird　進化心理学中心の書評など
+
+2016.12.30
+http://dain.cocolog-nifty.com/myblog/2016/12/post-d64f.html
+ニック・レーン『生命、エネルギー、進化』は難しかった: わたしが知らないスゴ本は、きっとあなたが読んでいる
+
+2016年10月07日
+http://honz.jp/articles/-/43409
+『生命、エネルギー、進化』この生物学の本にはぶっとんだ！　客員レビュー by ビル・ゲイツ - HONZ
+
+![](https://images-fe.ssl-images-amazon.com/images/I/41BAeoEgWEL.jpg)
+
+2018年6月29日
+http://gihyo.jp/book/2018/978-4-7741-9853-8
+RユーザのためのRStudio［実践］入門 ―tidyverseによるモダンな分析フローの世界―：書籍案内｜技術評論社
+
+http://gihyo.jp/book/2018/978-4-7741-9853-8/support
+サポートページ：RユーザのためのRStudio［実践］入門 ―tidyverseによるモダンな分析フローの世界―：｜技術評論社
+
+https://y-mattu.hatenablog.com/entry/2018/06/04/185922
+RユーザのためのRStudio[実践]入門 という本が出ます。 - ★データ解析備忘録★
+
 
 ----------
 
@@ -214,19 +250,6 @@ http://sciencebook.blog110.fc2.com/blog-entry-2149.html
 http://www.c.u-tokyo.ac.jp/info/about/history/dean/2013-2015/h27.3.25ishii.html
 平成26年度　教養学部学位記伝達式　式辞 - 総合情報 - 総合情報
 善意のコピペや無自覚なリツイートは時として、悪意の虚偽よりも人を迷わせます。そしてあやふやな情報がいったん真実の衣を着せられて世間に流布してしまうと、もはや誰も直接資料にあたって真偽のほどを確かめようとはしなくなります。
-
-----------
-## books
-
-2018年6月29日
-http://gihyo.jp/book/2018/978-4-7741-9853-8
-RユーザのためのRStudio［実践］入門 ―tidyverseによるモダンな分析フローの世界―：書籍案内｜技術評論社
-
-http://gihyo.jp/book/2018/978-4-7741-9853-8/support
-サポートページ：RユーザのためのRStudio［実践］入門 ―tidyverseによるモダンな分析フローの世界―：｜技術評論社
-
-https://y-mattu.hatenablog.com/entry/2018/06/04/185922
-RユーザのためのRStudio[実践]入門 という本が出ます。 - ★データ解析備忘録★
 
 ----------
 
