@@ -42,6 +42,12 @@ https://twitter.com/search?q=科学論文にご用心、大半は誤り%20専門
 ----------
 ## books
 
+発売予定日 2018年10月3日
+https://kaiin.hanmoto.com/bd/isbn/9784762830402
+たのしいベイズモデリング 豊田 秀樹(編著) - 北大路書房 | 版元ドットコム
+
+![](https://kaiin.hanmoto.com/bd/img/9784762830402.jpg)
+
 2018-05-28
 http://hiro.asks.jp/100984.html
 『生命、エネルギー、進化』を読んだよ。 : ひろゆき＠オープンSNS
