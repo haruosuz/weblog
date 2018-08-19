@@ -15,6 +15,7 @@ Last Update: 2018-08
 - [sfc](#sfc)
 - [link](#link)
 - [unclassified](#unclassified)
+- [network](#network)
 
 ----------
 ## featuring
@@ -42,6 +43,17 @@ https://kaiin.hanmoto.com/bd/isbn/9784762830402
 たのしいベイズモデリング 豊田 秀樹(編著) - 北大路書房 | 版元ドットコム
 
 ![](https://kaiin.hanmoto.com/bd/img/9784762830402.jpg)
+
+
+学校では教えてくれない本当のアメリカの歴史
+https://bookmeter.com/books/575246
+http://jbpress.ismedia.jp/articles/-/1678
+http://kocho-3.hatenablog.com/entry/2015/10/21/072519
+http://www.rin-5.net/501-750/533-america_history.htm
+https://www.amazon.co.jp/学校では教えてくれない本当のアメリカの歴史〈上〉1492-1901年-ハワード-ジン/dp/4751526111
+https://www.amazon.co.jp/学校では教えてくれない本当のアメリカの歴史〈下〉1901-2006年-ハワード-ジン/dp/475152612X
+https://plaza.rakuten.co.jp/ryu32/diary/201001260000/
+
 
 2018-05-28
 http://hiro.asks.jp/100984.html
@@ -537,7 +549,30 @@ More info: https://cran.r-project.org/web/packages/BiocManager/vignettes/BiocMan
 
 7:58 AM - 26 Jul 2018
 
+----------
 
+## network
+## co-occurrence network
+
+https://twitter.com/windowmoon/status/1028036551337373696
+窓月㌠・CC-BY on Twitter: "Co-occurrence network使って研究してる人たちはわかっててやってる(それでも意味はあるという考え)から問題ないと思うけど、聞いてる側はしばしばわかってない人がいそう。"
+5:53 PM - 10 Aug 2018
+
+https://twitter.com/leonorabit/status/1027559581440978945
+Leonora Bittleston on Twitter: "#ESA2018 @algaebarnacle finds that none of the co-occurrence network methods recover experimentally validated interactions - at most 6% correct"
+10:17 AM - 9 Aug 2018
+
+https://twitter.com/tksmiki/status/1011942385780076544
+三木健 on Twitter: "TDMとEDM組み合わせて、co-occurrence network does not imply anything about interactions at all っていう論文、誰か一緒に書きません？　まあ、1980年代に既に有るかもですが。"
+8:00 AM - 27 Jun 2018
+
+https://www.ncbi.nlm.nih.gov/pubmed/24637600
+Gut Microbes. 2014 Mar-Apr;5(2):265-70. doi: 10.4161/gmic.28261. Epub 2014 Feb 20.
+Metagenomic systems biology and metabolic modeling of the human microbiome: from species composition to community assembly rules.
+Levy R1, Borenstein E2.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4063856/
+metabolic networks
+species co-occurrence network
 
 
 ----------
