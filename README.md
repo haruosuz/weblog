@@ -20,10 +20,11 @@ Last Update: 2018-08
 ----------
 ## featuring
 
+- https://github.com/haruosuz/plasmids/blob/master/references/README.2018.md
+- https://github.com/haruosuz/plasmids
 - https://github.com/haruosuz/evolve
 - https://github.com/haruosuz/metasub
 - https://github.com/haruosuz/microbe
-- https://github.com/haruosuz/plasmids
 - https://github.com/haruosuz/statistics
 
 https://twitter.com/_duo3
@@ -35,58 +36,6 @@ p値を計算したくなる検定の数々を試しにStanによるベイジア
 https://tjo.hatenablog.com/entry/2016/03/08/190000
 「p値や有意性に拘り過ぎるな、p < 0.05かどうかが全てを決める時代はもう終わらせよう」というアメリカ統計学会の声明 - 六本木で働くデータサイエンティストのブログ
 
-----------
-## books
-
-発売予定日 2018年10月3日
-https://kaiin.hanmoto.com/bd/isbn/9784762830402
-たのしいベイズモデリング 豊田 秀樹(編著) - 北大路書房 | 版元ドットコム
-
-![](https://kaiin.hanmoto.com/bd/img/9784762830402.jpg)
-
-
-学校では教えてくれない本当のアメリカの歴史
-https://bookmeter.com/books/575246
-http://jbpress.ismedia.jp/articles/-/1678
-http://kocho-3.hatenablog.com/entry/2015/10/21/072519
-http://www.rin-5.net/501-750/533-america_history.htm
-https://www.amazon.co.jp/学校では教えてくれない本当のアメリカの歴史〈上〉1492-1901年-ハワード-ジン/dp/4751526111
-https://www.amazon.co.jp/学校では教えてくれない本当のアメリカの歴史〈下〉1901-2006年-ハワード-ジン/dp/475152612X
-https://plaza.rakuten.co.jp/ryu32/diary/201001260000/
-
-
-2018-05-28
-http://hiro.asks.jp/100984.html
-『生命、エネルギー、進化』を読んだよ。 : ひろゆき＠オープンSNS
-んで、エピローグでは、2010年に日本のチームが原核生物と真核生物のどちらでもない生物を発見しちゃったりした話とか、
-
-2017年5月26日
-http://wedge.ismedia.jp/articles/-/9680
-「進化にエネルギーの視点を組み込む」という大胆な発想 『生命、エネルギー、進化』　WEDGE Infinity(ウェッジ)
-
-http://d.hatena.ne.jp/shorebird/20161231
-書評　「生命，エネルギー，進化」 - shorebird　進化心理学中心の書評など
-
-2016.12.30
-http://dain.cocolog-nifty.com/myblog/2016/12/post-d64f.html
-ニック・レーン『生命、エネルギー、進化』は難しかった: わたしが知らないスゴ本は、きっとあなたが読んでいる
-
-2016年10月07日
-http://honz.jp/articles/-/43409
-『生命、エネルギー、進化』この生物学の本にはぶっとんだ！　客員レビュー by ビル・ゲイツ - HONZ
-
-![](https://images-fe.ssl-images-amazon.com/images/I/41BAeoEgWEL.jpg)
-
-2018年6月29日
-http://gihyo.jp/book/2018/978-4-7741-9853-8
-RユーザのためのRStudio［実践］入門 ―tidyverseによるモダンな分析フローの世界―：書籍案内｜技術評論社
-
-http://gihyo.jp/book/2018/978-4-7741-9853-8/support
-サポートページ：RユーザのためのRStudio［実践］入門 ―tidyverseによるモダンな分析フローの世界―：｜技術評論社
-
-https://y-mattu.hatenablog.com/entry/2018/06/04/185922
-RユーザのためのRStudio[実践]入門 という本が出ます。 - ★データ解析備忘録★
-
 
 ----------
 
@@ -95,6 +44,26 @@ RユーザのためのRStudio[実践]入門 という本が出ます。 - ★デ
 ## 2018
 
 ### 2018-08
+
+
+日本進化学会■第20回　東京大会（2018年8月22～25日予定 東京大学駒場キャンパス） http://darwin.c.u-tokyo.ac.jp/sesj2018/
+
+https://www.yodosha.co.jp/kakenhi/index.html
+科研費獲得の方法とコツ　改訂第6版
+実例とポイントでわかる申請書の書き方と応募戦略
+児島将康／著
+B5判 277頁 ISBN978-4-7581-2088-3
+定価（本体3,800円＋税）
+2018年8月7日発行予定
+
+https://twitter.com/a_symap/status/1013667527027666944
+Masato S. Abe on Twitter: "【お知らせ】8月29日(水) - 31日(金)に統計数理研究所において複雑ネットワークに関する研究会 ”ネットワーク科学セミナー2018" を開催します。現在、ポスター講演者および聴講者を募っております。詳しくは下記HPをご覧下さい。https://t.co/jV3W6gKNC1"
+
+http://mizutaka.sci.ibaraki.ac.jp/seminar2018/seminar2018.html
+Network Science Seminar2018
+ネットワーク科学セミナー2018 
+2018年8月29日-8月31日の3日間、統計数理研究所において"ネットワーク科学セミナー2018" を開催します。
+
 
 http://www.po-jama-people.info/entry/2018/08/12/113435
 翁長雄志、津川雅彦、両氏の死についてのツイートを分析し、左右どちらのほうがクズなのか計量的に分析してみました - 雑記（主に政治や時事について）
@@ -137,25 +106,6 @@ https://twitter.com/eyemiyake/status/1023007444669095936
 三宅正裕 MD, PhD, MPH @ 眼科 on Twitter: "eLIFE, 2018 ゲノムデータを操作変数として用いることで観察研究データから因果関係を評価するMendelian Randomization。そろそろやってみたいのでとりあえずこの論文で勉強しています
 臨床、ゲノム、疫学のいずれもに知見とデータがあるうちの強みにマッチしそう。 https://t.co/CMSPLf3Dfk"
 8:49 PM - 27 Jul 2018
-
-
-日本進化学会■第20回　東京大会（2018年8月22～25日予定 東京大学駒場キャンパス） http://darwin.c.u-tokyo.ac.jp/sesj2018/
-
-https://www.yodosha.co.jp/kakenhi/index.html
-科研費獲得の方法とコツ　改訂第6版
-実例とポイントでわかる申請書の書き方と応募戦略
-児島将康／著
-B5判 277頁 ISBN978-4-7581-2088-3
-定価（本体3,800円＋税）
-2018年8月7日発行予定
-
-https://twitter.com/a_symap/status/1013667527027666944
-Masato S. Abe on Twitter: "【お知らせ】8月29日(水) - 31日(金)に統計数理研究所において複雑ネットワークに関する研究会 ”ネットワーク科学セミナー2018" を開催します。現在、ポスター講演者および聴講者を募っております。詳しくは下記HPをご覧下さい。https://t.co/jV3W6gKNC1"
-
-http://mizutaka.sci.ibaraki.ac.jp/seminar2018/seminar2018.html
-Network Science Seminar2018
-ネットワーク科学セミナー2018 
-2018年8月29日-8月31日の3日間、統計数理研究所において"ネットワーク科学セミナー2018" を開催します。
 
 ### 2018-07
 
@@ -274,6 +224,60 @@ http://sciencebook.blog110.fc2.com/blog-entry-2149.html
 http://www.c.u-tokyo.ac.jp/info/about/history/dean/2013-2015/h27.3.25ishii.html
 平成26年度　教養学部学位記伝達式　式辞 - 総合情報 - 総合情報
 善意のコピペや無自覚なリツイートは時として、悪意の虚偽よりも人を迷わせます。そしてあやふやな情報がいったん真実の衣を着せられて世間に流布してしまうと、もはや誰も直接資料にあたって真偽のほどを確かめようとはしなくなります。
+
+----------
+## books
+
+発売予定日 2018年10月3日
+https://kaiin.hanmoto.com/bd/isbn/9784762830402
+たのしいベイズモデリング 豊田 秀樹(編著) - 北大路書房 | 版元ドットコム
+
+![](https://kaiin.hanmoto.com/bd/img/9784762830402.jpg)
+
+
+学校では教えてくれない本当のアメリカの歴史
+https://blogs.yahoo.co.jp/kubo_g_no_syumi/11689831.html
+https://bookmeter.com/books/575246
+http://jbpress.ismedia.jp/articles/-/1678
+http://kocho-3.hatenablog.com/entry/2015/10/21/072519
+http://www.rin-5.net/501-750/533-america_history.htm
+https://www.amazon.co.jp/学校では教えてくれない本当のアメリカの歴史〈上〉1492-1901年-ハワード-ジン/dp/4751526111
+https://www.amazon.co.jp/学校では教えてくれない本当のアメリカの歴史〈下〉1901-2006年-ハワード-ジン/dp/475152612X
+https://plaza.rakuten.co.jp/ryu32/diary/201001260000/
+
+
+2018-05-28
+http://hiro.asks.jp/100984.html
+『生命、エネルギー、進化』を読んだよ。 : ひろゆき＠オープンSNS
+んで、エピローグでは、2010年に日本のチームが原核生物と真核生物のどちらでもない生物を発見しちゃったりした話とか、
+
+2017年5月26日
+http://wedge.ismedia.jp/articles/-/9680
+「進化にエネルギーの視点を組み込む」という大胆な発想 『生命、エネルギー、進化』　WEDGE Infinity(ウェッジ)
+
+http://d.hatena.ne.jp/shorebird/20161231
+書評　「生命，エネルギー，進化」 - shorebird　進化心理学中心の書評など
+
+2016.12.30
+http://dain.cocolog-nifty.com/myblog/2016/12/post-d64f.html
+ニック・レーン『生命、エネルギー、進化』は難しかった: わたしが知らないスゴ本は、きっとあなたが読んでいる
+
+2016年10月07日
+http://honz.jp/articles/-/43409
+『生命、エネルギー、進化』この生物学の本にはぶっとんだ！　客員レビュー by ビル・ゲイツ - HONZ
+
+![](https://images-fe.ssl-images-amazon.com/images/I/41BAeoEgWEL.jpg)
+
+2018年6月29日
+http://gihyo.jp/book/2018/978-4-7741-9853-8
+RユーザのためのRStudio［実践］入門 ―tidyverseによるモダンな分析フローの世界―：書籍案内｜技術評論社
+
+http://gihyo.jp/book/2018/978-4-7741-9853-8/support
+サポートページ：RユーザのためのRStudio［実践］入門 ―tidyverseによるモダンな分析フローの世界―：｜技術評論社
+
+https://y-mattu.hatenablog.com/entry/2018/06/04/185922
+RユーザのためのRStudio[実践]入門 という本が出ます。 - ★データ解析備忘録★
+
 
 ----------
 
