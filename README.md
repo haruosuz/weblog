@@ -20,22 +20,25 @@ Last Update: 2018-08
 ----------
 ## featuring
 
+- https://twitter.com/search?q=進化学会
+- https://github.com/haruosuz/evolve
+- https://github.com/haruosuz/evolve/blob/master/references/README.jargon.md#root
 - https://github.com/haruosuz/plasmids/blob/master/references/README.2018.md
 - https://github.com/haruosuz/plasmids
-- https://github.com/haruosuz/evolve
 - https://github.com/haruosuz/metasub
 - https://github.com/haruosuz/microbe
 - https://github.com/haruosuz/statistics
 
-https://twitter.com/_duo3
-つい☆DUO (@_duo3) | Twitter
+日本進化学会■第20回　東京大会（2018年8月22～25日予定 東京大学駒場キャンパス） 
+
+http://darwin.c.u-tokyo.ac.jp/sesj2018/
+日本進化学会第20回大会 | 20th Annual Meeting of the Society of Evolutionary Studies, Japan
 
 https://tjo.hatenablog.com/entry/2016/03/10/190000
 p値を計算したくなる検定の数々を試しにStanによるベイジアンモデリングで代替してみた - 六本木で働くデータサイエンティストのブログ
 
 https://tjo.hatenablog.com/entry/2016/03/08/190000
 「p値や有意性に拘り過ぎるな、p < 0.05かどうかが全てを決める時代はもう終わらせよう」というアメリカ統計学会の声明 - 六本木で働くデータサイエンティストのブログ
-
 
 ----------
 
@@ -45,8 +48,8 @@ https://tjo.hatenablog.com/entry/2016/03/08/190000
 
 ### 2018-08
 
-
-日本進化学会■第20回　東京大会（2018年8月22～25日予定 東京大学駒場キャンパス） http://darwin.c.u-tokyo.ac.jp/sesj2018/
+https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky738/5075028
+SLING: a tool to search for linked genes in bacterial datasets 
 
 https://www.yodosha.co.jp/kakenhi/index.html
 科研費獲得の方法とコツ　改訂第6版
@@ -307,6 +310,10 @@ https://www.sfc.keio.ac.jp/gsmg/about/faculty/
 
 ----------
 ## link
+
+
+https://twitter.com/_duo3
+つい☆DUO (@_duo3) | Twitter
 
 https://twitter.com/bilderberg54
 https://twitter.com/yoniumuhibi
