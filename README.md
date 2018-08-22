@@ -29,10 +29,12 @@ Last Update: 2018-08
 - https://github.com/haruosuz/microbe
 - https://github.com/haruosuz/statistics
 
-日本進化学会■第20回　東京大会（2018年8月22～25日予定 東京大学駒場キャンパス） 
-
 http://darwin.c.u-tokyo.ac.jp/sesj2018/
 日本進化学会第20回大会 | 20th Annual Meeting of the Society of Evolutionary Studies, Japan
+会期：2018年8月22日（水）〜25日（土）
+会場：東京大学駒場Iキャンパス
+#sesj2018
+
 
 https://tjo.hatenablog.com/entry/2016/03/10/190000
 p値を計算したくなる検定の数々を試しにStanによるベイジアンモデリングで代替してみた - 六本木で働くデータサイエンティストのブログ
