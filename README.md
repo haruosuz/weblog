@@ -20,21 +20,12 @@ Last Update: 2018-08
 ----------
 ## featuring
 
-- https://twitter.com/search?q=進化学会
 - https://github.com/haruosuz/evolve
-- https://github.com/haruosuz/evolve/blob/master/references/README.jargon.md#root
-- https://github.com/haruosuz/plasmids/blob/master/references/README.2018.md
+- https://github.com/haruosuz/statistics
 - https://github.com/haruosuz/plasmids
+- https://github.com/haruosuz/plasmids/blob/master/references/README.2018.md
 - https://github.com/haruosuz/metasub
 - https://github.com/haruosuz/microbe
-- https://github.com/haruosuz/statistics
-
-http://darwin.c.u-tokyo.ac.jp/sesj2018/
-日本進化学会第20回大会 | 20th Annual Meeting of the Society of Evolutionary Studies, Japan
-会期：2018年8月22日（水）〜25日（土）
-会場：東京大学駒場Iキャンパス
-#sesj2018
-
 
 https://tjo.hatenablog.com/entry/2016/03/10/190000
 p値を計算したくなる検定の数々を試しにStanによるベイジアンモデリングで代替してみた - 六本木で働くデータサイエンティストのブログ
@@ -50,25 +41,17 @@ https://tjo.hatenablog.com/entry/2016/03/08/190000
 
 ### 2018-08
 
-https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky738/5075028
-SLING: a tool to search for linked genes in bacterial datasets 
-
-https://www.yodosha.co.jp/kakenhi/index.html
-科研費獲得の方法とコツ　改訂第6版
-実例とポイントでわかる申請書の書き方と応募戦略
-児島将康／著
-B5判 277頁 ISBN978-4-7581-2088-3
-定価（本体3,800円＋税）
-2018年8月7日発行予定
-
-https://twitter.com/a_symap/status/1013667527027666944
-Masato S. Abe on Twitter: "【お知らせ】8月29日(水) - 31日(金)に統計数理研究所において複雑ネットワークに関する研究会 ”ネットワーク科学セミナー2018" を開催します。現在、ポスター講演者および聴講者を募っております。詳しくは下記HPをご覧下さい。https://t.co/jV3W6gKNC1"
-
 http://mizutaka.sci.ibaraki.ac.jp/seminar2018/seminar2018.html
 Network Science Seminar2018
 ネットワーク科学セミナー2018 
 2018年8月29日-8月31日の3日間、統計数理研究所において"ネットワーク科学セミナー2018" を開催します。
 
+https://twitter.com/a_symap/status/1013667527027666944
+Masato S. Abe on Twitter: "【お知らせ】8月29日(水) - 31日(金)に統計数理研究所において複雑ネットワークに関する研究会 ”ネットワーク科学セミナー2018" を開催します。現在、ポスター講演者および聴講者を募っております。詳しくは下記HPをご覧下さい。https://t.co/jV3W6gKNC1"
+
+
+https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky738/5075028
+SLING: a tool to search for linked genes in bacterial datasets 
 
 http://www.po-jama-people.info/entry/2018/08/12/113435
 翁長雄志、津川雅彦、両氏の死についてのツイートを分析し、左右どちらのほうがクズなのか計量的に分析してみました - 雑記（主に政治や時事について）
@@ -518,34 +501,23 @@ https://twitter.com/search?q=科学論文にご用心、大半は誤り%20専門
 
 ----------
 
-
-
 ## r
 
+https://kazutan.github.io/kazutanR/Rmd_intro.html
+R Markdown入門
 
-https://www.ncbi.nlm.nih.gov/pubmed/29874797
-Life (Basel). 2018 Jun 5;8(2). pii: E20. doi: 10.3390/life8020020.
-phylotaR: An Automated Pipeline for Retrieving Orthologous DNA Sequences from GenBank in R.
-Bennett DJ1,2, Hettling H3, Silvestro D4,5, Zizka A6,7, Bacon CD8,9, Faurby S10,11, Vos RA12, Antonelli A13,1
-
-
-https://www.ncbi.nlm.nih.gov/pubmed/30002984
-PeerJ. 2018 Jul 3;6:e5179. doi: 10.7717/peerj.5179. eCollection 2018.
-AnnotationBustR: an R package to extract subsequences from GenBank annotations.
-Borstein SR1, O'Meara BC1.
-
-
+https://twitter.com/yutakashino/status/1033359517398925312
+Yuta Kashino on Twitter: "価格が高いですけれど，確実に内容にその価値がありますし，邦訳は悪くありません．あと，何度か紹介していますが，この本についてビデオ講義があります．https://t.co/2b3rp8NfwE はい，学習環境も整備されてますので，今はこのくらいの知識が最低限必要となってます．… https://t.co/fz1yB5Eb7b"
+10:24 AM - 25 Aug 2018
 
 
 https://twitter.com/strnr/status/1030176659322888192
-FastqCleaner: an interactive Bioconductor application for quality-control, filtering and trimming of FASTQ files
+Stephen Turner on Twitter: "FastqCleaner: an interactive Bioconductor application for quality-control, filtering and trimming of FASTQ files https://t.co/WcPUarN6ho"
 3:37 PM - 16 Aug 2018
 
 https://twitter.com/JEFworks/status/1028741712896843778
-Too many Too  #singlecell points in your figures? Crashing Illustrator? Check out ggrastr for #ggplot2 #rstats by @PetukhovViktor to rasterize just the points layer. Maintain vectorized text for publication quality. Ideal for >10000 points. https://github.com/VPetukhov/ggrastr … #dataviz #bigdata
+Jean Fan on Twitter: "Too many #singlecell points in your figures? Crashing Illustrator? Check out ggrastr for #ggplot2 #rstats by @PetukhovViktor to rasterize just the points layer. Maintain vectorized text for publication quality. Ideal for >10000 points. https://t.co/6iR7qYw1ap #dataviz #bigdata… https://t.co/9QDDmfua6w"
 4:35 PM - 12 Aug 2018
-
-
 
 https://twitter.com/strnr/status/1022451016736927745
 
@@ -561,6 +533,20 @@ More info: https://cran.r-project.org/web/packages/BiocManager/vignettes/BiocMan
 #Bioconductor #Rstats #bioc2018
 
 7:58 AM - 26 Jul 2018
+
+https://www.ncbi.nlm.nih.gov/pubmed/30002984
+PeerJ. 2018 Jul 3;6:e5179. doi: 10.7717/peerj.5179. eCollection 2018.
+AnnotationBustR: an R package to extract subsequences from GenBank annotations.
+Borstein SR1, O'Meara BC1.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29874797
+Life (Basel). 2018 Jun 5;8(2). pii: E20. doi: 10.3390/life8020020.
+phylotaR: An Automated Pipeline for Retrieving Orthologous DNA Sequences from GenBank in R.
+Bennett DJ1,2, Hettling H3, Silvestro D4,5, Zizka A6,7, Bacon CD8,9, Faurby S10,11, Vos RA12, Antonelli A13,1
+
+https://twitter.com/yishii_0207/status/1012957517369036800
+Yutaka Ishii (石井雄隆) on Twitter: "Rはいいぞ！むしろなぜ使わないのか！！ https://t.co/yNdbHYoGjV 統計解析の再現可能性を高める取り組み https://t.co/bc3RENuOyi ggplot2用例集　入門編 https://t.co/kDJrHbyf4h #bayesWS3rd"
+3:14 AM - 30 Jun 2018
 
 ----------
 
@@ -589,6 +575,4 @@ species co-occurrence network
 
 
 ----------
-
-
 
