@@ -20,12 +20,26 @@ Last Update: 2018-08
 ----------
 ## featuring
 
+https://ja.wikipedia.org/wiki/Galaxy_(計算生物学)
+
 - https://github.com/haruosuz/evolve
 - https://github.com/haruosuz/statistics
 - https://github.com/haruosuz/plasmids
 - https://github.com/haruosuz/plasmids/blob/master/references/README.2018.md
 - https://github.com/haruosuz/metasub
 - https://github.com/haruosuz/microbe
+
+https://www.ncbi.nlm.nih.gov/pubmed/30132409
+Am J Mens Health. 2018 Aug 22:1557988318794522. doi: 10.1177/1557988318794522. [Epub ahead of print]
+Male Partners of Infertile Couples With Seminal Positivity for Markers of Bacterial Vaginosis Have Impaired Fertility.
+Damke E1, Kurscheidt FA2, Irie MMT1, Gimenes F1, Consolaro MEL1.
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/28835893
+
+Biomed Res Int. 2017;2017:4684629. doi: 10.1155/2017/4684629. Epub 2017 Aug 1.
+Male Partners of Infertile Couples with Seminal Infections of Human Papillomavirus Have Impaired Fertility Parameters.
+Damke E1, Kurscheidt FA1,2, Balani VA2, Takeda KI2, Irie MMT1, Gimenes F1, Consolaro MEL1.
 
 https://tjo.hatenablog.com/entry/2016/03/10/190000
 p値を計算したくなる検定の数々を試しにStanによるベイジアンモデリングで代替してみた - 六本木で働くデータサイエンティストのブログ
@@ -40,6 +54,10 @@ https://tjo.hatenablog.com/entry/2016/03/08/190000
 ## 2018
 
 ### 2018-08
+
+https://twitter.com/Tyu_Shi/status/1034217003936931841
+A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life https://www.nature.com/articles/nbt.4229 …  bioRxivに前に出ていたHugenholtz達の原核生物ゲノム系統樹論文が出たか。
+7:12 PM - 27 Aug 2018
 
 http://mizutaka.sci.ibaraki.ac.jp/seminar2018/seminar2018.html
 Network Science Seminar2018
