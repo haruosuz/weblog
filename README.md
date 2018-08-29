@@ -6,12 +6,77 @@ Last Update: 2018-08
 # Weblog
 
 ## Table of Contents
+
+- [updates](#updates)
+  - [2018](#2018)
+  - [2017](#2017)
+- [network](#network)
 - [featuring](#featuring)
 - [books](#books)
 - [robust](#robust)
 - [sfc](#sfc)
 - [link](#link)
 - [unclassified](#unclassified)
+
+----------
+## updates
+## 2018
+### 2018-08
+
+http://mizutaka.sci.ibaraki.ac.jp/seminar2018/seminar2018.html
+Network Science Seminar2018
+ネットワーク科学セミナー2018 
+2018年8月29日-8月31日の3日間、統計数理研究所において"ネットワーク科学セミナー2018" を開催します。
+
+https://twitter.com/a_symap/status/1013667527027666944
+Masato S. Abe on Twitter: "【お知らせ】8月29日(水) - 31日(金)に統計数理研究所において複雑ネットワークに関する研究会 ”ネットワーク科学セミナー2018" を開催します。現在、ポスター講演者および聴講者を募っております。詳しくは下記HPをご覧下さい。https://t.co/jV3W6gKNC1"
+
+https://twitter.com/Tyu_Shi/status/1034217003936931841
+A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life https://www.nature.com/articles/nbt.4229 …  bioRxivに前に出ていたHugenholtz達の原核生物ゲノム系統樹論文が出たか。
+7:12 PM - 27 Aug 2018
+
+----------
+## network
+## co-occurrence network
+
+https://twitter.com/windowmoon/status/1028036551337373696
+窓月㌠・CC-BY on Twitter: "Co-occurrence network使って研究してる人たちはわかっててやってる(それでも意味はあるという考え)から問題ないと思うけど、聞いてる側はしばしばわかってない人がいそう。"
+5:53 PM - 10 Aug 2018
+
+https://twitter.com/leonorabit/status/1027559581440978945
+Leonora Bittleston on Twitter: "#ESA2018 @algaebarnacle finds that none of the co-occurrence network methods recover experimentally validated interactions - at most 6% correct"
+10:17 AM - 9 Aug 2018
+
+https://twitter.com/tksmiki/status/1011942385780076544
+三木健 on Twitter: "TDMとEDM組み合わせて、co-occurrence network does not imply anything about interactions at all っていう論文、誰か一緒に書きません？　まあ、1980年代に既に有るかもですが。"
+8:00 AM - 27 Jun 2018
+
+https://www.ncbi.nlm.nih.gov/pubmed/24637600
+Gut Microbes. 2014 Mar-Apr;5(2):265-70. doi: 10.4161/gmic.28261. Epub 2014 Feb 20.
+Metagenomic systems biology and metabolic modeling of the human microbiome: from species composition to community assembly rules.
+Levy R1, Borenstein E2.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4063856/
+metabolic networks
+species co-occurrence network
+
+----------
+## featuring
+
+community networks に興味ある人から以下の論文を紹介されました。
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4063856/
+Metagenomic systems biology and metabolic modeling of the human microbiome
+
+
+https://www.genome.jp/tools/maple/
+MAPLE-2.3.0
+Metabolic And Physiological potentiaL Evaluator
+for gene mapping to the KEGG functional modules and calculation of module completion ratio (MCR)
+
+https://www.ncbi.nlm.nih.gov/pubmed/29792119
+Biosci Biotechnol Biochem. 2018 May 24:1-3. doi: 10.1080/09168451.2018.1476122. [Epub ahead of print]
+MAPLE 2.3.0: an improved system for evaluating the functionomes of genomes and metagenomes.
+Arai W1, Taniguchi T2, Goto S3, Moriya Y3, Uehara H4, Takemoto K5, Ogata H6, Takami H1.
+
 
 ----------
 ## featuring
