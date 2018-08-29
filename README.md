@@ -20,8 +20,6 @@ Last Update: 2018-08
 
 ----------
 ## updates
-## 2018
-### 2018-08
 
 http://mizutaka.sci.ibaraki.ac.jp/seminar2018/seminar2018.html
 Network Science Seminar2018
@@ -30,6 +28,13 @@ Network Science Seminar2018
 
 https://twitter.com/a_symap/status/1013667527027666944
 Masato S. Abe on Twitter: "【お知らせ】8月29日(水) - 31日(金)に統計数理研究所において複雑ネットワークに関する研究会 ”ネットワーク科学セミナー2018" を開催します。現在、ポスター講演者および聴講者を募っております。詳しくは下記HPをご覧下さい。https://t.co/jV3W6gKNC1"
+
+## 2018
+### 2018-08
+
+https://twitter.com/NatureJapan/status/1034347192054501377
+Nature Human Behaviour 「Nature誌やScience誌に発表された社会科学研究に再現性はあるか？」21件の実験社会科学研究を対象に、当初の研究の約5倍の標本数を用いて検出力の高い再現実験を試みた結果、再現実験の62％で当初の研究と同じ方向の効果が見られた。
+3:49 AM - 28 Aug 2018
 
 https://twitter.com/Tyu_Shi/status/1034217003936931841
 A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life https://www.nature.com/articles/nbt.4229 …  bioRxivに前に出ていたHugenholtz達の原核生物ゲノム系統樹論文が出たか。
