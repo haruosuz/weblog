@@ -4,28 +4,11 @@
 - [updates](#updates)
   - [2018](#2018)
   - [2017](#2017)
-- [network](#network)
 
 ----------
 ## updates
-
 ## 2018
-
 ### 2018-08
-
-http://mizutaka.sci.ibaraki.ac.jp/seminar2018/seminar2018.html
-Network Science Seminar2018
-ネットワーク科学セミナー2018 
-2018年8月29日-8月31日の3日間、統計数理研究所において"ネットワーク科学セミナー2018" を開催します。
-
-https://twitter.com/a_symap/status/1013667527027666944
-Masato S. Abe on Twitter: "【お知らせ】8月29日(水) - 31日(金)に統計数理研究所において複雑ネットワークに関する研究会 ”ネットワーク科学セミナー2018" を開催します。現在、ポスター講演者および聴講者を募っております。詳しくは下記HPをご覧下さい。https://t.co/jV3W6gKNC1"
-
-
-https://twitter.com/Tyu_Shi/status/1034217003936931841
-A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life https://www.nature.com/articles/nbt.4229 …  bioRxivに前に出ていたHugenholtz達の原核生物ゲノム系統樹論文が出たか。
-7:12 PM - 27 Aug 2018
-
 
 https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky738/5075028
 SLING: a tool to search for linked genes in bacterial datasets 
@@ -191,31 +174,6 @@ http://sciencebook.blog110.fc2.com/blog-entry-2149.html
 http://www.c.u-tokyo.ac.jp/info/about/history/dean/2013-2015/h27.3.25ishii.html
 平成26年度　教養学部学位記伝達式　式辞 - 総合情報 - 総合情報
 善意のコピペや無自覚なリツイートは時として、悪意の虚偽よりも人を迷わせます。そしてあやふやな情報がいったん真実の衣を着せられて世間に流布してしまうと、もはや誰も直接資料にあたって真偽のほどを確かめようとはしなくなります。
-
-----------
-
-## network
-## co-occurrence network
-
-https://twitter.com/windowmoon/status/1028036551337373696
-窓月㌠・CC-BY on Twitter: "Co-occurrence network使って研究してる人たちはわかっててやってる(それでも意味はあるという考え)から問題ないと思うけど、聞いてる側はしばしばわかってない人がいそう。"
-5:53 PM - 10 Aug 2018
-
-https://twitter.com/leonorabit/status/1027559581440978945
-Leonora Bittleston on Twitter: "#ESA2018 @algaebarnacle finds that none of the co-occurrence network methods recover experimentally validated interactions - at most 6% correct"
-10:17 AM - 9 Aug 2018
-
-https://twitter.com/tksmiki/status/1011942385780076544
-三木健 on Twitter: "TDMとEDM組み合わせて、co-occurrence network does not imply anything about interactions at all っていう論文、誰か一緒に書きません？　まあ、1980年代に既に有るかもですが。"
-8:00 AM - 27 Jun 2018
-
-https://www.ncbi.nlm.nih.gov/pubmed/24637600
-Gut Microbes. 2014 Mar-Apr;5(2):265-70. doi: 10.4161/gmic.28261. Epub 2014 Feb 20.
-Metagenomic systems biology and metabolic modeling of the human microbiome: from species composition to community assembly rules.
-Levy R1, Borenstein E2.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4063856/
-metabolic networks
-species co-occurrence network
 
 
 ----------
