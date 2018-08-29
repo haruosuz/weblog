@@ -9,9 +9,9 @@ Last Update: 2018-08
 
 - [updates](#updates)
   - [2018](#2018)
-  - [2017](#2017)
-- [network](#network)
 - [featuring](#featuring)
+- [network](#network)
+- [metabolic](#metabolic)
 - [books](#books)
 - [robust](#robust)
 - [sfc](#sfc)
@@ -34,6 +34,28 @@ Masato S. Abe on Twitter: "【お知らせ】8月29日(水) - 31日(金)に統�
 https://twitter.com/Tyu_Shi/status/1034217003936931841
 A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life https://www.nature.com/articles/nbt.4229 …  bioRxivに前に出ていたHugenholtz達の原核生物ゲノム系統樹論文が出たか。
 7:12 PM - 27 Aug 2018
+
+----------
+## featuring
+
+https://ja.wikipedia.org/wiki/Galaxy_(計算生物学)
+
+- https://github.com/haruosuz/evolve
+- https://github.com/haruosuz/statistics
+- https://github.com/haruosuz/plasmids
+- https://github.com/haruosuz/plasmids/blob/master/references/README.2018.md
+- https://github.com/haruosuz/metasub
+- https://github.com/haruosuz/microbe
+
+https://www.ncbi.nlm.nih.gov/pubmed/30132409
+Am J Mens Health. 2018 Aug 22:1557988318794522. doi: 10.1177/1557988318794522. [Epub ahead of print]
+Male Partners of Infertile Couples With Seminal Positivity for Markers of Bacterial Vaginosis Have Impaired Fertility.
+Damke E1, Kurscheidt FA2, Irie MMT1, Gimenes F1, Consolaro MEL1.
+
+https://www.ncbi.nlm.nih.gov/pubmed/28835893
+Biomed Res Int. 2017;2017:4684629. doi: 10.1155/2017/4684629. Epub 2017 Aug 1.
+Male Partners of Infertile Couples with Seminal Infections of Human Papillomavirus Have Impaired Fertility Parameters.
+Damke E1, Kurscheidt FA1,2, Balani VA2, Takeda KI2, Irie MMT1, Gimenes F1, Consolaro MEL1.
 
 ----------
 ## network
@@ -60,12 +82,12 @@ metabolic networks
 species co-occurrence network
 
 ----------
-## featuring
+## metabolic
 
-community networks に興味ある人から以下の論文を紹介されました。
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4063856/
-Metagenomic systems biology and metabolic modeling of the human microbiome
-
+https://www.ncbi.nlm.nih.gov/pubmed/24637600
+Gut Microbes. 2014 Mar-Apr;5(2):265-70. doi: 10.4161/gmic.28261. Epub 2014 Feb 20.
+Metagenomic systems biology and metabolic modeling of the human microbiome: from species composition to community assembly rules.
+Levy R1, Borenstein E2.
 
 https://www.genome.jp/tools/maple/
 MAPLE-2.3.0
@@ -77,37 +99,10 @@ Biosci Biotechnol Biochem. 2018 May 24:1-3. doi: 10.1080/09168451.2018.1476122. 
 MAPLE 2.3.0: an improved system for evaluating the functionomes of genomes and metagenomes.
 Arai W1, Taniguchi T2, Goto S3, Moriya Y3, Uehara H4, Takemoto K5, Ogata H6, Takami H1.
 
-
-----------
-## featuring
-
-
-https://ja.wikipedia.org/wiki/Galaxy_(計算生物学)
-
-- https://github.com/haruosuz/evolve
-- https://github.com/haruosuz/statistics
-- https://github.com/haruosuz/plasmids
-- https://github.com/haruosuz/plasmids/blob/master/references/README.2018.md
-- https://github.com/haruosuz/metasub
-- https://github.com/haruosuz/microbe
-
-https://www.ncbi.nlm.nih.gov/pubmed/30132409
-Am J Mens Health. 2018 Aug 22:1557988318794522. doi: 10.1177/1557988318794522. [Epub ahead of print]
-Male Partners of Infertile Couples With Seminal Positivity for Markers of Bacterial Vaginosis Have Impaired Fertility.
-Damke E1, Kurscheidt FA2, Irie MMT1, Gimenes F1, Consolaro MEL1.
-
-
-https://www.ncbi.nlm.nih.gov/pubmed/28835893
-
-Biomed Res Int. 2017;2017:4684629. doi: 10.1155/2017/4684629. Epub 2017 Aug 1.
-Male Partners of Infertile Couples with Seminal Infections of Human Papillomavirus Have Impaired Fertility Parameters.
-Damke E1, Kurscheidt FA1,2, Balani VA2, Takeda KI2, Irie MMT1, Gimenes F1, Consolaro MEL1.
-
-https://tjo.hatenablog.com/entry/2016/03/10/190000
-p値を計算したくなる検定の数々を試しにStanによるベイジアンモデリングで代替してみた - 六本木で働くデータサイエンティストのブログ
-
-https://tjo.hatenablog.com/entry/2016/03/08/190000
-「p値や有意性に拘り過ぎるな、p < 0.05かどうかが全てを決める時代はもう終わらせよう」というアメリカ統計学会の声明 - 六本木で働くデータサイエンティストのブログ
+https://www.ncbi.nlm.nih.gov/pubmed/24277855
+Proc Natl Acad Sci U S A. 2013 Dec 10;110(50):20338-43. doi: 10.1073/pnas.1307797110. Epub 2013 Nov 25.
+Genome-scale metabolic reconstructions of multiple Escherichia coli strains highlight strain-specific adaptations to nutritional environments.
+Monk JM1, Charusanti P, Aziz RK, Lerman JA, Premyodhin N, Orth JD, Feist AM, Palsson BØ.
 
 ----------
 ## books
@@ -450,3 +445,13 @@ Yutaka Ishii (石井雄隆) on Twitter: "Rはいいぞ！むしろなぜ使わ�
 3:14 AM - 30 Jun 2018
 
 ----------
+
+
+
+https://tjo.hatenablog.com/entry/2016/03/10/190000
+p値を計算したくなる検定の数々を試しにStanによるベイジアンモデリングで代替してみた - 六本木で働くデータサイエンティストのブログ
+
+https://tjo.hatenablog.com/entry/2016/03/08/190000
+「p値や有意性に拘り過ぎるな、p < 0.05かどうかが全てを決める時代はもう終わらせよう」というアメリカ統計学会の声明 - 六本木で働くデータサイエンティストのブログ
+
+
