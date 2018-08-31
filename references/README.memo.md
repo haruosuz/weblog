@@ -10,6 +10,14 @@
 ## 2018
 ### 2018-08
 
+http://mizutaka.sci.ibaraki.ac.jp/seminar2018/seminar2018.html
+Network Science Seminar2018
+ネットワーク科学セミナー2018 
+2018年8月29日-8月31日の3日間、統計数理研究所において"ネットワーク科学セミナー2018" を開催します。
+
+https://twitter.com/a_symap/status/1013667527027666944
+Masato S. Abe on Twitter: "【お知らせ】8月29日(水) - 31日(金)に統計数理研究所において複雑ネットワークに関する研究会 ”ネットワーク科学セミナー2018" を開催します。現在、ポスター講演者および聴講者を募っております。詳しくは下記HPをご覧下さい。https://t.co/jV3W6gKNC1"
+
 https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky738/5075028
 SLING: a tool to search for linked genes in bacterial datasets 
 
