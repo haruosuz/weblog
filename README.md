@@ -21,26 +21,20 @@ Last Update: 2018-08
 ----------
 ## updates
 
-http://mizutaka.sci.ibaraki.ac.jp/seminar2018/seminar2018.html
-Network Science Seminar2018
-ネットワーク科学セミナー2018 
-2018年8月29日-8月31日の3日間、統計数理研究所において"ネットワーク科学セミナー2018" を開催します。
-
-https://twitter.com/a_symap/status/1013667527027666944
-Masato S. Abe on Twitter: "【お知らせ】8月29日(水) - 31日(金)に統計数理研究所において複雑ネットワークに関する研究会 ”ネットワーク科学セミナー2018" を開催します。現在、ポスター講演者および聴講者を募っております。詳しくは下記HPをご覧下さい。https://t.co/jV3W6gKNC1"
-
 ## 2018
 
 ### 2018-09
 
-木村資生記念 進化学セミナー | Welome 次世代の進化研究者！
 https://kimuraseminar.wordpress.com
-第2回 進化学セミナーの日程が決まりました！
+木村資生記念 進化学セミナー | Welcome 次世代の進化研究者！
+
+https://kimuraseminar.wordpress.com/第2回-進化学セミナー/
 日程: 2018年9月1日（土）〜9月3日（月）
 場所: 大学セミナーハウス（東京都八王子市）
-https://kimuraseminar.wordpress.com/第1回%E3%80%80進化学セミナーのお知らせ/
 
 https://kimuraseminar.wordpress.com/第2回-進化学セミナー-要旨/
+
+
 
 http://bsj.wdc-jp.com/2018/
 日本行動計量学会　第46回大会
