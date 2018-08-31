@@ -34,15 +34,22 @@ https://kimuraseminar.wordpress.com/第2回-進化学セミナー/
 
 https://kimuraseminar.wordpress.com/第2回-進化学セミナー-要旨/
 
+第1日 9月1日(土)
+13:20~13:30	開会
 
+第3日 9月3日(月)
+16:00ごろ	閉会
+
+Pitagora Galaxy Meetup
+http://wiki.pitagora-galaxy.org/wiki/index.php/Events
+2018年09月03日（月）	　Meetup 2018-09	　日本オラクル（外苑前）
+2018年09月13日（木）	　Meetup 2018-09 +	　慶応大学三田キャンパス（三田）
+2018年09月19日（水）〜	　IIBMP 2018	　山形県鶴岡市
 
 http://bsj.wdc-jp.com/2018/
 日本行動計量学会　第46回大会
 2018年9月3日（月）～9月6日（木）
 慶應義塾大学三田キャンパス（東京都港区三田2-15-45）
-http://www.bsj.gr.jp/event/seminar.html
-チュートリアル・セミナー（大会時に開催）
-構造方程式モデルによる因果推論：因果構造探索に関する最近の発展
 
 [evolve:18237] 第12回生物学基礎論研究会の開催のご案内と講演の募集
 日時：9月8日（土）～9日（日）
