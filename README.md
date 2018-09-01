@@ -40,22 +40,23 @@ https://kimuraseminar.wordpress.com/第2回-進化学セミナー-要旨/
 第3日 9月3日(月)
 16:00ごろ	閉会
 
+https://ja.wikipedia.org/wiki/合祖理論
+（coalescent theory）
+
 Pitagora Galaxy Meetup
 http://wiki.pitagora-galaxy.org/wiki/index.php/Events
 2018年09月03日（月）	　Meetup 2018-09	　日本オラクル（外苑前）
-2018年09月13日（木）	　Meetup 2018-09 +	　慶応大学三田キャンパス（三田）
-2018年09月19日（水）〜	　IIBMP 2018	　山形県鶴岡市
 
 http://bsj.wdc-jp.com/2018/
 日本行動計量学会　第46回大会
 2018年9月3日（月）～9月6日（木）
 慶應義塾大学三田キャンパス（東京都港区三田2-15-45）
 
-[evolve:18237] 第12回生物学基礎論研究会の開催のご案内と講演の募集
-日時：9月8日（土）～9日（日）
-場所：統計数理研究所
 https://sites.google.com/site/colloqfoundbio/
 生物学基礎論研究会
+第12回生物学基礎論研究会
+日時：2018年9月8日（土）～9日（日）
+場所：統計数理研究所
 
 日本遺伝学会第90回大会を、2018年（平成30年）9月19日（水）から21日（金）まで、奈良先端科学技術大学院大学キャンパスにおいて開催
 
