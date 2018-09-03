@@ -25,21 +25,9 @@ Last Update: 2018-08
 
 ### 2018-09
 
-Pitagora Galaxy Meetup
-http://wiki.pitagora-galaxy.org/wiki/index.php/Events
-2018年09月03日（月）	　Meetup 2018-09	　日本オラクル（外苑前）
-http://wiki.pitagora-galaxy.org/wiki/index.php/Meetup_2018-09
-
-https://kimuraseminar.wordpress.com
-木村資生記念 進化学セミナー | Welcome 次世代の進化研究者！
-
-https://kimuraseminar.wordpress.com/第2回-進化学セミナー/
-日程: 2018年9月1日（土）〜9月3日（月）
-場所: 大学セミナーハウス（東京都八王子市）
-
-https://kimuraseminar.wordpress.com/第2回-進化学セミナー-要旨/
-
-http://bsj.wdc-jp.com/2018/
+- https://twitter.com/bms_pr
+- https://twitter.com/search?f=tweets&vertical=default&q=行動計量学会&src=typd
+- http://bsj.wdc-jp.com/2018/
 日本行動計量学会　第46回大会
 2018年9月3日（月）～9月6日（木）
 慶應義塾大学三田キャンパス（東京都港区三田2-15-45）
@@ -49,6 +37,12 @@ https://sites.google.com/site/colloqfoundbio/
 第12回生物学基礎論研究会
 日時：2018年9月8日（土）～9日（日）
 場所：統計数理研究所
+
+Pitagora Galaxy Meetup
+http://wiki.pitagora-galaxy.org/wiki/index.php/Events
+2018年09月13日（木）	　Meetup 2018-09 +	　慶応大学三田キャンパス（三田）
+http://wiki.pitagora-galaxy.org/wiki/index.php/Meetup_2018-09_%2B
+2018年09月19日（水）〜	　IIBMP 2018	　山形県鶴岡市
 
 日本遺伝学会第90回大会を、2018年（平成30年）9月19日（水）から21日（金）まで、奈良先端科学技術大学院大学キャンパスにおいて開催
 
