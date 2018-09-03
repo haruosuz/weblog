@@ -25,6 +25,11 @@ Last Update: 2018-08
 
 ### 2018-09
 
+Pitagora Galaxy Meetup
+http://wiki.pitagora-galaxy.org/wiki/index.php/Events
+2018年09月03日（月）	　Meetup 2018-09	　日本オラクル（外苑前）
+http://wiki.pitagora-galaxy.org/wiki/index.php/Meetup_2018-09
+
 https://kimuraseminar.wordpress.com
 木村資生記念 進化学セミナー | Welcome 次世代の進化研究者！
 
@@ -33,19 +38,6 @@ https://kimuraseminar.wordpress.com/第2回-進化学セミナー/
 場所: 大学セミナーハウス（東京都八王子市）
 
 https://kimuraseminar.wordpress.com/第2回-進化学セミナー-要旨/
-
-第1日 9月1日(土)
-13:20~13:30	開会
-
-第3日 9月3日(月)
-16:00ごろ	閉会
-
-https://ja.wikipedia.org/wiki/合祖理論
-（coalescent theory）
-
-Pitagora Galaxy Meetup
-http://wiki.pitagora-galaxy.org/wiki/index.php/Events
-2018年09月03日（月）	　Meetup 2018-09	　日本オラクル（外苑前）
 
 http://bsj.wdc-jp.com/2018/
 日本行動計量学会　第46回大会
