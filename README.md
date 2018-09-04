@@ -25,6 +25,17 @@ Last Update: 2018-08
 
 ### 2018-09
 
+https://kimuraseminar.wordpress.com
+木村資生記念 進化学セミナー | Welcome 次世代の進化研究者！
+
+https://kimuraseminar.wordpress.com/第2回-進化学セミナー/
+日程: 2018年9月1日（土）〜9月3日（月）
+場所: 大学セミナーハウス（東京都八王子市）
+
+https://kimuraseminar.wordpress.com/第2回-進化学セミナー-要旨/
+
+### 2018-09
+
 - https://twitter.com/bms_pr
 - https://twitter.com/search?f=tweets&vertical=default&q=行動計量学会&src=typd
 - http://bsj.wdc-jp.com/2018/
@@ -41,8 +52,11 @@ https://sites.google.com/site/colloqfoundbio/
 Pitagora Galaxy Meetup
 http://wiki.pitagora-galaxy.org/wiki/index.php/Events
 2018年09月13日（木）	　Meetup 2018-09 +	　慶応大学三田キャンパス（三田）
+
 http://wiki.pitagora-galaxy.org/wiki/index.php/Meetup_2018-09_%2B
-2018年09月19日（水）〜	　IIBMP 2018	　山形県鶴岡市
+Meetup 2018-09 +
+日時： 2018年9月13日（木）10:00 〜 18:30
+場所： 慶応大学三田キャンパス東館４階オープンラボ
 
 日本遺伝学会第90回大会を、2018年（平成30年）9月19日（水）から21日（金）まで、奈良先端科学技術大学院大学キャンパスにおいて開催
 
@@ -63,6 +77,7 @@ A standardized bacterial taxonomy based on genome phylogeny substantially revise
 
 https://ja.wikipedia.org/wiki/Galaxy_(計算生物学)
 
+- https://github.com/haruosuz/bioinfo
 - https://github.com/haruosuz/evolve
 - https://github.com/haruosuz/statistics
 - https://github.com/haruosuz/plasmids
