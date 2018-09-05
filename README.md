@@ -25,17 +25,6 @@ Last Update: 2018-08
 
 ### 2018-09
 
-https://kimuraseminar.wordpress.com
-木村資生記念 進化学セミナー | Welcome 次世代の進化研究者！
-
-https://kimuraseminar.wordpress.com/第2回-進化学セミナー/
-日程: 2018年9月1日（土）〜9月3日（月）
-場所: 大学セミナーハウス（東京都八王子市）
-
-https://kimuraseminar.wordpress.com/第2回-進化学セミナー-要旨/
-
-### 2018-09
-
 - https://twitter.com/bms_pr
 - https://twitter.com/search?f=tweets&vertical=default&q=行動計量学会&src=typd
 - http://bsj.wdc-jp.com/2018/
@@ -77,6 +66,7 @@ A standardized bacterial taxonomy based on genome phylogeny substantially revise
 
 https://ja.wikipedia.org/wiki/Galaxy_(計算生物学)
 
+- https://github.com/haruosuz/DS4GD/blob/master/2018/CaseStudy.md#genome-signature
 - https://github.com/haruosuz/bioinfo
 - https://github.com/haruosuz/evolve
 - https://github.com/haruosuz/statistics
