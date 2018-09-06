@@ -59,10 +59,6 @@ https://twitter.com/NatureJapan/status/1034347192054501377
 Nature Human Behaviour 「Nature誌やScience誌に発表された社会科学研究に再現性はあるか？」21件の実験社会科学研究を対象に、当初の研究の約5倍の標本数を用いて検出力の高い再現実験を試みた結果、再現実験の62％で当初の研究と同じ方向の効果が見られた。
 3:49 AM - 28 Aug 2018
 
-https://twitter.com/Tyu_Shi/status/1034217003936931841
-A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life https://www.nature.com/articles/nbt.4229 …  bioRxivに前に出ていたHugenholtz達の原核生物ゲノム系統樹論文が出たか。
-7:12 PM - 27 Aug 2018
-
 ----------
 ## featuring
 
