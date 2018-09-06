@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2018-08
+Last Update: 2018-09
 
 ----------
 
@@ -25,23 +25,25 @@ Last Update: 2018-08
 
 ### 2018-09
 
-- https://twitter.com/bms_pr
-- https://twitter.com/search?f=tweets&vertical=default&q=行動計量学会&src=typd
-- http://bsj.wdc-jp.com/2018/
-日本行動計量学会　第46回大会
-2018年9月3日（月）～9月6日（木）
-慶應義塾大学三田キャンパス（東京都港区三田2-15-45）
-
 https://sites.google.com/site/colloqfoundbio/
-生物学基礎論研究会
 第12回生物学基礎論研究会
 日時：2018年9月8日（土）～9日（日）
 場所：統計数理研究所
 
+http://www.jfssa.jp/taikai/2018/
+2018年度 統計関連学会連合大会
+日程：2018年9月9日（日）～13日（木）
+場所：中央大学・後楽園キャンパス
+5号館
+http://www.jfssa.jp/taikai/2018/table/program_detail/0912.html#a6
+9月12日(水)
+A会場（5534教室）10:00 - 12:00
+【企画セッション講演】(03) 応用統計学会企画セッション
+「統計的因果推論–基本的なアイデアから最近の発展まで–」
+
 Pitagora Galaxy Meetup
 http://wiki.pitagora-galaxy.org/wiki/index.php/Events
 2018年09月13日（木）	　Meetup 2018-09 +	　慶応大学三田キャンパス（三田）
-
 http://wiki.pitagora-galaxy.org/wiki/index.php/Meetup_2018-09_%2B
 Meetup 2018-09 +
 日時： 2018年9月13日（木）10:00 〜 18:30
