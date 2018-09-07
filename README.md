@@ -20,6 +20,7 @@ Last Update: 2018-09
 
 https://ja.wikipedia.org/wiki/Galaxy_(計算生物学)
 
+- https://twitter.com/copypasteusa
 - https://github.com/haruosuz/evolve/blob/master/references/README.jargon.md
 - https://github.com/haruosuz/evolve
 - https://github.com/haruosuz/microbe
