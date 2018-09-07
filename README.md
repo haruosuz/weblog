@@ -6,17 +6,29 @@ Last Update: 2018-09
 # Weblog
 
 ## Table of Contents
-
+- [featuring](#featuring)
 - [updates](#updates)
   - [2018](#2018)
-- [featuring](#featuring)
-- [network](#network)
-- [metabolic](#metabolic)
 - [books](#books)
 - [robust](#robust)
 - [sfc](#sfc)
 - [link](#link)
 - [unclassified](#unclassified)
+
+----------
+## featuring
+
+https://ja.wikipedia.org/wiki/Galaxy_(計算生物学)
+
+- https://github.com/haruosuz/evolve/blob/master/references/README.jargon.md
+- https://github.com/haruosuz/evolve
+- https://github.com/haruosuz/microbe
+- https://github.com/haruosuz/DS4GD/blob/master/2018/CaseStudy.md#genome-signature
+- https://github.com/haruosuz/bioinfo
+- https://github.com/haruosuz/statistics
+- https://github.com/haruosuz/plasmids
+- https://github.com/haruosuz/plasmids/blob/master/references/README.2018.md
+- https://github.com/haruosuz/metasub
 
 ----------
 ## updates
@@ -58,77 +70,6 @@ Meetup 2018-09 +
 https://twitter.com/NatureJapan/status/1034347192054501377
 Nature Human Behaviour 「Nature誌やScience誌に発表された社会科学研究に再現性はあるか？」21件の実験社会科学研究を対象に、当初の研究の約5倍の標本数を用いて検出力の高い再現実験を試みた結果、再現実験の62％で当初の研究と同じ方向の効果が見られた。
 3:49 AM - 28 Aug 2018
-
-----------
-## featuring
-
-https://ja.wikipedia.org/wiki/Galaxy_(計算生物学)
-
-- https://github.com/haruosuz/DS4GD/blob/master/2018/CaseStudy.md#genome-signature
-- https://github.com/haruosuz/bioinfo
-- https://github.com/haruosuz/evolve
-- https://github.com/haruosuz/statistics
-- https://github.com/haruosuz/plasmids
-- https://github.com/haruosuz/plasmids/blob/master/references/README.2018.md
-- https://github.com/haruosuz/metasub
-- https://github.com/haruosuz/microbe
-
-https://www.ncbi.nlm.nih.gov/pubmed/30132409
-Am J Mens Health. 2018 Aug 22:1557988318794522. doi: 10.1177/1557988318794522. [Epub ahead of print]
-Male Partners of Infertile Couples With Seminal Positivity for Markers of Bacterial Vaginosis Have Impaired Fertility.
-Damke E1, Kurscheidt FA2, Irie MMT1, Gimenes F1, Consolaro MEL1.
-
-https://www.ncbi.nlm.nih.gov/pubmed/28835893
-Biomed Res Int. 2017;2017:4684629. doi: 10.1155/2017/4684629. Epub 2017 Aug 1.
-Male Partners of Infertile Couples with Seminal Infections of Human Papillomavirus Have Impaired Fertility Parameters.
-Damke E1, Kurscheidt FA1,2, Balani VA2, Takeda KI2, Irie MMT1, Gimenes F1, Consolaro MEL1.
-
-----------
-## network
-## co-occurrence network
-
-https://twitter.com/windowmoon/status/1028036551337373696
-窓月㌠・CC-BY on Twitter: "Co-occurrence network使って研究してる人たちはわかっててやってる(それでも意味はあるという考え)から問題ないと思うけど、聞いてる側はしばしばわかってない人がいそう。"
-5:53 PM - 10 Aug 2018
-
-https://twitter.com/leonorabit/status/1027559581440978945
-Leonora Bittleston on Twitter: "#ESA2018 @algaebarnacle finds that none of the co-occurrence network methods recover experimentally validated interactions - at most 6% correct"
-10:17 AM - 9 Aug 2018
-
-https://twitter.com/tksmiki/status/1011942385780076544
-三木健 on Twitter: "TDMとEDM組み合わせて、co-occurrence network does not imply anything about interactions at all っていう論文、誰か一緒に書きません？　まあ、1980年代に既に有るかもですが。"
-8:00 AM - 27 Jun 2018
-
-https://www.ncbi.nlm.nih.gov/pubmed/24637600
-Gut Microbes. 2014 Mar-Apr;5(2):265-70. doi: 10.4161/gmic.28261. Epub 2014 Feb 20.
-Metagenomic systems biology and metabolic modeling of the human microbiome: from species composition to community assembly rules.
-Levy R1, Borenstein E2.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4063856/
-metabolic networks
-species co-occurrence network
-
-----------
-## metabolic
-
-https://www.ncbi.nlm.nih.gov/pubmed/24637600
-Gut Microbes. 2014 Mar-Apr;5(2):265-70. doi: 10.4161/gmic.28261. Epub 2014 Feb 20.
-Metagenomic systems biology and metabolic modeling of the human microbiome: from species composition to community assembly rules.
-Levy R1, Borenstein E2.
-
-https://www.genome.jp/tools/maple/
-MAPLE-2.3.0
-Metabolic And Physiological potentiaL Evaluator
-for gene mapping to the KEGG functional modules and calculation of module completion ratio (MCR)
-
-https://www.ncbi.nlm.nih.gov/pubmed/29792119
-Biosci Biotechnol Biochem. 2018 May 24:1-3. doi: 10.1080/09168451.2018.1476122. [Epub ahead of print]
-MAPLE 2.3.0: an improved system for evaluating the functionomes of genomes and metagenomes.
-Arai W1, Taniguchi T2, Goto S3, Moriya Y3, Uehara H4, Takemoto K5, Ogata H6, Takami H1.
-
-https://www.ncbi.nlm.nih.gov/pubmed/24277855
-Proc Natl Acad Sci U S A. 2013 Dec 10;110(50):20338-43. doi: 10.1073/pnas.1307797110. Epub 2013 Nov 25.
-Genome-scale metabolic reconstructions of multiple Escherichia coli strains highlight strain-specific adaptations to nutritional environments.
-Monk JM1, Charusanti P, Aziz RK, Lerman JA, Premyodhin N, Orth JD, Feist AM, Palsson BØ.
 
 ----------
 ## books
