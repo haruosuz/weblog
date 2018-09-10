@@ -38,20 +38,11 @@ https://ja.wikipedia.org/wiki/Galaxy_(計算生物学)
 
 ## 2018
 
+
+http://kusanagi.hatenablog.jp/entry/2018/09/06/185559
+ひとに統計相談をするための8つの基本的なTips - 草薙の研究ログ
+
 ### 2018-09
-
-https://sites.google.com/site/colloqfoundbio/
-第12回生物学基礎論研究会
-日時：2018年9月8日（土）～9日（日）
-場所：統計数理研究所
-
-9月8日（土）
-＜開会の挨拶＞
-10:00-10:10　森元良太（北海道医療大学）
-
-9月9日（日）
-＜総合討論＞
-16:40-17:00
 
 http://www.jfssa.jp/taikai/2018/
 2018年度 統計関連学会連合大会
