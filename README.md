@@ -34,6 +34,21 @@ https://ja.wikipedia.org/wiki/Galaxy_(計算生物学)
 - https://github.com/haruosuz/statistics
 - https://github.com/haruosuz/metasub
 
+##### fastGEAR
+
+https://www.ncbi.nlm.nih.gov/pubmed/28650958
+PLoS Genet. 2017 Jun 26;13(6):e1006855. doi: 10.1371/journal.pgen.1006855. eCollection 2017 Jun.
+Dynamics and impact of homologous recombination on the evolution of Legionella pneumophila.
+David S1,2, Sánchez-Busó L1, Harris SR1, Marttinen P3, Rusniok C4,5, Buchrieser C4,5, Harrison TG2, Parkhill J1.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5507463/
+
+https://www.ncbi.nlm.nih.gov/pubmed/28199698
+Mol Biol Evol. 2017 May 1;34(5):1167-1182. doi: 10.1093/molbev/msx066.
+Efficient Inference of Recent and Ancestral Recombination within Bacterial Populations.
+Mostowy R1, Croucher NJ1, Andam CP2, Corander J3,4, Hanage WP2, Marttinen P5.
+We introduce a novel algorithm called fastGEAR which identifies lineages in diverse microbial alignments, and recombinations between them and from external origins.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5400400/
+
 ----------
 ## updates
 
@@ -42,6 +57,8 @@ https://ja.wikipedia.org/wiki/Galaxy_(計算生物学)
 
 http://kusanagi.hatenablog.jp/entry/2018/09/06/185559
 ひとに統計相談をするための8つの基本的なTips - 草薙の研究ログ
+
+https://gigazine.net/news/20180904-git-version-control-system/
 
 ### 2018-09
 
@@ -366,6 +383,15 @@ https://twitter.com/search?q=科学論文にご用心、大半は誤り%20専門
 ----------
 
 ## r
+
+https://twitter.com/XavierDidelot/status/1039083946913529856
+BactDating is a fast Bayesian method for building bacterial dated trees and the paper is now published by @NAR_Open , see http://bit.ly/2MdNfOl  . Thanks to co-authors NickCroucher @StephenBentley5 @DrSimonHarris @apemandan
+Dating of PMEN1, before and after accounting for recombination
+5:31 AM - 10 Sep 2018
+https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gky783/5089898
+Bayesian inference of ancestral dates on bacterial phylogenetic trees | Nucleic Acids Research | Oxford Academic
+Our methodology is implemented in a R package called BactDating which is freely available for download at https://github.com/xavierdidelot/BactDating.
+
 
 22 Aug 2018
 https://arxiv.org/abs/1808.07259
