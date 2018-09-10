@@ -20,6 +20,7 @@ Last Update: 2018-09
 
 https://ja.wikipedia.org/wiki/Galaxy_(計算生物学)
 
+- https://sfcclip.net/bus/
 - https://twitter.com/copypasteusa
 - https://en.wikipedia.org/wiki/UniFrac
 - https://github.com/haruosuz/plasmids
@@ -145,8 +146,11 @@ We tested the robustness of our result that Mahalanobis distance performs better
 ----------
 ## sfc
 
-- http://www.sfc.lib.keio.ac.jp/
-- https://sfcclip.net/bus/
+http://www.sfc.lib.keio.ac.jp/
+慶應義塾大学湘南藤沢メディアセンター
+
+https://sfcclip.net/bus/
+バス時刻表 ∣ SFC CLIP
 
 [[PDF]2017年度 秋学期授業カレンダー](https://www.sfc.keio.ac.jp/doc/2017f_calendar_170228.pdf)
 
