@@ -18,21 +18,21 @@ Last Update: 2018-09
 ----------
 ## featuring
 
-https://ja.wikipedia.org/wiki/Galaxy_(計算生物学)
 
-- https://sfcclip.net/bus/
 - https://twitter.com/copypasteusa
 - https://en.wikipedia.org/wiki/UniFrac
 - https://github.com/haruosuz/plasmids
-- https://github.com/haruosuz/plasmids/blob/master/references/README.2018.md
 - https://github.com/haruosuz/plasmids/blob/master/references/README.2018.md#2018-08-07
-- https://github.com/haruosuz/evolve/blob/master/references/README.jargon.md
 - https://github.com/haruosuz/evolve
+- https://github.com/haruosuz/evolve/blob/master/references/README.jargon.md
 - https://github.com/haruosuz/microbe
-- https://github.com/haruosuz/DS4GD/blob/master/2018/CaseStudy.md#genome-signature
 - https://github.com/haruosuz/bioinfo
 - https://github.com/haruosuz/statistics
 - https://github.com/haruosuz/metasub
+- https://github.com/haruosuz/DS4GD/blob/master/2018/CaseStudy.md#genome-signature
+
+https://toukeigaku-jouhou.info/2017/12/14/samplesize-and-the-number-of-samples/
+サンプルサイズとサンプル数の違い（標本の大きさと標本数）
 
 ##### fastGEAR
 
@@ -56,6 +56,8 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5400400/
 
 ### 2018-09
 
+- https://twitter.com/search?q=統計関連学会連合大会
+
 http://www.jfssa.jp/taikai/2018/
 2018年度 統計関連学会連合大会
 日程：2018年9月9日（日）～13日（木）
@@ -67,15 +69,7 @@ A会場（5534教室）10:00 - 12:00
 【企画セッション講演】(03) 応用統計学会企画セッション
 「統計的因果推論–基本的なアイデアから最近の発展まで–」
 
-https://togetter.com/li/1265497
-世界を変えた書物展をより楽しむために。 - Togetter
-9月8日（土）に東京・上野の森美術館で始まった「世界を変えた書物」展。http://www.kanazawa-it.ac.jp/shomotu/index.html　コペルニクス「天球の回転」、ニュートン「プリンキピア」、ダーウィン「種の起源」をはじめ、金沢工大が所蔵する2000冊余の科学・技術の稀覯書から選りすぐられた、文字通り「世界を変えた」書物130冊（すべて初版）が展示されています。入場無料、撮影可。9月24日（月祝）まで。 ニコニコ生放送では山本貴光さん（文筆家・ゲーム作家）とご一緒に展覧会をご紹介しましたが、その補遺となる情報をまとめました。カバー写真：小学館写真室 藤岡雅樹
-
-http://www.kanazawa-it.ac.jp/shomotu/index.html
-［世界を変えた書物］展　人類の知性を辿る旅｜金沢工業大学
-
-https://gigazine.net/news/20180904-git-version-control-system/
-
+- https://ja.wikipedia.org/wiki/Galaxy_(計算生物学)
 
 Pitagora Galaxy Meetup
 http://wiki.pitagora-galaxy.org/wiki/index.php/Events
@@ -84,6 +78,17 @@ http://wiki.pitagora-galaxy.org/wiki/index.php/Meetup_2018-09_%2B
 Meetup 2018-09 +
 日時： 2018年9月13日（木）10:00 〜 18:30
 場所： 慶応大学三田キャンパス東館４階オープンラボ
+
+https://gigazine.net/news/20180904-git-version-control-system/
+
+
+https://togetter.com/li/1265497
+世界を変えた書物展をより楽しむために。 - Togetter
+9月8日（土）に東京・上野の森美術館で始まった「世界を変えた書物」展。http://www.kanazawa-it.ac.jp/shomotu/index.html　コペルニクス「天球の回転」、ニュートン「プリンキピア」、ダーウィン「種の起源」をはじめ、金沢工大が所蔵する2000冊余の科学・技術の稀覯書から選りすぐられた、文字通り「世界を変えた」書物130冊（すべて初版）が展示されています。入場無料、撮影可。9月24日（月祝）まで。 ニコニコ生放送では山本貴光さん（文筆家・ゲーム作家）とご一緒に展覧会をご紹介しましたが、その補遺となる情報をまとめました。カバー写真：小学館写真室 藤岡雅樹
+
+http://www.kanazawa-it.ac.jp/shomotu/index.html
+［世界を変えた書物］展　人類の知性を辿る旅｜金沢工業大学
+
 
 日本遺伝学会第90回大会を、2018年（平成30年）9月19日（水）から21日（金）まで、奈良先端科学技術大学院大学キャンパスにおいて開催
 
