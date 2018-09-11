@@ -54,12 +54,6 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5400400/
 
 ## 2018
 
-
-http://kusanagi.hatenablog.jp/entry/2018/09/06/185559
-ひとに統計相談をするための8つの基本的なTips - 草薙の研究ログ
-
-https://gigazine.net/news/20180904-git-version-control-system/
-
 ### 2018-09
 
 http://www.jfssa.jp/taikai/2018/
@@ -72,6 +66,16 @@ http://www.jfssa.jp/taikai/2018/table/program_detail/0912.html#a6
 A会場（5534教室）10:00 - 12:00
 【企画セッション講演】(03) 応用統計学会企画セッション
 「統計的因果推論–基本的なアイデアから最近の発展まで–」
+
+https://togetter.com/li/1265497
+世界を変えた書物展をより楽しむために。 - Togetter
+9月8日（土）に東京・上野の森美術館で始まった「世界を変えた書物」展。http://www.kanazawa-it.ac.jp/shomotu/index.html　コペルニクス「天球の回転」、ニュートン「プリンキピア」、ダーウィン「種の起源」をはじめ、金沢工大が所蔵する2000冊余の科学・技術の稀覯書から選りすぐられた、文字通り「世界を変えた」書物130冊（すべて初版）が展示されています。入場無料、撮影可。9月24日（月祝）まで。 ニコニコ生放送では山本貴光さん（文筆家・ゲーム作家）とご一緒に展覧会をご紹介しましたが、その補遺となる情報をまとめました。カバー写真：小学館写真室 藤岡雅樹
+
+http://www.kanazawa-it.ac.jp/shomotu/index.html
+［世界を変えた書物］展　人類の知性を辿る旅｜金沢工業大学
+
+https://gigazine.net/news/20180904-git-version-control-system/
+
 
 Pitagora Galaxy Meetup
 http://wiki.pitagora-galaxy.org/wiki/index.php/Events
@@ -162,6 +166,11 @@ We tested the robustness of our result that Mahalanobis distance performs better
 
 ----------
 ## sfc
+
+https://www.sfc.keio.ac.jp/faculty/calendars/class_calendar.html
+授業カレンダー | 慶應義塾大学 湘南藤沢キャンパス（SFC）
+https://www.sfc.keio.ac.jp/doc/18f_calendar_171211_j.pdf
+2018年度秋学期授業カレンダー
 
 http://www.sfc.lib.keio.ac.jp/
 慶應義塾大学湘南藤沢メディアセンター
