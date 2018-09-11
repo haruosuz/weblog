@@ -19,19 +19,26 @@ Last Update: 2018-09
 
 
 - https://twitter.com/copypasteusa
-- https://en.wikipedia.org/wiki/UniFrac
+- https://github.com/haruosuz/statistics
 - https://github.com/haruosuz/plasmids
 - https://github.com/haruosuz/plasmids/blob/master/references/README.2018.md#2018-08-07
 - https://github.com/haruosuz/evolve
 - https://github.com/haruosuz/evolve/blob/master/references/README.jargon.md
 - https://github.com/haruosuz/microbe
 - https://github.com/haruosuz/bioinfo
-- https://github.com/haruosuz/statistics
 - https://github.com/haruosuz/metasub
 - https://github.com/haruosuz/DS4GD/blob/master/2018/CaseStudy.md#genome-signature
 
-https://toukeigaku-jouhou.info/2017/12/14/samplesize-and-the-number-of-samples/
-サンプルサイズとサンプル数の違い（標本の大きさと標本数）
+- https://en.wikipedia.org/wiki/UniFrac
+
+- https://twitter.com/toukei_kentei
+
+http://www.toukei-kentei.jp
+統計検定：Japan Statistical Society Certificate
+次回の検定情報
+2018年
+11月25日(日)
+個人申込：9月5日～10月12日
 
 ##### fastGEAR
 
@@ -205,17 +212,8 @@ https://www.iibc-global.org/toeic/test/lr/guide01.html
 https://twitter.com/TJO_datasci/status/1013412162725769218
 TJO on Twitter: "「航空業界が失敗から学ぶ仕組みを構築している」話、もうちょっと詳しく書くと航空事故はどの国でも独立した事故調査委を置かねばならず、刑事・民事係争に利用されないという免責のもとで、必ず真実に迫り事故を再発させないというただその一点のみのために全ての努力が注ぎ込まれるようになっている"
 
-
-https://gigazine.net/news/20180216-karate-kid-cobra-kai/
-映画「ベスト・キッド」の続編となる新作ドラマ「Cobra Kai」の予告編が公開 - GIGAZINE
-
-https://www.youtube.com/watch?v=_rB36UGoP4Y
-Cobra Kai Ep 1 - “Ace Degenerate” - The Karate Kid Saga Continues - YouTube
-
-
 https://ja.wikipedia.org/wiki/Tf-idf
 tf-idfは、文書中に含まれる単語の重要度を評価する手法の1つであり、主に情報検索やトピック分析などの分野で用いられている。
-
 
 ----------
 
