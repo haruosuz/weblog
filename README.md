@@ -15,8 +15,72 @@ Last Update: 2018-09
 - [unclassified](#unclassified)
 
 ----------
-## featuring
+## updates
 
+## 2018
+
+### 2018-09
+
+https://twitter.com/search?q=統計関連学会連合大会
+
+http://www.jfssa.jp/taikai/2018/
+2018年度 統計関連学会連合大会
+日程：2018年9月9日（日）～13日（木）
+場所：中央大学・後楽園キャンパス
+5号館
+http://www.jfssa.jp/taikai/2018/table/program_detail/0912.html#a6
+9月12日(水)
+A会場（5534教室）10:00 - 12:00
+【企画セッション講演】(03) 応用統計学会企画セッション
+「統計的因果推論–基本的なアイデアから最近の発展まで–」
+
+http://www.jfssa.jp/taikai/2018/venue.html#link05
+
+アクセス
+大会会場の中央大学・後楽園キャンパスへは，
+・東京メトロ丸ノ内線・南北線『後楽園駅』から徒歩約5分
+・都営三田線・大江戸線『春日駅』から徒歩約6分
+・JR中央・総武線『水道橋駅』から徒歩約12分
+・JR中央・総武線『飯田橋駅』から徒歩約17分
+です。
+※春日通り沿いに正門、東門があります。
+・後楽園キャンパス アクセスマップはこちらから
+
+https://ja.wikipedia.org/wiki/Galaxy_(計算生物学)
+
+Pitagora Galaxy Meetup
+http://wiki.pitagora-galaxy.org/wiki/index.php/Events
+2018年09月13日（木）	　Meetup 2018-09 +	　慶応大学三田キャンパス（三田）
+http://wiki.pitagora-galaxy.org/wiki/index.php/Meetup_2018-09_%2B
+Meetup 2018-09 +
+日時： 2018年9月13日（木）10:00 〜 18:30
+場所： 慶応大学三田キャンパス東館４階オープンラボ
+
+https://gigazine.net/news/20180904-git-version-control-system/
+
+https://togetter.com/li/1265497
+世界を変えた書物展をより楽しむために。 - Togetter
+9月8日（土）に東京・上野の森美術館で始まった「世界を変えた書物」展。http://www.kanazawa-it.ac.jp/shomotu/index.html　コペルニクス「天球の回転」、ニュートン「プリンキピア」、ダーウィン「種の起源」をはじめ、金沢工大が所蔵する2000冊余の科学・技術の稀覯書から選りすぐられた、文字通り「世界を変えた」書物130冊（すべて初版）が展示されています。入場無料、撮影可。9月24日（月祝）まで。 ニコニコ生放送では山本貴光さん（文筆家・ゲーム作家）とご一緒に展覧会をご紹介しましたが、その補遺となる情報をまとめました。カバー写真：小学館写真室 藤岡雅樹
+
+http://www.kanazawa-it.ac.jp/shomotu/index.html
+［世界を変えた書物］展　人類の知性を辿る旅｜金沢工業大学
+
+
+日本遺伝学会第90回大会を、2018年（平成30年）9月19日（水）から21日（金）まで、奈良先端科学技術大学院大学キャンパスにおいて開催
+
+生命医薬情報学連合大会2018年大会として2018年9月19日（水）～21日（金）に山形県鶴岡市で開催されます。 http://iibmp2018.org
+
+### 2018-10-
+
+https://twitter.com/tomkXY/status/1037686019603091457
+Tom Kelly ケリー・トム on Twitter: "Next #TokyoR meetings will be on October 20 and November 10. Come along if you’re into #Rstats, whether you’ve been at it a long time or just getting started. #RLang #DataScience @TokyoRCommunity… https://t.co/mF5wgPIk1L"
+
+次回　: 10月20日 ＠エウレカ
+
+次次回: 11月10日 ＠サイバーエージェント
+
+----------
+## featuring
 
 - https://twitter.com/copypasteusa
 - https://github.com/haruosuz/statistics
@@ -28,9 +92,7 @@ Last Update: 2018-09
 - https://github.com/haruosuz/bioinfo
 - https://github.com/haruosuz/metasub
 - https://github.com/haruosuz/DS4GD/blob/master/2018/CaseStudy.md#genome-signature
-
 - https://en.wikipedia.org/wiki/UniFrac
-
 - https://twitter.com/toukei_kentei
 
 http://www.toukei-kentei.jp
@@ -54,61 +116,6 @@ Efficient Inference of Recent and Ancestral Recombination within Bacterial Popul
 Mostowy R1, Croucher NJ1, Andam CP2, Corander J3,4, Hanage WP2, Marttinen P5.
 We introduce a novel algorithm called fastGEAR which identifies lineages in diverse microbial alignments, and recombinations between them and from external origins.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5400400/
-
-----------
-## updates
-
-## 2018
-
-### 2018-09
-
-https://twitter.com/search?q=統計関連学会連合大会
-
-http://www.jfssa.jp/taikai/2018/
-2018年度 統計関連学会連合大会
-日程：2018年9月9日（日）～13日（木）
-場所：中央大学・後楽園キャンパス
-5号館
-http://www.jfssa.jp/taikai/2018/table/program_detail/0912.html#a6
-9月12日(水)
-A会場（5534教室）10:00 - 12:00
-【企画セッション講演】(03) 応用統計学会企画セッション
-「統計的因果推論–基本的なアイデアから最近の発展まで–」
-
-https://ja.wikipedia.org/wiki/Galaxy_(計算生物学)
-
-Pitagora Galaxy Meetup
-http://wiki.pitagora-galaxy.org/wiki/index.php/Events
-2018年09月13日（木）	　Meetup 2018-09 +	　慶応大学三田キャンパス（三田）
-http://wiki.pitagora-galaxy.org/wiki/index.php/Meetup_2018-09_%2B
-Meetup 2018-09 +
-日時： 2018年9月13日（木）10:00 〜 18:30
-場所： 慶応大学三田キャンパス東館４階オープンラボ
-
-https://gigazine.net/news/20180904-git-version-control-system/
-
-
-https://togetter.com/li/1265497
-世界を変えた書物展をより楽しむために。 - Togetter
-9月8日（土）に東京・上野の森美術館で始まった「世界を変えた書物」展。http://www.kanazawa-it.ac.jp/shomotu/index.html　コペルニクス「天球の回転」、ニュートン「プリンキピア」、ダーウィン「種の起源」をはじめ、金沢工大が所蔵する2000冊余の科学・技術の稀覯書から選りすぐられた、文字通り「世界を変えた」書物130冊（すべて初版）が展示されています。入場無料、撮影可。9月24日（月祝）まで。 ニコニコ生放送では山本貴光さん（文筆家・ゲーム作家）とご一緒に展覧会をご紹介しましたが、その補遺となる情報をまとめました。カバー写真：小学館写真室 藤岡雅樹
-
-http://www.kanazawa-it.ac.jp/shomotu/index.html
-［世界を変えた書物］展　人類の知性を辿る旅｜金沢工業大学
-
-
-日本遺伝学会第90回大会を、2018年（平成30年）9月19日（水）から21日（金）まで、奈良先端科学技術大学院大学キャンパスにおいて開催
-
-生命医薬情報学連合大会2018年大会として2018年9月19日（水）～21日（金）に山形県鶴岡市で開催されます。 http://iibmp2018.org
-
-### 2018-10-
-
-https://twitter.com/tomkXY/status/1037686019603091457
-Tom Kelly ケリー・トム on Twitter: "Next #TokyoR meetings will be on October 20 and November 10. Come along if you’re into #Rstats, whether you’ve been at it a long time or just getting started. #RLang #DataScience @TokyoRCommunity… https://t.co/mF5wgPIk1L"
-
-次回　: 10月20日 ＠エウレカ
-
-次次回: 11月10日 ＠サイバーエージェント
-
 
 ----------
 ## books
