@@ -100,11 +100,15 @@ http://www.kanazawa-it.ac.jp/shomotu/index.html
 
 生命医薬情報学連合大会2018年大会として2018年9月19日（水）～21日（金）に山形県鶴岡市で開催されます。 http://iibmp2018.org
 
-### 2018-08
+### 2018-10-
 
-https://twitter.com/NatureJapan/status/1034347192054501377
-Nature Human Behaviour 「Nature誌やScience誌に発表された社会科学研究に再現性はあるか？」21件の実験社会科学研究を対象に、当初の研究の約5倍の標本数を用いて検出力の高い再現実験を試みた結果、再現実験の62％で当初の研究と同じ方向の効果が見られた。
-3:49 AM - 28 Aug 2018
+https://twitter.com/tomkXY/status/1037686019603091457
+Tom Kelly ケリー・トム on Twitter: "Next #TokyoR meetings will be on October 20 and November 10. Come along if you’re into #Rstats, whether you’ve been at it a long time or just getting started. #RLang #DataScience @TokyoRCommunity… https://t.co/mF5wgPIk1L"
+
+次回　: 10月20日 ＠エウレカ
+
+次次回: 11月10日 ＠サイバーエージェント
+
 
 ----------
 ## books
