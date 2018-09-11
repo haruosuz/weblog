@@ -10,7 +10,6 @@ Last Update: 2018-09
 - [updates](#updates)
   - [2018](#2018)
 - [books](#books)
-- [robust](#robust)
 - [sfc](#sfc)
 - [link](#link)
 - [unclassified](#unclassified)
@@ -56,7 +55,7 @@ https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5400400/
 
 ### 2018-09
 
-- https://twitter.com/search?q=統計関連学会連合大会
+https://twitter.com/search?q=統計関連学会連合大会
 
 http://www.jfssa.jp/taikai/2018/
 2018年度 統計関連学会連合大会
@@ -69,7 +68,7 @@ A会場（5534教室）10:00 - 12:00
 【企画セッション講演】(03) 応用統計学会企画セッション
 「統計的因果推論–基本的なアイデアから最近の発展まで–」
 
-- https://ja.wikipedia.org/wiki/Galaxy_(計算生物学)
+https://ja.wikipedia.org/wiki/Galaxy_(計算生物学)
 
 Pitagora Galaxy Meetup
 http://wiki.pitagora-galaxy.org/wiki/index.php/Events
@@ -153,22 +152,6 @@ http://gihyo.jp/book/2018/978-4-7741-9853-8/support
 https://y-mattu.hatenablog.com/entry/2018/06/04/185922
 RユーザのためのRStudio[実践]入門 という本が出ます。 - ★データ解析備忘録★
 
-
-----------
-
-## robust
-ロバスト
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2608848/
-Comparison of Correspondence Analysis Methods for Synonymous Codon Usage in Bacteria
-
-It is important to note that these results remained similar when all complete bacterial genomic sequences available from the NCBI repository on August 2008 were included (data not shown). Similar results were obtained when only long sequences with >300 codons were used (data not shown). We also verified the consistency of the results when using detection thresholds below |r| = 0.70 (data not shown). Thus we conclude that WCA is more effective than the other three methods in generating axes that correspond to variation in synonymous codon usage, regardless of the data sets and statistical criteria used.
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2602791/
-Using Mahalanobis distance to compare genomic signatures between bacterial plasmids and chromosomes
-
-We tested the robustness of our result that Mahalanobis distance performs better than the conventional δ-distance by varying chromosomal segment size, word size (e.g. tri- and tetra-nucleotides) (12,29,37) and composition of the host data set. Campbell et al. (11) and Wong et al. (20) used 50-kb chromosomal segments, while van Passel et al. (25) used plasmid-size chromosomal segments; that is, the segment size was not fixed but depended on the plasmid size. In the present study, we used a fixed segment size. We found that our results remained similar when partitioning chromosomal sequences into different sizes of segments; e.g. 2, 5, 10 and 20 kb in length (data not shown). Among these, 5 kb was selected because the median rank of the genomic signature similarities between plasmids and their known hosts was maximized. The results were also consistent with those obtained when using relative abundances of different word sizes (data not shown). We also demonstrated that our results were robust to the composition of the host data set by testing different subsets of bacteria, e.g. Proteobacteria, Firmicutes, Gram-positive bacteria, Gram-negative bacteria and also when only one representative was randomly selected in the case of species for which multiple strains have been sequenced (data not shown). Thus, Mahalanobis distance performed better than δ-distance in identifying plasmid hosts based on genomic signature similarity, regardless of the datasets used.
-
 ----------
 ## sfc
 
@@ -243,52 +226,6 @@ http://www.biodic.go.jp/bch/cartagena/index.html
 ご存知ですか?カルタヘナ法
 
 https://www.weblio.jp/content/カルタヘナ法
-
-
-----------
-
-http://yumulog.hatenablog.com/entry/2016/09/19/011833
-「なぜあなたの研究は進まないのか?」「なぜあなたは論文が書けないのか?」の2冊が素晴らしかった - yumulog | 社会人博士の日記
-
-
-----------
-
-http://lafrenze.hatenablog.com/entry/2015/08/04/120205
-高速で論文がバリバリ読める落合先生のフォーマットがいい感じだったのでメモ - 書架とラフレンツェ
-
-http://okatenari.com/2017/06/02/post-595/
-英語論文の読み方のコツはこれ！メーカーで研究職の僕が実践している方法 | 本日はおかてんなり
-
-https://rabotiku-sato.com/entry/2016/11/29/020928/
-【５分でわかる！】研究室での英語論文の読み方のコツ | ラボライブ！
-
-20150616
-http://hikaru1122.hatenadiary.jp/entry/ronbun-no-yomikata
-効率的な論文の読み方とは？　論文の読み方を知るための論文 - Knowledge As Practice
-
-
-----------
-
-https://twitter.com/tonets/status/1010321829502676993
-大上雅史／猫じゃら氏 on Twitter: "英語論文を書く上でお世話になっている５つのウェブサイト ①Google翻訳 ②ALC英辞郎 on the WEB (Pro) ③Hyper Collocation - arXiv論文英語コロケーションDB https://t.co/DCH7C98LBm ④inMeXes - 逐次PubMed表現検索 https://t.co/86FjTdmGhN ⑤Academic Phrasebank https://t.co/sCaYaun6ij"
-
-英語論文を書く上でお世話になっている５つのウェブサイト
-
-①Google翻訳
-②ALC英辞郎 on the WEB (Pro)
-③Hyper Collocation - arXiv論文英語コロケーションDB
-https://hypcol.marutank.net/ja/ 
-④inMeXes - 逐次PubMed表現検索
-http://docman.dbcls.jp/im/ 
-⑤Academic Phrasebank
-http://www.phrasebank.manchester.ac.uk/ 
-
-https://twitter.com/bonohu/status/1008150073484558337
-朝から世話になった “inMeXesは、#DBCLS のサービスで、生命科学系の文献(PubMedに含まれるタイトルとアブストラクト)に頻出する英語表現を、1文字の入力ごとに高速に再検索可能” #togotv / “inMeXe…”
-
-http://togotv.dbcls.jp/20180126.html
-inMeXesを使って文献に頻出する英語表現や関連語を高速に検索する 2018 統合TV(togotv)｜生命科学系DB・ツール使い倒し系チャンネル
-
 
 ----------
 ## unclassified
