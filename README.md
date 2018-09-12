@@ -24,8 +24,25 @@ Last Update: 2018-09
 - https://github.com/haruosuz/microbe
 - https://github.com/haruosuz/plasmids
 - https://github.com/haruosuz/r4bioinfo
+- https://github.com/haruosuz/r4bioinfo/tree/master/R_memo
 - https://github.com/haruosuz/statistics
 - https://github.com/haruosuz/DS4GD/blob/master/2018/CaseStudy.md#genome-signature
+
+### git
+https://gigazine.net/news/20180904-git-version-control-system/
+バージョン管理ツール「Git」は一体どういうものなのか？ - GIGAZINE
+
+http://togotv.dbcls.jp/20180621.html
+2018-06-21 生命科学研究のためのGitHubの使い方 基本編
+
+2017年12月19日
+https://qiita.com/uri/items/6b94609f156173ed43ed
+RStudioではじめるGitによるバージョン管理
+
+http://apprize.info/data/bioinformatics/index.html
+Bioinformatics Data Skills (2015)
+http://apprize.info/data/bioinformatics/5.html
+Chapter 5. Git for Scientists
 
 ----------
 ## updates
@@ -44,16 +61,7 @@ Meetup 2018-09 +
 日時： 2018年9月13日（木）10:00 〜 18:30
 場所： 慶応大学三田キャンパス東館４階オープンラボ
 
-http://apprize.info/data/bioinformatics/index.html
-Bioinformatics Data Skills (2015)
-http://apprize.info/data/bioinformatics/5.html
-Chapter 5. Git for Scientists
 
-https://gigazine.net/news/20180904-git-version-control-system/
-バージョン管理ツール「Git」は一体どういうものなのか？ - GIGAZINE
-
-http://togotv.dbcls.jp/20180621.html
-2018-06-21 生命科学研究のためのGitHubの使い方 基本編
 
 https://togetter.com/li/1265497
 世界を変えた書物展をより楽しむために。 - Togetter
