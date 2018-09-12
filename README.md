@@ -15,6 +15,19 @@ Last Update: 2018-09
 - [unclassified](#unclassified)
 
 ----------
+## featuring
+- https://en.wikipedia.org/wiki/UniFrac
+- https://twitter.com/copypasteusa
+- https://github.com/haruosuz/bioinfo
+- https://github.com/haruosuz/evolve
+- https://github.com/haruosuz/metasub
+- https://github.com/haruosuz/microbe
+- https://github.com/haruosuz/plasmids
+- https://github.com/haruosuz/r4bioinfo
+- https://github.com/haruosuz/statistics
+- https://github.com/haruosuz/DS4GD/blob/master/2018/CaseStudy.md#genome-signature
+
+----------
 ## updates
 
 ## 2018
@@ -62,22 +75,6 @@ Tom Kelly ケリー・トム on Twitter: "Next #TokyoR meetings will be on Octob
 次回　: 10月20日 ＠エウレカ
 
 次次回: 11月10日 ＠サイバーエージェント
-
-----------
-## featuring
-
-- https://twitter.com/copypasteusa
-- https://github.com/haruosuz/statistics
-- https://github.com/haruosuz/plasmids
-- https://github.com/haruosuz/plasmids/blob/master/references/README.2018.md#2018-08-07
-- https://github.com/haruosuz/evolve
-- https://github.com/haruosuz/evolve/blob/master/references/README.jargon.md
-- https://github.com/haruosuz/microbe
-- https://github.com/haruosuz/bioinfo
-- https://github.com/haruosuz/metasub
-- https://github.com/haruosuz/DS4GD/blob/master/2018/CaseStudy.md#genome-signature
-- https://en.wikipedia.org/wiki/UniFrac
-- https://twitter.com/toukei_kentei
 
 http://www.toukei-kentei.jp
 統計検定：Japan Statistical Society Certificate
