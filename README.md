@@ -21,31 +21,6 @@ Last Update: 2018-09
 
 ### 2018-09
 
-https://twitter.com/search?q=統計関連学会連合大会
-
-http://www.jfssa.jp/taikai/2018/
-2018年度 統計関連学会連合大会
-日程：2018年9月9日（日）～13日（木）
-場所：中央大学・後楽園キャンパス
-5号館
-http://www.jfssa.jp/taikai/2018/table/program_detail/0912.html#a6
-9月12日(水)
-A会場（5534教室）10:00 - 12:00
-【企画セッション講演】(03) 応用統計学会企画セッション
-「統計的因果推論–基本的なアイデアから最近の発展まで–」
-
-http://www.jfssa.jp/taikai/2018/venue.html#link05
-
-アクセス
-大会会場の中央大学・後楽園キャンパスへは，
-・東京メトロ丸ノ内線・南北線『後楽園駅』から徒歩約5分
-・都営三田線・大江戸線『春日駅』から徒歩約6分
-・JR中央・総武線『水道橋駅』から徒歩約12分
-・JR中央・総武線『飯田橋駅』から徒歩約17分
-です。
-※春日通り沿いに正門、東門があります。
-・後楽園キャンパス アクセスマップはこちらから
-
 https://ja.wikipedia.org/wiki/Galaxy_(計算生物学)
 
 Pitagora Galaxy Meetup
@@ -56,15 +31,24 @@ Meetup 2018-09 +
 日時： 2018年9月13日（木）10:00 〜 18:30
 場所： 慶応大学三田キャンパス東館４階オープンラボ
 
+http://apprize.info/data/bioinformatics/index.html
+Bioinformatics Data Skills (2015)
+http://apprize.info/data/bioinformatics/5.html
+Chapter 5. Git for Scientists
+
 https://gigazine.net/news/20180904-git-version-control-system/
+バージョン管理ツール「Git」は一体どういうものなのか？ - GIGAZINE
+
+http://togotv.dbcls.jp/20180621.html
+2018-06-21 生命科学研究のためのGitHubの使い方 基本編
 
 https://togetter.com/li/1265497
 世界を変えた書物展をより楽しむために。 - Togetter
-9月8日（土）に東京・上野の森美術館で始まった「世界を変えた書物」展。http://www.kanazawa-it.ac.jp/shomotu/index.html　コペルニクス「天球の回転」、ニュートン「プリンキピア」、ダーウィン「種の起源」をはじめ、金沢工大が所蔵する2000冊余の科学・技術の稀覯書から選りすぐられた、文字通り「世界を変えた」書物130冊（すべて初版）が展示されています。入場無料、撮影可。9月24日（月祝）まで。 ニコニコ生放送では山本貴光さん（文筆家・ゲーム作家）とご一緒に展覧会をご紹介しましたが、その補遺となる情報をまとめました。カバー写真：小学館写真室 藤岡雅樹
+9月8日（土）に東京・上野の森美術館で始まった「世界を変えた書物」展。
+9月24日（月祝）まで。
 
 http://www.kanazawa-it.ac.jp/shomotu/index.html
 ［世界を変えた書物］展　人類の知性を辿る旅｜金沢工業大学
-
 
 日本遺伝学会第90回大会を、2018年（平成30年）9月19日（水）から21日（金）まで、奈良先端科学技術大学院大学キャンパスにおいて開催
 
@@ -101,21 +85,6 @@ http://www.toukei-kentei.jp
 2018年
 11月25日(日)
 個人申込：9月5日～10月12日
-
-##### fastGEAR
-
-https://www.ncbi.nlm.nih.gov/pubmed/28650958
-PLoS Genet. 2017 Jun 26;13(6):e1006855. doi: 10.1371/journal.pgen.1006855. eCollection 2017 Jun.
-Dynamics and impact of homologous recombination on the evolution of Legionella pneumophila.
-David S1,2, Sánchez-Busó L1, Harris SR1, Marttinen P3, Rusniok C4,5, Buchrieser C4,5, Harrison TG2, Parkhill J1.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5507463/
-
-https://www.ncbi.nlm.nih.gov/pubmed/28199698
-Mol Biol Evol. 2017 May 1;34(5):1167-1182. doi: 10.1093/molbev/msx066.
-Efficient Inference of Recent and Ancestral Recombination within Bacterial Populations.
-Mostowy R1, Croucher NJ1, Andam CP2, Corander J3,4, Hanage WP2, Marttinen P5.
-We introduce a novel algorithm called fastGEAR which identifies lineages in diverse microbial alignments, and recombinations between them and from external origins.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5400400/
 
 ----------
 ## books
