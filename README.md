@@ -22,6 +22,8 @@ Last Update: 2018-09
 - https://github.com/haruosuz/evolve
 - https://github.com/haruosuz/metasub
 - https://github.com/haruosuz/microbe
+- https://github.com/haruosuz/mgsa
+- https://github.com/haruosuz/mgsa/blob/master/references/README.md
 - https://github.com/haruosuz/plasmids
 - https://github.com/haruosuz/r4bioinfo
 - https://github.com/haruosuz/r4bioinfo/tree/master/R_memo
@@ -31,6 +33,9 @@ Last Update: 2018-09
 ### git
 https://gigazine.net/news/20180904-git-version-control-system/
 バージョン管理ツール「Git」は一体どういうものなのか？ - GIGAZINE
+
+https://dotinstall.com/lessons/basic_git
+git入門 (全22回) - プログラミングならドットインストール
 
 http://togotv.dbcls.jp/20180621.html
 2018-06-21 生命科学研究のためのGitHubの使い方 基本編
