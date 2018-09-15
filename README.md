@@ -24,6 +24,7 @@ Last Update: 2018-09
 - https://github.com/haruosuz/microbe
 - https://github.com/haruosuz/mgsa
 - https://github.com/haruosuz/mgsa/blob/master/references/README.md
+- https://github.com/haruosuz/mgsa/tree/master/tools/snippy
 - https://github.com/haruosuz/plasmids
 - https://github.com/haruosuz/r4bioinfo
 - https://github.com/haruosuz/r4bioinfo/tree/master/R_memo
