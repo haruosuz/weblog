@@ -16,6 +16,7 @@ Last Update: 2018-09
 
 ----------
 ## featuring
+- https://github.com/haruosuz/codon/blob/master/README.md#metagenome
 - https://en.wikipedia.org/wiki/UniFrac
 - https://twitter.com/copypasteusa
 - https://github.com/haruosuz/bioinfo
