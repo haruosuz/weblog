@@ -16,13 +16,14 @@ Last Update: 2018-09
 
 ----------
 ## featuring
+- https://github.com/haruosuz/microbe/blob/master/references/README.memo.md
+- https://github.com/haruosuz/microbe
 - https://github.com/haruosuz/codon/blob/master/README.md#metagenome
 - https://en.wikipedia.org/wiki/UniFrac
 - https://twitter.com/copypasteusa
 - https://github.com/haruosuz/bioinfo
 - https://github.com/haruosuz/evolve
 - https://github.com/haruosuz/metasub
-- https://github.com/haruosuz/microbe
 - https://github.com/haruosuz/mgsa
 - https://github.com/haruosuz/mgsa/blob/master/references/README.md
 - https://github.com/haruosuz/mgsa/tree/master/tools/snippy
@@ -31,6 +32,30 @@ Last Update: 2018-09
 - https://github.com/haruosuz/r4bioinfo/tree/master/R_memo
 - https://github.com/haruosuz/statistics
 - https://github.com/haruosuz/DS4GD/blob/master/2018/CaseStudy.md#genome-signature
+
+### paper
+https://www.ncbi.nlm.nih.gov/pubmed/29947757
+Bioinformatics. 2018 Jun 27. doi: 10.1093/bioinformatics/bty519. [Epub ahead of print]
+BMC3C: Binning Metagenomic Contigs using Codon usage, sequence Composition and read Coverage.
+Yu G1, Jiang Y1, Wang J1, Zhang H2, Luo H2.
+
+https://www.ncbi.nlm.nih.gov/pubmed/29742107
+PLoS One. 2018 May 9;13(5):e0195869. doi: 10.1371/journal.pone.0195869. eCollection 2018.
+Codon usage bias reveals genomic adaptations to environmental conditions in an acidophilic consortium.
+Hart A1, Cortés MP2,3, Latorre M2,3,4,5, Martinez S6.
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/29309930
+Clin Microbiol Infect. 2018 Apr;24(4):350-354. doi: 10.1016/j.cmi.2017.12.016. Epub 2018 Jan 5.
+Whole genome sequencing options for bacterial strain typing and epidemiologic analysis based on single nucleotide polymorphism versus gene-by-gene-based approaches.
+Schürch AC1, Arredondo-Alonso S1, Willems RJL1, Goering RV2.
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/25410596
+Genome Biol. 2014;15(11):524.
+The Harvest suite for rapid core-genome alignment and visualization of thousands of intraspecific microbial genomes.
+Treangen TJ, Ondov BD, Koren S, Phillippy AM.
+
 
 ### git
 https://gigazine.net/news/20180904-git-version-control-system/
