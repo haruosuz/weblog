@@ -31,6 +31,13 @@ Last Update: 2018-09
 - https://github.com/haruosuz/statistics
 - https://github.com/haruosuz/DS4GD/blob/master/2018/CaseStudy.md#genome-signature
 
+http://d.hatena.ne.jp/takehikom/20120824/1345765064
+初めての国際会議座長 - わさっき
+
+http://www.geocities.jp/kusumotokeiji/eigo17.htm
+英語のプレゼンテーション、発表講演の例文を手軽に見て自然に学ぶサイト
+2. 英語での司会・座長の決まり文句
+
 ### paper
 https://www.ncbi.nlm.nih.gov/pubmed/29947757
 Bioinformatics. 2018 Jun 27. doi: 10.1093/bioinformatics/bty519. [Epub ahead of print]
