@@ -38,6 +38,41 @@ http://www.geocities.jp/kusumotokeiji/eigo17.htm
 英語のプレゼンテーション、発表講演の例文を手軽に見て自然に学ぶサイト
 2. 英語での司会・座長の決まり文句
 
+### Docker
+https://ja.wikipedia.org/wiki/Docker
+
+2018-09-12
+https://qiita.com/gold-kou/items/44860fbda1a34a001fc1
+いまさらDockerに入門したので分かりやすくまとめます
+
+2018-07-09
+https://qiita.com/yuki_ycino/items/b94ae2bf7d78685cd6f5
+Dockerの基本について周辺環境まで含めてまとめ
+
+2017年01月30日
+http://www.atmarkit.co.jp/ait/articles/1701/30/news037.html
+第1回　Dockerとは：超入門Docker - ＠IT
+
+
+### git
+https://gigazine.net/news/20180904-git-version-control-system/
+バージョン管理ツール「Git」は一体どういうものなのか？ - GIGAZINE
+
+https://dotinstall.com/lessons/basic_git
+git入門 (全22回) - プログラミングならドットインストール
+
+http://togotv.dbcls.jp/20180621.html
+2018-06-21 生命科学研究のためのGitHubの使い方 基本編
+
+2017年12月19日
+https://qiita.com/uri/items/6b94609f156173ed43ed
+RStudioではじめるGitによるバージョン管理
+
+http://apprize.info/data/bioinformatics/index.html
+Bioinformatics Data Skills (2015)
+http://apprize.info/data/bioinformatics/5.html
+Chapter 5. Git for Scientists
+
 ### paper
 https://www.ncbi.nlm.nih.gov/pubmed/29947757
 Bioinformatics. 2018 Jun 27. doi: 10.1093/bioinformatics/bty519. [Epub ahead of print]
@@ -60,26 +95,6 @@ https://www.ncbi.nlm.nih.gov/pubmed/25410596
 Genome Biol. 2014;15(11):524.
 The Harvest suite for rapid core-genome alignment and visualization of thousands of intraspecific microbial genomes.
 Treangen TJ, Ondov BD, Koren S, Phillippy AM.
-
-
-### git
-https://gigazine.net/news/20180904-git-version-control-system/
-バージョン管理ツール「Git」は一体どういうものなのか？ - GIGAZINE
-
-https://dotinstall.com/lessons/basic_git
-git入門 (全22回) - プログラミングならドットインストール
-
-http://togotv.dbcls.jp/20180621.html
-2018-06-21 生命科学研究のためのGitHubの使い方 基本編
-
-2017年12月19日
-https://qiita.com/uri/items/6b94609f156173ed43ed
-RStudioではじめるGitによるバージョン管理
-
-http://apprize.info/data/bioinformatics/index.html
-Bioinformatics Data Skills (2015)
-http://apprize.info/data/bioinformatics/5.html
-Chapter 5. Git for Scientists
 
 ----------
 ## updates
