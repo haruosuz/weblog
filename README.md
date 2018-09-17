@@ -25,8 +25,6 @@ Last Update: 2018-09
 - https://github.com/haruosuz/evolve
 - https://github.com/haruosuz/metasub
 - https://github.com/haruosuz/mgsa
-- https://github.com/haruosuz/mgsa/blob/master/references/README.md
-- https://github.com/haruosuz/mgsa/tree/master/tools/snippy
 - https://github.com/haruosuz/plasmids
 - https://github.com/haruosuz/r4bioinfo
 - https://github.com/haruosuz/r4bioinfo/tree/master/R_memo
@@ -83,17 +81,18 @@ Chapter 5. Git for Scientists
 
 ### 2018-09
 
+9月19日(水)-9月21日(金) 生命医薬情報学連合大会2018年大会 @ 鶴岡市 http://iibmp2018.org
+http://iibmp2018.org/wp/プログラム/
+1日目 9/19(水) 13:30-15:00 タクト練習室：一般口頭発表II
+2日目 9/20(木) 10:45-12:15 大ホール：BoFセッション: 作ったツール，どうやってユーザーに届ける？ 〜 Galaxy，Docker，クラウドを活用する 
+
 https://ja.wikipedia.org/wiki/Galaxy_(計算生物学)
 
 Pitagora Galaxy Meetup
 http://wiki.pitagora-galaxy.org/wiki/index.php/Events
-2018年09月13日（木）	　Meetup 2018-09 +	　慶応大学三田キャンパス（三田）
-http://wiki.pitagora-galaxy.org/wiki/index.php/Meetup_2018-09_%2B
-Meetup 2018-09 +
-日時： 2018年9月13日（木）10:00 〜 18:30
-場所： 慶応大学三田キャンパス東館４階オープンラボ
+2018年09月19日（水）〜	　IIBMP 2018	　山形県鶴岡市
 
-
+日本遺伝学会第90回大会を、2018年（平成30年）9月19日（水）から21日（金）まで、奈良先端科学技術大学院大学キャンパスにおいて開催
 
 https://togetter.com/li/1265497
 世界を変えた書物展をより楽しむために。 - Togetter
@@ -103,9 +102,6 @@ https://togetter.com/li/1265497
 http://www.kanazawa-it.ac.jp/shomotu/index.html
 ［世界を変えた書物］展　人類の知性を辿る旅｜金沢工業大学
 
-日本遺伝学会第90回大会を、2018年（平成30年）9月19日（水）から21日（金）まで、奈良先端科学技術大学院大学キャンパスにおいて開催
-
-生命医薬情報学連合大会2018年大会として2018年9月19日（水）～21日（金）に山形県鶴岡市で開催されます。 http://iibmp2018.org
 
 ### 2018-10-
 
