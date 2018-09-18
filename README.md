@@ -30,6 +30,8 @@ Last Update: 2018-09
 - https://github.com/haruosuz/r4bioinfo/tree/master/R_memo
 - https://github.com/haruosuz/statistics
 - https://github.com/haruosuz/DS4GD/blob/master/2018/CaseStudy.md#genome-signature
+- https://ja.wikipedia.org/wiki/エピジェネティクス
+- https://ja.wikipedia.org/wiki/エピスタシス
 
 http://d.hatena.ne.jp/takehikom/20120824/1345765064
 初めての国際会議座長 - わさっき
