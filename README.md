@@ -30,15 +30,7 @@ Last Update: 2018-09
 - https://github.com/haruosuz/r4bioinfo/tree/master/R_memo
 - https://github.com/haruosuz/statistics
 - https://github.com/haruosuz/DS4GD/blob/master/2018/CaseStudy.md#genome-signature
-- https://ja.wikipedia.org/wiki/エピジェネティクス
-- https://ja.wikipedia.org/wiki/エピスタシス
-
-http://d.hatena.ne.jp/takehikom/20120824/1345765064
-初めての国際会議座長 - わさっき
-
-http://www.geocities.jp/kusumotokeiji/eigo17.htm
-英語のプレゼンテーション、発表講演の例文を手軽に見て自然に学ぶサイト
-2. 英語での司会・座長の決まり文句
+- https://www.ted.com/topics/biology
 
 ### Docker
 https://ja.wikipedia.org/wiki/Docker
@@ -103,6 +95,26 @@ Treangen TJ, Ondov BD, Koren S, Phillippy AM.
 
 ## 2018
 
+
+### 2018-10-
+
+https://twitter.com/TokyoRCommunity/status/1041858890642612225
+Tokyo_R on Twitter: "次回(10月20日)と次々回(11月10日)の #TokyoR にて、応用セッションとLTの登壇者を募集しています。見落としを防ぐためGoogleフォームを使ってみようと思います。我こそはと思われる方は、下記からご登録をお願いいたします。https://t.co/giXJdySt1m"
+
+https://twitter.com/tomkXY/status/1037686019603091457
+Tom Kelly ケリー・トム on Twitter: "Next #TokyoR meetings will be on October 20 and November 10. Come along if you’re into #Rstats, whether you’ve been at it a long time or just getting started. #RLang #DataScience @TokyoRCommunity… https://t.co/mF5wgPIk1L"
+
+次回　: 10月20日 ＠エウレカ
+
+次次回: 11月10日 ＠サイバーエージェント
+
+http://www.toukei-kentei.jp
+統計検定：Japan Statistical Society Certificate
+次回の検定情報
+2018年
+11月25日(日)
+個人申込：9月5日～10月12日
+
 ### 2018-09
 
 9月19日(水)-9月21日(金) 生命医薬情報学連合大会2018年大会 @ 鶴岡市 http://iibmp2018.org
@@ -125,23 +137,6 @@ https://togetter.com/li/1265497
 
 http://www.kanazawa-it.ac.jp/shomotu/index.html
 ［世界を変えた書物］展　人類の知性を辿る旅｜金沢工業大学
-
-
-### 2018-10-
-
-https://twitter.com/tomkXY/status/1037686019603091457
-Tom Kelly ケリー・トム on Twitter: "Next #TokyoR meetings will be on October 20 and November 10. Come along if you’re into #Rstats, whether you’ve been at it a long time or just getting started. #RLang #DataScience @TokyoRCommunity… https://t.co/mF5wgPIk1L"
-
-次回　: 10月20日 ＠エウレカ
-
-次次回: 11月10日 ＠サイバーエージェント
-
-http://www.toukei-kentei.jp
-統計検定：Japan Statistical Society Certificate
-次回の検定情報
-2018年
-11月25日(日)
-個人申込：9月5日～10月12日
 
 ----------
 ## books
