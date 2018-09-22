@@ -68,6 +68,17 @@ http://apprize.info/data/bioinformatics/5.html
 Chapter 5. Git for Scientists
 
 ### paper
+
+https://www.ncbi.nlm.nih.gov/pubmed/30239587
+Brief Bioinform. 2018 Sep 18. doi: 10.1093/bib/bby090. [Epub ahead of print]
+Sequence clustering in bioinformatics: an empirical study.
+Zou Q1,2, Lin G1, Jiang X3, Liu X4, Zeng X4.
+
+https://www.ncbi.nlm.nih.gov/pubmed/30148503
+Nat Biotechnol. 2018 Aug 27. doi: 10.1038/nbt.4229. [Epub ahead of print]
+A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life.
+Parks DH1, Chuvochina M1, Waite DW1, Rinke C1, Skarshewski A1, Chaumeil PA1, Hugenholtz P1.
+
 https://www.ncbi.nlm.nih.gov/pubmed/29947757
 Bioinformatics. 2018 Jun 27. doi: 10.1093/bioinformatics/bty519. [Epub ahead of print]
 BMC3C: Binning Metagenomic Contigs using Codon usage, sequence Composition and read Coverage.
@@ -78,12 +89,10 @@ PLoS One. 2018 May 9;13(5):e0195869. doi: 10.1371/journal.pone.0195869. eCollect
 Codon usage bias reveals genomic adaptations to environmental conditions in an acidophilic consortium.
 Hart A1, Cortés MP2,3, Latorre M2,3,4,5, Martinez S6.
 
-
 https://www.ncbi.nlm.nih.gov/pubmed/29309930
 Clin Microbiol Infect. 2018 Apr;24(4):350-354. doi: 10.1016/j.cmi.2017.12.016. Epub 2018 Jan 5.
 Whole genome sequencing options for bacterial strain typing and epidemiologic analysis based on single nucleotide polymorphism versus gene-by-gene-based approaches.
 Schürch AC1, Arredondo-Alonso S1, Willems RJL1, Goering RV2.
-
 
 https://www.ncbi.nlm.nih.gov/pubmed/25410596
 Genome Biol. 2014;15(11):524.
