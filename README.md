@@ -16,6 +16,10 @@ Last Update: 2018-09
 
 ----------
 ## featuring
+- https://github.com/haruosuz/DS4GD
+- https://github.com/haruosuz/introBI
+- https://github.com/haruosuz/r4bioinfo
+- https://github.com/haruosuz/r4bioinfo/tree/master/R_memo
 - https://github.com/haruosuz/microbe/blob/master/references/README.memo.md
 - https://github.com/haruosuz/microbe
 - https://github.com/haruosuz/codon/blob/master/README.md#metagenome
@@ -26,10 +30,7 @@ Last Update: 2018-09
 - https://github.com/haruosuz/metasub
 - https://github.com/haruosuz/mgsa
 - https://github.com/haruosuz/plasmids
-- https://github.com/haruosuz/r4bioinfo
-- https://github.com/haruosuz/r4bioinfo/tree/master/R_memo
 - https://github.com/haruosuz/statistics
-- https://github.com/haruosuz/DS4GD/blob/master/2018/CaseStudy.md#genome-signature
 - https://www.ted.com/topics/biology
 
 ### Docker
@@ -124,20 +125,16 @@ http://www.toukei-kentei.jp
 11月25日(日)
 個人申込：9月5日～10月12日
 
+Pitagora Galaxy Meetup
+http://wiki.pitagora-galaxy.org/wiki/index.php/Events
+2018年10月01日（月）	　Meetup 2018-10	　理研 革新知能統合研究センター （日本橋）
+
 ### 2018-09
 
 9月19日(水)-9月21日(金) 生命医薬情報学連合大会2018年大会 @ 鶴岡市 http://iibmp2018.org
 http://iibmp2018.org/wp/プログラム/
 1日目 9/19(水) 13:30-15:00 タクト練習室：一般口頭発表II
 2日目 9/20(木) 10:45-12:15 大ホール：BoFセッション: 作ったツール，どうやってユーザーに届ける？ 〜 Galaxy，Docker，クラウドを活用する 
-
-https://ja.wikipedia.org/wiki/Galaxy_(計算生物学)
-
-Pitagora Galaxy Meetup
-http://wiki.pitagora-galaxy.org/wiki/index.php/Events
-2018年09月19日（水）〜	　IIBMP 2018	　山形県鶴岡市
-
-日本遺伝学会第90回大会を、2018年（平成30年）9月19日（水）から21日（金）まで、奈良先端科学技術大学院大学キャンパスにおいて開催
 
 https://togetter.com/li/1265497
 世界を変えた書物展をより楽しむために。 - Togetter
