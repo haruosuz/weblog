@@ -40,6 +40,7 @@ https://www.sfc.keio.ac.jp/gsmg/about/faculty/
 
 ----------
 ## featuring
+- https://github.com/haruosuz/ksbn/tree/master/2018
 - https://github.com/haruosuz/bioinfo/blob/master/README.md#blast
 - https://github.com/haruosuz/DS4GD
 - https://github.com/haruosuz/introBI
