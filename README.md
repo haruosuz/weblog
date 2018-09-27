@@ -14,33 +14,9 @@ Last Update: 2018-09
 - [link](#link)
 - [unclassified](#unclassified)
 
-
-----------
-## sfc
-
-http://www.gakuji.keio.ac.jp/sfc/rishu/index.html
-慶應義塾大学-塾生HP-【SFC】履修案内・講義要綱・時間割
-
-http://vu.sfc.keio.ac.jp/course_u/data/2018/title.html
-Keio SFC 講義案内 2018年度
-
-https://www.sfc.keio.ac.jp/faculty/calendars/class_calendar.html
-授業カレンダー | 慶應義塾大学 湘南藤沢キャンパス（SFC）
-https://www.sfc.keio.ac.jp/doc/18f_calendar_171211_j.pdf
-2018年度秋学期授業カレンダー
-
-http://www.sfc.lib.keio.ac.jp/
-慶應義塾大学湘南藤沢メディアセンター
-
-https://sfcclip.net/bus/
-バス時刻表 ∣ SFC CLIP
-
-https://www.sfc.keio.ac.jp/gsmg/about/faculty/
-教員 | 慶應義塾大学大学院政策・メディア研究科
-
 ----------
 ## featuring
-- https://github.com/haruosuz/ksbn/tree/master/2018
+- https://github.com/haruosuz/ksbn/blob/master/2018/README.md
 - https://github.com/haruosuz/bioinfo/blob/master/README.md#blast
 - https://github.com/haruosuz/DS4GD
 - https://github.com/haruosuz/introBI
@@ -211,6 +187,32 @@ http://gihyo.jp/book/2018/978-4-7741-9853-8/support
 
 https://y-mattu.hatenablog.com/entry/2018/06/04/185922
 RユーザのためのRStudio[実践]入門 という本が出ます。 - ★データ解析備忘録★
+
+
+
+----------
+## sfc
+
+http://www.gakuji.keio.ac.jp/sfc/rishu/index.html
+慶應義塾大学-塾生HP-【SFC】履修案内・講義要綱・時間割
+
+http://vu.sfc.keio.ac.jp/course_u/data/2018/title.html
+Keio SFC 講義案内 2018年度
+
+https://www.sfc.keio.ac.jp/faculty/calendars/class_calendar.html
+授業カレンダー | 慶應義塾大学 湘南藤沢キャンパス（SFC）
+https://www.sfc.keio.ac.jp/doc/18f_calendar_171211_j.pdf
+2018年度秋学期授業カレンダー
+
+http://www.sfc.lib.keio.ac.jp/
+慶應義塾大学湘南藤沢メディアセンター
+
+https://sfcclip.net/bus/
+バス時刻表 ∣ SFC CLIP
+
+https://www.sfc.keio.ac.jp/gsmg/about/faculty/
+教員 | 慶應義塾大学大学院政策・メディア研究科
+
 
 ----------
 ## link
