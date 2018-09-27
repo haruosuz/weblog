@@ -14,6 +14,30 @@ Last Update: 2018-09
 - [link](#link)
 - [unclassified](#unclassified)
 
+
+----------
+## sfc
+
+http://www.gakuji.keio.ac.jp/sfc/rishu/index.html
+慶應義塾大学-塾生HP-【SFC】履修案内・講義要綱・時間割
+
+http://vu.sfc.keio.ac.jp/course_u/data/2018/title.html
+Keio SFC 講義案内 2018年度
+
+https://www.sfc.keio.ac.jp/faculty/calendars/class_calendar.html
+授業カレンダー | 慶應義塾大学 湘南藤沢キャンパス（SFC）
+https://www.sfc.keio.ac.jp/doc/18f_calendar_171211_j.pdf
+2018年度秋学期授業カレンダー
+
+http://www.sfc.lib.keio.ac.jp/
+慶應義塾大学湘南藤沢メディアセンター
+
+https://sfcclip.net/bus/
+バス時刻表 ∣ SFC CLIP
+
+https://www.sfc.keio.ac.jp/gsmg/about/faculty/
+教員 | 慶應義塾大学大学院政策・メディア研究科
+
 ----------
 ## featuring
 - https://github.com/haruosuz/DS4GD
@@ -105,7 +129,6 @@ Treangen TJ, Ondov BD, Koren S, Phillippy AM.
 
 ## 2018
 
-
 ### 2018-10-
 
 https://twitter.com/TokyoRCommunity/status/1041858890642612225
@@ -131,18 +154,18 @@ http://wiki.pitagora-galaxy.org/wiki/index.php/Events
 
 ### 2018-09
 
-9月19日(水)-9月21日(金) 生命医薬情報学連合大会2018年大会 @ 鶴岡市 http://iibmp2018.org
-http://iibmp2018.org/wp/プログラム/
-1日目 9/19(水) 13:30-15:00 タクト練習室：一般口頭発表II
-2日目 9/20(木) 10:45-12:15 大ホール：BoFセッション: 作ったツール，どうやってユーザーに届ける？ 〜 Galaxy，Docker，クラウドを活用する 
+https://twitter.com/enuroi/status/1044856329884626944
+Ken Kuroki on Twitter: "BLASTでmax_target_seqsの引数を設定すると、ベストn件のヒットじゃなくて、閾値を超えた（ベストとは限らない）最初のn件を返してくるから気をつけましょうねという話です。… "
 
-https://togetter.com/li/1265497
-世界を変えた書物展をより楽しむために。 - Togetter
-9月8日（土）に東京・上野の森美術館で始まった「世界を変えた書物」展。
-9月24日（月祝）まで。
+なお「最初のn件」というのはデータベースに入っている順番で決まるとのこと。まあそうでしょうけど。
 
-http://www.kanazawa-it.ac.jp/shomotu/index.html
-［世界を変えた書物］展　人類の知性を辿る旅｜金沢工業大学
+https://twitter.com/strnr/status/1044684254347767808
+Stephen Turner on Twitter: "Misunderstood parameter of NCBI BLAST impacts the correctness of bioinformatics workflows https://t.co/gtbYgY5y4i Seems the importance of this can't be understated: 1/n… https://t.co/buZ54l2aki"
+4:25 PM - 25 Sep 2018
+
+
+https://jcm.asm.org/content/56/9/e00813-18
+Lowering the Barriers to Routine Whole-Genome Sequencing of Bacteria in the Clinical Microbiology Laboratory | Journal of Clinical Microbiology
 
 ----------
 ## books
@@ -196,25 +219,6 @@ http://gihyo.jp/book/2018/978-4-7741-9853-8/support
 
 https://y-mattu.hatenablog.com/entry/2018/06/04/185922
 RユーザのためのRStudio[実践]入門 という本が出ます。 - ★データ解析備忘録★
-
-----------
-## sfc
-
-https://www.sfc.keio.ac.jp/faculty/calendars/class_calendar.html
-授業カレンダー | 慶應義塾大学 湘南藤沢キャンパス（SFC）
-https://www.sfc.keio.ac.jp/doc/18f_calendar_171211_j.pdf
-2018年度秋学期授業カレンダー
-
-http://www.sfc.lib.keio.ac.jp/
-慶應義塾大学湘南藤沢メディアセンター
-
-https://sfcclip.net/bus/
-バス時刻表 ∣ SFC CLIP
-
-[[PDF]2017年度 秋学期授業カレンダー](https://www.sfc.keio.ac.jp/doc/2017f_calendar_170228.pdf)
-
-https://www.sfc.keio.ac.jp/gsmg/about/faculty/
-教員 | 慶應義塾大学大学院政策・メディア研究科
 
 ----------
 ## link
