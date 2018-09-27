@@ -40,6 +40,7 @@ https://www.sfc.keio.ac.jp/gsmg/about/faculty/
 
 ----------
 ## featuring
+https://github.com/haruosuz/bioinfo#blast
 - https://github.com/haruosuz/DS4GD
 - https://github.com/haruosuz/introBI
 - https://github.com/haruosuz/r4bioinfo
@@ -153,16 +154,6 @@ http://wiki.pitagora-galaxy.org/wiki/index.php/Events
 2018年10月01日（月）	　Meetup 2018-10	　理研 革新知能統合研究センター （日本橋）
 
 ### 2018-09
-
-https://twitter.com/enuroi/status/1044856329884626944
-Ken Kuroki on Twitter: "BLASTでmax_target_seqsの引数を設定すると、ベストn件のヒットじゃなくて、閾値を超えた（ベストとは限らない）最初のn件を返してくるから気をつけましょうねという話です。… "
-
-なお「最初のn件」というのはデータベースに入っている順番で決まるとのこと。まあそうでしょうけど。
-
-https://twitter.com/strnr/status/1044684254347767808
-Stephen Turner on Twitter: "Misunderstood parameter of NCBI BLAST impacts the correctness of bioinformatics workflows https://t.co/gtbYgY5y4i Seems the importance of this can't be understated: 1/n… https://t.co/buZ54l2aki"
-4:25 PM - 25 Sep 2018
-
 
 https://jcm.asm.org/content/56/9/e00813-18
 Lowering the Barriers to Routine Whole-Genome Sequencing of Bacteria in the Clinical Microbiology Laboratory | Journal of Clinical Microbiology
