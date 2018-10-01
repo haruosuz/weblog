@@ -14,21 +14,21 @@ Last Update: 2018-10
 - [link](#link)
 - [unclassified](#unclassified)
 
-Pitagora Galaxy Meetup
-http://wiki.pitagora-galaxy.org/wiki/index.php/Events
-2018年10月01日（月）	　Meetup 2018-10	　理研 革新知能統合研究センター （日本橋）
-
 ----------
 ## featuring
+- https://ja.wikipedia.org/wiki/本庶佑
+- https://ja.wikipedia.org/wiki/PD-1
+- https://github.com/haruosuz/introBI
+- https://github.com/haruosuz/introBI/tree/master/2018
+- https://github.com/haruosuz/DS4GD
+- https://github.com/haruosuz/DS4GD/tree/master/2018giga
+- https://github.com/haruosuz/r4bioinfo
+- https://github.com/haruosuz/r4bioinfo/tree/master/R_memo
 - https://github.com/haruosuz/codon
 - https://github.com/haruosuz/codon/blob/master/README.md#metagenome
 - https://github.com/haruosuz/codon/blob/master/README.md#olsen
 - https://github.com/haruosuz/ksbn/blob/master/2018/README.md
 - https://github.com/haruosuz/bioinfo/blob/master/README.md#blast
-- https://github.com/haruosuz/DS4GD
-- https://github.com/haruosuz/introBI
-- https://github.com/haruosuz/r4bioinfo
-- https://github.com/haruosuz/r4bioinfo/tree/master/R_memo
 - https://github.com/haruosuz/microbe/blob/master/references/README.memo.md
 - https://github.com/haruosuz/microbe
 - https://en.wikipedia.org/wiki/UniFrac
@@ -72,6 +72,9 @@ Treangen TJ, Ondov BD, Koren S, Phillippy AM.
 ## 2018
 
 ### 2018-10-
+
+Pitagora Galaxy Meetup
+http://wiki.pitagora-galaxy.org/wiki/index.php/Events
 
 https://twitter.com/TokyoRCommunity/status/1041858890642612225
 Tokyo_R on Twitter: "次回(10月20日)と次々回(11月10日)の #TokyoR にて、応用セッションとLTの登壇者を募集しています。見落としを防ぐためGoogleフォームを使ってみようと思います。我こそはと思われる方は、下記からご登録をお願いいたします。https://t.co/giXJdySt1m"
