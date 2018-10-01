@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2018-09
+Last Update: 2018-10
 
 ----------
 
@@ -14,8 +14,15 @@ Last Update: 2018-09
 - [link](#link)
 - [unclassified](#unclassified)
 
+Pitagora Galaxy Meetup
+http://wiki.pitagora-galaxy.org/wiki/index.php/Events
+2018年10月01日（月）	　Meetup 2018-10	　理研 革新知能統合研究センター （日本橋）
+
 ----------
 ## featuring
+- https://github.com/haruosuz/codon
+- https://github.com/haruosuz/codon/blob/master/README.md#metagenome
+- https://github.com/haruosuz/codon/blob/master/README.md#olsen
 - https://github.com/haruosuz/ksbn/blob/master/2018/README.md
 - https://github.com/haruosuz/bioinfo/blob/master/README.md#blast
 - https://github.com/haruosuz/DS4GD
@@ -24,7 +31,6 @@ Last Update: 2018-09
 - https://github.com/haruosuz/r4bioinfo/tree/master/R_memo
 - https://github.com/haruosuz/microbe/blob/master/references/README.memo.md
 - https://github.com/haruosuz/microbe
-- https://github.com/haruosuz/codon/blob/master/README.md#metagenome
 - https://en.wikipedia.org/wiki/UniFrac
 - https://twitter.com/copypasteusa
 - https://github.com/haruosuz/bioinfo
@@ -38,41 +44,6 @@ Last Update: 2018-09
 https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.12814
 An equation‐free method reveals the ecological interaction networks within complex microbial ecosystems - Suzuki - 2017 - Methods in Ecology and Evolution - Wiley Online Library
 
-### Docker
-https://ja.wikipedia.org/wiki/Docker
-
-2018-09-12
-https://qiita.com/gold-kou/items/44860fbda1a34a001fc1
-いまさらDockerに入門したので分かりやすくまとめます
-
-2018-07-09
-https://qiita.com/yuki_ycino/items/b94ae2bf7d78685cd6f5
-Dockerの基本について周辺環境まで含めてまとめ
-
-2017年01月30日
-http://www.atmarkit.co.jp/ait/articles/1701/30/news037.html
-第1回　Dockerとは：超入門Docker - ＠IT
-
-
-### git
-https://gigazine.net/news/20180904-git-version-control-system/
-バージョン管理ツール「Git」は一体どういうものなのか？ - GIGAZINE
-
-https://dotinstall.com/lessons/basic_git
-git入門 (全22回) - プログラミングならドットインストール
-
-http://togotv.dbcls.jp/20180621.html
-2018-06-21 生命科学研究のためのGitHubの使い方 基本編
-
-2017年12月19日
-https://qiita.com/uri/items/6b94609f156173ed43ed
-RStudioではじめるGitによるバージョン管理
-
-http://apprize.info/data/bioinformatics/index.html
-Bioinformatics Data Skills (2015)
-http://apprize.info/data/bioinformatics/5.html
-Chapter 5. Git for Scientists
-
 ### paper
 
 https://www.ncbi.nlm.nih.gov/pubmed/30239587
@@ -84,16 +55,6 @@ https://www.ncbi.nlm.nih.gov/pubmed/30148503
 Nat Biotechnol. 2018 Aug 27. doi: 10.1038/nbt.4229. [Epub ahead of print]
 A standardized bacterial taxonomy based on genome phylogeny substantially revises the tree of life.
 Parks DH1, Chuvochina M1, Waite DW1, Rinke C1, Skarshewski A1, Chaumeil PA1, Hugenholtz P1.
-
-https://www.ncbi.nlm.nih.gov/pubmed/29947757
-Bioinformatics. 2018 Jun 27. doi: 10.1093/bioinformatics/bty519. [Epub ahead of print]
-BMC3C: Binning Metagenomic Contigs using Codon usage, sequence Composition and read Coverage.
-Yu G1, Jiang Y1, Wang J1, Zhang H2, Luo H2.
-
-https://www.ncbi.nlm.nih.gov/pubmed/29742107
-PLoS One. 2018 May 9;13(5):e0195869. doi: 10.1371/journal.pone.0195869. eCollection 2018.
-Codon usage bias reveals genomic adaptations to environmental conditions in an acidophilic consortium.
-Hart A1, Cortés MP2,3, Latorre M2,3,4,5, Martinez S6.
 
 https://www.ncbi.nlm.nih.gov/pubmed/29309930
 Clin Microbiol Infect. 2018 Apr;24(4):350-354. doi: 10.1016/j.cmi.2017.12.016. Epub 2018 Jan 5.
@@ -129,10 +90,6 @@ http://www.toukei-kentei.jp
 11月25日(日)
 個人申込：9月5日～10月12日
 
-Pitagora Galaxy Meetup
-http://wiki.pitagora-galaxy.org/wiki/index.php/Events
-2018年10月01日（月）	　Meetup 2018-10	　理研 革新知能統合研究センター （日本橋）
-
 ### 2018-09
 
 https://jcm.asm.org/content/56/9/e00813-18
@@ -146,7 +103,6 @@ https://kaiin.hanmoto.com/bd/isbn/9784762830402
 たのしいベイズモデリング 豊田 秀樹(編著) - 北大路書房 | 版元ドットコム
 
 ![](https://kaiin.hanmoto.com/bd/img/9784762830402.jpg)
-
 
 学校では教えてくれない本当のアメリカの歴史
 https://blogs.yahoo.co.jp/kubo_g_no_syumi/11689831.html
@@ -441,4 +397,46 @@ p値を計算したくなる検定の数々を試しにStanによるベイジア
 https://tjo.hatenablog.com/entry/2016/03/08/190000
 「p値や有意性に拘り過ぎるな、p < 0.05かどうかが全てを決める時代はもう終わらせよう」というアメリカ統計学会の声明 - 六本木で働くデータサイエンティストのブログ
 
+
+----------
+
+
+### Docker
+https://ja.wikipedia.org/wiki/Docker
+
+2018-09-12
+https://qiita.com/gold-kou/items/44860fbda1a34a001fc1
+いまさらDockerに入門したので分かりやすくまとめます
+
+2018-07-09
+https://qiita.com/yuki_ycino/items/b94ae2bf7d78685cd6f5
+Dockerの基本について周辺環境まで含めてまとめ
+
+2017年01月30日
+http://www.atmarkit.co.jp/ait/articles/1701/30/news037.html
+第1回　Dockerとは：超入門Docker - ＠IT
+
+
+### git
+https://gigazine.net/news/20180904-git-version-control-system/
+バージョン管理ツール「Git」は一体どういうものなのか？ - GIGAZINE
+
+https://dotinstall.com/lessons/basic_git
+git入門 (全22回) - プログラミングならドットインストール
+
+http://togotv.dbcls.jp/20180621.html
+2018-06-21 生命科学研究のためのGitHubの使い方 基本編
+
+2017年12月19日
+https://qiita.com/uri/items/6b94609f156173ed43ed
+RStudioではじめるGitによるバージョン管理
+
+http://apprize.info/data/bioinformatics/index.html
+Bioinformatics Data Skills (2015)
+http://apprize.info/data/bioinformatics/5.html
+Chapter 5. Git for Scientists
+
+
+
+----------
 
