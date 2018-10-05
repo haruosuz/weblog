@@ -16,19 +16,19 @@ Last Update: 2018-10
 
 ----------
 ## featuring
-- https://github.com/haruosuz/microbe/blob/master/README.md#airport
-- https://ja.wikipedia.org/wiki/本庶佑
-- https://ja.wikipedia.org/wiki/PD-1
+- https://github.com/haruosuz/ksbn/blob/master/2018/README.md
 - https://github.com/haruosuz/introBI
 - https://github.com/haruosuz/introBI/tree/master/2018
 - https://github.com/haruosuz/DS4GD
 - https://github.com/haruosuz/DS4GD/tree/master/2018giga
+- https://github.com/haruosuz/microbe/blob/master/README.md#airport
+- https://ja.wikipedia.org/wiki/本庶佑
+- https://ja.wikipedia.org/wiki/PD-1
 - https://github.com/haruosuz/r4bioinfo
 - https://github.com/haruosuz/r4bioinfo/tree/master/R_memo
 - https://github.com/haruosuz/codon
 - https://github.com/haruosuz/codon/blob/master/README.md#metagenome
 - https://github.com/haruosuz/codon/blob/master/README.md#olsen
-- https://github.com/haruosuz/ksbn/blob/master/2018/README.md
 - https://github.com/haruosuz/bioinfo/blob/master/README.md#blast
 - https://github.com/haruosuz/microbe/blob/master/references/README.memo.md
 - https://github.com/haruosuz/microbe
