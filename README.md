@@ -16,11 +16,10 @@ Last Update: 2018-10
 
 ----------
 ## featuring
-- https://github.com/haruosuz/ksbn/blob/master/2018/README.md
-- https://github.com/haruosuz/introBI
+- http://apprize.info/data/bioinformatics/index.html
 - https://github.com/haruosuz/introBI/tree/master/2018
-- https://github.com/haruosuz/DS4GD
 - https://github.com/haruosuz/DS4GD/tree/master/2018giga
+- https://github.com/haruosuz/ksbn/blob/master/2018/README.md
 - https://github.com/haruosuz/microbe/blob/master/README.md#airport
 - https://ja.wikipedia.org/wiki/本庶佑
 - https://ja.wikipedia.org/wiki/PD-1
@@ -32,7 +31,6 @@ Last Update: 2018-10
 - https://github.com/haruosuz/bioinfo/blob/master/README.md#blast
 - https://github.com/haruosuz/microbe/blob/master/references/README.memo.md
 - https://github.com/haruosuz/microbe
-- https://en.wikipedia.org/wiki/UniFrac
 - https://twitter.com/copypasteusa
 - https://github.com/haruosuz/bioinfo
 - https://github.com/haruosuz/evolve
