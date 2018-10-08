@@ -72,11 +72,19 @@ Treangen TJ, Ondov BD, Koren S, Phillippy AM.
 
 ### 2018-10-
 
-Pitagora Galaxy Meetup
-http://wiki.pitagora-galaxy.org/wiki/index.php/Events
+http://www.toukei-kentei.jp
+統計検定：Japan Statistical Society Certificate
+次回の検定情報
+2018年
+11月25日(日)
+個人申込：9月5日～10月12日
 
-https://twitter.com/TokyoRCommunity/status/1041858890642612225
-Tokyo_R on Twitter: "次回(10月20日)と次々回(11月10日)の #TokyoR にて、応用セッションとLTの登壇者を募集しています。見落としを防ぐためGoogleフォームを使ってみようと思います。我こそはと思われる方は、下記からご登録をお願いいたします。https://t.co/giXJdySt1m"
+https://tokyor.connpass.com/event/103553/
+第73回R勉強会@東京（#TokyoR） - connpass
+2018/10/20(Sat)
+14:30 〜 19:00
+株式会社エウレカ
+東京都港区三田1-4-1 (住友不動産麻布十番ビル4階)
 
 https://twitter.com/tomkXY/status/1037686019603091457
 Tom Kelly ケリー・トム on Twitter: "Next #TokyoR meetings will be on October 20 and November 10. Come along if you’re into #Rstats, whether you’ve been at it a long time or just getting started. #RLang #DataScience @TokyoRCommunity… https://t.co/mF5wgPIk1L"
@@ -85,17 +93,10 @@ Tom Kelly ケリー・トム on Twitter: "Next #TokyoR meetings will be on Octob
 
 次次回: 11月10日 ＠サイバーエージェント
 
-http://www.toukei-kentei.jp
-統計検定：Japan Statistical Society Certificate
-次回の検定情報
-2018年
-11月25日(日)
-個人申込：9月5日～10月12日
+### 2018-11
 
-### 2018-09
-
-https://jcm.asm.org/content/56/9/e00813-18
-Lowering the Barriers to Routine Whole-Genome Sequencing of Bacteria in the Clinical Microbiology Laboratory | Journal of Clinical Microbiology
+Pitagora Galaxy Meetup
+http://wiki.pitagora-galaxy.org/wiki/index.php/Events
 
 ----------
 ## books
@@ -138,17 +139,6 @@ http://honz.jp/articles/-/43409
 『生命、エネルギー、進化』この生物学の本にはぶっとんだ！　客員レビュー by ビル・ゲイツ - HONZ
 
 ![](https://images-fe.ssl-images-amazon.com/images/I/41BAeoEgWEL.jpg)
-
-2018年6月29日
-http://gihyo.jp/book/2018/978-4-7741-9853-8
-RユーザのためのRStudio［実践］入門 ―tidyverseによるモダンな分析フローの世界―：書籍案内｜技術評論社
-
-http://gihyo.jp/book/2018/978-4-7741-9853-8/support
-サポートページ：RユーザのためのRStudio［実践］入門 ―tidyverseによるモダンな分析フローの世界―：｜技術評論社
-
-https://y-mattu.hatenablog.com/entry/2018/06/04/185922
-RユーザのためのRStudio[実践]入門 という本が出ます。 - ★データ解析備忘録★
-
 
 
 ----------
