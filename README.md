@@ -14,8 +14,12 @@ Last Update: 2018-10
 - [link](#link)
 - [unclassified](#unclassified)
 
+https://sfcclip.net/bus/
+バス時刻表 ∣ SFC CLIP
+
 ----------
 ## featuring
+- https://github.com/haruosuz/bioinfo/blob/master/2018/README.2018.giga.md
 - http://apprize.info/data/bioinformatics/index.html
 - https://github.com/haruosuz/introBI/tree/master/2018
 - https://github.com/haruosuz/DS4GD/tree/master/2018giga
@@ -39,9 +43,6 @@ Last Update: 2018-10
 - https://github.com/haruosuz/plasmids
 - https://github.com/haruosuz/statistics
 - https://www.ted.com/topics/biology
-
-https://sfcclip.net/bus/
-バス時刻表 ∣ SFC CLIP
 
 https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.12814
 An equation‐free method reveals the ecological interaction networks within complex microbial ecosystems - Suzuki - 2017 - Methods in Ecology and Evolution - Wiley Online Library
@@ -75,13 +76,6 @@ Treangen TJ, Ondov BD, Koren S, Phillippy AM.
 
 ### 2018-10-
 
-http://www.toukei-kentei.jp
-統計検定：Japan Statistical Society Certificate
-次回の検定情報
-2018年
-11月25日(日)
-個人申込：9月5日～10月12日
-
 https://tokyor.connpass.com/event/103553/
 第73回R勉強会@東京（#TokyoR） - connpass
 2018/10/20(Sat)
@@ -97,9 +91,32 @@ Tom Kelly ケリー・トム on Twitter: "Next #TokyoR meetings will be on Octob
 次次回: 11月10日 ＠サイバーエージェント
 
 ### 2018-11
+### 2018-12
+
+http://www.okadajp.org/RWiki/?R掲示板#n7dec8e2
+統計数理研究所　R研究集会（第12回　Rユーザ会）のお知らせ
+日程：2017年11月25日（土）
+場所：統計数理研究所（東京都立川市）セミナー室5（D313）
+参加費：無料
+参加登録：不要
+研究集会HP：<http://prcs.ism.ac.jp/useRjp/>
+
+https://twitter.com/Japan_R_net/status/1050752860634329088
+Japan.R on Twitter: "Japan.Rを2018年12月1日に開催します。 それに伴い発表者を募集します。 みなさんの発表を楽しみにしています。よろしくお願いします。 https://t.co/oMwTZrWZmi #japanr #tokyor"
 
 Pitagora Galaxy Meetup
 http://wiki.pitagora-galaxy.org/wiki/index.php/Events
+2018年11月02日（金）	　Meetup 2018-11	　国立情報学研究所（神保町）
+2018年12月03日（月）	　Meetup 2018-12	　前野原温泉 さやの湯処（前野町）
+
+http://wiki.lifesciencedb.jp/mw/SPARQLthon
+2018/11/12-16 ELIXIR BioHackathon 2018 @ Paris
+2018/11/19-20 SPARQLthon74 ＠ DBCLS (柏) (11/19はゲノムグラフ研究会#7)
+2018/11/21 Genome Graph研究会8
+http://genomegraph.jp/
+
+2018/12/09-14 BH18 @ 松江
+http://2018.biohackathon.org/registration
 
 ----------
 ## books
