@@ -19,22 +19,17 @@ https://sfcclip.net/bus/
 
 ----------
 ## featuring
-- https://github.com/haruosuz/bioinfo/blob/master/2018/README.2018.giga.md
 - http://apprize.info/data/bioinformatics/index.html
 - https://github.com/haruosuz/introBI/tree/master/2018
 - https://github.com/haruosuz/DS4GD/tree/master/2018giga
 - https://github.com/haruosuz/ksbn/blob/master/2018/README.md
-- https://github.com/haruosuz/microbe/blob/master/README.md#airport
-- https://ja.wikipedia.org/wiki/本庶佑
-- https://ja.wikipedia.org/wiki/PD-1
 - https://github.com/haruosuz/r4bioinfo
 - https://github.com/haruosuz/r4bioinfo/tree/master/R_memo
+- https://github.com/haruosuz/microbe
 - https://github.com/haruosuz/codon
 - https://github.com/haruosuz/codon/blob/master/README.md#metagenome
 - https://github.com/haruosuz/codon/blob/master/README.md#olsen
 - https://github.com/haruosuz/bioinfo/blob/master/README.md#blast
-- https://github.com/haruosuz/microbe/blob/master/references/README.memo.md
-- https://github.com/haruosuz/microbe
 - https://twitter.com/copypasteusa
 - https://github.com/haruosuz/bioinfo
 - https://github.com/haruosuz/evolve
@@ -46,6 +41,14 @@ https://sfcclip.net/bus/
 
 https://besjournals.onlinelibrary.wiley.com/doi/abs/10.1111/2041-210X.12814
 An equation‐free method reveals the ecological interaction networks within complex microbial ecosystems - Suzuki - 2017 - Methods in Ecology and Evolution - Wiley Online Library
+
+https://twitter.com/Tyu_Shi/status/1052887281105686528
+Tyu_Shi on Twitter: "件のR本、昨年出たわりとよくまとまっているReview: Hypothesis testing and statistical analysis of microbiome https://t.co/3WOZ91WuUD　の著者が書いた本なので期待していたが、期待以上だった。"
+7:41 AM - 18 Oct 2018
+
+https://twitter.com/Tyu_Shi/status/1052876504399405056
+Tyu_Shi on Twitter: "Springerから今月出たStatistical Analysis of Microbiome Data with R. https://t.co/Mj4rrRnskl　を買ってここ数日、事務仕事の気分転換に流し読みしていたのだが、これかなり良いな。"
+6:58 AM - 18 Oct 2018
 
 ### paper
 
@@ -76,12 +79,9 @@ Treangen TJ, Ondov BD, Koren S, Phillippy AM.
 
 ### 2018-10-
 
-https://tokyor.connpass.com/event/103553/
-第73回R勉強会@東京（#TokyoR） - connpass
-2018/10/20(Sat)
-14:30 〜 19:00
-株式会社エウレカ
-東京都港区三田1-4-1 (住友不動産麻布十番ビル4階)
+https://twitter.com/pathogenomenick/status/1053620015579172864
+Nick Loman on Twitter: "An extremely informative thread explaining why metagenomic assemblies of related species and strains results in subsequent difficulties during binning:… https://t.co/CzUcpRiYdJ"
+8:12 AM - 20 Oct 2018
 
 https://twitter.com/tomkXY/status/1037686019603091457
 Tom Kelly ケリー・トム on Twitter: "Next #TokyoR meetings will be on October 20 and November 10. Come along if you’re into #Rstats, whether you’ve been at it a long time or just getting started. #RLang #DataScience @TokyoRCommunity… https://t.co/mF5wgPIk1L"
