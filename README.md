@@ -17,6 +17,22 @@ Last Update: 2018-10
 https://sfcclip.net/bus/
 バス時刻表 ∣ SFC CLIP
 
+Pitagora Galaxy Meetup
+http://wiki.pitagora-galaxy.org/wiki/index.php/Events
+2018年11月02日（金）	　Meetup 2018-11	　国立情報学研究所（神保町）
+http://wiki.pitagora-galaxy.org/wiki/index.php/Meetup_2018-11
+2018年12月03日（月）	　Meetup 2018-12	　前野原温泉 さやの湯処（前野町）
+
+http://wiki.lifesciencedb.jp/mw/SPARQLthon
+2018/11/12-16 ELIXIR BioHackathon 2018 @ Paris
+2018/11/19-20 SPARQLthon74 ＠ DBCLS (柏) (11/19はゲノムグラフ研究会#7)
+2018/11/21 Genome Graph研究会8
+http://genomegraph.jp/
+
+2018/12/09-14 BH18 @ 松江
+http://2018.biohackathon.org/registration
+
+
 ----------
 ## featuring
 - http://apprize.info/data/bioinformatics/index.html
@@ -82,20 +98,6 @@ Treangen TJ, Ondov BD, Koren S, Phillippy AM.
 
 
 ### 2018-11
-
-Pitagora Galaxy Meetup
-http://wiki.pitagora-galaxy.org/wiki/index.php/Events
-2018年11月02日（金）	　Meetup 2018-11	　国立情報学研究所（神保町）
-2018年12月03日（月）	　Meetup 2018-12	　前野原温泉 さやの湯処（前野町）
-
-http://wiki.lifesciencedb.jp/mw/SPARQLthon
-2018/11/12-16 ELIXIR BioHackathon 2018 @ Paris
-2018/11/19-20 SPARQLthon74 ＠ DBCLS (柏) (11/19はゲノムグラフ研究会#7)
-2018/11/21 Genome Graph研究会8
-http://genomegraph.jp/
-
-2018/12/09-14 BH18 @ 松江
-http://2018.biohackathon.org/registration
 
 
 ### 2018-10-
