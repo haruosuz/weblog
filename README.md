@@ -80,32 +80,8 @@ Treangen TJ, Ondov BD, Koren S, Phillippy AM.
 
 ## 2018
 
-### 2018-10-
-
-https://twitter.com/pathogenomenick/status/1053620015579172864
-Nick Loman on Twitter: "An extremely informative thread explaining why metagenomic assemblies of related species and strains results in subsequent difficulties during binning:… https://t.co/CzUcpRiYdJ"
-8:12 AM - 20 Oct 2018
-
-https://twitter.com/tomkXY/status/1037686019603091457
-Tom Kelly ケリー・トム on Twitter: "Next #TokyoR meetings will be on October 20 and November 10. Come along if you’re into #Rstats, whether you’ve been at it a long time or just getting started. #RLang #DataScience @TokyoRCommunity… https://t.co/mF5wgPIk1L"
-
-次回　: 10月20日 ＠エウレカ
-
-次次回: 11月10日 ＠サイバーエージェント
 
 ### 2018-11
-### 2018-12
-
-http://www.okadajp.org/RWiki/?R掲示板#n7dec8e2
-統計数理研究所　R研究集会（第12回　Rユーザ会）のお知らせ
-日程：2017年11月25日（土）
-場所：統計数理研究所（東京都立川市）セミナー室5（D313）
-参加費：無料
-参加登録：不要
-研究集会HP：<http://prcs.ism.ac.jp/useRjp/>
-
-https://twitter.com/Japan_R_net/status/1050752860634329088
-Japan.R on Twitter: "Japan.Rを2018年12月1日に開催します。 それに伴い発表者を募集します。 みなさんの発表を楽しみにしています。よろしくお願いします。 https://t.co/oMwTZrWZmi #japanr #tokyor"
 
 Pitagora Galaxy Meetup
 http://wiki.pitagora-galaxy.org/wiki/index.php/Events
@@ -120,6 +96,33 @@ http://genomegraph.jp/
 
 2018/12/09-14 BH18 @ 松江
 http://2018.biohackathon.org/registration
+
+
+### 2018-10-
+
+https://twitter.com/pathogenomenick/status/1053620015579172864
+Nick Loman on Twitter: "An extremely informative thread explaining why metagenomic assemblies of related species and strains results in subsequent difficulties during binning:… https://t.co/CzUcpRiYdJ"
+8:12 AM - 20 Oct 2018
+
+https://twitter.com/tomkXY/status/1037686019603091457
+Tom Kelly ケリー・トム on Twitter: "Next #TokyoR meetings will be on October 20 and November 10. Come along if you’re into #Rstats, whether you’ve been at it a long time or just getting started. #RLang #DataScience @TokyoRCommunity… https://t.co/mF5wgPIk1L"
+
+次次回: 11月10日 ＠サイバーエージェント
+
+
+### 2018-12
+
+http://www.okadajp.org/RWiki/?R掲示板#n7dec8e2
+統計数理研究所　R研究集会（第12回　Rユーザ会）のお知らせ
+日程：2017年11月25日（土）
+場所：統計数理研究所（東京都立川市）セミナー室5（D313）
+参加費：無料
+参加登録：不要
+研究集会HP：<http://prcs.ism.ac.jp/useRjp/>
+
+https://twitter.com/Japan_R_net/status/1050752860634329088
+Japan.R on Twitter: "Japan.Rを2018年12月1日に開催します。 それに伴い発表者を募集します。 みなさんの発表を楽しみにしています。よろしくお願いします。 https://t.co/oMwTZrWZmi #japanr #tokyor"
+
 
 ----------
 ## books
