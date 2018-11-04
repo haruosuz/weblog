@@ -7,6 +7,7 @@
 - [paper](#paper)
   - [reading](#reading)
   - [writing](#writing)
+- [presentation](#presentation)
 - [robust](#robust)
 
 ----------
@@ -201,6 +202,18 @@ https://twitter.com/bonohu/status/1008150073484558337
 http://togotv.dbcls.jp/20180126.html
 inMeXesを使って文献に頻出する英語表現や関連語を高速に検索する 2018 統合TV(togotv)｜生命科学系DB・ツール使い倒し系チャンネル
 
+## presentation
+
+https://www.youtube.com/watch?v=6iwP1hMjxjs
+(2) How to CHAIR an academic session - YouTube
+
+http://d.hatena.ne.jp/takehikom/20120824/1345765064
+初めての国際会議座長 - わさっき
+
+http://www.geocities.jp/kusumotokeiji/eigo17.htm
+英語のプレゼンテーション、発表講演の例文を手軽に見て自然に学ぶサイト
+2. 英語での司会・座長の決まり文句
+
 ----------
 
 ## robust
@@ -216,6 +229,35 @@ We tested the robustness of our result that Mahalanobis distance performs better
 
 ----------
 
+----------
+## unclassified
+
+
+https://twitter.com/hashtag/みんなのお薦め学術本晒そうぜ
+
+| 疑似科学とされるものの科学性評定サイト http://www.sciencecomlabo.jp/request.html
+
+
+http://www.maff.go.jp/j/syouan/nouan/carta/about/
+カルタヘナ法とは：農林水産省
+
+http://www.biodic.go.jp/bch/cartagena/index.html
+ご存知ですか?カルタヘナ法
+
+https://www.weblio.jp/content/カルタヘナ法
+
+https://ja.wikipedia.org/wiki/名古屋議定書
+
+https://ja.wikipedia.org/wiki/グラニースミス
+
+https://ja.wikipedia.org/wiki/カルバック・ライブラー情報量
+
+
+http://yutori-datascience.hatenablog.com/entry/2018/01/09/181821
+業務メール書き方チートシート - tkm2261's blog
+
+
+----------
 
 
 
