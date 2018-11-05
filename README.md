@@ -82,6 +82,20 @@ http://hp.vector.co.jp/authors/VA027560/notes/tag.html
 
 ----------
 
+https://www.yodosha.co.jp/jikkenigaku/keyword/2815.html
+16S rRNA PhyloChip法
+30万種類以上のプローブを用いて細菌の16S rRNA遺伝子配列の多様性を解析し，約8,500種類の細菌が検出可能なhigh-density microarrayシステム．
+
+実験医学増刊 Vol.31 No.15
+
+https://www.yodosha.co.jp/jikkenigaku/keyword/1934.html
+PhyloChip解析
+細菌叢のDNAマイクロアレイ技術を用いた網羅的解析．3万以上の特異的16S rRNA遺伝子の配列をプローブとして，どのような細菌種がサンプルに存在しているのかを解析する．
+
+実験医学 2011年11月号 Vol.29 No.18
+
+----------
+
 http://bashalog.c-brains.jp/16/04/18-141910.php
 PDFの文字をコピーしたときに濁点や半濁点がバラバラ文字（合成文字）になったら | バシャログ。
 NFD→NFC変換ツールをブラウザで開いて、【変換したいテキスト】にバラバラ文字を入力。
