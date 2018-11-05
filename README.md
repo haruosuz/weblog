@@ -52,12 +52,12 @@ https://sfcclip.net/bus/
 16:10~16:50 Masaki Shintani (Shizuoka University) “Behaviors of conjugative plasmids in different environmental conditions”
 連絡先:野尻秀昭(生物生産工学研究センター教授)
 http://park.itc.u-tokyo.ac.jp/biotec-res-ctr/kampo/member.html
+http://park.itc.u-tokyo.ac.jp/biotec-res-ctr/kampo/access.html
+〒113-8657　東京都文京区弥生1-1-1
 東京大学　生物生産工学研究センター　環境保全工学研究室
-〒113-8657
-東京都文京区弥生1-1-1
-東京大学
-生物生産工学研究センター
-環境保全工学研究室
+（野尻：2階208号室
+
+地下鉄南北線　東大前駅より徒歩1分
 
 ----------
 
