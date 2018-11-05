@@ -51,8 +51,13 @@ https://sfcclip.net/bus/
 15:30~16:10 Hideaki Nojiri (UTokyo) “Insensitivity to plasmids in some bacteria and its ecological role”
 16:10~16:50 Masaki Shintani (Shizuoka University) “Behaviors of conjugative plasmids in different environmental conditions”
 連絡先:野尻秀昭(生物生産工学研究センター教授)
-TEL/FAX: 03-5841-3067 
-anojiri@mail.ecc.u-tokyo.ac.jp
+http://park.itc.u-tokyo.ac.jp/biotec-res-ctr/kampo/member.html
+東京大学　生物生産工学研究センター　環境保全工学研究室
+〒113-8657
+東京都文京区弥生1-1-1
+東京大学
+生物生産工学研究センター
+環境保全工学研究室
 
 ----------
 
