@@ -41,23 +41,11 @@ https://sfcclip.net/bus/
 
 ----------
 
-ワークショップタイトル:Behaviors of plasmid and host bacteria in nature 
-日時:2018 年 11 月 5 日(月)14:00~16:50
-場所:農学部 2 号館化学第1講義室
-参加費・事前申込不要
-講演スケジュール
-14:00~14:40 Barth F. Smets (DTU) “Transfer and long-term persistence of conjugal plasmids in microbial communities”
-14:40~15:20 Haruo Suzuki (Keio University) “Predicting plasmid host range based on oligonucleotide composition”
-15:30~16:10 Hideaki Nojiri (UTokyo) “Insensitivity to plasmids in some bacteria and its ecological role”
-16:10~16:50 Masaki Shintani (Shizuoka University) “Behaviors of conjugative plasmids in different environmental conditions”
-連絡先:野尻秀昭(生物生産工学研究センター教授)
-http://park.itc.u-tokyo.ac.jp/biotec-res-ctr/kampo/member.html
-http://park.itc.u-tokyo.ac.jp/biotec-res-ctr/kampo/access.html
-〒113-8657　東京都文京区弥生1-1-1
-東京大学　生物生産工学研究センター　環境保全工学研究室
-（野尻：2階208号室
+https://twitter.com/yutakashino/status/1060006137381224448
+Yuta Kashino on Twitter: "Wikipedia:オフラインミーティング/ウィキペディア15周年イベントTokyo/さかおり備忘録的まとめ https://t.co/9xLmkjvJhT おお，あのWikipedia史上名作の誉れ高い「地方病 (日本住血吸虫症)」https://t.co/qSyIzZjKEO の作者の執筆動機と背景！"
+10:08 PM - 6 Nov 2018
 
-地下鉄南北線　東大前駅より徒歩1分
+https://ja.wikipedia.org/wiki/地方病_(日本住血吸虫症)
 
 ----------
 
