@@ -40,16 +40,8 @@ https://sfcclip.net/bus/
 
 ----------
 
-https://twitter.com/hashtag/tokyor?f=tweets&vertical=default&src=hash
+https://twitter.com/search?q=できる研究者の論文作成メソッド
 
-https://twitter.com/hashtag/TokyoR
-
-https://tokyor.connpass.com/event/106936/
-第74回R勉強会@東京（#TokyoR） - connpass
-2018/11/10(土)
-14:30 〜 19:00
-株式会社サイバーエージェント（渋谷プライムプラザ）
-東京都渋谷区円山町19番1号
 
 http://wiki.lifesciencedb.jp/mw/SPARQLthon
 2018/11/12-16 ELIXIR BioHackathon 2018 @ Paris
@@ -99,9 +91,6 @@ http://www.okadajp.org/RWiki/?R掲示板#n7dec8e2
 研究集会HP：<http://prcs.ism.ac.jp/useRjp/>
 
 ### 2018-12
-
-https://twitter.com/Japan_R_net/status/1050752860634329088
-Japan.R on Twitter: "Japan.Rを2018年12月1日に開催します。 それに伴い発表者を募集します。 みなさんの発表を楽しみにしています。よろしくお願いします。 https://t.co/oMwTZrWZmi #japanr #tokyor"
 
 Pitagora Galaxy Meetup
 http://wiki.pitagora-galaxy.org/wiki/index.php/Events
