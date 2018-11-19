@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2018-10
+Last Update: 2018-11
 
 ----------
 
@@ -50,6 +50,9 @@ https://www.kspub.co.jp/book/detail/images/9784061556270-1.pdf
 - http://youngecon.com/write-it-up-j/ 2016/12/19
 - http://scienceandtechnology.jp/page-14051/page-19039 2016/12/12
 - http://hyohyolibrary.com/?p=829 2016/10/17
+
+https://www.ki1tos.com/entry/2018/11/17/150454
+英語論文が出せなくてすべてが終わる前に - ハカセのあやしい研究ノート
 
 ----------
 
