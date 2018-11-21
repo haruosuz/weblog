@@ -9,7 +9,6 @@ Last Update: 2018-11
 - [featuring](#featuring)
 - [updates](#updates)
   - [2018](#2018)
-- [books](#books)
 - [sfc](#sfc)
 - [link](#link)
 - [unclassified](#unclassified)
@@ -57,8 +56,6 @@ https://www.ki1tos.com/entry/2018/11/17/150454
 ----------
 
 http://wiki.lifesciencedb.jp/mw/SPARQLthon
-2018/11/12-16 ELIXIR BioHackathon 2018 @ Paris
-2018/11/19-20 SPARQLthon74 ＠ DBCLS (柏) (11/19はゲノムグラフ研究会#7)
 2018/11/21 Genome Graph研究会8
 http://genomegraph.jp/
 
@@ -115,49 +112,6 @@ https://twitter.com/tomkXY/status/1037686019603091457
 Tom Kelly ケリー・トム on Twitter: "Next #TokyoR meetings will be on October 20 and November 10. Come along if you’re into #Rstats, whether you’ve been at it a long time or just getting started. #RLang #DataScience @TokyoRCommunity… https://t.co/mF5wgPIk1L"
 
 次次回: 11月10日 ＠サイバーエージェント
-
-
-----------
-## books
-
-発売予定日 2018年10月3日
-https://kaiin.hanmoto.com/bd/isbn/9784762830402
-たのしいベイズモデリング 豊田 秀樹(編著) - 北大路書房 | 版元ドットコム
-
-![](https://kaiin.hanmoto.com/bd/img/9784762830402.jpg)
-
-学校では教えてくれない本当のアメリカの歴史
-https://blogs.yahoo.co.jp/kubo_g_no_syumi/11689831.html
-https://bookmeter.com/books/575246
-http://jbpress.ismedia.jp/articles/-/1678
-http://kocho-3.hatenablog.com/entry/2015/10/21/072519
-http://www.rin-5.net/501-750/533-america_history.htm
-https://www.amazon.co.jp/学校では教えてくれない本当のアメリカの歴史〈上〉1492-1901年-ハワード-ジン/dp/4751526111
-https://www.amazon.co.jp/学校では教えてくれない本当のアメリカの歴史〈下〉1901-2006年-ハワード-ジン/dp/475152612X
-https://plaza.rakuten.co.jp/ryu32/diary/201001260000/
-
-
-2018-05-28
-http://hiro.asks.jp/100984.html
-『生命、エネルギー、進化』を読んだよ。 : ひろゆき＠オープンSNS
-んで、エピローグでは、2010年に日本のチームが原核生物と真核生物のどちらでもない生物を発見しちゃったりした話とか、
-
-2017年5月26日
-http://wedge.ismedia.jp/articles/-/9680
-「進化にエネルギーの視点を組み込む」という大胆な発想 『生命、エネルギー、進化』　WEDGE Infinity(ウェッジ)
-
-http://d.hatena.ne.jp/shorebird/20161231
-書評　「生命，エネルギー，進化」 - shorebird　進化心理学中心の書評など
-
-2016.12.30
-http://dain.cocolog-nifty.com/myblog/2016/12/post-d64f.html
-ニック・レーン『生命、エネルギー、進化』は難しかった: わたしが知らないスゴ本は、きっとあなたが読んでいる
-
-2016年10月07日
-http://honz.jp/articles/-/43409
-『生命、エネルギー、進化』この生物学の本にはぶっとんだ！　客員レビュー by ビル・ゲイツ - HONZ
-
-![](https://images-fe.ssl-images-amazon.com/images/I/41BAeoEgWEL.jpg)
 
 
 ----------
