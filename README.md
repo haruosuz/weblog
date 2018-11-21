@@ -16,8 +16,11 @@ Last Update: 2018-11
 https://sfcclip.net/bus/
 バス時刻表 ∣ SFC CLIP
 
-----------
-## featuring
+https://orf.sfc.keio.ac.jp/2018/
+次の(次の)社会
+慶應義塾大学 SFC Open Research Forum 2018
+2018年11月22日(木)～23日(金・祝)@東京ミッドタウン（六本木）
+
 - https://twitter.com/
 - https://twitter.com/copypasteusa
 - https://www.ted.com/topics/biology
@@ -39,6 +42,7 @@ https://sfcclip.net/bus/
 - https://github.com/haruosuz/statistics
 
 ----------
+## featuring
 
 https://www.kspub.co.jp/book/detail/1556270.html
 できる研究者の論文作成メソッド　書き上げるための実践ポイント
@@ -57,9 +61,6 @@ https://www.ki1tos.com/entry/2018/11/17/150454
 ----------
 
 http://wiki.lifesciencedb.jp/mw/SPARQLthon
-2018/11/21 Genome Graph研究会8
-http://genomegraph.jp/
-
 2018/12/09-14 BH18 @ 松江
 http://2018.biohackathon.org/registration
 
