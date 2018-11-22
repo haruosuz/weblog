@@ -44,6 +44,15 @@ https://orf.sfc.keio.ac.jp/2018/
 ----------
 ## featuring
 
+http://scienceandtechnology.jp/archives/14739
+あなたが論文を書けない理由を知る40問 | 日本の科学と技術
+
+http://www.m-review.co.jp/book/detail/978-4-7792-1724-1
+書籍詳細 - なぜあなたは論文が書けないのか？ | メディカルレビュー社
+- http://d.hatena.ne.jp/yoshitomushi/20161017/1476711480
+- http://yumulog.hatenablog.com/entry/2016/09/19/011833
+- https://www.igaku-honyaku.jp/ホーム/書評なぜ論文が書けないのか/
+
 https://www.kspub.co.jp/book/detail/1556270.html
 できる研究者の論文作成メソッド　書き上げるための実践ポイント
 https://www.kspub.co.jp/book/detail/images/9784061556270-1.pdf
