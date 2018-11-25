@@ -16,11 +16,6 @@ Last Update: 2018-11
 https://sfcclip.net/bus/
 バス時刻表 ∣ SFC CLIP
 
-https://orf.sfc.keio.ac.jp/2018/
-次の(次の)社会
-慶應義塾大学 SFC Open Research Forum 2018
-2018年11月22日(木)～23日(金・祝)@東京ミッドタウン（六本木）
-
 - https://twitter.com/
 - https://twitter.com/copypasteusa
 - https://www.ted.com/topics/biology
@@ -44,28 +39,21 @@ https://orf.sfc.keio.ac.jp/2018/
 ----------
 ## featuring
 
-http://scienceandtechnology.jp/archives/14739
-あなたが論文を書けない理由を知る40問 | 日本の科学と技術
-
-http://www.m-review.co.jp/book/detail/978-4-7792-1724-1
-書籍詳細 - なぜあなたは論文が書けないのか？ | メディカルレビュー社
-- http://d.hatena.ne.jp/yoshitomushi/20161017/1476711480
-- http://yumulog.hatenablog.com/entry/2016/09/19/011833
-- https://www.igaku-honyaku.jp/ホーム/書評なぜ論文が書けないのか/
-
-https://www.kspub.co.jp/book/detail/1556270.html
-できる研究者の論文作成メソッド　書き上げるための実践ポイント
-https://www.kspub.co.jp/book/detail/images/9784061556270-1.pdf
-執筆部分は中央集権化する
-- https://twitter.com/search?q=できる研究者の論文作成メソッド
-- http://naka3-3dsuki.hatenablog.com/entry/2017/10/17/220000
-- https://www.chem-station.com/books/2017/01/dekiru.html 2017/1/2
-- http://youngecon.com/write-it-up-j/ 2016/12/19
-- http://scienceandtechnology.jp/page-14051/page-19039 2016/12/12
-- http://hyohyolibrary.com/?p=829 2016/10/17
-
 https://www.ki1tos.com/entry/2018/11/17/150454
 英語論文が出せなくてすべてが終わる前に - ハカセのあやしい研究ノート
+
+2016.12.20
+https://honcierge.jp/articles/shelf_story/937
+論文の書き方がわかるおすすめ本５選！レポート、卒論、理系英語まで伝授。 | ホンシェルジュ
+
+
+2016/3/20
+http://kojigen.com/paper-2-4554.html
+いい論文を書くために読んでおきたい参考書籍20冊｜論文の教室
+
+2010.12.18
+https://readingmonkey.blog.fc2.com/blog-entry-464.html
+論文書きに役立つ記事のまとめ（逆引きインデクス）をつくってみた 読書猿Classic: between / beyond readers
 
 ----------
 
@@ -81,9 +69,6 @@ https://ja.wikipedia.org/wiki/地方病_(日本住血吸虫症)
 
 ----------
 
-http://bashalog.c-brains.jp/16/04/18-141910.php
-PDFの文字をコピーしたときに濁点や半濁点がバラバラ文字（合成文字）になったら | バシャログ。
-NFD→NFC変換ツールをブラウザで開いて、【変換したいテキスト】にバラバラ文字を入力。
 
 https://natgeo.nikkeibp.co.jp/atcl/web/18/101700018/102400006/
 第5回　世界水準の栄養疫学者ができるまで | ナショナルジオグラフィック日本版サイト
