@@ -40,6 +40,11 @@ https://sfcclip.net/bus/
 ----------
 ## featuring
 
+https://twitter.com/search?q=「ニセ医学」に騙されないために
+
+http://natrom.hatenablog.com/entry/2018/11/29/120000
+新装版『「ニセ医学」に騙されないために』、発売です。 - NATROMのブログ
+
 https://www.ki1tos.com/entry/2018/11/17/150454
 英語論文が出せなくてすべてが終わる前に - ハカセのあやしい研究ノート
 
