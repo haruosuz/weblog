@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2018-11
+Last Update: 2018-12
 
 ----------
 
@@ -12,6 +12,19 @@ Last Update: 2018-11
 - [sfc](#sfc)
 - [link](#link)
 - [unclassified](#unclassified)
+
+----------
+## featuring
+
+http://wiki.pitagora-galaxy.org/wiki/index.php/Events
+2018年12月03日（月）	　Meetup 2018-12	　東京都板橋区前野町 貸会議室
+http://wiki.pitagora-galaxy.org/wiki/index.php/Meetup_2018-12
+日時： 2018年12月3日（月）11:00 〜 19:00
+場所： 東京都板橋区前野町 貸会議室
+URL：https://www.sayanoyudokoro.co.jp/access/
+前野原温泉 さやの湯処
+都営三田線 志村坂上駅より徒歩約8分。
+住所	〒174-0063 東京都板橋区前野町3丁目41番1号
 
 https://sfcclip.net/bus/
 バス時刻表 ∣ SFC CLIP
@@ -38,7 +51,6 @@ https://sfcclip.net/bus/
 - https://github.com/haruosuz/statistics
 
 ----------
-## featuring
 
 https://twitter.com/search?q=「ニセ医学」に騙されないために
 
@@ -63,41 +75,11 @@ http://kojigen.com/paper-2-4554.html
 https://readingmonkey.blog.fc2.com/blog-entry-464.html
 論文書きに役立つ記事のまとめ（逆引きインデクス）をつくってみた 読書猿Classic: between / beyond readers
 
-----------
-
-http://wiki.lifesciencedb.jp/mw/SPARQLthon
-2018/12/09-14 BH18 @ 松江
-http://2018.biohackathon.org/registration
-
-https://twitter.com/yutakashino/status/1060006137381224448
-Yuta Kashino on Twitter: "Wikipedia:オフラインミーティング/ウィキペディア15周年イベントTokyo/さかおり備忘録的まとめ https://t.co/9xLmkjvJhT おお，あのWikipedia史上名作の誉れ高い「地方病 (日本住血吸虫症)」https://t.co/qSyIzZjKEO の作者の執筆動機と背景！"
-10:08 PM - 6 Nov 2018
-
-https://ja.wikipedia.org/wiki/地方病_(日本住血吸虫症)
-
-----------
-
-https://natgeo.nikkeibp.co.jp/atcl/web/18/101700018/102400006/
-第5回　世界水準の栄養疫学者ができるまで | ナショナルジオグラフィック日本版サイト
 
 ----------
 ## updates
 
 ## 2018
-
-### 2018-11
-
-https://twitter.com/M123Takahashi/status/1058862929217376256
-高橋将宜 Masayoshi Takahashi on Twitter: "King教授の指摘を皮切りに、興味深い議論が行われている。要約すると、地震のような外的要因を処置とする準実験の場合、一見、標本サイズが5000人もいても、それはマルチレベルのボトムレベルの標本サイズで、これは因果推論に寄与しておらず、実際に使えるのはトップレベルの標本サイズ2個しかない。… https://t.co/lDTbCjSsoJ"
-7:26 PM - 3 Nov 2018
-
-http://www.okadajp.org/RWiki/?R掲示板#n7dec8e2
-統計数理研究所　R研究集会（第12回　Rユーザ会）のお知らせ
-日程：2017年11月25日（土）
-場所：統計数理研究所（東京都立川市）セミナー室5（D313）
-参加費：無料
-参加登録：不要
-研究集会HP：<http://prcs.ism.ac.jp/useRjp/>
 
 ### 2018-12
 
@@ -105,17 +87,21 @@ Pitagora Galaxy Meetup
 http://wiki.pitagora-galaxy.org/wiki/index.php/Events
 2018年12月03日（月）	　Meetup 2018-12	　前野原温泉 さやの湯処（前野町）
 
-### 2018-10-
+http://wiki.lifesciencedb.jp/mw/SPARQLthon
+2018/12/09-14 BH18 @ 松江
+http://2018.biohackathon.org/registration
+
+### 2018-11
+
+https://twitter.com/M123Takahashi/status/1058862929217376256
+高橋将宜 Masayoshi Takahashi on Twitter: "King教授の指摘を皮切りに、興味深い議論が行われている。要約すると、地震のような外的要因を処置とする準実験の場合、一見、標本サイズが5000人もいても、それはマルチレベルのボトムレベルの標本サイズで、これは因果推論に寄与しておらず、実際に使えるのはトップレベルの標本サイズ2個しかない。… https://t.co/lDTbCjSsoJ"
+7:26 PM - 3 Nov 2018
+
+### 2018-10
 
 https://twitter.com/pathogenomenick/status/1053620015579172864
 Nick Loman on Twitter: "An extremely informative thread explaining why metagenomic assemblies of related species and strains results in subsequent difficulties during binning:… https://t.co/CzUcpRiYdJ"
 8:12 AM - 20 Oct 2018
-
-https://twitter.com/tomkXY/status/1037686019603091457
-Tom Kelly ケリー・トム on Twitter: "Next #TokyoR meetings will be on October 20 and November 10. Come along if you’re into #Rstats, whether you’ve been at it a long time or just getting started. #RLang #DataScience @TokyoRCommunity… https://t.co/mF5wgPIk1L"
-
-次次回: 11月10日 ＠サイバーエージェント
-
 
 ----------
 ## sfc
