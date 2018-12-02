@@ -10,9 +10,29 @@
 - [presentation](#presentation)
 - [robust](#robust)
 
+
+----------
+
+http://bashalog.c-brains.jp/16/04/18-141910.php
+PDFの文字をコピーしたときに濁点や半濁点がバラバラ文字（合成文字）になったら | バシャログ。
+NFD→NFC変換ツールをブラウザで開いて、【変換したいテキスト】にバラバラ文字を入力。
+
+
 ----------
 ## updates
 ## 2018
+
+
+https://twitter.com/yutakashino/status/1060006137381224448
+Yuta Kashino on Twitter: "Wikipedia:オフラインミーティング/ウィキペディア15周年イベントTokyo/さかおり備忘録的まとめ https://t.co/9xLmkjvJhT おお，あのWikipedia史上名作の誉れ高い「地方病 (日本住血吸虫症)」https://t.co/qSyIzZjKEO の作者の執筆動機と背景！"
+10:08 PM - 6 Nov 2018
+
+https://ja.wikipedia.org/wiki/地方病_(日本住血吸虫症)
+
+https://natgeo.nikkeibp.co.jp/atcl/web/18/101700018/102400006/
+第5回　世界水準の栄養疫学者ができるまで | ナショナルジオグラフィック日本版サイト
+
+
 ### 2018-08
 
 http://mizutaka.sci.ibaraki.ac.jp/seminar2018/seminar2018.html
