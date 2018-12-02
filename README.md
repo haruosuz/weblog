@@ -52,6 +52,9 @@ https://sfcclip.net/bus/
 
 ----------
 
+https://hpa1013.hatenablog.com/entry/2018/12/02/133943
+【読書メモ】なぜあなたは論文が書けないのか？ - hpa1013’s diary
+
 https://twitter.com/search?q=「ニセ医学」に騙されないために
 
 http://natrom.hatenablog.com/entry/2018/11/29/120000
