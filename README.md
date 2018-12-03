@@ -16,19 +16,6 @@ Last Update: 2018-12
 ----------
 ## featuring
 
-http://wiki.pitagora-galaxy.org/wiki/index.php/Events
-2018年12月03日（月）	　Meetup 2018-12	　東京都板橋区前野町 貸会議室
-http://wiki.pitagora-galaxy.org/wiki/index.php/Meetup_2018-12
-日時： 2018年12月3日（月）11:00 〜 19:00
-場所： 東京都板橋区前野町 貸会議室
-URL：https://www.sayanoyudokoro.co.jp/access/
-前野原温泉 さやの湯処
-都営三田線 志村坂上駅より徒歩約8分。
-住所	〒174-0063 東京都板橋区前野町3丁目41番1号
-
-https://sfcclip.net/bus/
-バス時刻表 ∣ SFC CLIP
-
 - https://twitter.com/
 - https://twitter.com/copypasteusa
 - https://www.ted.com/topics/biology
@@ -50,10 +37,24 @@ https://sfcclip.net/bus/
 - https://github.com/haruosuz/r4bioinfo/tree/master/R_memo
 - https://github.com/haruosuz/statistics
 
-----------
+Pitagora Galaxy Meetup
+http://wiki.pitagora-galaxy.org/wiki/index.php/Events
+2018年12月03日（月）	　Meetup 2018-12	　東京都板橋区前野町 貸会議室
+http://wiki.pitagora-galaxy.org/wiki/index.php/Meetup_2018-12
+日時： 2018年12月3日（月）11:00 〜 19:00
+場所： 東京都板橋区前野町 貸会議室
+URL：https://www.sayanoyudokoro.co.jp/access/
+前野原温泉 さやの湯処
+都営三田線 志村坂上駅より徒歩約8分。
+住所	〒174-0063 東京都板橋区前野町3丁目41番1号
+
+https://sfcclip.net/bus/
+バス時刻表 ∣ SFC CLIP
 
 https://hpa1013.hatenablog.com/entry/2018/12/02/133943
 【読書メモ】なぜあなたは論文が書けないのか？ - hpa1013’s diary
+
+----------
 
 https://twitter.com/search?q=「ニセ医学」に騙されないために
 
@@ -85,10 +86,6 @@ https://readingmonkey.blog.fc2.com/blog-entry-464.html
 ## 2018
 
 ### 2018-12
-
-Pitagora Galaxy Meetup
-http://wiki.pitagora-galaxy.org/wiki/index.php/Events
-2018年12月03日（月）	　Meetup 2018-12	　前野原温泉 さやの湯処（前野町）
 
 http://wiki.lifesciencedb.jp/mw/SPARQLthon
 2018/12/09-14 BH18 @ 松江
