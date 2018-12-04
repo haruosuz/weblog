@@ -37,16 +37,17 @@ Last Update: 2018-12
 - https://github.com/haruosuz/r4bioinfo/tree/master/R_memo
 - https://github.com/haruosuz/statistics
 
+
 Pitagora Galaxy Meetup
 http://wiki.pitagora-galaxy.org/wiki/index.php/Events
-2018年12月03日（月）	　Meetup 2018-12	　東京都板橋区前野町 貸会議室
-http://wiki.pitagora-galaxy.org/wiki/index.php/Meetup_2018-12
-日時： 2018年12月3日（月）11:00 〜 19:00
-場所： 東京都板橋区前野町 貸会議室
-URL：https://www.sayanoyudokoro.co.jp/access/
-前野原温泉 さやの湯処
-都営三田線 志村坂上駅より徒歩約8分。
-住所	〒174-0063 東京都板橋区前野町3丁目41番1号
+2019年01月07日（月）	　Meetup 2019-01	　都内
+
+https://gendai.ismedia.jp/articles/-/58651
+ハゲタカジャーナル、ダメ絶対！　でも、その横行にはそれなりの理由が……（山田 俊弘） | ブルーバックス | 講談社（1/5）
+
+https://www.biorxiv.org/content/early/2018/11/24/478016
+Hidden patterns of codon usage bias across kingdoms | bioRxiv
+
 
 https://sfcclip.net/bus/
 バス時刻表 ∣ SFC CLIP
