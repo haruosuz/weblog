@@ -42,18 +42,36 @@ Pitagora Galaxy Meetup
 http://wiki.pitagora-galaxy.org/wiki/index.php/Events
 2019年01月07日（月）	　Meetup 2019-01	　都内
 
-https://gendai.ismedia.jp/articles/-/58651
-ハゲタカジャーナル、ダメ絶対！　でも、その横行にはそれなりの理由が……（山田 俊弘） | ブルーバックス | 講談社（1/5）
-
-https://www.biorxiv.org/content/early/2018/11/24/478016
-Hidden patterns of codon usage bias across kingdoms | bioRxiv
-
-
 https://sfcclip.net/bus/
 バス時刻表 ∣ SFC CLIP
 
 https://hpa1013.hatenablog.com/entry/2018/12/02/133943
 【読書メモ】なぜあなたは論文が書けないのか？ - hpa1013’s diary
+
+## evolution
+進化
+
+https://www.brh.co.jp/research/formerlab/miyata/2005/post_000003.html
+パラダイムシフト：分子進化の中立説- 宮田　隆の進化の話 - JT生命誌研究館
+
+http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語
+系統推定の基本用語
+
+http://cse.naro.affrc.go.jp/minaka/R/R-cluster.html
+クラスター分析の光と闇
+
+http://kokorohaitsumo15sai.la.coocan.jp/bonotegami.htm
+これが「棒の手紙」だ！
+
+http://leeswijzer.hatenablog.com/
+archief voor stambomen
+系統樹ハンターの狩猟記録
+
+http://leeswijzer.hatenablog.com/entry/2014/07/18/214351
+ビールの系統樹 - archief voor stambomen
+
+https://github.com/haruosuz/evolve/blob/master/references/README.tools.md#mega
+MEGA: Molecular Evolutionary Genetics Analysis software
 
 ----------
 
