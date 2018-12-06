@@ -19,6 +19,7 @@ Last Update: 2018-12
 - https://twitter.com/
 - https://twitter.com/copypasteusa
 - https://www.ted.com/topics/biology
+- https://sfcclip.net/bus/
 - https://github.com/haruosuz/ksbn/blob/master/2018/README.md
 - https://github.com/haruosuz/ksbn/blob/master/2018/README.2018.4.md
 - https://github.com/haruosuz/introBI/tree/master/2018
@@ -37,16 +38,10 @@ Last Update: 2018-12
 - https://github.com/haruosuz/r4bioinfo/tree/master/R_memo
 - https://github.com/haruosuz/statistics
 
-
-Pitagora Galaxy Meetup
-http://wiki.pitagora-galaxy.org/wiki/index.php/Events
-2019年01月07日（月）	　Meetup 2019-01	　都内
-
-https://sfcclip.net/bus/
-バス時刻表 ∣ SFC CLIP
-
 https://hpa1013.hatenablog.com/entry/2018/12/02/133943
 【読書メモ】なぜあなたは論文が書けないのか？ - hpa1013’s diary
+
+https://ja.wikipedia.org/wiki/マイナスイオン
 
 ## evolution
 進化
@@ -101,6 +96,12 @@ https://readingmonkey.blog.fc2.com/blog-entry-464.html
 
 ----------
 ## updates
+
+## 2019
+
+Pitagora Galaxy Meetup
+http://wiki.pitagora-galaxy.org/wiki/index.php/Events
+2019年01月07日（月）	　Meetup 2019-01	　都内
 
 ## 2018
 
