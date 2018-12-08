@@ -16,6 +16,11 @@ Last Update: 2018-12
 ----------
 ## featuring
 
+http://wiki.lifesciencedb.jp/mw/SPARQLthon
+2018/12/09-14 BH18 @ 松江
+- http://2018.biohackathon.org/registration
+- https://twitter.com/hashtag/biohack18
+
 - https://twitter.com/
 - https://twitter.com/copypasteusa
 - https://www.ted.com/topics/biology
@@ -106,10 +111,6 @@ http://wiki.pitagora-galaxy.org/wiki/index.php/Events
 ## 2018
 
 ### 2018-12
-
-http://wiki.lifesciencedb.jp/mw/SPARQLthon
-2018/12/09-14 BH18 @ 松江
-http://2018.biohackathon.org/registration
 
 ### 2018-11
 
