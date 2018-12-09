@@ -16,11 +16,11 @@ Last Update: 2018-12
 ----------
 ## featuring
 
-http://wiki.lifesciencedb.jp/mw/SPARQLthon
+- http://wiki.lifesciencedb.jp/mw/SPARQLthon
 2018/12/09-14 BH18 @ 松江
 - http://2018.biohackathon.org
 - https://twitter.com/hashtag/biohack18
-
+- https://twitter.com/hashtag/biohack18?f=tweets&vertical=default
 - https://twitter.com/
 - https://twitter.com/copypasteusa
 - https://www.ted.com/topics/biology
