@@ -26,10 +26,10 @@ Last Update: 2018-12
 - https://www.ted.com/topics/biology
 - https://sfcclip.net/bus/
 - https://github.com/haruosuz/ksbn/blob/master/2018/README.md
-- https://github.com/haruosuz/ksbn/blob/master/2018/README.2018.4.md
-- https://github.com/haruosuz/introBI/tree/master/2018
-  - - http://apprize.info/data/bioinformatics/index.html
+  - https://github.com/haruosuz/ksbn/blob/master/2018/README.2018.4.md
 - https://github.com/haruosuz/DS4GD/tree/master/2018giga
+- https://github.com/haruosuz/introBI/tree/master/2018
+  - http://apprize.info/data/bioinformatics/index.html
 - https://github.com/haruosuz/bioinfo
 - https://github.com/haruosuz/bioinfo/blob/master/README.md#blast
 - https://github.com/haruosuz/books
@@ -37,6 +37,7 @@ Last Update: 2018-12
 - https://github.com/haruosuz/evolve
 - https://github.com/haruosuz/metasub
 - https://github.com/haruosuz/mgsa
+  - https://github.com/haruosuz/mgsa/tree/master/traitar
 - https://github.com/haruosuz/microbe
 - https://github.com/haruosuz/plasmids
 - https://github.com/haruosuz/r4bioinfo
