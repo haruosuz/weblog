@@ -16,11 +16,10 @@ Last Update: 2018-12
 ----------
 ## featuring
 
+https://www1.doshisha.ac.jp/~mjin/R/Chap_27/27.html
+ カルスカル (Kruscal) は、次に示すストレス (stress) と呼ばれる統計量を最小にするように座標を定めることを提案している。
 
-https://github.com/haruosuz/introBI/tree/master/2018#guest-speaker
-
-https://github.com/haruosuz/introBI/blob/master/2018/README.md#guest-speaker
-
+- https://qiita.com/advent-calendar/2018/galaxy
 - http://wiki.lifesciencedb.jp/mw/SPARQLthon
 2018/12/09-14 BH18 @ 松江
 - http://2018.biohackathon.org
