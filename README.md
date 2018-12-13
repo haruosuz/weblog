@@ -16,6 +16,11 @@ Last Update: 2018-12
 ----------
 ## featuring
 
+
+https://github.com/haruosuz/introBI/tree/master/2018#guest-speaker
+
+https://github.com/haruosuz/introBI/blob/master/2018/README.md#guest-speaker
+
 - http://wiki.lifesciencedb.jp/mw/SPARQLthon
 2018/12/09-14 BH18 @ 松江
 - http://2018.biohackathon.org
