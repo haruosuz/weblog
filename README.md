@@ -16,10 +16,6 @@ Last Update: 2018-12
 ----------
 ## featuring
 
-https://www1.doshisha.ac.jp/~mjin/R/Chap_27/27.html
- カルスカル (Kruscal) は、次に示すストレス (stress) と呼ばれる統計量を最小にするように座標を定めることを提案している。
-
-- https://qiita.com/advent-calendar/2018/galaxy
 - http://wiki.lifesciencedb.jp/mw/SPARQLthon
 2018/12/09-14 BH18 @ 松江
 - http://2018.biohackathon.org
@@ -47,6 +43,12 @@ https://www1.doshisha.ac.jp/~mjin/R/Chap_27/27.html
 - https://github.com/haruosuz/r4bioinfo
 - https://github.com/haruosuz/r4bioinfo/tree/master/R_memo
 - https://github.com/haruosuz/statistics
+- https://qiita.com/advent-calendar/2018/galaxy
+- http://www.sgmj.org/sgmj2019/
+年会名    第13回日本ゲノム微生物学会年会
+会期    2019年3月6日（水）～8日（金）
+会場    首都大学東京 南大沢キャンパス
+○演題登録 〜2019年1月16日（水）17:00まで
 
 https://hpa1013.hatenablog.com/entry/2018/12/02/133943
 【読書メモ】なぜあなたは論文が書けないのか？ - hpa1013’s diary
