@@ -16,6 +16,8 @@ Last Update: 2018-12
 ----------
 ## featuring
 
+https://twitter.com/search?q=ボヘミアン・ラプソディ
+
 - http://wiki.lifesciencedb.jp/mw/SPARQLthon
 2018/12/09-14 BH18 @ 松江
 - http://2018.biohackathon.org
@@ -53,7 +55,10 @@ Last Update: 2018-12
 https://hpa1013.hatenablog.com/entry/2018/12/02/133943
 【読書メモ】なぜあなたは論文が書けないのか？ - hpa1013’s diary
 
-https://ja.wikipedia.org/wiki/マイナスイオン
+
+https://twitter.com/ykamit/status/1073149317248999424
+'Yuki' Kamitani on Twitter: "データ解析の二度漬け・情報漏えい問題については、これがオススメ。 大羽成征「遺伝子発現データに基づく予測と推定：言いたいことと言えること」 https://t.co/QLQPdKF0uX"
+4:35 AM - 13 Dec 2018
 
 ## evolution
 進化
