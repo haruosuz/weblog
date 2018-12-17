@@ -45,6 +45,14 @@ Last Update: 2018-12
 会場    首都大学東京 南大沢キャンパス
 ○演題登録 〜2019年1月16日（水）17:00まで
 
+
+github 入門
+
+課題No.9 「Git for Scientists 事前課題」
+生命科学研究のためのGitHubの使い方 基本編
+git入門 (全22回) - プログラミングならドットインストール
+GitHub Learning Lab
+
 - https://twitter.com/search?q=ボヘミアン・ラプソディ
 - https://chielabo.com/bohemian-rhapsody/
 - https://ja.wikipedia.org/wiki/捕食出版
