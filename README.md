@@ -45,15 +45,15 @@ Last Update: 2018-12
 会場    首都大学東京 南大沢キャンパス
 ○演題登録 〜2019年1月16日（水）17:00まで
 
-https://hpa1013.hatenablog.com/entry/2018/12/02/133943
+- https://twitter.com/search?q=ボヘミアン・ラプソディ
+- https://chielabo.com/bohemian-rhapsody/
+- https://ja.wikipedia.org/wiki/捕食出版
+- https://hpa1013.hatenablog.com/entry/2018/12/02/133943
 【読書メモ】なぜあなたは論文が書けないのか？ - hpa1013’s diary
 
 https://twitter.com/ykamit/status/1073149317248999424
 'Yuki' Kamitani on Twitter: "データ解析の二度漬け・情報漏えい問題については、これがオススメ。 大羽成征「遺伝子発現データに基づく予測と推定：言いたいことと言えること」 https://t.co/QLQPdKF0uX"
 4:35 AM - 13 Dec 2018
-
-- https://twitter.com/search?q=ボヘミアン・ラプソディ
-- https://chielabo.com/bohemian-rhapsody/
 
 ## evolution
 進化
