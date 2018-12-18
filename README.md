@@ -46,12 +46,19 @@ Last Update: 2018-12
 ○演題登録 〜2019年1月16日（水）17:00まで
 
 
-github 入門
 
-課題No.9 「Git for Scientists 事前課題」
-生命科学研究のためのGitHubの使い方 基本編
-git入門 (全22回) - プログラミングならドットインストール
-GitHub Learning Lab
+
+
+https://twitter.com/yusuke_tsugawa/status/1074509349391720448
+津川友介 on Twitter: "拙書「世界一シンプルで科学的に証明された究極の食事」がビジネス書グランプリ2019のリベラルアーツ部門にノミネートされました。一般投票を受付中らしいので、よろしくお願い致します
+
+https://business-book.jp/entry/list
+
+https://business-book.jp/entry/list#tab5
+
+https://www.flierinc.com/summary/1682
+歴史は実験できるのか | 本の要約サイト flier(フライヤー)
+
 
 - https://twitter.com/search?q=ボヘミアン・ラプソディ
 - https://chielabo.com/bohemian-rhapsody/
