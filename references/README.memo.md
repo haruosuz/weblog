@@ -10,6 +10,53 @@
 - [presentation](#presentation)
 - [robust](#robust)
 
+----------
+## Queen
+
+- https://ja.wikipedia.org/wiki/クイーン_(バンド)
+- https://ja.wikipedia.org/wiki/ジョン・ディーコン
+- https://ja.wikipedia.org/wiki/ウィ・ウィル・ロック・ユー_(ミュージカル)
+
+https://www.cinematoday.jp/news/N0105660
+『ボヘミアン・ラプソディ』あの俳優に気づかない人が続出！ - シネマトゥデイ
+ 2018年12月18日  9時02分
+
+https://www.cinematoday.jp/news/N0105416
+まるで本物のフレディ！『ボヘミアン・ラプソディ』で歌声が使われたシンガーが話題 - シネマトゥデイ
+ 2018年12月7日  10時02分
+
+https://www.youtube.com/watch?v=zUAzT-7KzYI
+QUEEN映画が異例のヒット！　知られざる日本との"絆” - YouTube
+Published on Dec 10, 2018
+
+https://www.youtube.com/watch?v=vW01ecOtzPY
+ボヘミアン・ラプソディ大ヒット 伝説のバンドに涙する理由 - YouTube
+Published on Nov 30, 2018
+
+https://www.youtube.com/watch?v=cwzzJ2QSgsQ
+SONGS　QUEENヒストリー - YouTube
+Published on Nov 17, 2018
+
+https://tower.jp/article/news/2018/10/30/tg003
+QUEEN（クイーン）伝記映画『ボヘミアン・ラプソディ』、メイキング映像「クイーンになるまで」公開。QUEEN演じたキャスト来日決定も - TOWER RECORDS ONLINE
+
+https://www.youtube.com/watch?v=-HbgauYtCGI
+Boheman Rhapsody - Inspired by Queen - YouTube
+Published on Oct 29, 2018
+
+https://www.youtube.com/watch?v=ojRj2JK5oCI
+[OFFICIAL VIDEO] Bohemian Rhapsody – Pentatonix - YouTube
+Published on Apr 7, 2017
+
+
+https://www.youtube.com/watch?v=zLXHf4NdMj4
+Queen -Queenという現象1 - YouTube
+Published on Jun 1, 2011
+
+https://www.youtube.com/watch?v=f4Mc-NYPHaQ
+Queen - I Want To Break Free (Official Video) - YouTube
+Published on Sep 1, 2008
+
 
 ----------
 
