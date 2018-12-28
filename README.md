@@ -45,6 +45,23 @@ Last Update: 2018-12
 会場    首都大学東京 南大沢キャンパス
 ○演題登録 〜2019年1月16日（水）17:00まで
 
+https://twitter.com/ProfMarkMaslin/status/1078207734523269120
+Mark Maslin on Twitter: "#LifeOnEarth is dominate by plants making up 82% by weight. The total weight of mammals is made of of 30% humans, 66% our livestock, while wild animals make up just 4%! Welcome to the #Anthropocene… https://t.co/LC42vpQ2ly"
+3:35 AM - 27 Dec 2018
+![](https://pbs.twimg.com/media/DvaQN2_XQAA4RLS.jpg)
+
+https://www.pnas.org/content/115/25/6506
+The biomass distribution on Earth | PNAS
+
+http://sciencebook.blog110.fc2.com/blog-entry-3014.html
+『 おもしろ遺伝子の氏名と使命 』
+
+https://adventar.org/calendars/3392
+今年読んだ一番好きな論文2018 Advent Calendar 2018 - Adventar
+
+https://sites.google.com/a/edu.k.u-tokyo.ac.jp/hamaguchiyuki-hp/shao-jie-lun-wen-jin-nian-dunda-yi-fan-haokina-lun-wen2018-advent-calendar-2018
+紹介論文 酸素増大に伴う遺伝暗号の進化 - hamaguchiyuki-hp
+
 https://ja.wikipedia.org/wiki/この世界が消えたあとの科学文明のつくりかた
 
 https://twitter.com/search?q=この世界が消えたあとの科学文明のつくりかた
