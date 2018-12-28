@@ -17,9 +17,14 @@
 - https://ja.wikipedia.org/wiki/ジョン・ディーコン
 - https://ja.wikipedia.org/wiki/ウィ・ウィル・ロック・ユー_(ミュージカル)
 
-https://www.cinematoday.jp/news/N0105660
-『ボヘミアン・ラプソディ』あの俳優に気づかない人が続出！ - シネマトゥデイ
- 2018年12月18日  9時02分
+「ボヘミアン・ラプソディ」
+2019年1月3日(木)
+
+https://ja.wikipedia.org/wiki/ボヘミアン・ラプソディ_(映画)
+
+https://www.youtube.com/watch?v=PGCcOf6b88I
+シンソウ坂上 クイーン伝説 - YouTube
+Published on Dec 14, 2018
 
 https://www.cinematoday.jp/news/N0105416
 まるで本物のフレディ！『ボヘミアン・ラプソディ』で歌声が使われたシンガーが話題 - シネマトゥデイ
@@ -29,13 +34,29 @@ https://www.youtube.com/watch?v=zUAzT-7KzYI
 QUEEN映画が異例のヒット！　知られざる日本との"絆” - YouTube
 Published on Dec 10, 2018
 
+https://www.youtube.com/watch?v=-XqPBEODZ4s
+Queen Live at LIVE AID side-by-side comparison with Rami Malek (2018 Movie) - YouTube
+Published on Dec 4, 2018
+
+https://www.youtube.com/watch?v=yjjDFRPsCHY
+フレディ・マーキュリーの知られざる事実 ランキングTop10 - YouTube
+Published on Dec 3, 2018
+
 https://www.youtube.com/watch?v=vW01ecOtzPY
 ボヘミアン・ラプソディ大ヒット 伝説のバンドに涙する理由 - YouTube
 Published on Nov 30, 2018
 
+https://www.youtube.com/watch?v=wNoE9awIZs4
+Bohemian Rhapsody OST Soundtrack - YouTube
+Published on Nov 17, 2018
+
 https://www.youtube.com/watch?v=cwzzJ2QSgsQ
 SONGS　QUEENヒストリー - YouTube
 Published on Nov 17, 2018
+
+https://www.youtube.com/watch?v=evIzu9ZxSAg
+『ボヘミアン・ラプソディ』豪華アーティストがクイーン愛を告白⁉貴重なライヴ・エイド本人映像も必見！ - YouTube
+Published on Nov 6, 2018
 
 https://tower.jp/article/news/2018/10/30/tg003
 QUEEN（クイーン）伝記映画『ボヘミアン・ラプソディ』、メイキング映像「クイーンになるまで」公開。QUEEN演じたキャスト来日決定も - TOWER RECORDS ONLINE
@@ -44,19 +65,34 @@ https://www.youtube.com/watch?v=-HbgauYtCGI
 Boheman Rhapsody - Inspired by Queen - YouTube
 Published on Oct 29, 2018
 
+https://www.youtube.com/watch?v=ujDil739dEc
+映画『ボヘミアン・ラプソディ』予告編 - YouTube
+シネマトゥデイ
+Published on Oct 22, 2018
+
+https://www.youtube.com/watch?v=XZlud20rSvg&list=RDSt7b9Nn06NQ&index=26
+QUEEN AGING TOGETHER 1968-2018 | Faces & Songs One Per Year - YouTube
+Published on Aug 28, 2018
+
 https://www.youtube.com/watch?v=ojRj2JK5oCI
 [OFFICIAL VIDEO] Bohemian Rhapsody – Pentatonix - YouTube
 Published on Apr 7, 2017
 
-
 https://www.youtube.com/watch?v=zLXHf4NdMj4
 Queen -Queenという現象1 - YouTube
+Published on Jun 1, 2011
+
+https://www.youtube.com/watch?v=ZTXiIPFqOfg&index=2&list=RDSt7b9Nn06NQ
+Queen-Queenという現象4 - YouTube
 Published on Jun 1, 2011
 
 https://www.youtube.com/watch?v=f4Mc-NYPHaQ
 Queen - I Want To Break Free (Official Video) - YouTube
 Published on Sep 1, 2008
 
+https://www.youtube.com/watch?v=ojRj2JK5oCI
+[OFFICIAL VIDEO] Bohemian Rhapsody – Pentatonix - YouTube
+Published on Apr 7, 2017
 
 ----------
 
