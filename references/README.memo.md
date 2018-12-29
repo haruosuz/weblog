@@ -9,18 +9,36 @@
   - [writing](#writing)
 - [presentation](#presentation)
 - [robust](#robust)
+- [music](#music)
+  - [queen](#queen)
 
 ----------
-## Queen
+## music
 
-- https://ja.wikipedia.org/wiki/クイーン_(バンド)
-- https://ja.wikipedia.org/wiki/ジョン・ディーコン
-- https://ja.wikipedia.org/wiki/ウィ・ウィル・ロック・ユー_(ミュージカル)
+https://www.youtube.com/watch?v=Gl9GtO_vQxw
+Foo Fighters Meets 70's Bobby Caldwell - Live Looping Mashup by Elise Trouw - YouTube
 
-「ボヘミアン・ラプソディ」
-2019年1月3日(木)
+### queen
+https://ja.wikipedia.org/wiki/クイーン_(バンド)
+
+https://www.udiscovermusic.jp/stories/bohemian-rhapsody-second-movement
+クイーン「Bohemian Rhapsody」が持つ音楽史でのとてもつもない偉業
+
+#### bohemian_rhapsody
+https://twitter.com/search?q=ボヘミアン・ラプソディ
 
 https://ja.wikipedia.org/wiki/ボヘミアン・ラプソディ_(映画)
+
+http://www.foxmovies-jp.com/bohemianrhapsody/
+映画『ボヘミアン・ラプソディ』公式サイト 大ヒット上映中！
+
+https://www.foxmovies.com/movies/bohemian-rhapsody
+Bohemian Rhapsody | Fox Movies
+
+2018.12.28
+2018.11.17
+https://chielabo.com/bohemian-rhapsody/
+『ボヘミアン・ラプソディ』の評価が高い理由！感想と実話との違いなど | 知恵ラボ
 
 https://www.youtube.com/watch?v=PGCcOf6b88I
 シンソウ坂上 クイーン伝説 - YouTube
@@ -37,10 +55,6 @@ Published on Dec 10, 2018
 https://www.youtube.com/watch?v=-XqPBEODZ4s
 Queen Live at LIVE AID side-by-side comparison with Rami Malek (2018 Movie) - YouTube
 Published on Dec 4, 2018
-
-https://www.youtube.com/watch?v=yjjDFRPsCHY
-フレディ・マーキュリーの知られざる事実 ランキングTop10 - YouTube
-Published on Dec 3, 2018
 
 https://www.youtube.com/watch?v=vW01ecOtzPY
 ボヘミアン・ラプソディ大ヒット 伝説のバンドに涙する理由 - YouTube
@@ -96,6 +110,13 @@ Published on Apr 7, 2017
 
 ----------
 
+https://indianajones.fandom.com/ja/wiki/サギー
+
+https://ranpo.co/article/6297738316049551361
+インドの秘密結社！！『インディ・ジョーンズ』に登場した暗殺集団は映画よりエグイ！？ | 日刊Ranpo
+
+----------
+
 http://bashalog.c-brains.jp/16/04/18-141910.php
 PDFの文字をコピーしたときに濁点や半濁点がバラバラ文字（合成文字）になったら | バシャログ。
 NFD→NFC変換ツールをブラウザで開いて、【変換したいテキスト】にバラバラ文字を入力。
@@ -147,41 +168,16 @@ https://twitter.com/tsuyomiyakawa/status/1028111704658345985
 何者でもないおっさん on Twitter: "日本では、エビデンスとその出典（原著とか資料）を示して議論する、という習慣が本当、弱いですよね。文系・理系に関わらず。これ、大学の教養課程か、できれば高校くらいで教えるようにしていただけないものでしょうかね。個々の個別知識より、この習慣を身につけるほうが遥かに重要かと思います。"
 10:51 PM - 10 Aug 2018
 
-2018-08-04
-https://qiita.com/antiplastics/items/add3f8438cbe6b2b594e
-どの生物種までGO解析ができるか
-
 https://twitter.com/philomyu/status/1025905138706206720
 西内啓 Hiromu Nishiuchi on Twitter: "告知失念しておりましたが、先日ハーバードの教授になられた今井耕介先生と対談イベントやって参りまして、個人的にもその内容がめっちゃ皆さんに見て頂く価値があると感じたのでムリ言って所属事務所のご縁辿って動画を編集・公開してもらいました！良ければご覧下さい！　https://t.co/GoTNmpBXfa"
 8:43 PM - 4 Aug 2018
 
-2018-08-02
-http://gendai.ismedia.jp/articles/-/56608
-『種の起源』から約160年……まだ「種」が定義できないってマジ？（山田 俊弘） | ブルーバックス | 講談社（1/3）
-
-http://schaechter.asmblog.org/schaechter/2017/01/do-bacterial-species-really-exist-and-why-should-we-care.html
-
-
-https://twitter.com/3Bgoripachi/status/1025225950902931456
-ゴリぱち on Twitter: "ゲノム解析を学びたい人にとって有益な情報が詰まっている記事でした。 「NGSデータから新たな知識を導出するためのデータ解析リテラシー」 https://t.co/t5GGcj7mNC"
-11:44 PM - 2 Aug 2018
-
-https://twitter.com/eyemiyake/status/1023007444669095936
-三宅正裕 MD, PhD, MPH @ 眼科 on Twitter: "eLIFE, 2018 ゲノムデータを操作変数として用いることで観察研究データから因果関係を評価するMendelian Randomization。そろそろやってみたいのでとりあえずこの論文で勉強しています
-臨床、ゲノム、疫学のいずれもに知見とデータがあるうちの強みにマッチしそう。 https://t.co/CMSPLf3Dfk"
-8:49 PM - 27 Jul 2018
-
 ### 2018-07
 
-https://twitter.com/strnr/status/1024286159747342336
-Stephen Turner on Twitter: "Using summary statistics to determine whether a non-significant result supports the absence of an effect https://t.co/SeuzU8atpt… https://t.co/Q8dapoaQh7"
-9:30 AM - 31 Jul 2018
-https://blog.usejournal.com/using-summary-statistics-to-determine-whether-a-non-significant-result-supports-the-absence-of-an-1ff61e97f7cf
 
 https://twitter.com/f_nisihara/status/1023346586032558080
 Fumiaki Nishihara（西原史暁） on Twitter: "学術論文のビックデータ分析の結果から、男女格差を見いだした論文の紹介。 - 日本は科学技術分野でも男女格差がヤバすぎる https://t.co/Un74IrRn7G"
 7:16 PM - 28 Jul 2018
-
 
 https://twitter.com/thehauer/status/1021179403680862218
 I didn't think my "start-up" document for my grad students (the resources I wish *I* had when I started a PhD) would prove to be so popular, so I figured I would share them here. So, here's what I've compiled so far. #hiddencurriculum 1/12
@@ -191,17 +187,7 @@ https://twitter.com/barasan24/status/1019612054112460801
 YOTTE in the BED on Twitter: "気象庁のオープンデータも豊富。 暑いと言われている今年の夏は本当に暑いのか。可視化してみました。 データ作りにかかる時間が９割。データが使える形で揃ってると幸せになれます。DBたいせつ。 #Tableau #TableauPublic #visualization #BI https://t.co/H5Jt70b4Hh… https://t.co/cTAQRIX38C"
 11:57 AM - 18 Jul 2018
 
-2018/07/15(Sun)
-https://togetter.com/li/1247155
-第71回R勉強会@東京まとめ - Togetter
-
-2018年7月13日
-http://team1mile.com/sjpr61-1/
-特集「統計革命」 | Make Statistics Great Again
-
 ### 2018-06
-
-https://www.natureindex.com/news-blog/when-it-comes-to-reproducible-science-git-is-code-for-success
 
 ### 2018-05
 
@@ -213,18 +199,11 @@ http://www.wynned.com/entry/aum-nakagawa-paper
 https://www.editage.jp/insights/the-secret-to-using-tenses-in-scientific-writing
 科学論文における時制の使い分け | Editage Insights
 
-2018-05-07
-https://ksmzn.hatenablog.com/entry/Wonderful-R-03
-『再現可能性のすゝめ ―RStudioによるデータ解析とレポート作成― 』を読みました
-
 http://robertcampbell.jp/blog/2018/04/30.html
 平成30年度　東京大学入学式　来賓祝辞 - BLOG｜ロバート キャンベル公式サイト｜Robert Campbell Official Web Site
 
 https://haremashita.hatenablog.com/entry/2018/03/19/220842
 Critical Analysis（批評分析小論文） - 自分を改善したい人のブログ
-
-https://wired.jp/2018/03/13/solve-genomics-with-blockchain/
-「ゲノム解析」のデータはブロックチェーンで守れるか｜WIRED.jp
 
 9:16 AM - 23 Feb 2018
 https://twitter.com/JMonlong/status/967040480960761856
@@ -330,7 +309,6 @@ Using Mahalanobis distance to compare genomic signatures between bacterial plasm
 We tested the robustness of our result that Mahalanobis distance performs better than the conventional δ-distance by varying chromosomal segment size, word size (e.g. tri- and tetra-nucleotides) (12,29,37) and composition of the host data set. Campbell et al. (11) and Wong et al. (20) used 50-kb chromosomal segments, while van Passel et al. (25) used plasmid-size chromosomal segments; that is, the segment size was not fixed but depended on the plasmid size. In the present study, we used a fixed segment size. We found that our results remained similar when partitioning chromosomal sequences into different sizes of segments; e.g. 2, 5, 10 and 20 kb in length (data not shown). Among these, 5 kb was selected because the median rank of the genomic signature similarities between plasmids and their known hosts was maximized. The results were also consistent with those obtained when using relative abundances of different word sizes (data not shown). We also demonstrated that our results were robust to the composition of the host data set by testing different subsets of bacteria, e.g. Proteobacteria, Firmicutes, Gram-positive bacteria, Gram-negative bacteria and also when only one representative was randomly selected in the case of species for which multiple strains have been sequenced (data not shown). Thus, Mahalanobis distance performed better than δ-distance in identifying plasmid hosts based on genomic signature similarity, regardless of the datasets used.
 
 
-----------
 
 ----------
 ## unclassified
@@ -358,7 +336,6 @@ https://ja.wikipedia.org/wiki/カルバック・ライブラー情報量
 
 http://yutori-datascience.hatenablog.com/entry/2018/01/09/181821
 業務メール書き方チートシート - tkm2261's blog
-
 
 ----------
 
