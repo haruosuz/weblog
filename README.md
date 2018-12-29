@@ -88,9 +88,6 @@ https://business-book.jp/entry/list#tab5
 https://www.flierinc.com/summary/1682
 歴史は実験できるのか | 本の要約サイト flier(フライヤー)
 
-
-- https://twitter.com/search?q=ボヘミアン・ラプソディ
-- https://chielabo.com/bohemian-rhapsody/
 - https://ja.wikipedia.org/wiki/捕食出版
 - https://hpa1013.hatenablog.com/entry/2018/12/02/133943
 【読書メモ】なぜあなたは論文が書けないのか？ - hpa1013’s diary
@@ -98,6 +95,57 @@ https://www.flierinc.com/summary/1682
 https://twitter.com/ykamit/status/1073149317248999424
 'Yuki' Kamitani on Twitter: "データ解析の二度漬け・情報漏えい問題については、これがオススメ。 大羽成征「遺伝子発現データに基づく予測と推定：言いたいことと言えること」 https://t.co/QLQPdKF0uX"
 4:35 AM - 13 Dec 2018
+
+----------
+
+
+http://www.m-review.co.jp/book/detail/978-4-7792-1724-1
+書籍詳細 - なぜあなたは論文が書けないのか？ | メディカルレビュー社
+- http://yumulog.hatenablog.com/entry/2016/09/19/011833
+文章を書く技術については、大定番の 理科系の作文技術 (中公新書 (624)) など、他の本を合わせて読むとよさそうです。以下、引用。
+
+2016年03月27日
+https://withnews.jp/article/f0160327003qq000000000000000W02j10701qq000013170A
+『理科系の作文技術』、81刷100万部を突破　異例のヒットの理由 - withnews（ウィズニュース）
+
+http://www2.ube-k.ac.jp/usui/rikakei.html
+「理科系の作文技術」抜粋
+
+https://www.amazon.co.jp/どう書くか―理科系のための論文作法-杉原-厚吉/dp/4320005635
+2001/1/1
+
+https://www.kyoritsu-pub.co.jp/kenpon/bookDetail/9784320005631
+どう書くか ―理科系のための論文作法― / 杉原 厚吉 著　 | 共立出版 教科書献本サイト
+
+- http://chika0509.hatenablog.com/entry/2016/04/29/212928
+- http://d.hatena.ne.jp/sleepy_yoshi/20100304/p1
+
+https://www.ki1tos.com/entry/2018/11/17/150454
+英語論文が出せなくてすべてが終わる前に - ハカセのあやしい研究ノート
+
+2016.12.20
+https://honcierge.jp/articles/shelf_story/937
+論文の書き方がわかるおすすめ本５選！レポート、卒論、理系英語まで伝授。 | ホンシェルジュ
+
+2016/3/20
+http://kojigen.com/paper-2-4554.html
+いい論文を書くために読んでおきたい参考書籍20冊｜論文の教室
+
+2010.12.18
+https://readingmonkey.blog.fc2.com/blog-entry-464.html
+論文書きに役立つ記事のまとめ（逆引きインデクス）をつくってみた 読書猿Classic: between / beyond readers
+
+----------
+
+https://twitter.com/search?q=「ニセ医学」に騙されないために
+
+http://natrom.hatenablog.com/entry/2018/11/29/120000
+新装版『「ニセ医学」に騙されないために』、発売です。 - NATROMのブログ
+
+http://warbler.hatenablog.com/entry/2018/11/28/003907
+新装版『「ニセ医学」に騙されないために』解説文 - warbler’s diary
+
+----------
 
 ## evolution
 進化
@@ -123,31 +171,6 @@ http://leeswijzer.hatenablog.com/entry/2014/07/18/214351
 
 https://github.com/haruosuz/evolve/blob/master/references/README.tools.md#mega
 MEGA: Molecular Evolutionary Genetics Analysis software
-
-----------
-
-https://twitter.com/search?q=「ニセ医学」に騙されないために
-
-http://natrom.hatenablog.com/entry/2018/11/29/120000
-新装版『「ニセ医学」に騙されないために』、発売です。 - NATROMのブログ
-
-http://warbler.hatenablog.com/entry/2018/11/28/003907
-新装版『「ニセ医学」に騙されないために』解説文 - warbler’s diary
-
-https://www.ki1tos.com/entry/2018/11/17/150454
-英語論文が出せなくてすべてが終わる前に - ハカセのあやしい研究ノート
-
-2016.12.20
-https://honcierge.jp/articles/shelf_story/937
-論文の書き方がわかるおすすめ本５選！レポート、卒論、理系英語まで伝授。 | ホンシェルジュ
-
-2016/3/20
-http://kojigen.com/paper-2-4554.html
-いい論文を書くために読んでおきたい参考書籍20冊｜論文の教室
-
-2010.12.18
-https://readingmonkey.blog.fc2.com/blog-entry-464.html
-論文書きに役立つ記事のまとめ（逆引きインデクス）をつくってみた 読書猿Classic: between / beyond readers
 
 
 ----------
