@@ -3,7 +3,7 @@ Last Update: 2018-12
 
 ----------
 
-# Weblog
+# weblog
 
 ## Table of Contents
 - [featuring](#featuring)
@@ -45,133 +45,13 @@ Last Update: 2018-12
 会場    首都大学東京 南大沢キャンパス
 ○演題登録 〜2019年1月16日（水）17:00まで
 
-https://twitter.com/ProfMarkMaslin/status/1078207734523269120
-Mark Maslin on Twitter: "#LifeOnEarth is dominate by plants making up 82% by weight. The total weight of mammals is made of of 30% humans, 66% our livestock, while wild animals make up just 4%! Welcome to the #Anthropocene… https://t.co/LC42vpQ2ly"
-3:35 AM - 27 Dec 2018
-![](https://pbs.twimg.com/media/DvaQN2_XQAA4RLS.jpg)
 
-https://www.pnas.org/content/115/25/6506
-The biomass distribution on Earth | PNAS
+https://www.ncbi.nlm.nih.gov/pubmed/24146954
+PLoS One. 2013 Oct 17;8(10):e77033. doi: 10.1371/journal.pone.0077033. eCollection 2013.
+Systematic identification of gene families for use as "markers" for phylogenetic and phylogeny-driven ecological studies of bacteria and archaea and their major subgroups.
+Wu D1, Jospin G, Eisen JA.
 
-http://sciencebook.blog110.fc2.com/blog-entry-3014.html
-『 おもしろ遺伝子の氏名と使命 』
-
-https://adventar.org/calendars/3392
-今年読んだ一番好きな論文2018 Advent Calendar 2018 - Adventar
-
-https://sites.google.com/a/edu.k.u-tokyo.ac.jp/hamaguchiyuki-hp/shao-jie-lun-wen-jin-nian-dunda-yi-fan-haokina-lun-wen2018-advent-calendar-2018
-紹介論文 酸素増大に伴う遺伝暗号の進化 - hamaguchiyuki-hp
-
-https://ja.wikipedia.org/wiki/この世界が消えたあとの科学文明のつくりかた
-
-https://twitter.com/search?q=この世界が消えたあとの科学文明のつくりかた
-
-https://twitter.com/Hiroyuki_Tameda/status/1077722736825253888
-為田裕行 on Twitter: "朝RTした、『この世界が消えたあとの科学文明のつくりかた』、たしかにめちゃくちゃおもしろくて、これは教材にならないだろうか、とブログに書いたっけな…と思い出したら、書いてあった。 https://t.co/JgvEaAeeTl"
-7:28 PM - 25 Dec 2018
-http://blog.ict-in-education.jp/entry/2016/08/15/080757
-教材で使えるかも？: 『この世界が消えたあとの科学文明のつくりかた』 - 教育ICTリサーチ ブログ
-
-https://twitter.com/philomyu/status/1077478696867422209
-西内啓 Hiromu Nishiuchi on Twitter: "『この世界が消えたあとの科学文明のつくりかた』って本がめちゃくちゃすごく面白くて、現代の便利な生活支えているテクノロジーがどれだけありがたいものなのかも理解できるし、高校時代の化学の授業もこういう感じで教えてくれたら面白かったのになーって思った。"
-3:18 AM - 25 Dec 2018
-
-
-
-https://twitter.com/yusuke_tsugawa/status/1074509349391720448
-津川友介 on Twitter: "拙書「世界一シンプルで科学的に証明された究極の食事」がビジネス書グランプリ2019のリベラルアーツ部門にノミネートされました。一般投票を受付中らしいので、よろしくお願い致します
-
-https://business-book.jp/entry/list
-
-https://business-book.jp/entry/list#tab5
-
-https://www.flierinc.com/summary/1682
-歴史は実験できるのか | 本の要約サイト flier(フライヤー)
-
-- https://ja.wikipedia.org/wiki/捕食出版
-- https://hpa1013.hatenablog.com/entry/2018/12/02/133943
-【読書メモ】なぜあなたは論文が書けないのか？ - hpa1013’s diary
-
-https://twitter.com/ykamit/status/1073149317248999424
-'Yuki' Kamitani on Twitter: "データ解析の二度漬け・情報漏えい問題については、これがオススメ。 大羽成征「遺伝子発現データに基づく予測と推定：言いたいことと言えること」 https://t.co/QLQPdKF0uX"
-4:35 AM - 13 Dec 2018
-
-----------
-
-
-http://www.m-review.co.jp/book/detail/978-4-7792-1724-1
-書籍詳細 - なぜあなたは論文が書けないのか？ | メディカルレビュー社
-- http://yumulog.hatenablog.com/entry/2016/09/19/011833
-文章を書く技術については、大定番の 理科系の作文技術 (中公新書 (624)) など、他の本を合わせて読むとよさそうです。以下、引用。
-
-2016年03月27日
-https://withnews.jp/article/f0160327003qq000000000000000W02j10701qq000013170A
-『理科系の作文技術』、81刷100万部を突破　異例のヒットの理由 - withnews（ウィズニュース）
-
-http://www2.ube-k.ac.jp/usui/rikakei.html
-「理科系の作文技術」抜粋
-
-https://www.amazon.co.jp/どう書くか―理科系のための論文作法-杉原-厚吉/dp/4320005635
-2001/1/1
-
-https://www.kyoritsu-pub.co.jp/kenpon/bookDetail/9784320005631
-どう書くか ―理科系のための論文作法― / 杉原 厚吉 著　 | 共立出版 教科書献本サイト
-
-- http://chika0509.hatenablog.com/entry/2016/04/29/212928
-- http://d.hatena.ne.jp/sleepy_yoshi/20100304/p1
-
-https://www.ki1tos.com/entry/2018/11/17/150454
-英語論文が出せなくてすべてが終わる前に - ハカセのあやしい研究ノート
-
-2016.12.20
-https://honcierge.jp/articles/shelf_story/937
-論文の書き方がわかるおすすめ本５選！レポート、卒論、理系英語まで伝授。 | ホンシェルジュ
-
-2016/3/20
-http://kojigen.com/paper-2-4554.html
-いい論文を書くために読んでおきたい参考書籍20冊｜論文の教室
-
-2010.12.18
-https://readingmonkey.blog.fc2.com/blog-entry-464.html
-論文書きに役立つ記事のまとめ（逆引きインデクス）をつくってみた 読書猿Classic: between / beyond readers
-
-----------
-
-https://twitter.com/search?q=「ニセ医学」に騙されないために
-
-http://natrom.hatenablog.com/entry/2018/11/29/120000
-新装版『「ニセ医学」に騙されないために』、発売です。 - NATROMのブログ
-
-http://warbler.hatenablog.com/entry/2018/11/28/003907
-新装版『「ニセ医学」に騙されないために』解説文 - warbler’s diary
-
-----------
-
-## evolution
-進化
-
-https://www.brh.co.jp/research/formerlab/miyata/2005/post_000003.html
-パラダイムシフト：分子進化の中立説- 宮田　隆の進化の話 - JT生命誌研究館
-
-http://nesseiken.info/Chiba_lab/index.php?cmd=read&page=授業%2FH24%2F進化生物学I%2F系統樹に関する基本用語
-系統推定の基本用語
-
-http://cse.naro.affrc.go.jp/minaka/R/R-cluster.html
-クラスター分析の光と闇
-
-http://kokorohaitsumo15sai.la.coocan.jp/bonotegami.htm
-これが「棒の手紙」だ！
-
-http://leeswijzer.hatenablog.com/
-archief voor stambomen
-系統樹ハンターの狩猟記録
-
-http://leeswijzer.hatenablog.com/entry/2014/07/18/214351
-ビールの系統樹 - archief voor stambomen
-
-https://github.com/haruosuz/evolve/blob/master/references/README.tools.md#mega
-MEGA: Molecular Evolutionary Genetics Analysis software
-
+https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md#16s
 
 ----------
 ## updates
@@ -185,6 +65,13 @@ http://wiki.pitagora-galaxy.org/wiki/index.php/Events
 ## 2018
 
 ### 2018-12
+
+2018-12-30
+https://gendai.ismedia.jp/articles/-/59091
+洗剤のサイズを10分の1にした男の「波瀾万丈な研究生活」がすごい（伊藤 政博） | ブルーバックス | 講談社（1/4）
+ビール、ワイン、日本酒、納豆、チーズ……みな微生物の恩恵でできているものだ。だが、微生物が生産した「酵素」が活躍している場所は、もっともっと広い。
+https://gendai.ismedia.jp/articles/-/59091?page=3
+「好アルカリ性細菌」
 
 ### 2018-11
 
