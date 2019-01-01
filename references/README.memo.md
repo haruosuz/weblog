@@ -10,7 +10,9 @@
   - [writing](#writing)
 - [presentation](#presentation)
 - [robust](#robust)
-
+- [docker](#docker)
+- [git](#git)
+- [ecology](#ecology)
 
 ----------
 
@@ -285,6 +287,56 @@ http://www.c.u-tokyo.ac.jp/info/about/history/dean/2013-2015/h27.3.25ishii.html
 善意のコピペや無自覚なリツイートは時として、悪意の虚偽よりも人を迷わせます。そしてあやふやな情報がいったん真実の衣を着せられて世間に流布してしまうと、もはや誰も直接資料にあたって真偽のほどを確かめようとはしなくなります。
 
 ----------
+### ecology
+
+- 2011年02月 [環境科学と生態学のためのR統計 | 共立出版](http://www.kyoritsu-pub.co.jp/bookdetail/9784320057128)
+- 大垣俊一 [Argonauta 15: 10-22 (2008) 多様度と類似度、分類学的新指標](http://www.mus-nh.city.osaka.jp/iso/argo/nl15/nl15-10-22.pdf)
+- 大垣俊一 [Argonauta 1: 15-26 (1999) 群集組成の多変量解析](http://www.mus-nh.city.osaka.jp/iso/argo/nl01/nl01-15-26.html)
+- [夏原由博 (1996) チョウ群集調査データの解析法](http://www.info.human.nagoya-u.ac.jp/~natu/epub/cho.PDF )
+- 2008.02.18 [生物多様性について１：シャノン＝ウィーバー指標（Shannon-Wiener) | 地中海ブログ](http://blog.archiphoto.info/?eid=569433)
+- [論文の紹介： 生物多様性を進化系統学的な尺度で測る (情報：農業と環境 No.83 2007.3)](http://www.niaes.affrc.go.jp/magazine/083/mgzn08304.html)
+
+- https://ja.wikipedia.org/wiki/遺伝的多様性
+- https://ja.wikipedia.org/wiki/バイオアッセイ
+- https://ja.wikipedia.org/wiki/保全生態学
+
+----------
+### docker
+https://ja.wikipedia.org/wiki/Docker
+
+2018-09-12
+https://qiita.com/gold-kou/items/44860fbda1a34a001fc1
+いまさらDockerに入門したので分かりやすくまとめます
+
+2018-07-09
+https://qiita.com/yuki_ycino/items/b94ae2bf7d78685cd6f5
+Dockerの基本について周辺環境まで含めてまとめ
+
+2017年01月30日
+http://www.atmarkit.co.jp/ait/articles/1701/30/news037.html
+第1回　Dockerとは：超入門Docker - ＠IT
+
+----------
+### git
+https://gigazine.net/news/20180904-git-version-control-system/
+バージョン管理ツール「Git」は一体どういうものなのか？ - GIGAZINE
+
+https://dotinstall.com/lessons/basic_git
+git入門 (全22回) - プログラミングならドットインストール
+
+http://togotv.dbcls.jp/20180621.html
+2018-06-21 生命科学研究のためのGitHubの使い方 基本編
+
+2017年12月19日
+https://qiita.com/uri/items/6b94609f156173ed43ed
+RStudioではじめるGitによるバージョン管理
+
+http://apprize.info/data/bioinformatics/index.html
+Bioinformatics Data Skills (2015)
+http://apprize.info/data/bioinformatics/5.html
+Chapter 5. Git for Scientists
+
+----------
 ## paper
 論文読み書き
 
@@ -328,6 +380,15 @@ http://togotv.dbcls.jp/20180126.html
 inMeXesを使って文献に頻出する英語表現や関連語を高速に検索する 2018 統合TV(togotv)｜生命科学系DB・ツール使い倒し系チャンネル
 
 ## presentation
+
+https://www.nig.ac.jp/jimu/soken/courses/OSC/contents/Q&A_j.pdf
+Q&Aを楽しもう!その1:質問をしよう
+その2:質問に答えよう
+
+https://twitter.com/3Bgoripachi/status/1012128869497753600
+ゴリぱち on Twitter: "学会用ポスターを作るときに、参考にしている資料です。 とても分かりやすくて、おすすめです。 https://t.co/8IkdlQAlLg… "
+
+https://twitter.com/search?q=科学論文にご用心、大半は誤り%20専門家が警鐘
 
 https://www.youtube.com/watch?v=6iwP1hMjxjs
 (2) How to CHAIR an academic session - YouTube
@@ -379,6 +440,27 @@ https://ja.wikipedia.org/wiki/カルバック・ライブラー情報量
 
 http://yutori-datascience.hatenablog.com/entry/2018/01/09/181821
 業務メール書き方チートシート - tkm2261's blog
+
+
+
+https://twitter.com/_duo3
+つい☆DUO (@_duo3) | Twitter
+
+https://twitter.com/bilderberg54
+https://twitter.com/yoniumuhibi
+
+https://twitter.com/endBooks
+科学に佇む読書心 (@endBooks) | Twitter
+
+https://twitter.com/bluebacks_pub
+講談社ブルーバックス (@bluebacks_pub) | Twitter
+
+https://techplay.jp
+TECH PLAY［テックプレイ］ - IT勉強会・セミナーなどのイベント情報検索サービス
+
+https://europepmc.org
+Europe PMC
+
 
 ----------
 
