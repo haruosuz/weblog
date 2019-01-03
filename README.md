@@ -20,6 +20,7 @@ Last Update: 2019-01-01
 - https://twitter.com/
 - https://twitter.com/copypasteusa
 - https://twitter.com/endBooks
+- https://twitter.com/search?q=%22土・牛・微生物%22
 - https://www.ted.com/topics/biology
 - https://sfcclip.net/bus/
 - https://github.com/haruosuz/ksbn/blob/master/2018/README.md
