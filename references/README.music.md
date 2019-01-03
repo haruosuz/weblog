@@ -36,7 +36,6 @@ http://www.foxmovies-jp.com/bohemianrhapsody/
 https://www.foxmovies.com/movies/bohemian-rhapsody
 Bohemian Rhapsody | Fox Movies
 
-
 https://www.youtube.com/watch?v=TcWMcERCZtI
 ボヘミアン・ラプソディ 世代を超えて広がるクイーン人気 - YouTube
 Published on Dec 30, 2018
@@ -62,17 +61,24 @@ https://www.youtube.com/watch?v=RQWTUtlMs5Y
 世紀を刻んだ歌2 「ボヘミアン・ラプソディ殺人事件」 - YouTube
 Published on Dec 24, 2018
 
+https://wired.jp/2018/12/14/queen-bohemian-rhapsody-ost-review/
+映画『ボヘミアン・ラプソディ』のサントラから、偉大なシンガーの不在という「冷酷な事実」が見えてきた｜WIRED.jp
+
 https://www.youtube.com/watch?v=PGCcOf6b88I
 シンソウ坂上 クイーン伝説 - YouTube
 Published on Dec 14, 2018
+
+https://www.youtube.com/watch?v=zUAzT-7KzYI
+QUEEN映画が異例のヒット！　知られざる日本との"絆” - YouTube
+Published on Dec 10, 2018
 
 https://www.cinematoday.jp/news/N0105416
 まるで本物のフレディ！『ボヘミアン・ラプソディ』で歌声が使われたシンガーが話題 - シネマトゥデイ
  2018年12月7日  10時02分
 
-https://www.youtube.com/watch?v=zUAzT-7KzYI
-QUEEN映画が異例のヒット！　知られざる日本との"絆” - YouTube
-Published on Dec 10, 2018
+https://www.youtube.com/watch?v=1ynob-qzMXU
+(2011年3月3日) 結成40周年　QUEEN 独占インタビューで語る日本への思い - YouTube
+Published on Dec 6, 2018
 
 https://www.youtube.com/watch?v=-XqPBEODZ4s
 Queen Live at LIVE AID side-by-side comparison with Rami Malek (2018 Movie) - YouTube
@@ -139,8 +145,9 @@ Fuzzbox - Bohemian Rhapsody (Queen cover) - YouTube
 Published on Oct 28, 2012
 
 
-
 ----------
+
+
 
 ## unclassified
 
@@ -150,6 +157,7 @@ Published on Jun 13, 2013
 
 https://www.youtube.com/watch?v=Gl9GtO_vQxw
 Foo Fighters Meets 70's Bobby Caldwell - Live Looping Mashup by Elise Trouw - YouTube
+
 
 https://indianajones.fandom.com/ja/wiki/サギー
 
