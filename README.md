@@ -67,6 +67,17 @@ http://wiki.pitagora-galaxy.org/wiki/index.php/Events
 https://togetter.com/li/1304780
 落合洋一氏、古市憲寿氏、荻上チキ氏の議論（終末期医療などをめぐって）～2019年１月※3日現在、議論継続中 - Togetter
 
+https://twitter.com/LuckyStrike1984/status/1080952658318557184
+Nakano, R.T. (PhD) on Twitter: "片瀬さんとの一連のことに関してshanghai_iiさんからご質問を頂いていたのでそのお返事を記事にまとめました。そのなかで、今回の一連の中で僕が言いたかったことをしっかりと字数を使って説明しましたのでもし興味のある奇特な皆様がいらっしゃいましたらご覧ください。… https://t.co/qh3wnNmJwU"
+5:22 PM - 3 Jan 2019
+
+https://note.mu/rt_nakano/n/n213cf290635e
+@shanghai_ii さんから頂いた一連のtweetsへのお返事｜Ryohei Thomas Nakano｜note
+
+「微生物の機能を考えるにあたり16S rRNAはあてにならない」
+
+単一ゲノム内のマルチコピーの存在や遺伝子の水平伝搬 (horizontal gene transfer) などの問題もよく知られておりおり、たとえば16S rRNAで割り当てられた分類群が、全ゲノム配列をもとに割り当てられる分類群と違っていたということがあったりもします。そのため現在では16S rRNA配列による細菌分類は便利ではあるものの正確性に欠くことが広く知られ、より厳密な手法として「シングルコピーで、垂直にのみ遺伝する複数のハウスキーピング遺伝子の連結配列」をもとに分類していく手法（AMPHORA）などが提唱されています。
+
 ## 2018
 
 ### 2018-12
