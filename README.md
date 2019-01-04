@@ -48,7 +48,6 @@ Last Update: 2019-01-01
 会場    首都大学東京 南大沢キャンパス
 ○演題登録 〜2019年1月16日（水）17:00まで
 
-
 https://www.ncbi.nlm.nih.gov/pubmed/24146954
 PLoS One. 2013 Oct 17;8(10):e77033. doi: 10.1371/journal.pone.0077033. eCollection 2013.
 Systematic identification of gene families for use as "markers" for phylogenetic and phylogeny-driven ecological studies of bacteria and archaea and their major subgroups.
@@ -65,6 +64,9 @@ Pitagora Galaxy Meetup
 http://wiki.pitagora-galaxy.org/wiki/index.php/Events
 2019年01月07日（月）	　Meetup 2019-01	　都内
 
+https://togetter.com/li/1304780
+落合洋一氏、古市憲寿氏、荻上チキ氏の議論（終末期医療などをめぐって）～2019年１月※3日現在、議論継続中 - Togetter
+
 ## 2018
 
 ### 2018-12
@@ -75,6 +77,14 @@ https://gendai.ismedia.jp/articles/-/59091
 ビール、ワイン、日本酒、納豆、チーズ……みな微生物の恩恵でできているものだ。だが、微生物が生産した「酵素」が活躍している場所は、もっともっと広い。
 https://gendai.ismedia.jp/articles/-/59091?page=3
 「好アルカリ性細菌」
+
+https://twitter.com/minesoh/status/1079200527412613125
+峰　宗太郎 on Twitter: "二酸化塩素によるいわゆる「空間除菌」はウイルスの抑制効果は実質的にはほぼ意味のないレベルであり、むしろ二酸化塩素の害を考える必要があります👶 置型には以前、消費者庁から優良誤認表示への措置命令も出ています。 　参考：https://t.co/ibKMnDCsFB 　　　　https://t.co/OPdCkIq2Ge… https://t.co/EKuChmn1sE"
+9:20 PM - 29 Dec 2018
+
+2014/3/27
+https://www.nikkei.com/article/DGXNASDG27056_X20C14A3CR8000/
+「空間除菌」根拠なし　消費者庁、17社に措置命令
 
 ### 2018-11
 
