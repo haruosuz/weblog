@@ -48,6 +48,14 @@ Last Update: 2019-01-01
 会場    首都大学東京 南大沢キャンパス
 ○演題登録 〜2019年1月16日（水）17:00まで
 
+
+https://github.com/haruosuz/ksbn/blob/master/2018/README.2018.4.md
+生命科学データベース・ウェブツール － 図解と動画で使い方がわかる！　研究がはかどる定番18選 －
+
+https://www.medsi.co.jp/books/products/detail.php?product_id=3665
+生命科学データベース・ウェブツール/(MEDSi)株式会社 メディカル・サイエンス・インターナショナル
+
+
 - https://twitter.com/search?f=tweets&q=絶滅できない動物たち
 - https://bookmeter.com/books/13113041
 - https://www.amazon.co.jp/dp/4478067317
@@ -69,6 +77,22 @@ Systematic identification of gene families for use as "markers" for phylogenetic
 Wu D1, Jospin G, Eisen JA.
 
 https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md#16s
+
+----------
+## Presentation Zen
+https://www.presentationzen.com/presentationzen/
+
+https://www.youtube.com/watch?v=YbV3b-l1sZs
+Why storytelling matters | Garr Reynolds | TEDxKyoto - YouTube
+Oct 30, 2014
+
+https://www.youtube.com/watch?v=cVR7GK4ViUw
+[1] 効果的なプレゼンテーションとは - YouTube
+Aug 15, 2014
+
+https://www.youtube.com/watch?v=YmNsk-6cUZs
+[2] これからのプレゼンテーション～デザインがプレゼンテーションを変える - YouTube
+Aug 15, 2014
 
 ----------
 ## updates
