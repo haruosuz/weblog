@@ -80,6 +80,10 @@ https://www.youtube.com/watch?v=1ynob-qzMXU
 (2011年3月3日) 結成40周年　QUEEN 独占インタビューで語る日本への思い - YouTube
 Published on Dec 6, 2018
 
+https://www.youtube.com/watch?v=uQL_1hdnUCM
+BOHEMIAN RHAPSODY (LIVE AID 1985 side by side with Bohemian Rhapsody Movie 2018) - YouTube
+Published on Dec 18, 2018
+
 https://www.youtube.com/watch?v=-XqPBEODZ4s
 Queen Live at LIVE AID side-by-side comparison with Rami Malek (2018 Movie) - YouTube
 Published on Dec 4, 2018
