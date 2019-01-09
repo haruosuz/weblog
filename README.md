@@ -20,7 +20,6 @@ Last Update: 2019-01-01
 - https://twitter.com/
 - https://twitter.com/copypasteusa
 - https://twitter.com/endBooks
-- https://twitter.com/search?q=%22土・牛・微生物%22
 - https://www.ted.com/topics/biology
 - https://sfcclip.net/bus/
 - https://github.com/haruosuz/ksbn/blob/master/2018/README.md
@@ -42,19 +41,17 @@ Last Update: 2019-01-01
 - https://github.com/haruosuz/r4bioinfo/tree/master/R_memo
 - https://github.com/haruosuz/statistics
 - https://qiita.com/advent-calendar/2018/galaxy
+- https://twitter.com/search?q=%22土・牛・微生物%22
+- https://togetter.com/li/1305143
+「終末期医療は医療費の無駄なのか？」 - Togetter
 - http://www.sgmj.org/sgmj2019/
 年会名    第13回日本ゲノム微生物学会年会
 会期    2019年3月6日（水）～8日（金）
 会場    首都大学東京 南大沢キャンパス
 ○演題登録 〜2019年1月16日（水）17:00まで
 
-
-https://github.com/haruosuz/ksbn/blob/master/2018/README.2018.4.md
-生命科学データベース・ウェブツール － 図解と動画で使い方がわかる！　研究がはかどる定番18選 －
-
-https://www.medsi.co.jp/books/products/detail.php?product_id=3665
-生命科学データベース・ウェブツール/(MEDSi)株式会社 メディカル・サイエンス・インターナショナル
-
+- https://twitter.com/search?q=なぜ科学はストーリーを必要としているのか
+https://www.dokushok.com/entry/2018/10/27/080000
 
 - https://twitter.com/search?f=tweets&q=絶滅できない動物たち
 - https://bookmeter.com/books/13113041
