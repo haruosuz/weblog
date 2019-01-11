@@ -41,7 +41,13 @@ Last Update: 2019-01-01
 - https://github.com/haruosuz/r4bioinfo/tree/master/R_memo
 - https://github.com/haruosuz/statistics
 - https://qiita.com/advent-calendar/2018/galaxy
+
+## reading
+- https://business.nikkeibp.co.jp/atcl/report/16/122700258/010900004/
+統計言語 「R」の神はなぜ無償で貢献したのか：日経ビジネスオンライン
+
 - https://twitter.com/search?q=%22土・牛・微生物%22
+
 - https://togetter.com/li/1305143
 「終末期医療は医療費の無駄なのか？」 - Togetter
 - http://www.sgmj.org/sgmj2019/
@@ -60,13 +66,11 @@ https://www.dokushok.com/entry/2018/10/27/080000
 2019-01-01
 ホンの本好き 昨日何読んだ 『絶滅できない動物たち』（ダイヤモンド社）
 
-
 コドン適応の変化は（過酸化水素、熱、高塩分）ストレス耐性を増強する。好気性菌で複数遺伝子のコドン適応（翻訳効率）変化が、鉄とNAD(P)Hの量を調節し、酸化ストレス耐性を付与する証拠
 https://www.ncbi.nlm.nih.gov/pubmed/24580753
 Genome Biol. 2014 Mar 3;15(3):R44. doi: 10.1186/gb-2014-15-3-r44.
 Inferring gene function from evolutionary change in signatures of translation efficiency.
 Krisko A, Copic T, Gabaldón T, Lehner B, Supek F.
-
 
 https://www.ncbi.nlm.nih.gov/pubmed/24146954
 PLoS One. 2013 Oct 17;8(10):e77033. doi: 10.1371/journal.pone.0077033. eCollection 2013.
