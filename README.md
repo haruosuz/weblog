@@ -42,6 +42,14 @@ Last Update: 2019-01-01
 - https://github.com/haruosuz/statistics
 - https://qiita.com/advent-calendar/2018/galaxy
 
+https://www.ted.com/talks/elizabeth_murchison/transcript?language=ja
+エリザベス・マーチソン：感染性のガンと闘う | TED Talk
+
+https://bookmeter.com/books/9768053
+消えるオス：昆虫の性をあやつる微生物の戦略 感想 陰山 大輔 - 読書メーター
+
+タスマニアデビルの伝染性腫瘍は人間の介入でなんとかならないものかと思う。
+
 ## reading
 - https://business.nikkeibp.co.jp/atcl/report/16/122700258/010900004/
 統計言語 「R」の神はなぜ無償で貢献したのか：日経ビジネスオンライン
