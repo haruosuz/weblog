@@ -42,6 +42,16 @@ Last Update: 2019-01
 - https://github.com/haruosuz/statistics
 - https://qiita.com/advent-calendar/2018/galaxy
 
+
+https://wired.jp/special/2016/biology/
+「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp
+これまでバイオロジーといえば医療や製薬などの話だったが、これからは違う。
+未来のバイオは建築や都市デザインまでも変えてゆく。
+
+https://wired.jp/2015/10/02/innovative-city-forum-2015-4/
+「微生物によって建築のデザイン・プロセスを変えたい」ジェシカ・グリーン（微生物学者）｜WIRED.jp
+
+
 https://www.ted.com/talks/elizabeth_murchison/transcript?language=ja
 エリザベス・マーチソン：感染性のガンと闘う | TED Talk
 
