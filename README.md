@@ -43,6 +43,10 @@ Last Update: 2019-01
 - https://qiita.com/advent-calendar/2018/galaxy
 
 
+https://gendai.ismedia.jp/articles/-/58804
+驚愕報告！インフルエンザウイルスを15秒で無力化する「紅茶」の力（鈴木 壯幸） | ブルーバックス | 講談社（1/4）
+
+
 https://wired.jp/special/2016/biology/
 「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp
 これまでバイオロジーといえば医療や製薬などの話だったが、これからは違う。
