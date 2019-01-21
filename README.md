@@ -43,9 +43,15 @@ Last Update: 2019-01
 - https://qiita.com/advent-calendar/2018/galaxy
 
 
+https://www.huffingtonpost.jp/2019/01/19/who-2019-threats-health_a_23647419/
+「世界の健康に対する脅威」トップ10に『ワクチン忌避』が選ばれる | ハフポスト
+
+https://jp.chibicode.com/factfulness-matome/
+『FACTFULNESS (ファクトフルネス)』書評のまとめ | 上杉周作
+2019/01/07
+
 https://gendai.ismedia.jp/articles/-/58804
 驚愕報告！インフルエンザウイルスを15秒で無力化する「紅茶」の力（鈴木 壯幸） | ブルーバックス | 講談社（1/4）
-
 
 https://wired.jp/special/2016/biology/
 「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp
@@ -54,7 +60,6 @@ https://wired.jp/special/2016/biology/
 
 https://wired.jp/2015/10/02/innovative-city-forum-2015-4/
 「微生物によって建築のデザイン・プロセスを変えたい」ジェシカ・グリーン（微生物学者）｜WIRED.jp
-
 
 https://www.ted.com/talks/elizabeth_murchison/transcript?language=ja
 エリザベス・マーチソン：感染性のガンと闘う | TED Talk
