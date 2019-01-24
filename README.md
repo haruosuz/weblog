@@ -43,6 +43,27 @@ Last Update: 2019-01
 - https://qiita.com/advent-calendar/2018/galaxy
 
 
+----------
+## recombination
+組換え
+
+http://hp.brs.nihon-u.ac.jp/~inasweb/narai/narai/xiang_tong_zu_huanetoha.html
+相同組換えとは
+遺伝的組換えは，さらに以下の5種類に分けられます。
+
+https://twitter.com/NatureRevMicro/status/1088112422928506880
+Nature Rev Microbiol on Twitter: "Impact of homologous recombination on the evolution of prokaryotic core genomes @mbiojournal https://t.co/GxZrNxhsMB… "
+11:33 AM - 23 Jan 2019
+
+
+
+
+
+https://togetter.com/li/1311731
+Y Tambe先生の「はしか」の話 - Togetter
+2019-01-21
+2019-01-23
+
 https://www.huffingtonpost.jp/2019/01/19/who-2019-threats-health_a_23647419/
 「世界の健康に対する脅威」トップ10に『ワクチン忌避』が選ばれる | ハフポスト
 
