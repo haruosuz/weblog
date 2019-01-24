@@ -15,8 +15,58 @@
 - [ecology](#ecology)
 
 ----------
+## presentation
 
-## reviewer
+2016年2月
+遺伝研メソッドで学ぶ科学英語プレゼンテーション　感じる力、考える力、討論する力を育てる　動画・音声付き
+https://www.nig.ac.jp/jimu/soken/courses/OSC/contents/Q&A_j.pdf
+Q&Aを楽しもう!その1:質問をしよう
+その2:質問に答えよう
+
+2017/1/26, ver. 1
+http://kanamori.cs.tsukuba.ac.jp/docs/presentation_faqs.html
+研究発表でのよくある質問集
+
+2009-08-17
+http://takenaka-akio.org/doc/researcher/discussion.html
+学会での質疑応答 (TAKENAKA's Web Page)
+
+https://www.sci.hokudai.ac.jp/~minobe/class/presentation.html
+口頭・ポスター発表
+質問をしよう
+
+http://leeswijzer.org/diary2015-04.html#11
+◆［欹耳袋］大人数を前に噺をするということ —— 
+ひとつはスライドの形式．
+
+http://leeswijzer.org/diary2006-03.html##06
+◇〈講師論語〉 —— 先日，自宅の書棚を整理していたら，かつて純粋なオーバードクター（OD）だった頃に収入を得ていた，とある予備校の超名物講師（にして経営者）が講師全員に配布した〈講義心得：講師のための授業マニュアル〉なるヒミツ書類が出土した．
+15ページにわたってびっしり書かれたこの〈講義心得〉の見出しを下記に記す．それらは，ぼく自身が〈実践プレゼンテーションテクニック－講演はショータイム！－〉で書いたことに通じる（当然だ）．
+
+1997
+http://cse.naro.affrc.go.jp/minaka/files/oudoukon1997.html
+http://leeswijzer.org/files/oudoukon1997.html
+実践プレゼンテーションテクニック－講演はショータイム！－
+三中信宏
+
+https://twitter.com/3Bgoripachi/status/1012128869497753600
+ゴリぱち on Twitter: "学会用ポスターを作るときに、参考にしている資料です。 とても分かりやすくて、おすすめです。 https://t.co/8IkdlQAlLg… "
+
+https://twitter.com/search?q=科学論文にご用心、大半は誤り%20専門家が警鐘
+
+https://www.youtube.com/watch?v=6iwP1hMjxjs
+(2) How to CHAIR an academic session - YouTube
+
+http://d.hatena.ne.jp/takehikom/20120824/1345765064
+初めての国際会議座長 - わさっき
+
+http://www.geocities.jp/kusumotokeiji/eigo17.htm
+英語のプレゼンテーション、発表講演の例文を手軽に見て自然に学ぶサイト
+2. 英語での司会・座長の決まり文句
+
+----------
+## peer review
+査読
 
 http://scienceandtechnology.jp/archives/12909
 論文の査読レポートで使える英語表現 | 日本の科学と技術
@@ -26,6 +76,89 @@ http://scienceandtechnology.jp/archives/12812
 
 https://staff.aist.go.jp/a.ohta/japanese/study/Review_ex_top.htm
 英語論文の査読表現集
+
+----------
+## paper
+論文読み書き
+
+http://yumulog.hatenablog.com/entry/2016/09/19/011833
+「なぜあなたの研究は進まないのか?」「なぜあなたは論文が書けないのか?」の2冊が素晴らしかった - yumulog | 社会人博士の日記
+
+### reading
+http://lafrenze.hatenablog.com/entry/2015/08/04/120205
+高速で論文がバリバリ読める落合先生のフォーマットがいい感じだったのでメモ - 書架とラフレンツェ
+
+http://okatenari.com/2017/06/02/post-595/
+英語論文の読み方のコツはこれ！メーカーで研究職の僕が実践している方法 | 本日はおかてんなり
+
+https://rabotiku-sato.com/entry/2016/11/29/020928/
+【５分でわかる！】研究室での英語論文の読み方のコツ | ラボライブ！
+
+20150616
+http://hikaru1122.hatenadiary.jp/entry/ronbun-no-yomikata
+効率的な論文の読み方とは？　論文の読み方を知るための論文 - Knowledge As Practice
+
+### writing
+
+https://twitter.com/tonets/status/1010321829502676993
+大上雅史／猫じゃら氏 on Twitter: "英語論文を書く上でお世話になっている５つのウェブサイト ①Google翻訳 ②ALC英辞郎 on the WEB (Pro) ③Hyper Collocation - arXiv論文英語コロケーションDB https://t.co/DCH7C98LBm ④inMeXes - 逐次PubMed表現検索 https://t.co/86FjTdmGhN ⑤Academic Phrasebank https://t.co/sCaYaun6ij"
+8:41 PM - 22 Jun 2018
+
+英語論文を書く上でお世話になっている５つのウェブサイト
+
+①Google翻訳
+②ALC英辞郎 on the WEB (Pro)
+③Hyper Collocation - arXiv論文英語コロケーションDB
+https://hypcol.marutank.net/ja/ 
+④inMeXes - 逐次PubMed表現検索
+http://docman.dbcls.jp/im/ 
+⑤Academic Phrasebank
+http://www.phrasebank.manchester.ac.uk/ 
+
+https://twitter.com/bonohu/status/1008150073484558337
+bonohu on Twitter: "朝から世話になった “inMeXesは、#DBCLS のサービスで、生命科学系の文献(PubMedに含まれるタイトルとアブストラクト)に頻出する英語表現を、1文字の入力ごとに高速に再検索可能” #togotv / “inMeXe…” https://t.co/AKOAyaW55D"
+8:51 PM - 16 Jun 2018
+
+http://togotv.dbcls.jp/20180126.html
+inMeXesを使って文献に頻出する英語表現や関連語を高速に検索する 2018 統合TV(togotv)｜生命科学系DB・ツール使い倒し系チャンネル
+
+
+
+http://www.m-review.co.jp/book/detail/978-4-7792-1724-1
+書籍詳細 - なぜあなたは論文が書けないのか？ | メディカルレビュー社
+- http://yumulog.hatenablog.com/entry/2016/09/19/011833
+文章を書く技術については、大定番の 理科系の作文技術 (中公新書 (624)) など、他の本を合わせて読むとよさそうです。以下、引用。
+
+2016年03月27日
+https://withnews.jp/article/f0160327003qq000000000000000W02j10701qq000013170A
+『理科系の作文技術』、81刷100万部を突破　異例のヒットの理由 - withnews（ウィズニュース）
+
+http://www2.ube-k.ac.jp/usui/rikakei.html
+「理科系の作文技術」抜粋
+
+https://www.amazon.co.jp/どう書くか―理科系のための論文作法-杉原-厚吉/dp/4320005635
+2001/1/1
+
+https://www.kyoritsu-pub.co.jp/kenpon/bookDetail/9784320005631
+どう書くか ―理科系のための論文作法― / 杉原 厚吉 著　 | 共立出版 教科書献本サイト
+
+- http://chika0509.hatenablog.com/entry/2016/04/29/212928
+- http://d.hatena.ne.jp/sleepy_yoshi/20100304/p1
+
+https://www.ki1tos.com/entry/2018/11/17/150454
+英語論文が出せなくてすべてが終わる前に - ハカセのあやしい研究ノート
+
+2016.12.20
+https://honcierge.jp/articles/shelf_story/937
+論文の書き方がわかるおすすめ本５選！レポート、卒論、理系英語まで伝授。 | ホンシェルジュ
+
+2016/3/20
+http://kojigen.com/paper-2-4554.html
+いい論文を書くために読んでおきたい参考書籍20冊｜論文の教室
+
+2010.12.18
+https://readingmonkey.blog.fc2.com/blog-entry-464.html
+論文書きに役立つ記事のまとめ（逆引きインデクス）をつくってみた 読書猿Classic: between / beyond readers
 
 ----------
 ## featuring
@@ -83,45 +216,6 @@ https://www.flierinc.com/summary/1682
 https://twitter.com/ykamit/status/1073149317248999424
 'Yuki' Kamitani on Twitter: "データ解析の二度漬け・情報漏えい問題については、これがオススメ。 大羽成征「遺伝子発現データに基づく予測と推定：言いたいことと言えること」 https://t.co/QLQPdKF0uX"
 4:35 AM - 13 Dec 2018
-
-----------
-
-
-http://www.m-review.co.jp/book/detail/978-4-7792-1724-1
-書籍詳細 - なぜあなたは論文が書けないのか？ | メディカルレビュー社
-- http://yumulog.hatenablog.com/entry/2016/09/19/011833
-文章を書く技術については、大定番の 理科系の作文技術 (中公新書 (624)) など、他の本を合わせて読むとよさそうです。以下、引用。
-
-2016年03月27日
-https://withnews.jp/article/f0160327003qq000000000000000W02j10701qq000013170A
-『理科系の作文技術』、81刷100万部を突破　異例のヒットの理由 - withnews（ウィズニュース）
-
-http://www2.ube-k.ac.jp/usui/rikakei.html
-「理科系の作文技術」抜粋
-
-https://www.amazon.co.jp/どう書くか―理科系のための論文作法-杉原-厚吉/dp/4320005635
-2001/1/1
-
-https://www.kyoritsu-pub.co.jp/kenpon/bookDetail/9784320005631
-どう書くか ―理科系のための論文作法― / 杉原 厚吉 著　 | 共立出版 教科書献本サイト
-
-- http://chika0509.hatenablog.com/entry/2016/04/29/212928
-- http://d.hatena.ne.jp/sleepy_yoshi/20100304/p1
-
-https://www.ki1tos.com/entry/2018/11/17/150454
-英語論文が出せなくてすべてが終わる前に - ハカセのあやしい研究ノート
-
-2016.12.20
-https://honcierge.jp/articles/shelf_story/937
-論文の書き方がわかるおすすめ本５選！レポート、卒論、理系英語まで伝授。 | ホンシェルジュ
-
-2016/3/20
-http://kojigen.com/paper-2-4554.html
-いい論文を書くために読んでおきたい参考書籍20冊｜論文の教室
-
-2010.12.18
-https://readingmonkey.blog.fc2.com/blog-entry-464.html
-論文書きに役立つ記事のまとめ（逆引きインデクス）をつくってみた 読書猿Classic: between / beyond readers
 
 ----------
 
@@ -335,70 +429,6 @@ http://apprize.info/data/bioinformatics/index.html
 Bioinformatics Data Skills (2015)
 http://apprize.info/data/bioinformatics/5.html
 Chapter 5. Git for Scientists
-
-----------
-## paper
-論文読み書き
-
-http://yumulog.hatenablog.com/entry/2016/09/19/011833
-「なぜあなたの研究は進まないのか?」「なぜあなたは論文が書けないのか?」の2冊が素晴らしかった - yumulog | 社会人博士の日記
-
-### reading
-http://lafrenze.hatenablog.com/entry/2015/08/04/120205
-高速で論文がバリバリ読める落合先生のフォーマットがいい感じだったのでメモ - 書架とラフレンツェ
-
-http://okatenari.com/2017/06/02/post-595/
-英語論文の読み方のコツはこれ！メーカーで研究職の僕が実践している方法 | 本日はおかてんなり
-
-https://rabotiku-sato.com/entry/2016/11/29/020928/
-【５分でわかる！】研究室での英語論文の読み方のコツ | ラボライブ！
-
-20150616
-http://hikaru1122.hatenadiary.jp/entry/ronbun-no-yomikata
-効率的な論文の読み方とは？　論文の読み方を知るための論文 - Knowledge As Practice
-
-### writing
-
-https://twitter.com/tonets/status/1010321829502676993
-大上雅史／猫じゃら氏 on Twitter: "英語論文を書く上でお世話になっている５つのウェブサイト ①Google翻訳 ②ALC英辞郎 on the WEB (Pro) ③Hyper Collocation - arXiv論文英語コロケーションDB https://t.co/DCH7C98LBm ④inMeXes - 逐次PubMed表現検索 https://t.co/86FjTdmGhN ⑤Academic Phrasebank https://t.co/sCaYaun6ij"
-
-英語論文を書く上でお世話になっている５つのウェブサイト
-
-①Google翻訳
-②ALC英辞郎 on the WEB (Pro)
-③Hyper Collocation - arXiv論文英語コロケーションDB
-https://hypcol.marutank.net/ja/ 
-④inMeXes - 逐次PubMed表現検索
-http://docman.dbcls.jp/im/ 
-⑤Academic Phrasebank
-http://www.phrasebank.manchester.ac.uk/ 
-
-https://twitter.com/bonohu/status/1008150073484558337
-朝から世話になった “inMeXesは、#DBCLS のサービスで、生命科学系の文献(PubMedに含まれるタイトルとアブストラクト)に頻出する英語表現を、1文字の入力ごとに高速に再検索可能” #togotv / “inMeXe…”
-
-http://togotv.dbcls.jp/20180126.html
-inMeXesを使って文献に頻出する英語表現や関連語を高速に検索する 2018 統合TV(togotv)｜生命科学系DB・ツール使い倒し系チャンネル
-
-## presentation
-
-https://www.nig.ac.jp/jimu/soken/courses/OSC/contents/Q&A_j.pdf
-Q&Aを楽しもう!その1:質問をしよう
-その2:質問に答えよう
-
-https://twitter.com/3Bgoripachi/status/1012128869497753600
-ゴリぱち on Twitter: "学会用ポスターを作るときに、参考にしている資料です。 とても分かりやすくて、おすすめです。 https://t.co/8IkdlQAlLg… "
-
-https://twitter.com/search?q=科学論文にご用心、大半は誤り%20専門家が警鐘
-
-https://www.youtube.com/watch?v=6iwP1hMjxjs
-(2) How to CHAIR an academic session - YouTube
-
-http://d.hatena.ne.jp/takehikom/20120824/1345765064
-初めての国際会議座長 - わさっき
-
-http://www.geocities.jp/kusumotokeiji/eigo17.htm
-英語のプレゼンテーション、発表講演の例文を手軽に見て自然に学ぶサイト
-2. 英語での司会・座長の決まり文句
 
 ----------
 
