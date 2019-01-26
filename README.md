@@ -42,53 +42,32 @@ Last Update: 2019-01
 - https://github.com/haruosuz/statistics
 - https://qiita.com/advent-calendar/2018/galaxy
 
-
 ----------
-## recombination
-組換え
 
-http://hp.brs.nihon-u.ac.jp/~inasweb/narai/narai/xiang_tong_zu_huanetoha.html
-相同組換えとは
-遺伝的組換えは，さらに以下の5種類に分けられます。
+2019年1月23日
+https://business.nikkei.com/atcl/seminar/19/00126/00002/
+驚きの結論！普通の人は安心して白い炭水化物を食べていい：日経ビジネス電子版
+https://business.nikkei.com/atcl/seminar/19/00126/00002/?P=2
+え？茶色でも白でも、あまり違いはないの？
+https://business.nikkei.com/atcl/seminar/19/00126/00002/?P=3
+無理に玄米を選ばなくても大丈夫
+■参考文献
+（1）
+https://www.ncbi.nlm.nih.gov/pubmed/27297341
+Circulation. 2016 Jun 14;133(24):2370-80. doi: 10.1161/CIRCULATIONAHA.115.021101.
+Whole Grain Intake and Mortality From All Causes, Cardiovascular Disease, and Cancer: A Meta-Analysis of Prospective Cohort Studies.
+Zong G1, Gao A1, Hu FB1, Sun Q2.
+（2）
+https://www.ncbi.nlm.nih.gov/pubmed/21696306
+N Engl J Med. 2011 Jun 23;364(25):2392-404. doi: 10.1056/NEJMoa1014296.
+Changes in diet and lifestyle and long-term weight gain in women and men.
+Mozaffarian D1, Hao T, Rimm EB, Willett WC, Hu FB.
 
-https://twitter.com/NatureRevMicro/status/1088112422928506880
-Nature Rev Microbiol on Twitter: "Impact of homologous recombination on the evolution of prokaryotic core genomes @mbiojournal https://t.co/GxZrNxhsMB… "
-11:33 AM - 23 Jan 2019
-
-
-
-
-
-https://togetter.com/li/1311731
-Y Tambe先生の「はしか」の話 - Togetter
-2019-01-21
-2019-01-23
-
-https://www.huffingtonpost.jp/2019/01/19/who-2019-threats-health_a_23647419/
-「世界の健康に対する脅威」トップ10に『ワクチン忌避』が選ばれる | ハフポスト
 
 https://jp.chibicode.com/factfulness-matome/
 『FACTFULNESS (ファクトフルネス)』書評のまとめ | 上杉周作
 2019/01/07
 
-https://gendai.ismedia.jp/articles/-/58804
-驚愕報告！インフルエンザウイルスを15秒で無力化する「紅茶」の力（鈴木 壯幸） | ブルーバックス | 講談社（1/4）
-
-https://wired.jp/special/2016/biology/
-「微生物から新しいデザインがはじまる」デイヴィッド・ベンジャミン✕ジェシカ・グリーン✕林千晶：Redesigning Tokyo 対話4「Biology」 « WIRED.jp
-これまでバイオロジーといえば医療や製薬などの話だったが、これからは違う。
-未来のバイオは建築や都市デザインまでも変えてゆく。
-
-https://wired.jp/2015/10/02/innovative-city-forum-2015-4/
-「微生物によって建築のデザイン・プロセスを変えたい」ジェシカ・グリーン（微生物学者）｜WIRED.jp
-
-https://www.ted.com/talks/elizabeth_murchison/transcript?language=ja
-エリザベス・マーチソン：感染性のガンと闘う | TED Talk
-
-https://bookmeter.com/books/9768053
-消えるオス：昆虫の性をあやつる微生物の戦略 感想 陰山 大輔 - 読書メーター
-
-タスマニアデビルの伝染性腫瘍は人間の介入でなんとかならないものかと思う。
 
 ## reading
 
@@ -109,11 +88,6 @@ http://bookclub.kodansha.co.jp/product?item=0000226693
 
 - https://togetter.com/li/1305143
 「終末期医療は医療費の無駄なのか？」 - Togetter
-- http://www.sgmj.org/sgmj2019/
-年会名    第13回日本ゲノム微生物学会年会
-会期    2019年3月6日（水）～8日（金）
-会場    首都大学東京 南大沢キャンパス
-○演題登録 〜2019年1月16日（水）17:00まで
 
 - https://twitter.com/search?q=なぜ科学はストーリーを必要としているのか
 https://www.dokushok.com/entry/2018/10/27/080000
@@ -159,42 +133,32 @@ Aug 15, 2014
 
 ## 2019
 
+
+- http://www.sgmj.org/sgmj2019/
+年会名    第13回日本ゲノム微生物学会年会
+会期    2019年3月6日（水）～8日（金）
+会場    首都大学東京 南大沢キャンパス
+○演題登録 〜2019年1月16日（水）17:00まで
+
+
 Pitagora Galaxy Meetup
 http://wiki.pitagora-galaxy.org/wiki/index.php/Events
-2019年01月07日（月）	　Meetup 2019-01	　都内
+https://pitagora-network.org/events/
+Meetup
+Pitagora Meetup 2019-02 satellite
+2019-02-04 @ 国立情報学研究所
+Pitagora Meetup 2019-02
+2019-02-05 @ 理研日本橋
+Pitagora Meetup 2019-03
+
+
 
 https://togetter.com/li/1304780
 落合洋一氏、古市憲寿氏、荻上チキ氏の議論（終末期医療などをめぐって）～2019年１月※3日現在、議論継続中 - Togetter
 
-https://twitter.com/LuckyStrike1984/status/1080952658318557184
-Nakano, R.T. (PhD) on Twitter: "片瀬さんとの一連のことに関してshanghai_iiさんからご質問を頂いていたのでそのお返事を記事にまとめました。そのなかで、今回の一連の中で僕が言いたかったことをしっかりと字数を使って説明しましたのでもし興味のある奇特な皆様がいらっしゃいましたらご覧ください。… https://t.co/qh3wnNmJwU"
-5:22 PM - 3 Jan 2019
-
-https://note.mu/rt_nakano/n/n213cf290635e
-@shanghai_ii さんから頂いた一連のtweetsへのお返事｜Ryohei Thomas Nakano｜note
-
-「微生物の機能を考えるにあたり16S rRNAはあてにならない」
-
-単一ゲノム内のマルチコピーの存在や遺伝子の水平伝搬 (horizontal gene transfer) などの問題もよく知られておりおり、たとえば16S rRNAで割り当てられた分類群が、全ゲノム配列をもとに割り当てられる分類群と違っていたということがあったりもします。そのため現在では16S rRNA配列による細菌分類は便利ではあるものの正確性に欠くことが広く知られ、より厳密な手法として「シングルコピーで、垂直にのみ遺伝する複数のハウスキーピング遺伝子の連結配列」をもとに分類していく手法（AMPHORA）などが提唱されています。
 
 ## 2018
 
-### 2018-12
-
-2018-12-30
-https://gendai.ismedia.jp/articles/-/59091
-洗剤のサイズを10分の1にした男の「波瀾万丈な研究生活」がすごい（伊藤 政博） | ブルーバックス | 講談社（1/4）
-ビール、ワイン、日本酒、納豆、チーズ……みな微生物の恩恵でできているものだ。だが、微生物が生産した「酵素」が活躍している場所は、もっともっと広い。
-https://gendai.ismedia.jp/articles/-/59091?page=3
-「好アルカリ性細菌」
-
-https://twitter.com/minesoh/status/1079200527412613125
-峰　宗太郎 on Twitter: "二酸化塩素によるいわゆる「空間除菌」はウイルスの抑制効果は実質的にはほぼ意味のないレベルであり、むしろ二酸化塩素の害を考える必要があります👶 置型には以前、消費者庁から優良誤認表示への措置命令も出ています。 　参考：https://t.co/ibKMnDCsFB 　　　　https://t.co/OPdCkIq2Ge… https://t.co/EKuChmn1sE"
-9:20 PM - 29 Dec 2018
-
-2014/3/27
-https://www.nikkei.com/article/DGXNASDG27056_X20C14A3CR8000/
-「空間除菌」根拠なし　消費者庁、17社に措置命令
 
 ### 2018-11
 
