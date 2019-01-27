@@ -9,6 +9,7 @@
   - [reading](#reading)
   - [writing](#writing)
 - [presentation](#presentation)
+  - [Presentation Zen](#presentation)
 - [robust](#robust)
 - [docker](#docker)
 - [git](#git)
@@ -16,6 +17,7 @@
 
 ----------
 ## presentation
+
 
 2016年2月
 遺伝研メソッドで学ぶ科学英語プレゼンテーション　感じる力、考える力、討論する力を育てる　動画・音声付き
@@ -63,6 +65,22 @@ http://d.hatena.ne.jp/takehikom/20120824/1345765064
 http://www.geocities.jp/kusumotokeiji/eigo17.htm
 英語のプレゼンテーション、発表講演の例文を手軽に見て自然に学ぶサイト
 2. 英語での司会・座長の決まり文句
+
+----------
+### Presentation Zen
+https://www.presentationzen.com/presentationzen/
+
+https://www.youtube.com/watch?v=YbV3b-l1sZs
+Why storytelling matters | Garr Reynolds | TEDxKyoto - YouTube
+Oct 30, 2014
+
+https://www.youtube.com/watch?v=cVR7GK4ViUw
+[1] 効果的なプレゼンテーションとは - YouTube
+Aug 15, 2014
+
+https://www.youtube.com/watch?v=YmNsk-6cUZs
+[2] これからのプレゼンテーション～デザインがプレゼンテーションを変える - YouTube
+Aug 15, 2014
 
 ----------
 ## peer review
