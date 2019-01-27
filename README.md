@@ -44,30 +44,19 @@ Last Update: 2019-01
 
 ----------
 
-2019年1月23日
-https://business.nikkei.com/atcl/seminar/19/00126/00002/
-驚きの結論！普通の人は安心して白い炭水化物を食べていい：日経ビジネス電子版
-https://business.nikkei.com/atcl/seminar/19/00126/00002/?P=2
-え？茶色でも白でも、あまり違いはないの？
-https://business.nikkei.com/atcl/seminar/19/00126/00002/?P=3
-無理に玄米を選ばなくても大丈夫
-■参考文献
-（1）
-https://www.ncbi.nlm.nih.gov/pubmed/27297341
-Circulation. 2016 Jun 14;133(24):2370-80. doi: 10.1161/CIRCULATIONAHA.115.021101.
-Whole Grain Intake and Mortality From All Causes, Cardiovascular Disease, and Cancer: A Meta-Analysis of Prospective Cohort Studies.
-Zong G1, Gao A1, Hu FB1, Sun Q2.
-（2）
-https://www.ncbi.nlm.nih.gov/pubmed/21696306
-N Engl J Med. 2011 Jun 23;364(25):2392-404. doi: 10.1056/NEJMoa1014296.
-Changes in diet and lifestyle and long-term weight gain in women and men.
-Mozaffarian D1, Hao T, Rimm EB, Willett WC, Hu FB.
-
+https://dot.asahi.com/aera/2019012200038.html
+https://dot.asahi.com/aera/2019012200038.html?page=1
+早稲田と慶応が“真逆”の選択　2020年度大学入試改革 (1/3) 〈AERA〉｜AERA dot. (アエラドット)
 
 https://jp.chibicode.com/factfulness-matome/
 『FACTFULNESS (ファクトフルネス)』書評のまとめ | 上杉周作
 2019/01/07
 
+- https://togetter.com/li/1305143
+「終末期医療は医療費の無駄なのか？」 - Togetter
+
+https://togetter.com/li/1304780
+落合洋一氏、古市憲寿氏、荻上チキ氏の議論（終末期医療などをめぐって）～2019年１月※3日現在、議論継続中 - Togetter
 
 ## reading
 
@@ -85,9 +74,6 @@ http://bookclub.kodansha.co.jp/product?item=0000226693
 2018年01月18日
 
 - https://twitter.com/search?q=%22土・牛・微生物%22
-
-- https://togetter.com/li/1305143
-「終末期医療は医療費の無駄なのか？」 - Togetter
 
 - https://twitter.com/search?q=なぜ科学はストーリーを必要としているのか
 https://www.dokushok.com/entry/2018/10/27/080000
@@ -113,22 +99,6 @@ Wu D1, Jospin G, Eisen JA.
 https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md#16s
 
 ----------
-## Presentation Zen
-https://www.presentationzen.com/presentationzen/
-
-https://www.youtube.com/watch?v=YbV3b-l1sZs
-Why storytelling matters | Garr Reynolds | TEDxKyoto - YouTube
-Oct 30, 2014
-
-https://www.youtube.com/watch?v=cVR7GK4ViUw
-[1] 効果的なプレゼンテーションとは - YouTube
-Aug 15, 2014
-
-https://www.youtube.com/watch?v=YmNsk-6cUZs
-[2] これからのプレゼンテーション～デザインがプレゼンテーションを変える - YouTube
-Aug 15, 2014
-
-----------
 ## updates
 
 ## 2019
@@ -150,11 +120,6 @@ Pitagora Meetup 2019-02 satellite
 Pitagora Meetup 2019-02
 2019-02-05 @ 理研日本橋
 Pitagora Meetup 2019-03
-
-
-
-https://togetter.com/li/1304780
-落合洋一氏、古市憲寿氏、荻上チキ氏の議論（終末期医療などをめぐって）～2019年１月※3日現在、議論継続中 - Togetter
 
 
 ## 2018
