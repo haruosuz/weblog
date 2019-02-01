@@ -44,9 +44,27 @@ Last Update: 2019-01
 
 ----------
 
+https://tjo.hatenablog.com/entry/2019/01/31/190000
+研究者を辞めた時のこと、そしてその後のこと - 六本木で働くデータサイエンティストのブログ
+
+2019.01.28 MON 08:30
+https://wired.jp/2019/01/28/we-can-avoid-deadly-flu-season/
+インフルエンザの感染拡大を止めるために、わたしたちができること｜WIRED.jp
+
+2019.01.15 TUE 09:00
+https://wired.jp/2019/01/15/universal-flu-vaccine-berg/
+あらゆるインフルエンザに効く「万能ワクチン」が、ついに誕生する？｜WIRED.jp
+
 https://dot.asahi.com/aera/2019012200038.html
 https://dot.asahi.com/aera/2019012200038.html?page=1
 早稲田と慶応が“真逆”の選択　2020年度大学入試改革 (1/3) 〈AERA〉｜AERA dot. (アエラドット)
+
+
+http://www.lifescience.co.jp/shop2/index_0172.html
+統計学はときにセクシーな学問である | ライフサイエンス出版
+【著】 デビッド・シュピーゲルハルター
+【訳】 石塚直樹
+https://twitter.com/search?q=統計学はときにセクシーな学問で
 
 https://jp.chibicode.com/factfulness-matome/
 『FACTFULNESS (ファクトフルネス)』書評のまとめ | 上杉周作
