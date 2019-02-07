@@ -44,6 +44,16 @@ Last Update: 2019-01
 
 ----------
 
+https://twitter.com/Tyu_Shi
+
+https://twitter.com/search?q=P値
+
+https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1626-2
+Where is genomics going next? | Genome Biology
+
+https://tjo.hatenablog.com/entry/2018/06/12/093633
+多重比較補正のはなし - 六本木で働くデータサイエンティストのブログ
+
 https://tjo.hatenablog.com/entry/2019/01/31/190000
 研究者を辞めた時のこと、そしてその後のこと - 六本木で働くデータサイエンティストのブログ
 
