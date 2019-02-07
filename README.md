@@ -36,6 +36,7 @@ Last Update: 2019-01
 - https://github.com/haruosuz/mgsa
   - https://github.com/haruosuz/mgsa/tree/master/traitar
 - https://github.com/haruosuz/microbe
+- https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md#iss
 - https://github.com/haruosuz/plasmids
 - https://github.com/haruosuz/r4bioinfo
 - https://github.com/haruosuz/r4bioinfo/tree/master/R_memo
