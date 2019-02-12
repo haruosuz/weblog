@@ -45,6 +45,20 @@ Last Update: 2019-01
 
 ----------
 
+https://twitter.com/Dr_KID_/status/1094372164432621568
+Dr. KID on Twitter: "DAGを使って因果関係、交絡、選択バイアスを見分ける方法について 今回は、DAGを使って ・因果関係 ・（偽りの）相関関係（交絡） ・逆の因果関係 ・選択バイアス を説明しました。名前を覚えるより、構造を理解した方が実践的です。 https://t.co/iG4cDxoFhK"
+6:07 PM - 9 Feb 2019
+ 2019年2月10日
+https://www.dr-kid.net/dag-cause-and-effect
+DAGを使って因果関係、交絡、選択バイアスを見分ける方法について｜Dr.KIDの小児科クリニック
+
+
+アトピー治療のステロイドは本当に怖い薬なのか？　皮膚科医が考えるイメージ払拭の難しさ (1/3) 〈週刊朝日〉｜AERA dot. (アエラドット)
+- https://dot.asahi.com/wa/2019012400023.html?page=1
+- https://dot.asahi.com/wa/2019012400023.html?page=2
+- https://dot.asahi.com/wa/2019012400023.html?page=3
+
+
 https://twitter.com/Tyu_Shi
 
 https://twitter.com/search?q=P値
