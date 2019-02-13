@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-01
+Last Update: 2019-02
 
 ----------
 
@@ -19,8 +19,6 @@ Last Update: 2019-01
 
 - https://www.ted.com/topics/biology
 - https://sfcclip.net/bus/
-- https://github.com/haruosuz/ksbn/blob/master/2018/README.md
-  - https://github.com/haruosuz/ksbn/blob/master/2018/README.2018.4.md
 - https://github.com/haruosuz/DS4GD/tree/master/2018giga
 - https://github.com/haruosuz/introBI/tree/master/2018
   - http://apprize.info/data/bioinformatics/index.html
@@ -46,8 +44,9 @@ Last Update: 2019-01
 - https://twitter.com/
 - https://twitter.com/copypasteusa
 - https://twitter.com/endBooks
-- https://twitter.com/KojiYahara
 - https://twitter.com/Tyu_Shi
+- https://twitter.com/level3defless
+- https://twitter.com/KojiYahara
 - https://twitter.com/kazumachack
 - https://twitter.com/bonohu
 - https://twitter.com/phylogenomics
@@ -81,6 +80,11 @@ http://www.sigmbi.jp/
 は３月９日（土）に、オープンバイオ研究会は３月１０日（日）に開催します。
 ２泊すれば３つの研究会に参加でき、基礎から応用まで幅広い発表が聞けると
 思いますので、奮って御参加下さい。
+
+https://www.jsbi.org/news/others/20190322/
+Gene Myers 博士講演会のお知らせ
+＊　日時　2019年3月22日(金)　午後1時から 2時間程度（質疑応答含めて）
+＊　場所　東京大学　理学部3号館412講義室
 
 2019-05-20
 2019-05-23
