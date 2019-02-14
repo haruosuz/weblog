@@ -50,9 +50,37 @@ Last Update: 2019-02
 - https://twitter.com/kazumachack
 - https://twitter.com/bonohu
 - https://twitter.com/phylogenomics
+- https://twitter.com/strnr
+- https://twitter.com/jcamthrash
 
 
 ----------
+
+
+https://gihyo.jp/book/2019/978-4-297-10406-1/content/preface
+はじめに ── あなたがテクニカルライティングを習得すべき理由：成果を生み出すテクニカルライティング ―トップエンジニア・研究者が実践する思考整理法｜技術評論社
+
+https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evz034/5310093
+Investigating the origins of membrane phospholipid biosynthesis genes using outgroup-free rooting | Genome Biology and Evolution | Oxford Academic
+
+
+https://twitter.com/NatureRevMicro/status/1095678559404900352
+Nature Rev Microbiol on Twitter: "Bacteria and archaea on Earth and their abundance in biofilms https://t.co/4rsoiohF3Q Flemming and Wuertz propose that biofilms are the most prominent and influential type of microbial life.… https://t.co/ZglukPpbaJ"
+8:38 AM - 13 Feb 2019
+https://www.nature.com/articles/s41579-019-0158-9
+Bacteria and archaea on Earth and their abundance in biofilms | Nature Reviews Microbiology
+
+
+https://www.ncbi.nlm.nih.gov/pubmed/28761145
+Sci Rep. 2017 Jul 31;7(1):6589. doi: 10.1038/s41598-017-06665-3.
+Large-scale differences in microbial biodiversity discovery between 16S amplicon and shotgun sequencing.
+Tessler M1,2, Neumann JS3, Afshinnekoo E4,5,6, Pineda M4,5, Hersch R7, Velho LFM8,9, Segovia BT8, Lansac-Toha FA8, Lemke M10, DeSalle R7, Mason CE11,12,13, Brugler MR14,15.
+
+
+
+
+
+
 
 https://twitter.com/Dr_KID_/status/1094372164432621568
 Dr. KID on Twitter: "DAGを使って因果関係、交絡、選択バイアスを見分ける方法について 今回は、DAGを使って ・因果関係 ・（偽りの）相関関係（交絡） ・逆の因果関係 ・選択バイアス を説明しました。名前を覚えるより、構造を理解した方が実践的です。 https://t.co/iG4cDxoFhK"
