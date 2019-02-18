@@ -49,9 +49,18 @@ Last Update: 2019-02
 - https://twitter.com/KojiYahara
 - https://twitter.com/kazumachack
 - https://twitter.com/bonohu
+- https://twitter.com/h_ono
+- 
+- https://twitter.com/pathogenomenick
 - https://twitter.com/phylogenomics
 - https://twitter.com/strnr
 - https://twitter.com/jcamthrash
+- 
+- https://twitter.com/hashtag/drbonobon
+- https://twitter.com/hashtag/togotv18
+- https://twitter.com/hashtag/IT4BDA
+- 
+- https://twitter.com/search?q=plasmid%20codon&src=typd
 
 
 ----------
@@ -181,6 +190,8 @@ http://bookclub.kodansha.co.jp/product?item=0000226693
 著：中島　春紫
 2018年01月18日
 
+- https://twitter.com/search?q=闘う微生物
+
 - https://twitter.com/search?q=%22土・牛・微生物%22
 
 - https://twitter.com/search?q=なぜ科学はストーリーを必要としているのか
@@ -228,6 +239,18 @@ Pitagora Meetup 2019-02 satellite
 Pitagora Meetup 2019-02
 2019-02-05 @ 理研日本橋
 Pitagora Meetup 2019-03
+
+
+https://twitter.com/ak_tch/status/1093695720723427328
+橘　玲 on Twitter: "｢「不都合な現実」をめぐる、科学とリベラルの対立の根本原因｣ https://t.co/GL1jiNnC53 が現代ビジネスに公開されました。進化論者(科学)とサイバーリバタリアン(テクノロジー)とオルタナ右翼(白人至上主義)がなぜいっしょくたにされるのかを解説しています。"
+9:19 PM - 7 Feb 2019
+- https://gendai.ismedia.jp/articles/-/59772
+- https://gendai.ismedia.jp/articles/-/59772?page=2
+ポリコレ派の「言ってはいけない」という主張
+- https://gendai.ismedia.jp/articles/-/59772?page=3
+オルタナ右翼と「科学」の関係
+- https://gendai.ismedia.jp/articles/-/59772?page=4
+「インテリジェント・デザイン」の思想
 
 
 ## 2018
