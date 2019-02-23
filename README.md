@@ -65,6 +65,8 @@ Last Update: 2019-02
 
 ----------
 
+http://takehiko-i-hayashi.hatenablog.com/entry/2015/06/07/165431
+僕は論文が書けない：苦境脱出へ向けての2+1冊 - Take a Risk：林岳彦の研究メモ
 
 https://gihyo.jp/book/2019/978-4-297-10406-1/content/preface
 はじめに ── あなたがテクニカルライティングを習得すべき理由：成果を生み出すテクニカルライティング ―トップエンジニア・研究者が実践する思考整理法｜技術評論社
@@ -84,9 +86,6 @@ https://www.ncbi.nlm.nih.gov/pubmed/28761145
 Sci Rep. 2017 Jul 31;7(1):6589. doi: 10.1038/s41598-017-06665-3.
 Large-scale differences in microbial biodiversity discovery between 16S amplicon and shotgun sequencing.
 Tessler M1,2, Neumann JS3, Afshinnekoo E4,5,6, Pineda M4,5, Hersch R7, Velho LFM8,9, Segovia BT8, Lansac-Toha FA8, Lemke M10, DeSalle R7, Mason CE11,12,13, Brugler MR14,15.
-
-
-
 
 
 
@@ -117,6 +116,11 @@ http://www.sigmbi.jp/
 は３月９日（土）に、オープンバイオ研究会は３月１０日（日）に開催します。
 ２泊すれば３つの研究会に参加でき、基礎から応用まで幅広い発表が聞けると
 思いますので、奮って御参加下さい。
+
+第10回ゲノムグラフ研究会
+日時：2019年3月9〜10日（土〜日）
+開催場所：北陸先端科学技術大学院大学
+プログラム：http://genomegraph.jp/meeting010.html
 
 https://www.jsbi.org/news/others/20190322/
 Gene Myers 博士講演会のお知らせ
