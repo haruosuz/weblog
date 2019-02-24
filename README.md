@@ -65,6 +65,10 @@ Last Update: 2019-02
 
 ----------
 
+ 2017年7月30日 /  2019年2月24日
+https://www.dr-kid.net/mycoplasma-resistence
+日本の小児のマイコプラズマ感染は９割が耐性菌！？【マイコプラズマ肺炎】｜Dr.KIDの小児科クリニック
+
 http://takehiko-i-hayashi.hatenablog.com/entry/2015/06/07/165431
 僕は論文が書けない：苦境脱出へ向けての2+1冊 - Take a Risk：林岳彦の研究メモ
 
