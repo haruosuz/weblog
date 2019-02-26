@@ -65,6 +65,13 @@ Last Update: 2019-02
 
 ----------
 
+
+http://jojoshin.hatenablog.com/entry/2017/12/04/175120
+Mendelian randomization（メンデルランダム化）とは - 統計学と疫学と時々、助教生活
+
+https://wired.jp/2018/11/10/winny-isamu-kaneko-1/
+日本が失った天才、金子勇の光と影｜WIRED.jp
+
  2017年7月30日 /  2019年2月24日
 https://www.dr-kid.net/mycoplasma-resistence
 日本の小児のマイコプラズマ感染は９割が耐性菌！？【マイコプラズマ肺炎】｜Dr.KIDの小児科クリニック
