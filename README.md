@@ -65,6 +65,25 @@ Last Update: 2019-02
 
 ----------
 
+https://otonanswer.jp/post/34076/
+感染力の強い「はしか」、どれくらいの距離や接触でうつる？　病院までの移動手段は？ | オトナンサー
+
+https://mainichi.jp/articles/20190227/dde/001/040/040000c
+チェック：はしか、渡航者が「輸入」　排除国認定の日本、今年２００人超　政府「旅行前のワクチン接種を」 - 毎日新聞
+
+https://twitter.com/Casasagi2107/status/1100201054031929345
+Casasagi on Twitter: "この30年来増えているPM2.5 と花粉症は無関係ではなく、PM2.5の粒子には黴菌やウイルスも付着していて、その放線菌割合比は6割。 「3都市のPM2．5から検出された浮遊微生物はプロテオバクテリア、フィルミクテス門、放線菌が全体の67．3％を占めた。」 https://t.co/YfyspHd06h"
+
+2017年8月28日
+https://www.recordchina.co.jp/b188759-s0-c30-d0054.html
+韓国のPM2．5は中国から飛来？含まれる細菌の83％類似―韓国メディア
+
+https://www.ncbi.nlm.nih.gov/pubmed/28717138
+Sci Rep. 2017 Jul 17;7(1):5545. doi: 10.1038/s41598-017-05862-4.
+Airborne Bacterial Communities in Three East Asian Cities of China, South Korea, and Japan.
+Lee JY1, Park EH1, Lee S2,3, Ko G1,2,3,4, Honda Y5, Hashizume M6, Deng F7, Yi SM1, Kim H8.
+
+
 
 http://jojoshin.hatenablog.com/entry/2017/12/04/175120
 Mendelian randomization（メンデルランダム化）とは - 統計学と疫学と時々、助教生活
