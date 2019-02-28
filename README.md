@@ -17,6 +17,8 @@ Last Update: 2019-02
 ----------
 ## featuring
 
+https://www.sfc.keio.ac.jp/gsmg/about/faculty/ 教員 | 慶應義塾大学大学院政策・メディア研究科
+
 - https://www.ted.com/topics/biology
 - https://sfcclip.net/bus/
 - https://github.com/haruosuz/DS4GD/tree/master/2018giga
