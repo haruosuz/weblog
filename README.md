@@ -67,6 +67,9 @@ https://www.sfc.keio.ac.jp/gsmg/about/faculty/ 教員 | 慶應義塾大学大学
 
 ----------
 
+https://gendai.ismedia.jp/articles/-/59985
+東大から「内定取り消し」を受けた大学教授がどうしても伝えたいこと（宮川 剛） | 現代ビジネス | 講談社（1/5）
+
 https://otonanswer.jp/post/34076/
 感染力の強い「はしか」、どれくらいの距離や接触でうつる？　病院までの移動手段は？ | オトナンサー
 
