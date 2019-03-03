@@ -22,8 +22,27 @@ Last Update: 2019-01-01
 
 https://ja.wikipedia.org/wiki/クイーン_(バンド)
 
+https://www.youtube.com/watch?v=-rjMJuhnkyo
+ベストヒットUSA　QUEENスペシャル - YouTube
+Published on Jan 13, 2019
+新年最初のベストヒットUSAは、映画『ボヘミアン・ラプソディ』が大ヒットのクイーン!伝説のライブパフォーマンスをたっぷりとご覧いただきます!
+
 https://www.udiscovermusic.jp/stories/bohemian-rhapsody-second-movement
 クイーン「Bohemian Rhapsody」が持つ音楽史でのとてもつもない偉業
+
+### live aid
+
+https://www.youtube.com/watch?v=2cH5htm6T4E
+Live Aid | Bohemian Rhapsody (2018) - scene comparisons - YouTube
+2019/02/28
+
+https://www.youtube.com/watch?v=uQL_1hdnUCM
+BOHEMIAN RHAPSODY (LIVE AID 1985 side by side with Bohemian Rhapsody Movie 2018) - YouTube
+Published on Dec 18, 2018
+
+https://www.youtube.com/watch?v=-XqPBEODZ4s
+Queen Live at LIVE AID side-by-side comparison with Rami Malek (2018 Movie) - YouTube
+Published on Dec 4, 2018
 
 ### bohemian_rhapsody
 https://twitter.com/search?q=ボヘミアン・ラプソディ
@@ -35,6 +54,10 @@ http://www.foxmovies-jp.com/bohemianrhapsody/
 
 https://www.foxmovies.com/movies/bohemian-rhapsody
 Bohemian Rhapsody | Fox Movies
+
+https://www.youtube.com/watch?v=8z6wJHPhJUM
+BOHEMIAN RHAPSODY 2018 [COMPLETE SONGS side by side with QUEEN Live Aid 1985] FULL LIVE AID SCENE - YouTube
+Published on Jan 28, 2019
 
 https://www.youtube.com/watch?v=TcWMcERCZtI
 ボヘミアン・ラプソディ 世代を超えて広がるクイーン人気 - YouTube
@@ -79,14 +102,6 @@ https://www.cinematoday.jp/news/N0105416
 https://www.youtube.com/watch?v=1ynob-qzMXU
 (2011年3月3日) 結成40周年　QUEEN 独占インタビューで語る日本への思い - YouTube
 Published on Dec 6, 2018
-
-https://www.youtube.com/watch?v=uQL_1hdnUCM
-BOHEMIAN RHAPSODY (LIVE AID 1985 side by side with Bohemian Rhapsody Movie 2018) - YouTube
-Published on Dec 18, 2018
-
-https://www.youtube.com/watch?v=-XqPBEODZ4s
-Queen Live at LIVE AID side-by-side comparison with Rami Malek (2018 Movie) - YouTube
-Published on Dec 4, 2018
 
 https://www.youtube.com/watch?v=vW01ecOtzPY
 ボヘミアン・ラプソディ大ヒット 伝説のバンドに涙する理由 - YouTube
@@ -154,6 +169,18 @@ Published on Oct 28, 2012
 
 
 ## unclassified
+
+https://ameblo.jp/gucchann1965/entry-12397728972.html
+SPLITSVILLE | 真夜中に聴く音楽
+・THE POPULAR
+・FOEEVER
+・I'LL NEVER FALL IN LOVE AGAIN
+
+
+Splitsville
+Greenberry Woods
+
+
 
 https://www.youtube.com/watch?v=GRyJu5gUIyY
 Pentatonix - Evolution Of Music (LYRICS WITH VIDEO) - YouTube
