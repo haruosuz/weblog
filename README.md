@@ -66,6 +66,15 @@ https://www.sfc.keio.ac.jp/gsmg/about/faculty/ 教員 | 慶應義塾大学大学
 
 ----------
 
+
+https://wired.jp/2018/08/01/microbes-not-make-tech-startup-unicorn/
+これらの微生物さえあれば、“社畜”を効果的に育成できる（かもしれない）｜WIRED.jp
+
+https://wired.jp/2017/12/14/catalogue-every-microbe/
+地球上の無数の細菌をすべてカタログ化──壮大なプロジェクトが目指すもの｜WIRED.jp
+
+https://www.igaku-honyaku.jp/ホーム/書評なぜ論文が書けないのか/
+
 https://twitter.com/SatoruO/status/1100509876340559872
 大須賀 覚 / Satoru Osuka on Twitter: "講談社サイトに新記事。ネット/書籍に広がる嘘に騙されて、効果未証明の代替療法を選び、病状を悪化させてしまうがん患者が増加してます。なぜ標準治療を選ぶのが大事か、実際のデータを用いて解説しました。本人のため、家族のため、本当に本当に標準治療を選んでいただきたいhttps://t.co/V43oXx17lF"
 4:36 PM - 26 Feb 2019
