@@ -64,9 +64,26 @@ https://www.sfc.keio.ac.jp/gsmg/about/faculty/ 教員 | 慶應義塾大学大学
 - 
 - https://twitter.com/search?q=plasmid%20codon&src=typd
 
-
 ----------
 
+https://twitter.com/SatoruO/status/1100509876340559872
+大須賀 覚 / Satoru Osuka on Twitter: "講談社サイトに新記事。ネット/書籍に広がる嘘に騙されて、効果未証明の代替療法を選び、病状を悪化させてしまうがん患者が増加してます。なぜ標準治療を選ぶのが大事か、実際のデータを用いて解説しました。本人のため、家族のため、本当に本当に標準治療を選んでいただきたいhttps://t.co/V43oXx17lF"
+4:36 PM - 26 Feb 2019
+https://gendai.ismedia.jp/articles/-/59446
+がん研究者が心の底から「標準治療を選んで！」と訴える理由（大須賀 覚） | ブルーバックス | 講談社（1/3）
+- https://gendai.ismedia.jp/articles/-/59446?page=2
+- https://gendai.ismedia.jp/articles/-/59446?page=3
+
+2019年03月12日
+https://www.yodosha.co.jp/jikkenigaku/book/9784758120951/index.html
+Rをはじめよう生命科学のためのRStudio入門
+
+https://www.yodosha.co.jp/jikkenigaku/opinion/vol37n4.html
+Opinion―研究の現場から　第105回　Pythonで医学に貢献を｜実験医学online：羊土社
+
+https://twitter.com/tsuyomiyakawa/status/1101291489492033536
+Tsuyoshi Miyakawa on Twitter: "東大から「内定取り消し」を受けた大学教授がどうしても伝えたいこと https://t.co/BBjoK60xCi #現代ビジネス 自分のことを書きました。多くの大学では内定通知書を出さず着任日の発令をもって正式契約。それまではいつでも内定取り消しができる仕組みはどうしても改善される必要があると考えます。"
+8:22 PM - 28 Feb 2019
 https://gendai.ismedia.jp/articles/-/59985
 東大から「内定取り消し」を受けた大学教授がどうしても伝えたいこと（宮川 剛） | 現代ビジネス | 講談社（1/5）
 
