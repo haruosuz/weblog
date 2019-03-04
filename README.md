@@ -66,6 +66,11 @@ https://www.sfc.keio.ac.jp/gsmg/about/faculty/ 教員 | 慶應義塾大学大学
 
 ----------
 
+https://twitter.com/EditageJapan/status/1102360072687104000
+研究者応援！エディテージ・インサイト on Twitter: "多くの著者が、研究背景の執筆に苦労しています。また、「背景」と「文献レビュー」の区別も、研究者たちが苦手意識を持っている問題です。背景の書き方の基本と、背景と文献レビューとの違いを押さえて、読者の興味をそそる背景を書き上げましょう。 #研究の背景 #文献検索 https://t.co/R0DOGwUEhI"
+
+7:08 PM - 3 Mar 2019
+
 https://twitter.com/strnr/status/1102292049527783426
 Stephen Turner on Twitter: "New approaches for metagenome assembly with short reads (free) https://t.co/QFVGINFY5a… "
 2:37 PM - 3 Mar 2019
