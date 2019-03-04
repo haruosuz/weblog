@@ -66,6 +66,9 @@ https://www.sfc.keio.ac.jp/gsmg/about/faculty/ 教員 | 慶應義塾大学大学
 
 ----------
 
+https://twitter.com/strnr/status/1102292049527783426
+Stephen Turner on Twitter: "New approaches for metagenome assembly with short reads (free) https://t.co/QFVGINFY5a… "
+2:37 PM - 3 Mar 2019
 
 https://wired.jp/2018/08/01/microbes-not-make-tech-startup-unicorn/
 これらの微生物さえあれば、“社畜”を効果的に育成できる（かもしれない）｜WIRED.jp
