@@ -17,8 +17,6 @@ Last Update: 2019-02
 ----------
 ## featuring
 
-https://www.sfc.keio.ac.jp/gsmg/about/faculty/ 教員 | 慶應義塾大学大学院政策・メディア研究科
-
 - https://www.ted.com/topics/biology
 - https://sfcclip.net/bus/
 - https://github.com/haruosuz/DS4GD/tree/master/2018giga
@@ -66,9 +64,35 @@ https://www.sfc.keio.ac.jp/gsmg/about/faculty/ 教員 | 慶應義塾大学大学
 
 ----------
 
+
+
+- http://www.sgmj.org/sgmj2019/
+年会名    第13回日本ゲノム微生物学会年会
+会期    2019年3月6日（水）～8日（金）
+会場    首都大学東京 南大沢キャンパス
+○演題登録 〜2019年1月16日（水）17:00まで
+
+
+http://www.sgmj.org/index.php?page=workshop_index
+第13回日本ゲノム微生物学会年会
+会期	：	2019年3月6日（水）～8日（金）
+会場	：	首都大学東京南大沢キャンパス　（〒192-0364 東京都八王子市南大沢1丁目1）
+https://www.sgmj.org/sgmj2019/
+
+Pitagora Galaxy Meetup
+http://wiki.pitagora-galaxy.org/wiki/index.php/Events
+https://pitagora-network.org/events/
+Pitagora Meetup 2019-03
+
+
+https://www3.nhk.or.jp/news/web_tokushu/2018_1026.html
+地下鉄で高濃度のＰＭ２.５ なぜ？｜NHK NEWS WEB
+
+https://gendai.ismedia.jp/articles/-/59944?media=bb
+ブルーバックス伝説の名著『統計でウソをつく法』100刷突破！（ブルーバックス編集部） | ブルーバックス | 講談社（1/3）
+
 https://twitter.com/EditageJapan/status/1102360072687104000
 研究者応援！エディテージ・インサイト on Twitter: "多くの著者が、研究背景の執筆に苦労しています。また、「背景」と「文献レビュー」の区別も、研究者たちが苦手意識を持っている問題です。背景の書き方の基本と、背景と文献レビューとの違いを押さえて、読者の興味をそそる背景を書き上げましょう。 #研究の背景 #文献検索 https://t.co/R0DOGwUEhI"
-
 7:08 PM - 3 Mar 2019
 
 https://twitter.com/strnr/status/1102292049527783426
@@ -294,24 +318,6 @@ https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md#
 ## updates
 
 ## 2019
-
-
-- http://www.sgmj.org/sgmj2019/
-年会名    第13回日本ゲノム微生物学会年会
-会期    2019年3月6日（水）～8日（金）
-会場    首都大学東京 南大沢キャンパス
-○演題登録 〜2019年1月16日（水）17:00まで
-
-
-Pitagora Galaxy Meetup
-http://wiki.pitagora-galaxy.org/wiki/index.php/Events
-https://pitagora-network.org/events/
-Meetup
-Pitagora Meetup 2019-02 satellite
-2019-02-04 @ 国立情報学研究所
-Pitagora Meetup 2019-02
-2019-02-05 @ 理研日本橋
-Pitagora Meetup 2019-03
 
 
 https://twitter.com/ak_tch/status/1093695720723427328
