@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-02
+Last Update: 2019-03
 
 ----------
 
@@ -16,6 +16,36 @@ Last Update: 2019-02
 
 ----------
 ## featuring
+
+- http://www.sgmj.org/sgmj2019/
+年会名    第13回日本ゲノム微生物学会年会
+会期    2019年3月6日（水）～8日（金）
+会場    首都大学東京 南大沢キャンパス
+○演題登録 〜2019年1月16日（水）17:00まで
+
+
+http://www.sgmj.org/index.php?page=workshop_index
+第13回日本ゲノム微生物学会年会
+会期	：	2019年3月6日（水）～8日（金）
+会場	：	首都大学東京南大沢キャンパス　（〒192-0364 東京都八王子市南大沢1丁目1）
+https://www.sgmj.org/sgmj2019/
+
+Pitagora Galaxy Meetup
+http://wiki.pitagora-galaxy.org/wiki/index.php/Events
+https://pitagora-network.org/events/
+Pitagora Meetup 2019-03
+
+
+https://www.nature.com/articles/s41467-019-08844-4
+Microbial abundance, activity and population genomic profiling with mOTUs2 | Nature Communications
+
+
+https://www.nature.com/articles/s41467-019-08864-0
+Man-made microbial resistances in built environments | Nature Communications
+
+
+https://www3.nhk.or.jp/news/web_tokushu/2018_1026.html
+地下鉄で高濃度のＰＭ２.５ なぜ？｜NHK NEWS WEB
 
 - https://www.ted.com/topics/biology
 - https://sfcclip.net/bus/
@@ -65,29 +95,6 @@ Last Update: 2019-02
 
 ----------
 
-
-
-- http://www.sgmj.org/sgmj2019/
-年会名    第13回日本ゲノム微生物学会年会
-会期    2019年3月6日（水）～8日（金）
-会場    首都大学東京 南大沢キャンパス
-○演題登録 〜2019年1月16日（水）17:00まで
-
-
-http://www.sgmj.org/index.php?page=workshop_index
-第13回日本ゲノム微生物学会年会
-会期	：	2019年3月6日（水）～8日（金）
-会場	：	首都大学東京南大沢キャンパス　（〒192-0364 東京都八王子市南大沢1丁目1）
-https://www.sgmj.org/sgmj2019/
-
-Pitagora Galaxy Meetup
-http://wiki.pitagora-galaxy.org/wiki/index.php/Events
-https://pitagora-network.org/events/
-Pitagora Meetup 2019-03
-
-
-https://www3.nhk.or.jp/news/web_tokushu/2018_1026.html
-地下鉄で高濃度のＰＭ２.５ なぜ？｜NHK NEWS WEB
 
 https://gendai.ismedia.jp/articles/-/59944?media=bb
 ブルーバックス伝説の名著『統計でウソをつく法』100刷突破！（ブルーバックス編集部） | ブルーバックス | 講談社（1/3）
