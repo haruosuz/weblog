@@ -23,17 +23,39 @@ Last Update: 2019-03
 会場    首都大学東京 南大沢キャンパス
 ○演題登録 〜2019年1月16日（水）17:00まで
 
-
 http://www.sgmj.org/index.php?page=workshop_index
 第13回日本ゲノム微生物学会年会
 会期	：	2019年3月6日（水）～8日（金）
 会場	：	首都大学東京南大沢キャンパス　（〒192-0364 東京都八王子市南大沢1丁目1）
 https://www.sgmj.org/sgmj2019/
 
+
+http://kazumaxneo.hatenablog.com/entry/2019/03/07/073000
+高速かつ高効率にシーケンスデータを圧縮 / 解凍する NAF - macでインフォマティクス
+
 Pitagora Galaxy Meetup
 http://wiki.pitagora-galaxy.org/wiki/index.php/Events
+
 https://pitagora-network.org/events/
+Pitagora Network - Events
 Pitagora Meetup 2019-03
+
+----------
+https://www.jst.go.jp/report/2018/190117.html
+BioHackathon 2018開催報告
+
+http://wiki.lifesciencedb.jp/mw/SPARQLthon
+今後の開催予定
+場所未定のままの場合は、基本的に DBCLS 柏の葉キャンパス駅前での開催となります。
+		• 2019/03/8-10 SIG-BIO, SIG-MBI, オープンバイオ研究会 ＠ JAIST
+	• 2019/03/28-29 SPARQLthon78 @ DBCLS (三島)
+	• 2019/04/22-23 SPARQLthon79 @ DBCLS (柏)
+
+		• 2019/09/01-07 BioHackathon 2019 @ 福岡（暫定）
+----------
+https://github.com/haruosuz/metasub/blob/master/README.md
+都市の微生物群集
+
 
 
 https://www.nature.com/articles/s41467-019-08844-4
