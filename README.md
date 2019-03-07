@@ -17,6 +17,9 @@ Last Update: 2019-03
 ----------
 ## featuring
 
+https://github.com/haruosuz/metasub/blob/master/README.md
+都市の微生物群集
+
 - http://www.sgmj.org/sgmj2019/
 年会名    第13回日本ゲノム微生物学会年会
 会期    2019年3月6日（水）～8日（金）
@@ -53,10 +56,6 @@ http://wiki.lifesciencedb.jp/mw/SPARQLthon
 
 		• 2019/09/01-07 BioHackathon 2019 @ 福岡（暫定）
 ----------
-https://github.com/haruosuz/metasub/blob/master/README.md
-都市の微生物群集
-
-
 
 https://www.nature.com/articles/s41467-019-08844-4
 Microbial abundance, activity and population genomic profiling with mOTUs2 | Nature Communications
