@@ -17,6 +17,9 @@ Last Update: 2019-03
 ----------
 ## featuring
 
+https://github.com/haruosuz/plasmids/blob/master/references/README.papers.md
+
+
 https://github.com/haruosuz/metasub/blob/master/README.md
 都市の微生物群集
 
