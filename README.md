@@ -56,6 +56,18 @@ http://wiki.lifesciencedb.jp/mw/SPARQLthon
 
 		• 2019/09/01-07 BioHackathon 2019 @ 福岡（暫定）
 ----------
+Mash: fast genome and metagenome distance estimation using MinHash
+
+https://twitter.com/search?q=Mash%3A%20fast%20genome%20and%20metagenome%20distance%20estimation%20using%20MinHash&src=typd
+
+https://twitter.com/aphillippy/status/745254551947714561
+Adam Phillippy on Twitter: "Our latest "Mash: fast genome and metagenome distance estimation using MinHash" now published in @GenomeBiology https://t.co/KONRKwjlF8"
+9:58 AM - 21 Jun 2016
+
+http://kazumaxneo.hatenablog.com/entry/2018/05/11/180244
+MinHashを使い高速にゲノムを比較する MASH - macでインフォマティクス
+
+----------
 
 https://www.nature.com/articles/s41467-019-08844-4
 Microbial abundance, activity and population genomic profiling with mOTUs2 | Nature Communications
