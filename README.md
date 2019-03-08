@@ -17,6 +17,28 @@ Last Update: 2019-03
 ----------
 ## featuring
 
+
+Pitagora Galaxy Meetup
+http://wiki.pitagora-galaxy.org/wiki/index.php/Events
+
+https://pitagora-network.org/events/
+Pitagora Network - Events
+Pitagora Meetup 2019-03
+
+https://pitagora-network.org/events/meetup/2019/meetup-201903
+Pitagora Meetup 2019-03
+概要
+日時： 2019年3月8日（金）10:00 〜 18:00
+場所： 国立情報学研究所 (神保町) 1208 会議室 (12階)
+連絡先： 大田 t.ohta [at] dbcls.rois.ac.jp
+Skype ID：pitagora-network (最新バージョンのSkypeの使用を推奨)
+
+17:30-18:00	ラップアップ
+18:00-	有識者会議
+
+
+
+
 https://github.com/haruosuz/plasmids/blob/master/references/README.papers.md
 
 
@@ -39,12 +61,6 @@ https://www.sgmj.org/sgmj2019/
 http://kazumaxneo.hatenablog.com/entry/2019/03/07/073000
 高速かつ高効率にシーケンスデータを圧縮 / 解凍する NAF - macでインフォマティクス
 
-Pitagora Galaxy Meetup
-http://wiki.pitagora-galaxy.org/wiki/index.php/Events
-
-https://pitagora-network.org/events/
-Pitagora Network - Events
-Pitagora Meetup 2019-03
 
 ----------
 https://www.jst.go.jp/report/2018/190117.html
