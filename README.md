@@ -14,6 +14,24 @@ Last Update: 2019-03
 - [sfc](#sfc)
 - [unclassified](#unclassified)
 
+
+
+
+https://wired.jp/2019/02/06/the-key-to-a-long-life/
+遺伝子と「長寿家系」の関連性は意外と低かった：研究結果｜WIRED.jp
+
+https://twitter.com/EditageJapan/status/1102360072687104000
+研究者応援！エディテージ・インサイト on Twitter: "多くの著者が、研究背景の執筆に苦労しています。また、「背景」と「文献レビュー」の区別も、研究者たちが苦手意識を持っている問題です。背景の書き方の基本と、背景と文献レビューとの違いを押さえて、読者の興味をそそる背景を書き上げましょう。 #研究の背景 #文献検索 https://t.co/R0DOGwUEhI"
+7:08 PM - 3 Mar 2019
+
+https://twitter.com/strnr/status/1102292049527783426
+Stephen Turner on Twitter: "New approaches for metagenome assembly with short reads (free) https://t.co/QFVGINFY5a… "
+2:37 PM - 3 Mar 2019
+
+
+https://www.igaku-honyaku.jp/ホーム/書評なぜ論文が書けないのか/
+
+
 ----------
 ## featuring
 
@@ -23,44 +41,6 @@ http://wiki.pitagora-galaxy.org/wiki/index.php/Events
 
 https://pitagora-network.org/events/
 Pitagora Network - Events
-Pitagora Meetup 2019-03
-
-https://pitagora-network.org/events/meetup/2019/meetup-201903
-Pitagora Meetup 2019-03
-概要
-日時： 2019年3月8日（金）10:00 〜 18:00
-場所： 国立情報学研究所 (神保町) 1208 会議室 (12階)
-連絡先： 大田 t.ohta [at] dbcls.rois.ac.jp
-Skype ID：pitagora-network (最新バージョンのSkypeの使用を推奨)
-
-17:30-18:00	ラップアップ
-18:00-	有識者会議
-
-
-
-
-https://github.com/haruosuz/plasmids/blob/master/references/README.papers.md
-
-
-https://github.com/haruosuz/metasub/blob/master/README.md
-都市の微生物群集
-
-- http://www.sgmj.org/sgmj2019/
-年会名    第13回日本ゲノム微生物学会年会
-会期    2019年3月6日（水）～8日（金）
-会場    首都大学東京 南大沢キャンパス
-○演題登録 〜2019年1月16日（水）17:00まで
-
-http://www.sgmj.org/index.php?page=workshop_index
-第13回日本ゲノム微生物学会年会
-会期	：	2019年3月6日（水）～8日（金）
-会場	：	首都大学東京南大沢キャンパス　（〒192-0364 東京都八王子市南大沢1丁目1）
-https://www.sgmj.org/sgmj2019/
-
-
-http://kazumaxneo.hatenablog.com/entry/2019/03/07/073000
-高速かつ高効率にシーケンスデータを圧縮 / 解凍する NAF - macでインフォマティクス
-
 
 ----------
 https://www.jst.go.jp/report/2018/190117.html
@@ -74,37 +54,14 @@ http://wiki.lifesciencedb.jp/mw/SPARQLthon
 	• 2019/04/22-23 SPARQLthon79 @ DBCLS (柏)
 
 		• 2019/09/01-07 BioHackathon 2019 @ 福岡（暫定）
-----------
-Mash: fast genome and metagenome distance estimation using MinHash
 
-https://twitter.com/search?q=Mash%3A%20fast%20genome%20and%20metagenome%20distance%20estimation%20using%20MinHash&src=typd
-
-https://twitter.com/aphillippy/status/745254551947714561
-Adam Phillippy on Twitter: "Our latest "Mash: fast genome and metagenome distance estimation using MinHash" now published in @GenomeBiology https://t.co/KONRKwjlF8"
-9:58 AM - 21 Jun 2016
-
-http://kazumaxneo.hatenablog.com/entry/2018/05/11/180244
-MinHashを使い高速にゲノムを比較する MASH - macでインフォマティクス
 
 ----------
-
-
-https://twitter.com/BacDive/status/1103238138816839680
-BacDive on Twitter: "Out now: Our new, powerful isolation source search is online. Filter & analyse bacterial strains based on their isolation source tags. Plot them on the world map or show the distribution within a Krona Plot. https://t.co/QQe6pSFZPJ #bacteria #isolationsource #microorganisms… https://t.co/5URfQNeM6S"
-5:17 AM - 6 Mar 2019
-
 
 
 https://www.nature.com/articles/s41467-019-08844-4
 Microbial abundance, activity and population genomic profiling with mOTUs2 | Nature Communications
 
-
-https://www.nature.com/articles/s41467-019-08864-0
-Man-made microbial resistances in built environments | Nature Communications
-
-
-https://www3.nhk.or.jp/news/web_tokushu/2018_1026.html
-地下鉄で高濃度のＰＭ２.５ なぜ？｜NHK NEWS WEB
 
 - https://www.ted.com/topics/biology
 - https://sfcclip.net/bus/
@@ -155,248 +112,10 @@ https://www3.nhk.or.jp/news/web_tokushu/2018_1026.html
 ----------
 
 
-https://gendai.ismedia.jp/articles/-/59944?media=bb
-ブルーバックス伝説の名著『統計でウソをつく法』100刷突破！（ブルーバックス編集部） | ブルーバックス | 講談社（1/3）
-
-https://twitter.com/EditageJapan/status/1102360072687104000
-研究者応援！エディテージ・インサイト on Twitter: "多くの著者が、研究背景の執筆に苦労しています。また、「背景」と「文献レビュー」の区別も、研究者たちが苦手意識を持っている問題です。背景の書き方の基本と、背景と文献レビューとの違いを押さえて、読者の興味をそそる背景を書き上げましょう。 #研究の背景 #文献検索 https://t.co/R0DOGwUEhI"
-7:08 PM - 3 Mar 2019
-
-https://twitter.com/strnr/status/1102292049527783426
-Stephen Turner on Twitter: "New approaches for metagenome assembly with short reads (free) https://t.co/QFVGINFY5a… "
-2:37 PM - 3 Mar 2019
-
-https://wired.jp/2018/08/01/microbes-not-make-tech-startup-unicorn/
-これらの微生物さえあれば、“社畜”を効果的に育成できる（かもしれない）｜WIRED.jp
-
-https://wired.jp/2017/12/14/catalogue-every-microbe/
-地球上の無数の細菌をすべてカタログ化──壮大なプロジェクトが目指すもの｜WIRED.jp
-
-https://www.igaku-honyaku.jp/ホーム/書評なぜ論文が書けないのか/
-
-https://twitter.com/SatoruO/status/1100509876340559872
-大須賀 覚 / Satoru Osuka on Twitter: "講談社サイトに新記事。ネット/書籍に広がる嘘に騙されて、効果未証明の代替療法を選び、病状を悪化させてしまうがん患者が増加してます。なぜ標準治療を選ぶのが大事か、実際のデータを用いて解説しました。本人のため、家族のため、本当に本当に標準治療を選んでいただきたいhttps://t.co/V43oXx17lF"
-4:36 PM - 26 Feb 2019
-https://gendai.ismedia.jp/articles/-/59446
-がん研究者が心の底から「標準治療を選んで！」と訴える理由（大須賀 覚） | ブルーバックス | 講談社（1/3）
-- https://gendai.ismedia.jp/articles/-/59446?page=2
-- https://gendai.ismedia.jp/articles/-/59446?page=3
-
-2019年03月12日
-https://www.yodosha.co.jp/jikkenigaku/book/9784758120951/index.html
-Rをはじめよう生命科学のためのRStudio入門
-
-https://www.yodosha.co.jp/jikkenigaku/opinion/vol37n4.html
-Opinion―研究の現場から　第105回　Pythonで医学に貢献を｜実験医学online：羊土社
-
-https://twitter.com/tsuyomiyakawa/status/1101291489492033536
-Tsuyoshi Miyakawa on Twitter: "東大から「内定取り消し」を受けた大学教授がどうしても伝えたいこと https://t.co/BBjoK60xCi #現代ビジネス 自分のことを書きました。多くの大学では内定通知書を出さず着任日の発令をもって正式契約。それまではいつでも内定取り消しができる仕組みはどうしても改善される必要があると考えます。"
-8:22 PM - 28 Feb 2019
-https://gendai.ismedia.jp/articles/-/59985
-東大から「内定取り消し」を受けた大学教授がどうしても伝えたいこと（宮川 剛） | 現代ビジネス | 講談社（1/5）
-
-https://otonanswer.jp/post/34076/
-感染力の強い「はしか」、どれくらいの距離や接触でうつる？　病院までの移動手段は？ | オトナンサー
-
-https://mainichi.jp/articles/20190227/dde/001/040/040000c
-チェック：はしか、渡航者が「輸入」　排除国認定の日本、今年２００人超　政府「旅行前のワクチン接種を」 - 毎日新聞
-
-https://twitter.com/Casasagi2107/status/1100201054031929345
-Casasagi on Twitter: "この30年来増えているPM2.5 と花粉症は無関係ではなく、PM2.5の粒子には黴菌やウイルスも付着していて、その放線菌割合比は6割。 「3都市のPM2．5から検出された浮遊微生物はプロテオバクテリア、フィルミクテス門、放線菌が全体の67．3％を占めた。」 https://t.co/YfyspHd06h"
-
-2017年8月28日
-https://www.recordchina.co.jp/b188759-s0-c30-d0054.html
-韓国のPM2．5は中国から飛来？含まれる細菌の83％類似―韓国メディア
-
-https://www.ncbi.nlm.nih.gov/pubmed/28717138
-Sci Rep. 2017 Jul 17;7(1):5545. doi: 10.1038/s41598-017-05862-4.
-Airborne Bacterial Communities in Three East Asian Cities of China, South Korea, and Japan.
-Lee JY1, Park EH1, Lee S2,3, Ko G1,2,3,4, Honda Y5, Hashizume M6, Deng F7, Yi SM1, Kim H8.
-
-
-
-http://jojoshin.hatenablog.com/entry/2017/12/04/175120
-Mendelian randomization（メンデルランダム化）とは - 統計学と疫学と時々、助教生活
-
-https://wired.jp/2018/11/10/winny-isamu-kaneko-1/
-日本が失った天才、金子勇の光と影｜WIRED.jp
-
- 2017年7月30日 /  2019年2月24日
-https://www.dr-kid.net/mycoplasma-resistence
-日本の小児のマイコプラズマ感染は９割が耐性菌！？【マイコプラズマ肺炎】｜Dr.KIDの小児科クリニック
-
-http://takehiko-i-hayashi.hatenablog.com/entry/2015/06/07/165431
-僕は論文が書けない：苦境脱出へ向けての2+1冊 - Take a Risk：林岳彦の研究メモ
-
-https://gihyo.jp/book/2019/978-4-297-10406-1/content/preface
-はじめに ── あなたがテクニカルライティングを習得すべき理由：成果を生み出すテクニカルライティング ―トップエンジニア・研究者が実践する思考整理法｜技術評論社
-
-https://academic.oup.com/gbe/advance-article/doi/10.1093/gbe/evz034/5310093
-Investigating the origins of membrane phospholipid biosynthesis genes using outgroup-free rooting | Genome Biology and Evolution | Oxford Academic
-
-
-https://twitter.com/NatureRevMicro/status/1095678559404900352
-Nature Rev Microbiol on Twitter: "Bacteria and archaea on Earth and their abundance in biofilms https://t.co/4rsoiohF3Q Flemming and Wuertz propose that biofilms are the most prominent and influential type of microbial life.… https://t.co/ZglukPpbaJ"
-8:38 AM - 13 Feb 2019
-https://www.nature.com/articles/s41579-019-0158-9
-Bacteria and archaea on Earth and their abundance in biofilms | Nature Reviews Microbiology
-
-
-https://www.ncbi.nlm.nih.gov/pubmed/28761145
-Sci Rep. 2017 Jul 31;7(1):6589. doi: 10.1038/s41598-017-06665-3.
-Large-scale differences in microbial biodiversity discovery between 16S amplicon and shotgun sequencing.
-Tessler M1,2, Neumann JS3, Afshinnekoo E4,5,6, Pineda M4,5, Hersch R7, Velho LFM8,9, Segovia BT8, Lansac-Toha FA8, Lemke M10, DeSalle R7, Mason CE11,12,13, Brugler MR14,15.
-
-
-
-
-https://twitter.com/Dr_KID_/status/1094372164432621568
-Dr. KID on Twitter: "DAGを使って因果関係、交絡、選択バイアスを見分ける方法について 今回は、DAGを使って ・因果関係 ・（偽りの）相関関係（交絡） ・逆の因果関係 ・選択バイアス を説明しました。名前を覚えるより、構造を理解した方が実践的です。 https://t.co/iG4cDxoFhK"
-6:07 PM - 9 Feb 2019
- 2019年2月10日
-https://www.dr-kid.net/dag-cause-and-effect
-DAGを使って因果関係、交絡、選択バイアスを見分ける方法について｜Dr.KIDの小児科クリニック
-
-
-アトピー治療のステロイドは本当に怖い薬なのか？　皮膚科医が考えるイメージ払拭の難しさ (1/3) 〈週刊朝日〉｜AERA dot. (アエラドット)
-- https://dot.asahi.com/wa/2019012400023.html?page=1
-- https://dot.asahi.com/wa/2019012400023.html?page=2
-- https://dot.asahi.com/wa/2019012400023.html?page=3
-
-
-https://twitter.com/hashtag/IT4BDA
-生命科学データ解析を支える情報技術
-
-2019-03-08
-2019-03-10
-http://www.sigmbi.jp/
-第68回人工知能学会分子生物情報研究会(SIG-MBI)＠JAIST,2019/3/9
-昨年と同様に、今回も同じ場所で３つの研究会を連続して開催します。バイオ
-情報学研究会は３月８日（金）から９日（土）にかけて、分子生物情報研究会
-は３月９日（土）に、オープンバイオ研究会は３月１０日（日）に開催します。
-２泊すれば３つの研究会に参加でき、基礎から応用まで幅広い発表が聞けると
-思いますので、奮って御参加下さい。
-
-第10回ゲノムグラフ研究会
-日時：2019年3月9〜10日（土〜日）
-開催場所：北陸先端科学技術大学院大学
-プログラム：http://genomegraph.jp/meeting010.html
-
-https://www.jsbi.org/news/others/20190322/
-Gene Myers 博士講演会のお知らせ
-＊　日時　2019年3月22日(金)　午後1時から 2時間程度（質疑応答含めて）
-＊　場所　東京大学　理学部3号館412講義室
-
-2019-05-20
-2019-05-23
-https://twitter.com/AMICImicrobiome/status/1095010588659511296
-Austrian Microbiome on Twitter: "21st Genomic Standards Consortium @genomestandards Meeting #GSC21 will take place in Vienna @univienna May 20-23, 2019 https://t.co/JWn31bKIZ6… https://t.co/vCFcNfASJh"
-12:24 PM - 11 Feb 2019
-
-2019-06-24
-2019-06-25
-https://twitter.com/CAMDA_conf/status/1092792969810374656
-CAMDA 2019 on Twitter: "Open now! Global Forensic #Metagenomics challenge: Construct urban microbiome fingerprints to predict the geographical origin of mystery samples! Abstracts due 12 May. See https://t.co/mf4V6zVKyC @CAMDA_conf @earthmicrobiome @metasub @mason_lab #CAMDA2019 @ISCB @ISMBinfo #Basel… https://t.co/XDLBEcivv9"
-
-
-https://twitter.com/search?q=P値
-
-https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1626-2
-Where is genomics going next? | Genome Biology
-
-https://tjo.hatenablog.com/entry/2018/06/12/093633
-多重比較補正のはなし - 六本木で働くデータサイエンティストのブログ
-
-https://tjo.hatenablog.com/entry/2019/01/31/190000
-研究者を辞めた時のこと、そしてその後のこと - 六本木で働くデータサイエンティストのブログ
-
-2019.01.28 MON 08:30
-https://wired.jp/2019/01/28/we-can-avoid-deadly-flu-season/
-インフルエンザの感染拡大を止めるために、わたしたちができること｜WIRED.jp
-
-2019.01.15 TUE 09:00
-https://wired.jp/2019/01/15/universal-flu-vaccine-berg/
-あらゆるインフルエンザに効く「万能ワクチン」が、ついに誕生する？｜WIRED.jp
-
-https://dot.asahi.com/aera/2019012200038.html
-https://dot.asahi.com/aera/2019012200038.html?page=1
-早稲田と慶応が“真逆”の選択　2020年度大学入試改革 (1/3) 〈AERA〉｜AERA dot. (アエラドット)
-
-
-http://www.lifescience.co.jp/shop2/index_0172.html
-統計学はときにセクシーな学問である | ライフサイエンス出版
-【著】 デビッド・シュピーゲルハルター
-【訳】 石塚直樹
-https://twitter.com/search?q=統計学はときにセクシーな学問で
-
-https://jp.chibicode.com/factfulness-matome/
-『FACTFULNESS (ファクトフルネス)』書評のまとめ | 上杉周作
-2019/01/07
-
-- https://togetter.com/li/1305143
-「終末期医療は医療費の無駄なのか？」 - Togetter
-
-https://togetter.com/li/1304780
-落合洋一氏、古市憲寿氏、荻上チキ氏の議論（終末期医療などをめぐって）～2019年１月※3日現在、議論継続中 - Togetter
-
-## reading
-
-https://hon.booklog.jp/interview/hakkounokagaku-20180406
-「麹菌」は日本人が育んできた「家畜」！？―ブルーバックス『日本の伝統 発酵の科学』著者・中島春紫さん独占インタビュー | ブクログ通信
-2018年4月6日
-
-http://news.kodansha.co.jp/5786
-発酵の科学「臭いものはなぜ旨い？」納豆､くさや､シュール･ストレミング！
-2018.03.16
-
-http://bookclub.kodansha.co.jp/product?item=0000226693
-日本の伝統　発酵の科学　微生物が生み出す「旨さ」の秘密
-著：中島　春紫
-2018年01月18日
-
-- https://twitter.com/search?q=闘う微生物
-
-- https://twitter.com/search?q=%22土・牛・微生物%22
-
-- https://twitter.com/search?q=なぜ科学はストーリーを必要としているのか
-https://www.dokushok.com/entry/2018/10/27/080000
-
-- https://twitter.com/search?f=tweets&q=絶滅できない動物たち
-- https://bookmeter.com/books/13113041
-- https://www.amazon.co.jp/dp/4478067317
-- http://honnohon.blog137.fc2.com/blog-entry-2132.html 
-2019-01-01
-ホンの本好き 昨日何読んだ 『絶滅できない動物たち』（ダイヤモンド社）
-
-コドン適応の変化は（過酸化水素、熱、高塩分）ストレス耐性を増強する。好気性菌で複数遺伝子のコドン適応（翻訳効率）変化が、鉄とNAD(P)Hの量を調節し、酸化ストレス耐性を付与する証拠
-https://www.ncbi.nlm.nih.gov/pubmed/24580753
-Genome Biol. 2014 Mar 3;15(3):R44. doi: 10.1186/gb-2014-15-3-r44.
-Inferring gene function from evolutionary change in signatures of translation efficiency.
-Krisko A, Copic T, Gabaldón T, Lehner B, Supek F.
-
-https://www.ncbi.nlm.nih.gov/pubmed/24146954
-PLoS One. 2013 Oct 17;8(10):e77033. doi: 10.1371/journal.pone.0077033. eCollection 2013.
-Systematic identification of gene families for use as "markers" for phylogenetic and phylogeny-driven ecological studies of bacteria and archaea and their major subgroups.
-Wu D1, Jospin G, Eisen JA.
-
-https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md#16s
-
 ----------
 ## updates
 
 ## 2019
-
-
-https://twitter.com/ak_tch/status/1093695720723427328
-橘　玲 on Twitter: "｢「不都合な現実」をめぐる、科学とリベラルの対立の根本原因｣ https://t.co/GL1jiNnC53 が現代ビジネスに公開されました。進化論者(科学)とサイバーリバタリアン(テクノロジー)とオルタナ右翼(白人至上主義)がなぜいっしょくたにされるのかを解説しています。"
-9:19 PM - 7 Feb 2019
-- https://gendai.ismedia.jp/articles/-/59772
-- https://gendai.ismedia.jp/articles/-/59772?page=2
-ポリコレ派の「言ってはいけない」という主張
-- https://gendai.ismedia.jp/articles/-/59772?page=3
-オルタナ右翼と「科学」の関係
-- https://gendai.ismedia.jp/articles/-/59772?page=4
-「インテリジェント・デザイン」の思想
 
 
 ## 2018
