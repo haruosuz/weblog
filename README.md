@@ -15,7 +15,9 @@ Last Update: 2019-03
 - [unclassified](#unclassified)
 
 
+- https://github.com/haruosuz/statistics
 
+https://twitter.com/search?q=Wolbachia%20plasmid
 
 https://wired.jp/2019/02/06/the-key-to-a-long-life/
 遺伝子と「長寿家系」の関連性は意外と低かった：研究結果｜WIRED.jp
@@ -59,10 +61,6 @@ http://wiki.lifesciencedb.jp/mw/SPARQLthon
 ----------
 
 
-https://www.nature.com/articles/s41467-019-08844-4
-Microbial abundance, activity and population genomic profiling with mOTUs2 | Nature Communications
-
-
 - https://www.ted.com/topics/biology
 - https://sfcclip.net/bus/
 - https://github.com/haruosuz/DS4GD/tree/master/2018giga
@@ -81,7 +79,6 @@ Microbial abundance, activity and population genomic profiling with mOTUs2 | Nat
 - https://github.com/haruosuz/plasmids
 - https://github.com/haruosuz/r4bioinfo
 - https://github.com/haruosuz/r4bioinfo/tree/master/R_memo
-- https://github.com/haruosuz/statistics
 - https://qiita.com/advent-calendar/2018/galaxy
 
 ----------
