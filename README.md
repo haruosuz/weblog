@@ -18,6 +18,11 @@ https://twitter.com/search?q=Wolbachia%20plasmid
 
 - https://github.com/haruosuz/statistics
 
+
+
+https://gendai.ismedia.jp/articles/-/59275
+東大生やその母親が語る「合格体験記」の信頼性が高くない理由
+
 https://wired.jp/2019/02/06/the-key-to-a-long-life/
 遺伝子と「長寿家系」の関連性は意外と低かった：研究結果｜WIRED.jp
 
