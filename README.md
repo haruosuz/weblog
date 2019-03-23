@@ -20,6 +20,16 @@ Last Update: 2019-03
 ## featuring
 
 
+
+https://gendai.ismedia.jp/articles/-/63604
+罠、兵糧攻め、自爆…いまこの瞬間も続く植物の「戦争」をご存じか（ブルーバックス編集部） | ブルーバックス | 講談社（1/3）
+https://gendai.ismedia.jp/articles/-/63604?page=2
+
+
+https://research-er.jp/articles/view/78282
+【プレスリリース】社会の複雑性の進化によって「神」が生まれた？－ビッグデータ解析により世界の宗教の歴史的起源を科学的に解明－ | 日本の研究.com
+
+- https://github.com/haruosuz/statistics/blob/master/references/README.statistics.p-value.md
 - https://github.com/haruosuz/statistics
 - https://twitter.com/search?q=Wolbachia%20plasmid
 
@@ -101,6 +111,10 @@ https://www.igaku-honyaku.jp/ホーム/書評なぜ論文が書けないのか/
 ## updates
 
 ## 2019
+
+- 2019-06-21 *[Global City Sampling Day](https://github.com/haruosuz/metasub/blob/master/README.md#csd)*
+- 2019-07-24 *[CAMDA2019 Conference @ Basel, Switzerland](http://camda.info/)*
+- 2019-08-30 *[2019 MetaSUB Meeting @ Istanbul, Turkey](http://metasub.org/)*
 
 Pitagora Galaxy Meetup
 http://wiki.pitagora-galaxy.org/wiki/index.php/Events
