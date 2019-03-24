@@ -14,12 +14,11 @@ Last Update: 2019-03
 - [sfc](#sfc)
 - [unclassified](#unclassified)
 
-
-
 ----------
 ## featuring
 
-
+http://ymatsuo.com/japanese/ronbun_eng.html
+松尾ぐみの論文の書き方：英語論文 | 松尾 豊
 
 https://gendai.ismedia.jp/articles/-/63604
 罠、兵糧攻め、自爆…いまこの瞬間も続く植物の「戦争」をご存じか（ブルーバックス編集部） | ブルーバックス | 講談社（1/3）
