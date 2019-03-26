@@ -14,6 +14,49 @@
 - [docker](#docker)
 - [git](#git)
 - [ecology](#ecology)
+- [sfc](#sfc)
+
+----------
+## link
+
+http://k-nakashima.net/blog-list/
+トレーナーがチェックしておきたい科学的根拠に基づいたブログおすすめ10選 | パーソナルトレーナー中島健太郎のブログ｜ストレッチングと柔軟性の科学
+
+https://twitter.com/smalldoemu
+くぼたかふみ (@smalldoemu) | Twitter
+
+https://www.iibc-global.org/toeic/test/lr/guide01.html
+テスト日程・申込｜TOEIC Listening & Reading Test｜TOEIC Program｜IIBC
+
+https://twitter.com/TJO_datasci/status/1013412162725769218
+TJO on Twitter: "「航空業界が失敗から学ぶ仕組みを構築している」話、もうちょっと詳しく書くと航空事故はどの国でも独立した事故調査委を置かねばならず、刑事・民事係争に利用されないという免責のもとで、必ず真実に迫り事故を再発させないというただその一点のみのために全ての努力が注ぎ込まれるようになっている"
+
+https://ja.wikipedia.org/wiki/Tf-idf
+tf-idfは、文書中に含まれる単語の重要度を評価する手法の1つであり、主に情報検索やトピック分析などの分野で用いられている。
+
+----------
+## sfc
+
+http://www.gakuji.keio.ac.jp/sfc/rishu/index.html
+慶應義塾大学-塾生HP-【SFC】履修案内・講義要綱・時間割
+
+http://vu.sfc.keio.ac.jp/course_u/data/2018/title.html
+Keio SFC 講義案内 2018年度
+
+https://www.sfc.keio.ac.jp/faculty/calendars/class_calendar.html
+授業カレンダー | 慶應義塾大学 湘南藤沢キャンパス（SFC）
+https://www.sfc.keio.ac.jp/doc/18f_calendar_171211_j.pdf
+2018年度秋学期授業カレンダー
+
+http://www.sfc.lib.keio.ac.jp/
+慶應義塾大学湘南藤沢メディアセンター
+
+https://sfcclip.net/bus/
+バス時刻表 ∣ SFC CLIP
+
+https://www.sfc.keio.ac.jp/gsmg/about/faculty/
+教員 | 慶應義塾大学大学院政策・メディア研究科
+
 
 ----------
 ## featuring
