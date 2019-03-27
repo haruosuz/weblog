@@ -15,6 +15,8 @@ Last Update: 2019-03
 ----------
 ## featuring
 
+- https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md
+- https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
 - https://github.com/haruosuz/metasub/blob/master/README.md
 - https://github.com/haruosuz/mgsa/blob/master/lsbsr/README.md
 - https://github.com/haruosuz/statistics/blob/master/references/README.statistics.p-value.md
@@ -122,29 +124,6 @@ Nick Loman on Twitter: "An extremely informative thread explaining why metagenom
 
 ----------
 
-
-- https://www.ted.com/topics/biology
-- https://sfcclip.net/bus/
-- https://github.com/haruosuz/DS4GD/tree/master/2018giga
-- https://github.com/haruosuz/introBI/tree/master/2018
-  - http://apprize.info/data/bioinformatics/index.html
-- https://github.com/haruosuz/bioinfo
-- https://github.com/haruosuz/bioinfo/blob/master/README.md#blast
-- https://github.com/haruosuz/books
-- https://github.com/haruosuz/codon
-- https://github.com/haruosuz/evolve
-- https://github.com/haruosuz/metasub
-- https://github.com/haruosuz/mgsa
-  - https://github.com/haruosuz/mgsa/tree/master/traitar
-- https://github.com/haruosuz/microbe
-- https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md#iss
-- https://github.com/haruosuz/plasmids
-- https://github.com/haruosuz/r4bioinfo
-- https://github.com/haruosuz/r4bioinfo/tree/master/R_memo
-- https://qiita.com/advent-calendar/2018/galaxy
-
-----------
-
 ## twitter
 - https://twitter.com/
 - https://twitter.com/copypasteusa
@@ -167,6 +146,29 @@ Nick Loman on Twitter: "An extremely informative thread explaining why metagenom
 - 
 - https://twitter.com/search?q=plasmid%20codon&src=typd
 - https://twitter.com/search?f=tweets&q=built%20environment%20microbiome&src=typd
+
+----------
+
+
+- https://www.ted.com/topics/biology
+- https://sfcclip.net/bus/
+- https://github.com/haruosuz/DS4GD/tree/master/2018giga
+- https://github.com/haruosuz/introBI/tree/master/2018
+  - http://apprize.info/data/bioinformatics/index.html
+- https://github.com/haruosuz/bioinfo
+- https://github.com/haruosuz/bioinfo/blob/master/README.md#blast
+- https://github.com/haruosuz/books
+- https://github.com/haruosuz/codon
+- https://github.com/haruosuz/evolve
+- https://github.com/haruosuz/metasub
+- https://github.com/haruosuz/mgsa
+  - https://github.com/haruosuz/mgsa/tree/master/traitar
+- https://github.com/haruosuz/microbe
+- https://github.com/haruosuz/plasmids
+- https://github.com/haruosuz/r4bioinfo
+- https://github.com/haruosuz/r4bioinfo/tree/master/R_memo
+- https://qiita.com/advent-calendar/2018/galaxy
+
 
 
 ----------
