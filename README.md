@@ -15,6 +15,7 @@ Last Update: 2019-03
 ----------
 ## featuring
 
+- https://sfcclip.net/bus/
 - https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md
 - https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
 - https://github.com/haruosuz/metasub/blob/master/README.md
@@ -151,7 +152,6 @@ Nick Loman on Twitter: "An extremely informative thread explaining why metagenom
 
 
 - https://www.ted.com/topics/biology
-- https://sfcclip.net/bus/
 - https://github.com/haruosuz/DS4GD/tree/master/2018giga
 - https://github.com/haruosuz/introBI/tree/master/2018
   - http://apprize.info/data/bioinformatics/index.html
