@@ -24,6 +24,14 @@ Last Update: 2019-03
 - https://github.com/haruosuz/statistics
 - https://twitter.com/search?q=Wolbachia%20plasmid
 
+2019年3月27日
+https://digital.asahi.com/articles/ASM3P1P8BM3PUHBI002.html
+「人種」の概念、科学で使わないで　米で差別助長を懸念：朝日新聞デジタル
+
+https://twitter.com/KanAugust/status/1111140994593030144
+Kan Nishida on Twitter: "先週話題になっていた例のやつですが、本文の翻訳と思うところをまとめてみました。 "「統計的有意」、「信頼区間」は本当に禁止されるべきなのか" https://t.co/32dTIgKP2G… "
+1:40 AM - 28 Mar 2019
+
 2019/3/26
 http://rpubs.com/kohske/479704
 RPubs - Nature神論文データ解析のメモ書
