@@ -77,6 +77,25 @@ https://www.igaku-honyaku.jp/ホーム/書評なぜ論文が書けないのか/
 
 ## 2019
 
+Pitagora Galaxy Meetup
+http://wiki.pitagora-galaxy.org/wiki/index.php/Events
+
+https://pitagora-network.org/events/
+Pitagora Network - Events
+
+Pitagora Meetup 2019-04
+2019-04-04 @ 慶應義塾大学三田キャンパス
+https://pitagora-network.org/events/meetup/2019/meetup-201904
+
+
+http://www.microbial-ecology.jp/en/
+https://www2.aeplan.co.jp/jsme2019/index.html
+日本微生物生態学会 第33回大会　【 2019年9月10日(火)～13日(金)　山梨大学 甲府キャンパス 】
+https://www2.aeplan.co.jp/jsme2019/sanka.html
+参加登録・発表申込
+参加登録は2019年4月2日（火）に開始します。
+
+
 http://biogeo.a.la9.jp/
 日本生物地理学会
 http://biogeo.a.la9.jp/meeting/info.htm
@@ -87,17 +106,15 @@ http://biogeo.a.la9.jp/meeting/info.htm
 場所
 東京大学フードサイエンス棟 中島董一郎記念ホール
 
+http://sesj2019.ibio.jp/?page_id=267
+http://sesj2019.ibio.jp/?page_id=47
+大会概要 – 日本進化学会第21回大会
+会期：2019年8月7日（水）〜10日（土）
+会場：北海道大学
 
-- 2019年3月24日（日）～27日（水） | 日本農芸化学会 2019年度大会（東京） | 京王プラザホテル（東京）　東京農業大学 世田谷キャンパス http://www.jsbba.or.jp/event/annual/
 - 2019-06-21 *[Global City Sampling Day](https://github.com/haruosuz/metasub/blob/master/README.md#csd)*
 - 2019-07-24 *[CAMDA2019 Conference @ Basel, Switzerland](http://camda.info/)*
 - 2019-08-30 *[2019 MetaSUB Meeting @ Istanbul, Turkey](http://metasub.org/)*
-
-Pitagora Galaxy Meetup
-http://wiki.pitagora-galaxy.org/wiki/index.php/Events
-
-https://pitagora-network.org/events/
-Pitagora Network - Events
 
 ----------
 https://www.jst.go.jp/report/2018/190117.html
