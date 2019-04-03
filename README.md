@@ -16,6 +16,8 @@ Last Update: 2019-03
 ## featuring
 
 - https://sfcclip.net/bus/
+- https://github.com/haruosuz/metasub
+- https://github.com/haruosuz/DS4GD/tree/master/2019
 - https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md
 - https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
 - https://github.com/haruosuz/metasub/blob/master/README.md
@@ -23,6 +25,11 @@ Last Update: 2019-03
 - https://github.com/haruosuz/statistics/blob/master/references/README.statistics.p-value.md
 - https://github.com/haruosuz/statistics
 - https://twitter.com/search?q=Wolbachia%20plasmid
+
+
+https://wired.jp/2018/03/31/to-stay-healthy-on-your-flight/
+飛行機で病気に感染したくなければ、「通路側の席」は避けるべし──その理由を専門家が生物学的に解明｜WIRED.jp
+
 
 2019年3月27日
 https://digital.asahi.com/articles/ASM3P1P8BM3PUHBI002.html
@@ -172,7 +179,6 @@ Nick Loman on Twitter: "An extremely informative thread explaining why metagenom
 
 
 - https://www.ted.com/topics/biology
-- https://github.com/haruosuz/DS4GD/tree/master/2018giga
 - https://github.com/haruosuz/introBI/tree/master/2018
   - http://apprize.info/data/bioinformatics/index.html
 - https://github.com/haruosuz/bioinfo
@@ -180,7 +186,6 @@ Nick Loman on Twitter: "An extremely informative thread explaining why metagenom
 - https://github.com/haruosuz/books
 - https://github.com/haruosuz/codon
 - https://github.com/haruosuz/evolve
-- https://github.com/haruosuz/metasub
 - https://github.com/haruosuz/mgsa
   - https://github.com/haruosuz/mgsa/tree/master/traitar
 - https://github.com/haruosuz/microbe
