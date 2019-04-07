@@ -16,10 +16,11 @@ Last Update: 2019-03
 ## featuring
 
 - https://sfcclip.net/bus/
-- https://github.com/haruosuz/metasub
-- https://github.com/haruosuz/DS4GD/tree/master/2019
+- https://github.com/haruosuz/microbe/blob/master/references/README.memo.md
 - https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md
 - https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
+- https://github.com/haruosuz/metasub
+- https://github.com/haruosuz/DS4GD/tree/master/2019
 - https://github.com/haruosuz/metasub/blob/master/README.md
 - https://github.com/haruosuz/mgsa/blob/master/lsbsr/README.md
 - https://github.com/haruosuz/statistics/blob/master/references/README.statistics.p-value.md
@@ -89,10 +90,6 @@ http://wiki.pitagora-galaxy.org/wiki/index.php/Events
 
 https://pitagora-network.org/events/
 Pitagora Network - Events
-
-Pitagora Meetup 2019-04
-2019-04-04 @ 慶應義塾大学三田キャンパス
-https://pitagora-network.org/events/meetup/2019/meetup-201904
 
 
 http://www.microbial-ecology.jp/en/
