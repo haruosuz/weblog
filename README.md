@@ -28,6 +28,9 @@ Last Update: 2019-03
 - https://twitter.com/search?q=Wolbachia%20plasmid
 
 
+http://ryotamugiyama.com/2018/06/11/trancated/
+Rでみるセレクションバイアスの例
+
 https://wired.jp/2018/03/31/to-stay-healthy-on-your-flight/
 飛行機で病気に感染したくなければ、「通路側の席」は避けるべし──その理由を専門家が生物学的に解明｜WIRED.jp
 
