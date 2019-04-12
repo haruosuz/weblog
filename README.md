@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-03
+Last Update: 2019-04
 
 ----------
 
@@ -27,6 +27,12 @@ Last Update: 2019-03
 - https://github.com/haruosuz/statistics
 - https://twitter.com/search?q=Wolbachia%20plasmid
 
+
+http://www.itc.keio.ac.jp/ja/gmail_user_manual_basic_operation_drive_login.html
+ドライブへのログイン | 慶應義塾ITC
+
+https://codeaid.jp/blog/gdrive-move/
+Googleドライブのデータを他のアカウントに移動する方法 – CodeAid（コードエイド）
 
 http://ryotamugiyama.com/2018/06/11/trancated/
 Rでみるセレクションバイアスの例
@@ -88,12 +94,12 @@ https://www.igaku-honyaku.jp/ホーム/書評なぜ論文が書けないのか/
 
 ## 2019
 
-Pitagora Galaxy Meetup
-http://wiki.pitagora-galaxy.org/wiki/index.php/Events
-
 https://pitagora-network.org/events/
 Pitagora Network - Events
-
+https://pitagora-network.org/events/meetup/2019/meetup-201905
+Pitagora Meetup 2019-05 | events
+日時： 2019年5月27日（月）10:00 〜 18:00
+場所： 理化学研究所 革新知能統合研究センター (日本橋) 会議室４
 
 http://www.microbial-ecology.jp/en/
 https://www2.aeplan.co.jp/jsme2019/index.html
@@ -122,6 +128,14 @@ http://sesj2019.ibio.jp/?page_id=47
 - 2019-06-21 *[Global City Sampling Day](https://github.com/haruosuz/metasub/blob/master/README.md#csd)*
 - 2019-07-24 *[CAMDA2019 Conference @ Basel, Switzerland](http://camda.info/)*
 - 2019-08-30 *[2019 MetaSUB Meeting @ Istanbul, Turkey](http://metasub.org/)*
+
+2019 Annual MetaSUB Meeting
+Aug 30-Sept 1, Istanbul, Turkey
+Location: Acibadem University
+Hotel: Istanbul Marriott Hotel Asia
+https://www.marriott.com/hotels/travel/istmc-istanbul-marriott-hotel-asia/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2
+Host: Dr. Sezerman (Ugur.Sezerman@acibadem.edu.tr)
+2020 Annual Meeting with ISME - August Dates TBD, Capetown, South Africa
 
 ----------
 https://www.jst.go.jp/report/2018/190117.html
