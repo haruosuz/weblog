@@ -27,6 +27,8 @@ http://biogeo.a.la9.jp/meeting/info.htm
 
 E PRONTO　東京大学中央食堂店
 
+本郷キャンパスの正門前
+
 
 https://pitagora-network.org/events/
 Pitagora Network - Events
