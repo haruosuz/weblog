@@ -25,6 +25,9 @@ http://biogeo.a.la9.jp/meeting/info.htm
 場所
 東京大学フードサイエンス棟 中島董一郎記念ホール
 
+E PRONTO　東京大学中央食堂店
+
+
 https://pitagora-network.org/events/
 Pitagora Network - Events
 https://pitagora-network.org/events/meetup/2019/meetup-201905
