@@ -15,6 +15,30 @@ Last Update: 2019-04
 ----------
 ## featuring
 
+http://biogeo.a.la9.jp/
+日本生物地理学会
+http://biogeo.a.la9.jp/meeting/info.htm
+日本生物地理学会
+第74回年次大会のご案内
+日時
+2019年 4月13日（土）～ 14日（日）
+場所
+東京大学フードサイエンス棟 中島董一郎記念ホール
+
+https://pitagora-network.org/events/
+Pitagora Network - Events
+https://pitagora-network.org/events/meetup/2019/meetup-201905
+Pitagora Meetup 2019-05 | events
+日時： 2019年5月27日（月）10:00 〜 18:00
+場所： 理化学研究所 革新知能統合研究センター (日本橋) 会議室４
+
+http://www.microbial-ecology.jp/en/
+https://www2.aeplan.co.jp/jsme2019/index.html
+日本微生物生態学会 第33回大会　【 2019年9月10日(火)～13日(金)　山梨大学 甲府キャンパス 】
+https://www2.aeplan.co.jp/jsme2019/sanka.html
+参加登録・発表申込
+参加登録は2019年4月2日（火）に開始します。
+
 - https://sfcclip.net/bus/
 - https://github.com/haruosuz/microbe/blob/master/references/README.memo.md
 - https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md
@@ -94,30 +118,6 @@ https://www.igaku-honyaku.jp/ホーム/書評なぜ論文が書けないのか/
 
 ## 2019
 
-https://pitagora-network.org/events/
-Pitagora Network - Events
-https://pitagora-network.org/events/meetup/2019/meetup-201905
-Pitagora Meetup 2019-05 | events
-日時： 2019年5月27日（月）10:00 〜 18:00
-場所： 理化学研究所 革新知能統合研究センター (日本橋) 会議室４
-
-http://www.microbial-ecology.jp/en/
-https://www2.aeplan.co.jp/jsme2019/index.html
-日本微生物生態学会 第33回大会　【 2019年9月10日(火)～13日(金)　山梨大学 甲府キャンパス 】
-https://www2.aeplan.co.jp/jsme2019/sanka.html
-参加登録・発表申込
-参加登録は2019年4月2日（火）に開始します。
-
-
-http://biogeo.a.la9.jp/
-日本生物地理学会
-http://biogeo.a.la9.jp/meeting/info.htm
-日本生物地理学会
-第74回年次大会のご案内
-日時
-2019年 4月13日（土）～ 14日（日）
-場所
-東京大学フードサイエンス棟 中島董一郎記念ホール
 
 http://sesj2019.ibio.jp/?page_id=267
 http://sesj2019.ibio.jp/?page_id=47
