@@ -15,20 +15,6 @@ Last Update: 2019-04
 ----------
 ## featuring
 
-http://biogeo.a.la9.jp/
-日本生物地理学会
-http://biogeo.a.la9.jp/meeting/info.htm
-日本生物地理学会
-第74回年次大会のご案内
-日時
-2019年 4月13日（土）～ 14日（日）
-場所
-東京大学フードサイエンス棟 中島董一郎記念ホール
-
-E PRONTO　東京大学中央食堂店
-
-本郷キャンパスの正門前
-
 
 https://pitagora-network.org/events/
 Pitagora Network - Events
@@ -41,10 +27,12 @@ http://www.microbial-ecology.jp/en/
 https://www2.aeplan.co.jp/jsme2019/index.html
 日本微生物生態学会 第33回大会　【 2019年9月10日(火)～13日(金)　山梨大学 甲府キャンパス 】
 https://www2.aeplan.co.jp/jsme2019/sanka.html
+日本微生物生態学会 第33回大会／参加登録・発表申込【 2019年9月10日(火)～13日(金)　山梨大学 甲府キャンパス 】
 参加登録・発表申込
 参加登録は2019年4月2日（火）に開始します。
 
 - https://sfcclip.net/bus/
+- https://github.com/haruosuz/evolve
 - https://github.com/haruosuz/microbe/blob/master/references/README.memo.md
 - https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md
 - https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
@@ -125,6 +113,7 @@ https://www.igaku-honyaku.jp/ホーム/書評なぜ論文が書けないのか/
 
 
 http://sesj2019.ibio.jp/?page_id=267
+Summary in English – 日本進化学会第21回大会
 http://sesj2019.ibio.jp/?page_id=47
 大会概要 – 日本進化学会第21回大会
 会期：2019年8月7日（水）〜10日（土）
@@ -197,15 +186,14 @@ Nick Loman on Twitter: "An extremely informative thread explaining why metagenom
 ----------
 
 
+
 - https://www.ted.com/topics/biology
 - https://github.com/haruosuz/introBI/tree/master/2018
   - http://apprize.info/data/bioinformatics/index.html
 - https://github.com/haruosuz/bioinfo
 - https://github.com/haruosuz/bioinfo/blob/master/README.md#blast
 - https://github.com/haruosuz/books
-- https://github.com/haruosuz/codon
-- https://github.com/haruosuz/evolve
-- https://github.com/haruosuz/mgsa
+- https://github.com/haruosuz/codon- https://github.com/haruosuz/mgsa
   - https://github.com/haruosuz/mgsa/tree/master/traitar
 - https://github.com/haruosuz/microbe
 - https://github.com/haruosuz/plasmids
