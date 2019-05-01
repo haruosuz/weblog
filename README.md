@@ -33,6 +33,7 @@ https://www2.aeplan.co.jp/jsme2019/sanka.html
 
 - https://sfcclip.net/bus/
 - https://github.com/haruosuz/evolve
+- https://github.com/haruosuz/microbe
 - https://github.com/haruosuz/microbe/blob/master/references/README.memo.md
 - https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md
 - https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
@@ -195,7 +196,6 @@ Nick Loman on Twitter: "An extremely informative thread explaining why metagenom
 - https://github.com/haruosuz/books
 - https://github.com/haruosuz/codon- https://github.com/haruosuz/mgsa
   - https://github.com/haruosuz/mgsa/tree/master/traitar
-- https://github.com/haruosuz/microbe
 - https://github.com/haruosuz/plasmids
 - https://github.com/haruosuz/r4bioinfo
 - https://github.com/haruosuz/r4bioinfo/tree/master/R_memo
