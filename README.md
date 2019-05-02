@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-04
+Last Update: 2019-05
 
 ----------
 
@@ -15,6 +15,8 @@ Last Update: 2019-04
 ----------
 ## featuring
 
+https://thinkeroid.hateblo.jp/entry/20190501/1556698797
+まだ「ウイルスは生物か無生物か」で消耗してるの？ - 殺シ屋鬼司令II
 
 https://pitagora-network.org/events/
 Pitagora Network - Events
@@ -52,16 +54,11 @@ http://www.itc.keio.ac.jp/ja/gmail_user_manual_basic_operation_drive_login.html
 https://codeaid.jp/blog/gdrive-move/
 Googleドライブのデータを他のアカウントに移動する方法 – CodeAid（コードエイド）
 
-http://ryotamugiyama.com/2018/06/11/trancated/
-Rでみるセレクションバイアスの例
-
-https://wired.jp/2018/03/31/to-stay-healthy-on-your-flight/
-飛行機で病気に感染したくなければ、「通路側の席」は避けるべし──その理由を専門家が生物学的に解明｜WIRED.jp
-
-
 2019年3月27日
 https://digital.asahi.com/articles/ASM3P1P8BM3PUHBI002.html
 「人種」の概念、科学で使わないで　米で差別助長を懸念：朝日新聞デジタル
+
+
 
 2019/3/26
 http://rpubs.com/kohske/479704
@@ -101,6 +98,13 @@ Stephen Turner on Twitter: "New approaches for metagenome assembly with short re
 
 
 https://www.igaku-honyaku.jp/ホーム/書評なぜ論文が書けないのか/
+
+http://ryotamugiyama.com/2018/06/11/trancated/
+Rでみるセレクションバイアスの例
+
+https://wired.jp/2018/03/31/to-stay-healthy-on-your-flight/
+飛行機で病気に感染したくなければ、「通路側の席」は避けるべし──その理由を専門家が生物学的に解明｜WIRED.jp
+
 
 ----------
 
