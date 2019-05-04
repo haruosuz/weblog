@@ -15,6 +15,8 @@ Last Update: 2019-05
 ----------
 ## featuring
 
+https://github.com/haruosuz/bioinfo/blob/master/references/README.reproducibility.md
+
 https://twitter.com/Symbionticism/status/1123203760564637697
 Seth Bordenstein on Twitter: "This is a game changer. Many intracellular microbes have a genome wide bias in A’s and T’s. The major assumption has been a mutational bias / drift impacts this outcome. Well, not so fast. Evidence below that selection can contribute or cause it.… https://t.co/yfDqN3b3Lj"
 8:33 AM - 30 Apr 2019
