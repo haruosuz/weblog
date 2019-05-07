@@ -15,6 +15,26 @@ Last Update: 2019-05
 ----------
 ## featuring
 
+
+
+
+2019-04-23
+https://spee.hatenablog.com/entry/infection_history
+感染症の世界史という名著 - (続)とある最底辺歯科医の戯れ言集
+
+https://thinkeroid.hateblo.jp/entry/20190501/1556698797
+まだ「ウイルスは生物か無生物か」で消耗してるの？ - 殺シ屋鬼司令II
+
+http://dain.cocolog-nifty.com/myblog/2019/02/post-40aa.html
+『ウイルスの意味論』はスゴ本: わたしが知らないスゴ本は、きっとあなたが読んでいる
+
+http://dain.cocolog-nifty.com/myblog/2011/12/post-1980.html
+「疫病と世界史」はスゴ本: わたしが知らないスゴ本は、きっとあなたが読んでいる
+- 著者は、この難問に「移動手段の発達」と「疫病の地域性」というツールを使う。
+- つまり、規模が大きく、複雑な組織を有し、人口密度が高く、都市を中心とした共同体が条件だという。そこでは、中間宿主なしに、病原菌が直接ヒトからヒトへ移動する。
+- 「移動手段の発達」が、徒歩、馬、帆船、汽船、そして飛行機と進むにつれ、ほとんど爆発するように感染域が拡大する。飛行機に乗ったトリインフルエンザは、これまでの疫病とは比べ物にならないスピードを誇って良い。
+
+
 https://github.com/haruosuz/bioinfo/blob/master/references/README.reproducibility.md
 
 https://twitter.com/Symbionticism/status/1123203760564637697
@@ -24,9 +44,6 @@ https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007778
 Selective advantages favour high genomic AT-contents in intracellular elements
 Accordingly, introducing AT-rich and GC-rich plasmids into other bacterial species with different genomic GC-contents revealed that the costs of G+C-rich plasmids decreased with an increasing GC-content of their host’s genomic DNA. 
 
-
-https://thinkeroid.hateblo.jp/entry/20190501/1556698797
-まだ「ウイルスは生物か無生物か」で消耗してるの？ - 殺シ屋鬼司令II
 
 https://pitagora-network.org/events/
 Pitagora Network - Events
@@ -98,23 +115,13 @@ https://gendai.ismedia.jp/articles/-/59275
 https://wired.jp/2019/02/06/the-key-to-a-long-life/
 遺伝子と「長寿家系」の関連性は意外と低かった：研究結果｜WIRED.jp
 
-https://twitter.com/EditageJapan/status/1102360072687104000
-研究者応援！エディテージ・インサイト on Twitter: "多くの著者が、研究背景の執筆に苦労しています。また、「背景」と「文献レビュー」の区別も、研究者たちが苦手意識を持っている問題です。背景の書き方の基本と、背景と文献レビューとの違いを押さえて、読者の興味をそそる背景を書き上げましょう。 #研究の背景 #文献検索 https://t.co/R0DOGwUEhI"
-7:08 PM - 3 Mar 2019
-
 https://twitter.com/strnr/status/1102292049527783426
 Stephen Turner on Twitter: "New approaches for metagenome assembly with short reads (free) https://t.co/QFVGINFY5a… "
 2:37 PM - 3 Mar 2019
 
 
-https://www.igaku-honyaku.jp/ホーム/書評なぜ論文が書けないのか/
-
 http://ryotamugiyama.com/2018/06/11/trancated/
 Rでみるセレクションバイアスの例
-
-https://wired.jp/2018/03/31/to-stay-healthy-on-your-flight/
-飛行機で病気に感染したくなければ、「通路側の席」は避けるべし──その理由を専門家が生物学的に解明｜WIRED.jp
-
 
 ----------
 
@@ -125,6 +132,11 @@ https://wired.jp/2018/03/31/to-stay-healthy-on-your-flight/
 ## updates
 
 ## 2019
+
+
+
+2019年05月06日 09時00分
+https://twitter.com/search?q=7人の命を奪ったPowerPointのスライド発表
 
 
 http://sesj2019.ibio.jp/?page_id=267
