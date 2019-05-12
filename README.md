@@ -15,6 +15,15 @@ Last Update: 2019-05
 ----------
 ## featuring
 
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.2019.md#2019-05-12
+- https://github.com/haruosuz/microbe/blob/master/references/README.memo.md#definition
+
+https://www.ncbi.nlm.nih.gov/pubmed/30670080
+Genome Biol. 2019 Jan 22;20(1):17. doi: 10.1186/s13059-019-1626-2.
+Where is genomics going next?
+Cheifet B1.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6341733/
+Chris Mason, Weill Cornell Medicine
 
 https://twitter.com/search?q="これからの微生物学"
 
