@@ -16,6 +16,9 @@ Last Update: 2019-05
 ## featuring
 
 
+- https://twitter.com/search?q=生命科学クライシス
+- https://twitter.com/search?q=なぜ科学はストーリーを必要としているのか
+- https://twitter.com/search?q="これからの微生物学"
 
 https://www.keio.ac.jp/ja/press-releases/2019/4/16/28-52539/
 地下鉄等の閉鎖的空間の環境を考えるシンポジウム開催（5/18）：[慶應義塾]
@@ -60,26 +63,6 @@ Where is genomics going next?
 Cheifet B1.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6341733/
 Chris Mason, Weill Cornell Medicine
-
-https://twitter.com/search?q="これからの微生物学"
-
-
-2019-04-23
-https://spee.hatenablog.com/entry/infection_history
-感染症の世界史という名著 - (続)とある最底辺歯科医の戯れ言集
-
-https://thinkeroid.hateblo.jp/entry/20190501/1556698797
-まだ「ウイルスは生物か無生物か」で消耗してるの？ - 殺シ屋鬼司令II
-
-http://dain.cocolog-nifty.com/myblog/2019/02/post-40aa.html
-『ウイルスの意味論』はスゴ本: わたしが知らないスゴ本は、きっとあなたが読んでいる
-
-http://dain.cocolog-nifty.com/myblog/2011/12/post-1980.html
-「疫病と世界史」はスゴ本: わたしが知らないスゴ本は、きっとあなたが読んでいる
-- 著者は、この難問に「移動手段の発達」と「疫病の地域性」というツールを使う。
-- つまり、規模が大きく、複雑な組織を有し、人口密度が高く、都市を中心とした共同体が条件だという。そこでは、中間宿主なしに、病原菌が直接ヒトからヒトへ移動する。
-- 「移動手段の発達」が、徒歩、馬、帆船、汽船、そして飛行機と進むにつれ、ほとんど爆発するように感染域が拡大する。飛行機に乗ったトリインフルエンザは、これまでの疫病とは比べ物にならないスピードを誇って良い。
-
 
 https://github.com/haruosuz/bioinfo/blob/master/references/README.reproducibility.md
 
