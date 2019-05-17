@@ -15,6 +15,42 @@ Last Update: 2019-05
 ----------
 ## featuring
 
+
+
+https://www.keio.ac.jp/ja/press-releases/2019/4/16/28-52539/
+地下鉄等の閉鎖的空間の環境を考えるシンポジウム開催（5/18）：[慶應義塾]
+このたび、慶應義塾大学理工学部は、日本エアロゾル学会と協力して、地下鉄等の閉鎖的空間の環境を考えるシンポジウムを、5月18日（土）に慶應義塾大学日吉キャンパスにおいて開催します。本シンポジウムの告知とご取材をお願い申し上げます。
+https://www.keio.ac.jp/ja/press-releases/files/2019/4/16/190416-2.pdf
+日 時：2019 年 5 月 18 日（土） 開場 12:30 開会 13:00 閉会 16:30 懇親会 17:00～19:00
+場 所：慶應義塾大学日吉キャンパス 協生館 藤原洋記念ホール
+（東急東横線・目黒線・横浜市営地下鉄グリーンライン日吉駅徒歩 1 分）
+http://www.kcc.keio.ac.jp/access/
+定 員：シンポジウム 200 名、懇親会 50 名
+参加費：無料（ただし資料希望者には資料代 1,000 円、当日徴収いたします）、懇親会 3,000 円
+
+https://twitter.com/ecology_bot
+生態学bot (@ecology_bot) | Twitter
+
+https://twitter.com/ecology_itacora
+生態学用語つぶやきぼっと。 (@ecology_itacora) | Twitter
+
+https://pitagora-network.org/events/
+Pitagora Network - Events
+https://pitagora-network.org/events/meetup/2019/meetup-201905
+Pitagora Meetup 2019-05 | events
+日時： 2019年5月27日（月）10:00 〜 18:00
+場所： 理化学研究所 革新知能統合研究センター (日本橋) 会議室４
+
+http://www.microbial-ecology.jp/en/
+https://www2.aeplan.co.jp/jsme2019/index.html
+日本微生物生態学会 第33回大会　【 2019年9月10日(火)～13日(金)　山梨大学 甲府キャンパス 】
+https://www2.aeplan.co.jp/jsme2019/sanka.html
+日本微生物生態学会 第33回大会／参加登録・発表申込【 2019年9月10日(火)～13日(金)　山梨大学 甲府キャンパス 】
+参加登録・発表申込
+参加登録は2019年4月2日（火）に開始します。
+
+
+
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.2019.md#2019-05-12
 - https://github.com/haruosuz/microbe/blob/master/references/README.memo.md#definition
 
@@ -53,22 +89,6 @@ Seth Bordenstein on Twitter: "This is a game changer. Many intracellular microbe
 https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007778
 Selective advantages favour high genomic AT-contents in intracellular elements
 Accordingly, introducing AT-rich and GC-rich plasmids into other bacterial species with different genomic GC-contents revealed that the costs of G+C-rich plasmids decreased with an increasing GC-content of their host’s genomic DNA. 
-
-
-https://pitagora-network.org/events/
-Pitagora Network - Events
-https://pitagora-network.org/events/meetup/2019/meetup-201905
-Pitagora Meetup 2019-05 | events
-日時： 2019年5月27日（月）10:00 〜 18:00
-場所： 理化学研究所 革新知能統合研究センター (日本橋) 会議室４
-
-http://www.microbial-ecology.jp/en/
-https://www2.aeplan.co.jp/jsme2019/index.html
-日本微生物生態学会 第33回大会　【 2019年9月10日(火)～13日(金)　山梨大学 甲府キャンパス 】
-https://www2.aeplan.co.jp/jsme2019/sanka.html
-日本微生物生態学会 第33回大会／参加登録・発表申込【 2019年9月10日(火)～13日(金)　山梨大学 甲府キャンパス 】
-参加登録・発表申込
-参加登録は2019年4月2日（火）に開始します。
 
 - https://sfcclip.net/bus/
 - https://github.com/haruosuz/evolve
