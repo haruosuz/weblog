@@ -20,16 +20,26 @@ Last Update: 2019-05
 - https://twitter.com/search?q=なぜ科学はストーリーを必要としているのか
 - https://twitter.com/search?q="これからの微生物学"
 
-https://www.keio.ac.jp/ja/press-releases/2019/4/16/28-52539/
-地下鉄等の閉鎖的空間の環境を考えるシンポジウム開催（5/18）：[慶應義塾]
-このたび、慶應義塾大学理工学部は、日本エアロゾル学会と協力して、地下鉄等の閉鎖的空間の環境を考えるシンポジウムを、5月18日（土）に慶應義塾大学日吉キャンパスにおいて開催します。本シンポジウムの告知とご取材をお願い申し上げます。
-https://www.keio.ac.jp/ja/press-releases/files/2019/4/16/190416-2.pdf
-日 時：2019 年 5 月 18 日（土） 開場 12:30 開会 13:00 閉会 16:30 懇親会 17:00～19:00
-場 所：慶應義塾大学日吉キャンパス 協生館 藤原洋記念ホール
-（東急東横線・目黒線・横浜市営地下鉄グリーンライン日吉駅徒歩 1 分）
-http://www.kcc.keio.ac.jp/access/
-定 員：シンポジウム 200 名、懇親会 50 名
-参加費：無料（ただし資料希望者には資料代 1,000 円、当日徴収いたします）、懇親会 3,000 円
+https://twitter.com/search?q=AI時代へ向けて育成すべきはAI人材か%3F
+
+masanork
+2019/05/19 23:34
+https://note.mu/masanork/n/n9f880e4649c8
+人材不足について正直よく分からないこと｜masanork｜note
+
+masanork
+2019/05/18 23:20
+https://note.mu/masanork/n/n83f98245712e
+AI時代へ向けて育成すべきはAI人材か?｜masanork｜note
+
+
+http://park.itc.u-tokyo.ac.jp/criim2018/event/201907/
+微生物ウィーク2019 | 東京大学微生物科学イノベーション連携研究機構（CRIIM）
+2019年7月22日（月）〜7月27日（土）
+東京大学農学部弥生講堂 一条ホール
+東京大学農学部2号館
+
+
 
 https://twitter.com/ecology_bot
 生態学bot (@ecology_bot) | Twitter
