@@ -41,6 +41,51 @@ http://park.itc.u-tokyo.ac.jp/criim2018/event/201907/
 
 
 
+
+https://twitter.com/sesj2019
+進化学会2019北海道
+http://sesj2019.ibio.jp/?page_id=343
+参加・演題登録 – 日本進化学会第21回大会
+
+発表申込〆切：6月14日（金）
+早期登録〆切：6月28日（金）振り込みは7月12日まで（それ以降は直前登録扱い）
+ネットからの参加申し込み〆切：7月31日（水）
+
+http://sesj2019.ibio.jp/?page_id=267
+Summary in English – 日本進化学会第21回大会
+http://sesj2019.ibio.jp/?page_id=47
+大会概要 – 日本進化学会第21回大会
+会期：2019年8月7日（水）〜10日（土）
+会場：北海道大学
+
+- 2019-06-21 *[Global City Sampling Day](https://github.com/haruosuz/metasub/blob/master/README.md#csd)*
+- 2019-07-24 *[CAMDA2019 Conference @ Basel, Switzerland](http://camda.info/)*
+- 2019-08-30 *[2019 MetaSUB Meeting @ Istanbul, Turkey](http://metasub.org/)*
+
+2019 Annual MetaSUB Meeting
+Aug 30-Sept 1, Istanbul, Turkey
+Location: Acibadem University
+Hotel: Istanbul Marriott Hotel Asia
+https://www.marriott.com/hotels/travel/istmc-istanbul-marriott-hotel-asia/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2
+Host: Dr. Sezerman (Ugur.Sezerman@acibadem.edu.tr)
+2020 Annual Meeting with ISME - August Dates TBD, Capetown, South Africa
+
+----------
+https://www.jst.go.jp/report/2018/190117.html
+BioHackathon 2018開催報告
+
+http://wiki.lifesciencedb.jp/mw/SPARQLthon
+```
+2019/06/24-25 SPARQLthon81 @ DBCLS (柏)
+2019/07/08-12 国内版バイオハッカソン BH19.7 @ 指宿 (7/7 は質量分析インフォマティクス・プレミーティング)
+2019/07/29-30 SPARQLthon82 @ DBCLS (三島)
+2019/08/22-23 SPARQLthon83 @ DBCLS (柏)
+2019/09/01-07 BioHackathon 2019 @ 福岡（暫定）
+お知らせ：9/1に中洲近くの "西鉄イン福岡" でシンポジウムを行い、9/2朝にバスでハッカソン会場へ移動する予定です。8/31, 9/1の招聘者以外の宿泊は、主催側で取りまとめを行わない予定ですので、各自早めのホテル予約をおすすめします。万一、ハッカソンの予定が変更になった場合には各自キャンセルしてください。9/2からのハッカソン会場のほうの宿泊はこれまで通り取りまとめる予定です。
+```
+
+
+
 https://twitter.com/ecology_bot
 生態学bot (@ecology_bot) | Twitter
 
@@ -160,38 +205,6 @@ Rでみるセレクションバイアスの例
 
 2019年05月06日 09時00分
 https://twitter.com/search?q=7人の命を奪ったPowerPointのスライド発表
-
-
-http://sesj2019.ibio.jp/?page_id=267
-Summary in English – 日本進化学会第21回大会
-http://sesj2019.ibio.jp/?page_id=47
-大会概要 – 日本進化学会第21回大会
-会期：2019年8月7日（水）〜10日（土）
-会場：北海道大学
-
-- 2019-06-21 *[Global City Sampling Day](https://github.com/haruosuz/metasub/blob/master/README.md#csd)*
-- 2019-07-24 *[CAMDA2019 Conference @ Basel, Switzerland](http://camda.info/)*
-- 2019-08-30 *[2019 MetaSUB Meeting @ Istanbul, Turkey](http://metasub.org/)*
-
-2019 Annual MetaSUB Meeting
-Aug 30-Sept 1, Istanbul, Turkey
-Location: Acibadem University
-Hotel: Istanbul Marriott Hotel Asia
-https://www.marriott.com/hotels/travel/istmc-istanbul-marriott-hotel-asia/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2
-Host: Dr. Sezerman (Ugur.Sezerman@acibadem.edu.tr)
-2020 Annual Meeting with ISME - August Dates TBD, Capetown, South Africa
-
-----------
-https://www.jst.go.jp/report/2018/190117.html
-BioHackathon 2018開催報告
-
-http://wiki.lifesciencedb.jp/mw/SPARQLthon
-今後の開催予定
-場所未定のままの場合は、基本的に DBCLS 柏の葉キャンパス駅前での開催となります。
-
-	• 2019/03/28-29 SPARQLthon78 @ DBCLS (三島)
-	• 2019/04/22-23 SPARQLthon79 @ DBCLS (柏)
-		• 2019/09/01-07 BioHackathon 2019 @ 福岡（暫定）
 
 ## 2018
 
