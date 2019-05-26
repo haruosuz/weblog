@@ -15,6 +15,34 @@ Last Update: 2019-05
 ----------
 ## featuring
 
+https://pitagora-network.org/events/
+Pitagora Network - Events
+https://pitagora-network.org/events/meetup/2019/meetup-201905
+Pitagora Meetup 2019-05 | events
+日時： 2019年5月27日（月）10:00 〜 18:00
+場所： 理化学研究所 革新知能統合研究センター (日本橋) 会議室４
+
+- https://sfcclip.net/bus/
+- https://github.com/haruosuz/microbe
+- https://github.com/haruosuz/microbe/blob/master/references/README.memo.md
+- https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md
+- https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
+- https://github.com/haruosuz/bioinfo/blob/master/references/README.reproducibility.md
+- https://github.com/haruosuz/evolve
+- https://github.com/haruosuz/metasub
+- https://github.com/haruosuz/DS4GD/tree/master/2019
+- https://github.com/haruosuz/metasub/blob/master/README.md
+- https://github.com/haruosuz/mgsa/blob/master/lsbsr/README.md
+- https://github.com/haruosuz/statistics/blob/master/references/README.statistics.p-value.md
+- https://github.com/haruosuz/statistics
+- https://twitter.com/search?q=Wolbachia%20plasmid
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.2019.md#2019-05-12
+- https://github.com/haruosuz/microbe/blob/master/references/README.memo.md#definition
+
+
+
+https://wired.jp/2019/05/21/the-great-white-shark-genome/
+ホオジロザメの遺伝子解析で、その優れた治癒能力の秘密が見えてきた｜WIRED.jp
 
 - https://twitter.com/search?q=生命科学クライシス
 - https://twitter.com/search?q=なぜ科学はストーリーを必要としているのか
@@ -22,25 +50,32 @@ Last Update: 2019-05
 
 https://twitter.com/search?q=AI時代へ向けて育成すべきはAI人材か%3F
 
-masanork
-2019/05/19 23:34
-https://note.mu/masanork/n/n9f880e4649c8
-人材不足について正直よく分からないこと｜masanork｜note
+- https://twitter.com/ecology_bot
+生態学bot (@ecology_bot) | Twitter
+- https://twitter.com/ecology_itacora
+生態学用語つぶやきぼっと。 (@ecology_itacora) | Twitter
 
-masanork
-2019/05/18 23:20
-https://note.mu/masanork/n/n83f98245712e
-AI時代へ向けて育成すべきはAI人材か?｜masanork｜note
-
-
-http://park.itc.u-tokyo.ac.jp/criim2018/event/201907/
-微生物ウィーク2019 | 東京大学微生物科学イノベーション連携研究機構（CRIIM）
-2019年7月22日（月）〜7月27日（土）
-東京大学農学部弥生講堂 一条ホール
-東京大学農学部2号館
+http://www.microbial-ecology.jp/en/
+https://www2.aeplan.co.jp/jsme2019/index.html
+日本微生物生態学会 第33回大会　【 2019年9月10日(火)～13日(金)　山梨大学 甲府キャンパス 】
+https://www2.aeplan.co.jp/jsme2019/sanka.html
+日本微生物生態学会 第33回大会／参加登録・発表申込【 2019年9月10日(火)～13日(金)　山梨大学 甲府キャンパス 】
+参加登録・発表申込
+参加登録は2019年4月2日（火）に開始します。
 
 
+https://www.jst.go.jp/report/2018/190117.html
+BioHackathon 2018開催報告
 
+http://wiki.lifesciencedb.jp/mw/SPARQLthon
+```
+2019/06/24-25 SPARQLthon81 @ DBCLS (柏)
+2019/07/08-12 国内版バイオハッカソン BH19.7 @ 指宿 (7/7 は質量分析インフォマティクス・プレミーティング)
+2019/07/29-30 SPARQLthon82 @ DBCLS (三島)
+2019/08/22-23 SPARQLthon83 @ DBCLS (柏)
+2019/09/01-07 BioHackathon 2019 @ 福岡（暫定）
+お知らせ：9/1に中洲近くの "西鉄イン福岡" でシンポジウムを行い、9/2朝にバスでハッカソン会場へ移動する予定です。8/31, 9/1の招聘者以外の宿泊は、主催側で取りまとめを行わない予定ですので、各自早めのホテル予約をおすすめします。万一、ハッカソンの予定が変更になった場合には各自キャンセルしてください。9/2からのハッカソン会場のほうの宿泊はこれまで通り取りまとめる予定です。
+```
 
 https://twitter.com/sesj2019
 進化学会2019北海道
@@ -71,46 +106,14 @@ Host: Dr. Sezerman (Ugur.Sezerman@acibadem.edu.tr)
 2020 Annual Meeting with ISME - August Dates TBD, Capetown, South Africa
 
 ----------
-https://www.jst.go.jp/report/2018/190117.html
-BioHackathon 2018開催報告
-
-http://wiki.lifesciencedb.jp/mw/SPARQLthon
-```
-2019/06/24-25 SPARQLthon81 @ DBCLS (柏)
-2019/07/08-12 国内版バイオハッカソン BH19.7 @ 指宿 (7/7 は質量分析インフォマティクス・プレミーティング)
-2019/07/29-30 SPARQLthon82 @ DBCLS (三島)
-2019/08/22-23 SPARQLthon83 @ DBCLS (柏)
-2019/09/01-07 BioHackathon 2019 @ 福岡（暫定）
-お知らせ：9/1に中洲近くの "西鉄イン福岡" でシンポジウムを行い、9/2朝にバスでハッカソン会場へ移動する予定です。8/31, 9/1の招聘者以外の宿泊は、主催側で取りまとめを行わない予定ですので、各自早めのホテル予約をおすすめします。万一、ハッカソンの予定が変更になった場合には各自キャンセルしてください。9/2からのハッカソン会場のほうの宿泊はこれまで通り取りまとめる予定です。
-```
 
 
+http://park.itc.u-tokyo.ac.jp/criim2018/event/201907/
+微生物ウィーク2019 | 東京大学微生物科学イノベーション連携研究機構（CRIIM）
+2019年7月22日（月）〜7月27日（土）
+東京大学農学部弥生講堂 一条ホール
+東京大学農学部2号館
 
-https://twitter.com/ecology_bot
-生態学bot (@ecology_bot) | Twitter
-
-https://twitter.com/ecology_itacora
-生態学用語つぶやきぼっと。 (@ecology_itacora) | Twitter
-
-https://pitagora-network.org/events/
-Pitagora Network - Events
-https://pitagora-network.org/events/meetup/2019/meetup-201905
-Pitagora Meetup 2019-05 | events
-日時： 2019年5月27日（月）10:00 〜 18:00
-場所： 理化学研究所 革新知能統合研究センター (日本橋) 会議室４
-
-http://www.microbial-ecology.jp/en/
-https://www2.aeplan.co.jp/jsme2019/index.html
-日本微生物生態学会 第33回大会　【 2019年9月10日(火)～13日(金)　山梨大学 甲府キャンパス 】
-https://www2.aeplan.co.jp/jsme2019/sanka.html
-日本微生物生態学会 第33回大会／参加登録・発表申込【 2019年9月10日(火)～13日(金)　山梨大学 甲府キャンパス 】
-参加登録・発表申込
-参加登録は2019年4月2日（火）に開始します。
-
-
-
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.2019.md#2019-05-12
-- https://github.com/haruosuz/microbe/blob/master/references/README.memo.md#definition
 
 https://www.ncbi.nlm.nih.gov/pubmed/30670080
 Genome Biol. 2019 Jan 22;20(1):17. doi: 10.1186/s13059-019-1626-2.
@@ -119,7 +122,6 @@ Cheifet B1.
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6341733/
 Chris Mason, Weill Cornell Medicine
 
-https://github.com/haruosuz/bioinfo/blob/master/references/README.reproducibility.md
 
 https://twitter.com/Symbionticism/status/1123203760564637697
 Seth Bordenstein on Twitter: "This is a game changer. Many intracellular microbes have a genome wide bias in A’s and T’s. The major assumption has been a mutational bias / drift impacts this outcome. Well, not so fast. Evidence below that selection can contribute or cause it.… https://t.co/yfDqN3b3Lj"
@@ -128,19 +130,7 @@ https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007778
 Selective advantages favour high genomic AT-contents in intracellular elements
 Accordingly, introducing AT-rich and GC-rich plasmids into other bacterial species with different genomic GC-contents revealed that the costs of G+C-rich plasmids decreased with an increasing GC-content of their host’s genomic DNA. 
 
-- https://sfcclip.net/bus/
-- https://github.com/haruosuz/evolve
-- https://github.com/haruosuz/microbe
-- https://github.com/haruosuz/microbe/blob/master/references/README.memo.md
-- https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md
-- https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
-- https://github.com/haruosuz/metasub
-- https://github.com/haruosuz/DS4GD/tree/master/2019
-- https://github.com/haruosuz/metasub/blob/master/README.md
-- https://github.com/haruosuz/mgsa/blob/master/lsbsr/README.md
-- https://github.com/haruosuz/statistics/blob/master/references/README.statistics.p-value.md
-- https://github.com/haruosuz/statistics
-- https://twitter.com/search?q=Wolbachia%20plasmid
+
 
 
 http://www.itc.keio.ac.jp/ja/gmail_user_manual_basic_operation_drive_login.html
