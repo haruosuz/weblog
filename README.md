@@ -23,6 +23,9 @@ Pitagora Meetup 2019-05 | events
 場所： 理化学研究所 革新知能統合研究センター (日本橋) 会議室４
 
 - https://sfcclip.net/bus/
+- https://github.com/haruosuz/codon
+- https://github.com/haruosuz/mgsa
+  - https://github.com/haruosuz/mgsa/blob/master/references/README.pangenome.md
 - https://github.com/haruosuz/microbe
 - https://github.com/haruosuz/microbe/blob/master/references/README.memo.md
 - https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md
@@ -32,7 +35,6 @@ Pitagora Meetup 2019-05 | events
 - https://github.com/haruosuz/metasub
 - https://github.com/haruosuz/DS4GD/tree/master/2019
 - https://github.com/haruosuz/metasub/blob/master/README.md
-- https://github.com/haruosuz/mgsa/blob/master/lsbsr/README.md
 - https://github.com/haruosuz/statistics/blob/master/references/README.statistics.p-value.md
 - https://github.com/haruosuz/statistics
 - https://twitter.com/search?q=Wolbachia%20plasmid
@@ -246,8 +248,6 @@ Nick Loman on Twitter: "An extremely informative thread explaining why metagenom
 - https://github.com/haruosuz/bioinfo
 - https://github.com/haruosuz/bioinfo/blob/master/README.md#blast
 - https://github.com/haruosuz/books
-- https://github.com/haruosuz/codon- https://github.com/haruosuz/mgsa
-  - https://github.com/haruosuz/mgsa/tree/master/traitar
 - https://github.com/haruosuz/plasmids
 - https://github.com/haruosuz/r4bioinfo
 - https://github.com/haruosuz/r4bioinfo/tree/master/R_memo
