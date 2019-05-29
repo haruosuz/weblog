@@ -40,6 +40,40 @@ Pitagora Meetup 2019-05 | events
 - https://twitter.com/search?q=Wolbachia%20plasmid
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.2019.md#2019-05-12
 - https://github.com/haruosuz/microbe/blob/master/references/README.memo.md#definition
+- 
+- https://twitter.com/search?q=%22土・牛・微生物%22
+- https://twitter.com/search?q=%22抗生物質と人間%22
+- https://twitter.com/search?q=%22微生物の驚異%22
+- https://twitter.com/search?q=%22マイクロバイオームの世界%22
+- https://twitter.com/search?q=%20土と内臓%20微生物がつくる世界
+- https://twitter.com/search?q=あなたの体は９割が細菌
+- https://twitter.com/search?q=失われてゆく、我々の内なる細菌
+- https://twitter.com/search?q=世界は細菌にあふれ、人は細菌によって生かされる
+
+
+http://sciencebook.blog110.fc2.com
+科学に佇む一行読書の書斎
+
+【2016/06/20】
+http://sciencebook.blog110.fc2.com/blog-entry-2222.html
+『 ミニ特集：心の健康と腸内フローラ 』
+
+【2016/02/27】
+http://sciencebook.blog110.fc2.com/blog-entry-2083.html
+『 ミニ特集：免疫をめぐる腸内細菌と寄生虫 』
+
+【2005/03/05】
+http://sciencebook.blog110.fc2.com/blog-entry-310.html
+『 セカンド・ブレイン　腸にも脳がある！ 』
+
+【2014/12/10】
+http://sciencebook.blog110.fc2.com/blog-entry-2251.html
+『 納豆の起源 』
+
+【2010/08/07】
+http://sciencebook.blog110.fc2.com/blog-entry-1492.html#納豆菌汚染
+『 バイオ実験超基本Q&A　そして「納豆凶悪伝説」 』
+
 
 
 
