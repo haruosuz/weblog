@@ -15,6 +15,27 @@ Last Update: 2019-05
 ----------
 ## featuring
 
+### 2019-03-21
+
+https://str.toyokeizai.net/books/9784492046432/
+子どもの人生は「腸」で決まる | 東洋経済STORE
+
+https://www.amazon.co.jp/dp/4492046437
+子どもの人生は「腸」で決まる: 3歳までにやっておきたい最強の免疫力の育て方
+ジャック・ギルバート、ロブ・ナイト、サンドラ・ブレイクスリー (著)、鍛原 多惠子 (翻訳)
+Dirt Is Good: The Advantage of Germs for Your Child's Developing Immune System、待望の邦訳!
+
+2019/05/25 5:50
+https://toyokeizai.net/articles/-/281902
+幼児期までに｢多様な細菌｣と触れ合うべき理由 | 健康 | 東洋経済オンライン | 経済ニュースの新基準
+最近の研究では、幼少期に土や動物と触れ合って細菌を体内に取り入れたほうが、アレルギーや肥満になりにくいことがわかっています。
+
+
+https://natgeo.nikkeibp.co.jp/atcl/news/19/053100314/?P=2
+世界の「抗生物質汚染」、今すぐ対策を、最新研究 | ナショナルジオグラフィック日本版サイト
+英国政府の委託を受けた2014年の研究では、薬剤耐性菌による感染症が2050年までに世界の死因のトップに躍り出る可能性があると警告した。（参考記事：「薬剤耐性菌の感染拡大、世界で脅威に」）
+
+
 https://pitagora-network.org/events/
 Pitagora Network - Events
 https://pitagora-network.org/events/meetup/2019/meetup-201905
