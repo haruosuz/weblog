@@ -15,6 +15,10 @@ Last Update: 2019-05
 ----------
 ## featuring
 
+https://diet.news-postseven.com/25850
+【痩せる究極の食事】じゃがいもはNG、「グルテンフリーダイエット」に科学的根拠なし (1/1)| ダイエットポストセブン
+砂糖の数百倍も甘いのに血糖値が上がらないので、脳が混乱し、その後、血糖値が上がるようなものを食べたくなったり、なかなか満腹感が得られない状態になってしまうという仮説や、腸内細菌が悪く変化してしまうという説も。人工甘味料そのものに害がなくても、それによって引き起こされる脳の混乱と食習慣が、長期的に健康に悪影響を及ぼしてしまう可能性があります。
+
 ### 2019-03-21
 
 https://str.toyokeizai.net/books/9784492046432/
@@ -44,6 +48,9 @@ Pitagora Meetup 2019-05 | events
 場所： 理化学研究所 革新知能統合研究センター (日本橋) 会議室４
 
 - https://sfcclip.net/bus/
+- https://github.com/haruosuz/statistics
+- https://github.com/haruosuz/statistics/blob/master/README.md
+- https://github.com/haruosuz/statistics/blob/master/references/README.statistics.p-value.md
 - https://github.com/haruosuz/codon
 - https://github.com/haruosuz/mgsa
   - https://github.com/haruosuz/mgsa/blob/master/references/README.pangenome.md
@@ -56,8 +63,6 @@ Pitagora Meetup 2019-05 | events
 - https://github.com/haruosuz/metasub
 - https://github.com/haruosuz/DS4GD/tree/master/2019
 - https://github.com/haruosuz/metasub/blob/master/README.md
-- https://github.com/haruosuz/statistics/blob/master/references/README.statistics.p-value.md
-- https://github.com/haruosuz/statistics
 - https://twitter.com/search?q=Wolbachia%20plasmid
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.2019.md#2019-05-12
 - https://github.com/haruosuz/microbe/blob/master/references/README.memo.md#definition
