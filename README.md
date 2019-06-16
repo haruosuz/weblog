@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-05
+Last Update: 2019-06
 
 ----------
 
@@ -15,48 +15,25 @@ Last Update: 2019-05
 ----------
 ## featuring
 
-https://diet.news-postseven.com/25850
-【痩せる究極の食事】じゃがいもはNG、「グルテンフリーダイエット」に科学的根拠なし (1/1)| ダイエットポストセブン
-砂糖の数百倍も甘いのに血糖値が上がらないので、脳が混乱し、その後、血糖値が上がるようなものを食べたくなったり、なかなか満腹感が得られない状態になってしまうという仮説や、腸内細菌が悪く変化してしまうという説も。人工甘味料そのものに害がなくても、それによって引き起こされる脳の混乱と食習慣が、長期的に健康に悪影響を及ぼしてしまう可能性があります。
-
-### 2019-03-21
-
-https://str.toyokeizai.net/books/9784492046432/
-子どもの人生は「腸」で決まる | 東洋経済STORE
-
-https://www.amazon.co.jp/dp/4492046437
-子どもの人生は「腸」で決まる: 3歳までにやっておきたい最強の免疫力の育て方
-ジャック・ギルバート、ロブ・ナイト、サンドラ・ブレイクスリー (著)、鍛原 多惠子 (翻訳)
-Dirt Is Good: The Advantage of Germs for Your Child's Developing Immune System、待望の邦訳!
-
-2019/05/25 5:50
-https://toyokeizai.net/articles/-/281902
-幼児期までに｢多様な細菌｣と触れ合うべき理由 | 健康 | 東洋経済オンライン | 経済ニュースの新基準
-最近の研究では、幼少期に土や動物と触れ合って細菌を体内に取り入れたほうが、アレルギーや肥満になりにくいことがわかっています。
-
-
-https://natgeo.nikkeibp.co.jp/atcl/news/19/053100314/?P=2
-世界の「抗生物質汚染」、今すぐ対策を、最新研究 | ナショナルジオグラフィック日本版サイト
-英国政府の委託を受けた2014年の研究では、薬剤耐性菌による感染症が2050年までに世界の死因のトップに躍り出る可能性があると警告した。（参考記事：「薬剤耐性菌の感染拡大、世界で脅威に」）
+Published: 20 May 2019
+https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msz124/5492082
+Elucidation of Codon Usage Signatures across the Domains of Life | Molecular Biology and Evolution | Oxford Academic
 
 
 https://pitagora-network.org/events/
 Pitagora Network - Events
 https://pitagora-network.org/events/meetup/2019/meetup-201905
-Pitagora Meetup 2019-05 | events
-日時： 2019年5月27日（月）10:00 〜 18:00
-場所： 理化学研究所 革新知能統合研究センター (日本橋) 会議室４
 
 - https://sfcclip.net/bus/
+- https://github.com/haruosuz/microbe
+  - https://github.com/haruosuz/microbe/blob/master/references/README.memo.md
+  - https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md
+- https://github.com/haruosuz/mgsa
+  - https://github.com/haruosuz/mgsa/blob/master/references/README.pangenome.md
 - https://github.com/haruosuz/statistics
 - https://github.com/haruosuz/statistics/blob/master/README.md
 - https://github.com/haruosuz/statistics/blob/master/references/README.statistics.p-value.md
 - https://github.com/haruosuz/codon
-- https://github.com/haruosuz/mgsa
-  - https://github.com/haruosuz/mgsa/blob/master/references/README.pangenome.md
-- https://github.com/haruosuz/microbe
-- https://github.com/haruosuz/microbe/blob/master/references/README.memo.md
-- https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md
 - https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
 - https://github.com/haruosuz/bioinfo/blob/master/references/README.reproducibility.md
 - https://github.com/haruosuz/evolve
@@ -67,14 +44,6 @@ Pitagora Meetup 2019-05 | events
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.2019.md#2019-05-12
 - https://github.com/haruosuz/microbe/blob/master/references/README.memo.md#definition
 - 
-- https://twitter.com/search?q=%22土・牛・微生物%22
-- https://twitter.com/search?q=%22抗生物質と人間%22
-- https://twitter.com/search?q=%22微生物の驚異%22
-- https://twitter.com/search?q=%22マイクロバイオームの世界%22
-- https://twitter.com/search?q=%20土と内臓%20微生物がつくる世界
-- https://twitter.com/search?q=あなたの体は９割が細菌
-- https://twitter.com/search?q=失われてゆく、我々の内なる細菌
-- https://twitter.com/search?q=世界は細菌にあふれ、人は細菌によって生かされる
 
 
 http://sciencebook.blog110.fc2.com
@@ -101,6 +70,25 @@ http://sciencebook.blog110.fc2.com/blog-entry-1492.html#納豆菌汚染
 『 バイオ実験超基本Q&A　そして「納豆凶悪伝説」 』
 
 
+### 2019-03-21
+
+https://str.toyokeizai.net/books/9784492046432/
+子どもの人生は「腸」で決まる | 東洋経済STORE
+
+https://www.amazon.co.jp/dp/4492046437
+子どもの人生は「腸」で決まる: 3歳までにやっておきたい最強の免疫力の育て方
+ジャック・ギルバート、ロブ・ナイト、サンドラ・ブレイクスリー (著)、鍛原 多惠子 (翻訳)
+Dirt Is Good: The Advantage of Germs for Your Child's Developing Immune System、待望の邦訳!
+
+2019/05/25 5:50
+https://toyokeizai.net/articles/-/281902
+幼児期までに｢多様な細菌｣と触れ合うべき理由 | 健康 | 東洋経済オンライン | 経済ニュースの新基準
+最近の研究では、幼少期に土や動物と触れ合って細菌を体内に取り入れたほうが、アレルギーや肥満になりにくいことがわかっています。
+
+
+https://natgeo.nikkeibp.co.jp/atcl/news/19/053100314/?P=2
+世界の「抗生物質汚染」、今すぐ対策を、最新研究 | ナショナルジオグラフィック日本版サイト
+英国政府の委託を受けた2014年の研究では、薬剤耐性菌による感染症が2050年までに世界の死因のトップに躍り出る可能性があると警告した。（参考記事：「薬剤耐性菌の感染拡大、世界で脅威に」）
 
 
 https://wired.jp/2019/05/21/the-great-white-shark-genome/
