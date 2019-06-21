@@ -15,6 +15,26 @@ Last Update: 2019-06
 ----------
 ## featuring
 
+https://metasub.connpass.com/event/130988/
+市民科学カフェ「微生物 DNA とは？」 - connpass
+
+開催前
+2019/06/21(金)
+18:30 〜 19:45
+
+会場
+オラクル青山センター 22F カフェ
+東京都港区北青山2-5-8
+
+```
+時間	内容	登壇者
+18:15-18:30	受付	-
+18:30-18:45	Global City Sampling Day 2019 速報	山中 遼太（リモート）
+18:45-19:15	講演「市民科学が都市の微生物を解き明かす」	鈴木 治夫 氏
+19:15-19:45	講演「女性と胎児を守る乳酸生成菌のチカラ」	長井 陽子 氏
+```
+
+
 Published: 20 May 2019
 https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msz124/5492082
 Elucidation of Codon Usage Signatures across the Domains of Life | Molecular Biology and Evolution | Oxford Academic
