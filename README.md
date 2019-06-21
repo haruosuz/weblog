@@ -15,6 +15,8 @@ Last Update: 2019-06
 ----------
 ## featuring
 
+- 2019-06-21 *[Global City Sampling Day](https://github.com/haruosuz/metasub/blob/master/README.md#csd)*
+
 https://metasub.connpass.com/event/130988/
 市民科学カフェ「微生物 DNA とは？」 - connpass
 
@@ -163,7 +165,6 @@ http://sesj2019.ibio.jp/?page_id=47
 会期：2019年8月7日（水）〜10日（土）
 会場：北海道大学
 
-- 2019-06-21 *[Global City Sampling Day](https://github.com/haruosuz/metasub/blob/master/README.md#csd)*
 - 2019-07-24 *[CAMDA2019 Conference @ Basel, Switzerland](http://camda.info/)*
 - 2019-08-30 *[2019 MetaSUB Meeting @ Istanbul, Turkey](http://metasub.org/)*
 
