@@ -15,7 +15,23 @@ Last Update: 2019-06
 ----------
 ## featuring
 
-http://www.世田谷うまいラーメンさとう.com
+
+
+https://www.biorxiv.org/content/10.1101/688465v1
+PhyloMagnet: Fast and accurate screening of short-read meta-omics data using gene-centric phylogenetics | bioRxiv
+
+https://www.biorxiv.org/content/10.1101/653592v1
+Not just BLAST nt: WGS database joins the party | bioRxiv
+
+
+https://kimuraseminar.wordpress.com/
+第3回 進化学セミナーを開催します。2019年8月3日と4日は御殿場高原時之栖で講義と実習を、5日は国立遺伝学研究所に場所を移して研究集会を開催します！
+https://kimuraseminar.wordpress.com/第3回-進化学セミナーのおしらせ/
+日程	2019年8月3日(土)〜5日(月)
+場所	3日〜4日　御殿場高原時之栖
+5日　国立遺伝学研究所
+
+
 
 https://id.fnshr.info/2011/01/17/chart/
 平成23年度センター試験の現代社会での円グラフ｜Colorless Green Ideas
