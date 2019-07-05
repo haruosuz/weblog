@@ -15,13 +15,18 @@ Last Update: 2019-06
 ----------
 ## featuring
 
+- https://sfcclip.net/bus/
+- https://github.com/haruosuz/microbe
+- https://github.com/haruosuz/mgsa
+- https://github.com/haruosuz/statistics
+- https://github.com/haruosuz/evolve
+- https://github.com/haruosuz/metasub
+- https://github.com/haruosuz/DS4GD/tree/master/2019
+- https://twitter.com/search?q=Wolbachia%20plasmid
+- https://github.com/haruosuz/codon
 
-
-https://www.biorxiv.org/content/10.1101/688465v1
-PhyloMagnet: Fast and accurate screening of short-read meta-omics data using gene-centric phylogenetics | bioRxiv
-
-https://www.biorxiv.org/content/10.1101/653592v1
-Not just BLAST nt: WGS database joins the party | bioRxiv
+https://www.ncbi.nlm.nih.gov/pubmed/20018979 Mol Biol Evol. 2010 Apr;27(4):800-10. doi: 10.1093/molbev/msp281. Epub 2009 Dec 17. Modal codon usage: assessing the typical codon usage of a genome. Davis JJ1, Olsen GJ.
+https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20018979/
 
 
 https://kimuraseminar.wordpress.com/
@@ -32,12 +37,11 @@ https://kimuraseminar.wordpress.com/第3回-進化学セミナーのおしらせ
 5日　国立遺伝学研究所
 
 
+https://www.biorxiv.org/content/10.1101/688465v1
+PhyloMagnet: Fast and accurate screening of short-read meta-omics data using gene-centric phylogenetics | bioRxiv
 
-https://id.fnshr.info/2011/01/17/chart/
-平成23年度センター試験の現代社会での円グラフ｜Colorless Green Ideas
-
-
-- 2019-06-21 *[Global City Sampling Day](https://github.com/haruosuz/metasub/blob/master/README.md#csd)*
+https://www.biorxiv.org/content/10.1101/653592v1
+Not just BLAST nt: WGS database joins the party | bioRxiv
 
 Published: 20 May 2019
 https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msz124/5492082
@@ -47,27 +51,6 @@ Elucidation of Codon Usage Signatures across the Domains of Life | Molecular Bio
 https://pitagora-network.org/events/
 Pitagora Network - Events
 https://pitagora-network.org/events/meetup/2019/meetup-201905
-
-- https://sfcclip.net/bus/
-- https://github.com/haruosuz/microbe
-  - https://github.com/haruosuz/microbe/blob/master/references/README.memo.md
-  - https://github.com/haruosuz/microbe/blob/master/references/README.microbiome.md
-- https://github.com/haruosuz/mgsa
-  - https://github.com/haruosuz/mgsa/blob/master/references/README.pangenome.md
-- https://github.com/haruosuz/statistics
-- https://github.com/haruosuz/statistics/blob/master/README.md
-- https://github.com/haruosuz/statistics/blob/master/references/README.statistics.p-value.md
-- https://github.com/haruosuz/codon
-- https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
-- https://github.com/haruosuz/bioinfo/blob/master/references/README.reproducibility.md
-- https://github.com/haruosuz/evolve
-- https://github.com/haruosuz/metasub
-- https://github.com/haruosuz/DS4GD/tree/master/2019
-- https://github.com/haruosuz/metasub/blob/master/README.md
-- https://twitter.com/search?q=Wolbachia%20plasmid
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.2019.md#2019-05-12
-- https://github.com/haruosuz/microbe/blob/master/references/README.memo.md#definition
-- 
 
 
 http://sciencebook.blog110.fc2.com
