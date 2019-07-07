@@ -26,7 +26,12 @@ Last Update: 2019-06
 - https://github.com/haruosuz/codon
 
 https://twitter.com/hashtag/新聞記者
-
+- https://twitter.com/hashtag/新聞記者
+- https://ja.wikipedia.org/wiki/新聞記者_(映画)
+- https://ja.wikipedia.org/wiki/望月衣塑子
+- https://ja.wikipedia.org/wiki/森友学園問題
+- https://ja.wikipedia.org/wiki/加計学園問題
+- https://ja.wikipedia.org/wiki/ダグウェイ羊事件
 
 https://twitter.com/search?q=論理が伝わる世界標準の「書く技術」
 
