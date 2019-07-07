@@ -25,10 +25,12 @@ Last Update: 2019-06
 - https://twitter.com/search?q=Wolbachia%20plasmid
 - https://github.com/haruosuz/codon
 
+https://twitter.com/hashtag/新聞記者
+
 
 https://twitter.com/search?q=論理が伝わる世界標準の「書く技術」
 
-https://gendai.ismedia.jp/articles/-/34145?media=bb
+https://gendai.ismedia.jp/articles/-/34145
 「文学的な文章」と「論理的な文章」その違いを明快に整理します（倉島 保美） | ブルーバックス | 講談社（1/4）
 
 
