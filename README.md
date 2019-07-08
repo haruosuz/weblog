@@ -38,6 +38,7 @@ https://twitter.com/search?q=論理が伝わる世界標準の「書く技術」
 https://gendai.ismedia.jp/articles/-/34145
 「文学的な文章」と「論理的な文章」その違いを明快に整理します（倉島 保美） | ブルーバックス | 講談社（1/4）
 
+https://www.ncbi.nlm.nih.gov/pubmed/28539477 Sci Transl Med. 2017 May 24;9(391). pii: eaah6500. doi: 10.1126/scitranslmed.aah6500. Bacterial colonization and succession in a newly opened hospital. Lax S1,2, Sangwan N2,3, Smith D4, Larsen P2, Handley KM1, Richardson M1, Guyton K3, Krezalek M3, Shogan BD3, Defazio J3, Flemming I3, Shakhsheer B3, Weber S5, Landon E5, Garcia-Houchins S5, Siegel J6,7, Alverdy J3, Knight R8,9, Stephens B10, Gilbert JA11,2,3.
 
 https://www.ncbi.nlm.nih.gov/pubmed/20018979 Mol Biol Evol. 2010 Apr;27(4):800-10. doi: 10.1093/molbev/msp281. Epub 2009 Dec 17. Modal codon usage: assessing the typical codon usage of a genome. Davis JJ1, Olsen GJ.
 https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20018979/
