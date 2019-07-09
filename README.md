@@ -33,6 +33,11 @@ https://twitter.com/hashtag/新聞記者
 - https://ja.wikipedia.org/wiki/加計学園問題
 - https://ja.wikipedia.org/wiki/ダグウェイ羊事件
 
+http://www.asaho.com/jpn/bkno/2019/0708.html
+直言（2019年7月8日）映画『新聞記者』を超えるリアル――逮捕状を握りつぶした人物が警察庁長官に？！
+
+
+
 https://twitter.com/search?q=論理が伝わる世界標準の「書く技術」
 
 https://gendai.ismedia.jp/articles/-/34145
