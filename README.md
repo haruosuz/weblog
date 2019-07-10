@@ -25,6 +25,13 @@ Last Update: 2019-06
 - https://twitter.com/search?q=Wolbachia%20plasmid
 - https://github.com/haruosuz/codon
 
+https://twitter.com/WvSchaik/status/1148526049300496384
+Willem van Schaik on Twitter: "Next up: Eduardo Rocha on the diversity of mobile genetic elements. Sequenced 1305 natural E. coli isolates: up to a third of the pan-genome can be in plasmids and phages #FEMS2019"
+5:35 AM - 9 Jul 2019
+
+https://tjo.hatenablog.com/entry/2018/12/12/190000
+『新版 統計学のセンス』は統計学を「使う」人なら必携の書 - 六本木で働くデータサイエンティストのブログ
+
 https://twitter.com/hashtag/新聞記者
 - https://twitter.com/hashtag/新聞記者
 - https://ja.wikipedia.org/wiki/新聞記者_(映画)
