@@ -28,11 +28,12 @@ Last Update: 2019-06
 
 https://ja.wikipedia.org/wiki/MDPI
 
+- https://twitter.com/search?q=医師が教える最善の健康法
+
 森元良太・田中泉吏『生物学の哲学入門』
 - https://twitter.com/search?q=%22生物学の哲学入門%22
 - http://d.hatena.ne.jp/shorebird/20161222
 - http://d.hatena.ne.jp/sakstyle/20161111/p1
-
 
 
 https://twitter.com/WvSchaik/status/1148526049300496384
@@ -55,12 +56,6 @@ Willem van Schaik on Twitter: "Next up: Eduardo Rocha on the diversity of mobile
 - https://qiita.com/advent-calendar/2018/galaxy
 
 ----------
-
-
-
-
-
-
 
 
 https://twitter.com/hashtag/新聞記者
