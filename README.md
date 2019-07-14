@@ -16,6 +16,7 @@ Last Update: 2019-06
 ## featuring
 
 - https://sfcclip.net/bus/
+- https://github.com/haruosuz/books
 - https://github.com/haruosuz/microbe
 - https://github.com/haruosuz/mgsa
 - https://github.com/haruosuz/statistics
@@ -25,22 +26,42 @@ Last Update: 2019-06
 - https://twitter.com/search?q=Wolbachia%20plasmid
 - https://github.com/haruosuz/codon
 
-https://twitter.com/search?q=統計学を拓いた異才たち
-
-
 https://ja.wikipedia.org/wiki/MDPI
+
+森元良太・田中泉吏『生物学の哲学入門』
+- https://twitter.com/search?q=%22生物学の哲学入門%22
+- http://d.hatena.ne.jp/shorebird/20161222
+- http://d.hatena.ne.jp/sakstyle/20161111/p1
+
+
 
 https://twitter.com/WvSchaik/status/1148526049300496384
 Willem van Schaik on Twitter: "Next up: Eduardo Rocha on the diversity of mobile genetic elements. Sequenced 1305 natural E. coli isolates: up to a third of the pan-genome can be in plasmids and phages #FEMS2019"
 5:35 AM - 9 Jul 2019
 
-https://twitter.com/search?q=論理が伝わる世界標準の「書く技術」
+----------
 
-https://gendai.ismedia.jp/articles/-/34145
-「文学的な文章」と「論理的な文章」その違いを明快に整理します（倉島 保美） | ブルーバックス | 講談社（1/4）
 
-https://tjo.hatenablog.com/entry/2018/12/12/190000
-『新版 統計学のセンス』は統計学を「使う」人なら必携の書 - 六本木で働くデータサイエンティストのブログ
+- https://twitter.com/search?q=plasmid%20codon&src=typd
+- https://twitter.com/search?f=tweets&q=built%20environment%20microbiome&src=typd
+- https://www.ted.com/topics/biology
+- https://github.com/haruosuz/introBI/tree/master/2018
+  - http://apprize.info/data/bioinformatics/index.html
+- https://github.com/haruosuz/bioinfo
+- https://github.com/haruosuz/bioinfo/blob/master/README.md#blast
+- https://github.com/haruosuz/plasmids
+- https://github.com/haruosuz/r4bioinfo
+- https://github.com/haruosuz/r4bioinfo/tree/master/R_memo
+- https://qiita.com/advent-calendar/2018/galaxy
+
+----------
+
+
+
+
+
+
+
 
 https://twitter.com/hashtag/新聞記者
 - https://twitter.com/hashtag/新聞記者
@@ -296,47 +317,6 @@ https://twitter.com/M123Takahashi/status/1058862929217376256
 https://twitter.com/pathogenomenick/status/1053620015579172864
 Nick Loman on Twitter: "An extremely informative thread explaining why metagenomic assemblies of related species and strains results in subsequent difficulties during binning:… https://t.co/CzUcpRiYdJ"
 8:12 AM - 20 Oct 2018
-
-----------
-
-## twitter
-- https://twitter.com/
-- https://twitter.com/copypasteusa
-- https://twitter.com/endBooks
-- https://twitter.com/Tyu_Shi
-- https://twitter.com/level3defless
-- https://twitter.com/KojiYahara
-- https://twitter.com/kazumachack
-- https://twitter.com/bonohu
-- https://twitter.com/h_ono
-- 
-- https://twitter.com/pathogenomenick
-- https://twitter.com/phylogenomics
-- https://twitter.com/strnr
-- https://twitter.com/jcamthrash
-- 
-- https://twitter.com/hashtag/drbonobon
-- https://twitter.com/hashtag/togotv18
-- https://twitter.com/hashtag/IT4BDA
-- 
-- https://twitter.com/search?q=plasmid%20codon&src=typd
-- https://twitter.com/search?f=tweets&q=built%20environment%20microbiome&src=typd
-
-----------
-
-
-
-- https://www.ted.com/topics/biology
-- https://github.com/haruosuz/introBI/tree/master/2018
-  - http://apprize.info/data/bioinformatics/index.html
-- https://github.com/haruosuz/bioinfo
-- https://github.com/haruosuz/bioinfo/blob/master/README.md#blast
-- https://github.com/haruosuz/books
-- https://github.com/haruosuz/plasmids
-- https://github.com/haruosuz/r4bioinfo
-- https://github.com/haruosuz/r4bioinfo/tree/master/R_memo
-- https://qiita.com/advent-calendar/2018/galaxy
-
 
 
 ----------
