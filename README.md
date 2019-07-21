@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-06
+Last Update: 2019-07
 
 ----------
 
@@ -14,6 +14,37 @@ Last Update: 2019-06
 
 ----------
 ## featuring
+
+
+https://twitter.com/sugargroove/status/1151687066503094272
+Shinya Fushinobu on Twitter: "微生物ウィーク、来週月曜日の午後１時よりスタートです。懇親会以外すべて無料です。初日の懇親会、まだ空きがあるそうです！ https://t.co/5Rbh91EisJ https://t.co/zbWS4fKuFx" / Twitter
+
+http://park.itc.u-tokyo.ac.jp/criim2018/event/201907/
+微生物ウィーク2019 | 東京大学微生物科学イノベーション連携研究機構（CRIIM）
+日程
+2019年7月22日（月）〜7月27日（土）
+
+場所
+東京大学農学部弥生講堂 一条ホール
+東京大学農学部2号館
+
+
+https://kimuraseminar.wordpress.com/
+第3回 進化学セミナーを開催します。2019年8月3日と4日は御殿場高原時之栖で講義と実習を、5日は国立遺伝学研究所に場所を移して研究集会を開催します！
+https://kimuraseminar.wordpress.com/第3回-進化学セミナーのおしらせ/
+日程	2019年8月3日(土)〜5日(月)
+場所	3日〜4日　御殿場高原時之栖
+5日　国立遺伝学研究所
+
+Pitagora Galaxy Meetup
+http://wiki.pitagora-galaxy.org/wiki/index.php/Events
+https://pitagora-network.org/events/
+Pitagora Meetup 2019-07
+	• 2019-07-18 @ 理研日本橋
+https://pitagora-network.org/events/meetup/2019/meetup-201907
+• 日時： 2019年7月18日（木）10:00 〜 18:00
+• 場所： 理化学研究所革新知能統合研究センター 会議室3（日本橋）
+
 
 - https://sfcclip.net/bus/
 - https://github.com/haruosuz/books
@@ -75,14 +106,6 @@ https://www.ncbi.nlm.nih.gov/pubmed/20018979 Mol Biol Evol. 2010 Apr;27(4):800-1
 https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/20018979/
 
 
-https://kimuraseminar.wordpress.com/
-第3回 進化学セミナーを開催します。2019年8月3日と4日は御殿場高原時之栖で講義と実習を、5日は国立遺伝学研究所に場所を移して研究集会を開催します！
-https://kimuraseminar.wordpress.com/第3回-進化学セミナーのおしらせ/
-日程	2019年8月3日(土)〜5日(月)
-場所	3日〜4日　御殿場高原時之栖
-5日　国立遺伝学研究所
-
-
 https://www.biorxiv.org/content/10.1101/688465v1
 PhyloMagnet: Fast and accurate screening of short-read meta-omics data using gene-centric phylogenetics | bioRxiv
 
@@ -92,12 +115,6 @@ Not just BLAST nt: WGS database joins the party | bioRxiv
 Published: 20 May 2019
 https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msz124/5492082
 Elucidation of Codon Usage Signatures across the Domains of Life | Molecular Biology and Evolution | Oxford Academic
-
-
-https://pitagora-network.org/events/
-Pitagora Network - Events
-https://pitagora-network.org/events/meetup/2019/meetup-201905
-
 
 http://sciencebook.blog110.fc2.com
 科学に佇む一行読書の書斎
