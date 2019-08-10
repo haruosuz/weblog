@@ -15,14 +15,13 @@ Last Update: 2019-08
 ----------
 ## featuring
 
-https://kimuraseminar.wordpress.com/
-第3回 進化学セミナーを開催します。2019年8月3日と4日は御殿場高原時之栖で講義と実習を、5日は国立遺伝学研究所に場所を移して研究集会を開催します！
-https://kimuraseminar.wordpress.com/第3回-進化学セミナーのおしらせ/
-日程	2019年8月3日(土)〜5日(月)
-場所	3日〜4日　御殿場高原時之栖
-5日　国立遺伝学研究所
-https://kimuraseminar.wordpress.com/第3回-進化学セミナー-プログラム/
+https://ja.wikipedia.org/wiki/MDPI
 
+- https://twitter.com/search?q=医師が教える最善の健康法
+- https://twitter.com/search?q=医師が教える最善の健康法
+
+https://shorebird.hatenablog.com/entry/2019/08/10/180353
+書評　「突然変異主導進化論」 - shorebird　進化心理学中心の書評など
 
 Pitagora Galaxy Meetup
 http://wiki.pitagora-galaxy.org/wiki/index.php/Events
@@ -32,8 +31,6 @@ Pitagora Meetup 2019-08
 https://pitagora-network.org/events/meetup/2019/meetup-201908
 日時： 2019年8月19日（月）10:00 〜 18:00
 場所： 理化学研究所革新知能統合研究センター 会議室1（日本橋）
-
-
 
 - https://sfcclip.net/bus/
 - https://github.com/haruosuz/books
@@ -45,10 +42,6 @@ https://pitagora-network.org/events/meetup/2019/meetup-201908
 - https://github.com/haruosuz/DS4GD/tree/master/2019
 - https://twitter.com/search?q=Wolbachia%20plasmid
 - https://github.com/haruosuz/codon
-
-https://ja.wikipedia.org/wiki/MDPI
-
-- https://twitter.com/search?q=医師が教える最善の健康法
 
 森元良太・田中泉吏『生物学の哲学入門』
 - https://twitter.com/search?q=%22生物学の哲学入門%22
