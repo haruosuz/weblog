@@ -15,10 +15,43 @@ Last Update: 2019-08
 ----------
 ## featuring
 
+http://wiki.lifesciencedb.jp/mw/SPARQLthon
+```
+2019/08/22-23 SPARQLthon83 @ DBCLS (柏)
+2019/09/01-07 BioHackathon 2019 @ 福岡（暫定）
+お知らせ：9/1に中洲近くの "西鉄イン福岡" でシンポジウムを行い、9/2朝にバスでハッカソン会場へ移動する予定です。8/31, 9/1の招聘者以外の宿泊は、主催側で取りまとめを行わない予定ですので、各自早めのホテル予約をおすすめします。万一、ハッカソンの予定が変更になった場合には各自キャンセルしてください。9/2からのハッカソン会場のほうの宿泊はこれまで通り取りまとめる予定です。
+```
+
+- 2019-08-30 *[2019 MetaSUB Meeting @ Istanbul, Turkey](http://metasub.org/)*
+http://metasub.org/2019-conference/
+
+https://www2.aeplan.co.jp/mbsj2019/
+第42回日本分子生物学会年会
+https://va.apollon.nta.co.jp/mbsj2019/
+2019年12月3日(火)～6日(金)に「第42回日本分子生物学会年会」が、福岡国際会議場・マリンメッセ福岡・福岡サンパレス ホテル&ホールにて開催
+
+
+https://www.s.u-tokyo.ac.jp/ja/press/2019/6506
+ネットワーク解析技術を応用した新しい進化解析法 「グラフスプリッティング法」で遺伝子の初期進化に迫る - 東京大学 大学院理学系研究科・理学部
+
 https://ja.wikipedia.org/wiki/MDPI
 
 - https://twitter.com/search?q=医師が教える最善の健康法
 - https://twitter.com/search?q=医師が教える最善の健康法
+
+
+- https://twitter.com/search?q=生命科学クライシス
+- https://twitter.com/search?q=なぜ科学はストーリーを必要としているのか
+- https://twitter.com/search?q="これからの微生物学"
+
+https://twitter.com/search?q=AI時代へ向けて育成すべきはAI人材か%3F
+
+- https://twitter.com/ecology_bot
+生態学bot (@ecology_bot) | Twitter
+- https://twitter.com/ecology_itacora
+生態学用語つぶやきぼっと。 (@ecology_itacora) | Twitter
+
+
 
 https://shorebird.hatenablog.com/entry/2019/08/10/180353
 書評　「突然変異主導進化論」 - shorebird　進化心理学中心の書評など
@@ -146,65 +179,7 @@ https://natgeo.nikkeibp.co.jp/atcl/news/19/053100314/?P=2
 https://wired.jp/2019/05/21/the-great-white-shark-genome/
 ホオジロザメの遺伝子解析で、その優れた治癒能力の秘密が見えてきた｜WIRED.jp
 
-- https://twitter.com/search?q=生命科学クライシス
-- https://twitter.com/search?q=なぜ科学はストーリーを必要としているのか
-- https://twitter.com/search?q="これからの微生物学"
 
-https://twitter.com/search?q=AI時代へ向けて育成すべきはAI人材か%3F
-
-- https://twitter.com/ecology_bot
-生態学bot (@ecology_bot) | Twitter
-- https://twitter.com/ecology_itacora
-生態学用語つぶやきぼっと。 (@ecology_itacora) | Twitter
-
-http://www.microbial-ecology.jp/en/
-https://www2.aeplan.co.jp/jsme2019/index.html
-日本微生物生態学会 第33回大会　【 2019年9月10日(火)～13日(金)　山梨大学 甲府キャンパス 】
-https://www2.aeplan.co.jp/jsme2019/sanka.html
-日本微生物生態学会 第33回大会／参加登録・発表申込【 2019年9月10日(火)～13日(金)　山梨大学 甲府キャンパス 】
-参加登録・発表申込
-参加登録は2019年4月2日（火）に開始します。
-
-
-https://www.jst.go.jp/report/2018/190117.html
-BioHackathon 2018開催報告
-
-http://wiki.lifesciencedb.jp/mw/SPARQLthon
-```
-2019/06/24-25 SPARQLthon81 @ DBCLS (柏)
-2019/07/08-12 国内版バイオハッカソン BH19.7 @ 指宿 (7/7 は質量分析インフォマティクス・プレミーティング)
-2019/07/29-30 SPARQLthon82 @ DBCLS (三島)
-2019/08/22-23 SPARQLthon83 @ DBCLS (柏)
-2019/09/01-07 BioHackathon 2019 @ 福岡（暫定）
-お知らせ：9/1に中洲近くの "西鉄イン福岡" でシンポジウムを行い、9/2朝にバスでハッカソン会場へ移動する予定です。8/31, 9/1の招聘者以外の宿泊は、主催側で取りまとめを行わない予定ですので、各自早めのホテル予約をおすすめします。万一、ハッカソンの予定が変更になった場合には各自キャンセルしてください。9/2からのハッカソン会場のほうの宿泊はこれまで通り取りまとめる予定です。
-```
-
-https://twitter.com/sesj2019
-進化学会2019北海道
-http://sesj2019.ibio.jp/?page_id=343
-参加・演題登録 – 日本進化学会第21回大会
-
-発表申込〆切：6月14日（金）
-早期登録〆切：6月28日（金）振り込みは7月12日まで（それ以降は直前登録扱い）
-ネットからの参加申し込み〆切：7月31日（水）
-
-http://sesj2019.ibio.jp/?page_id=267
-Summary in English – 日本進化学会第21回大会
-http://sesj2019.ibio.jp/?page_id=47
-大会概要 – 日本進化学会第21回大会
-会期：2019年8月7日（水）〜10日（土）
-会場：北海道大学
-
-- 2019-07-24 *[CAMDA2019 Conference @ Basel, Switzerland](http://camda.info/)*
-- 2019-08-30 *[2019 MetaSUB Meeting @ Istanbul, Turkey](http://metasub.org/)*
-
-2019 Annual MetaSUB Meeting
-Aug 30-Sept 1, Istanbul, Turkey
-Location: Acibadem University
-Hotel: Istanbul Marriott Hotel Asia
-https://www.marriott.com/hotels/travel/istmc-istanbul-marriott-hotel-asia/?scid=bb1a189a-fec3-4d19-a255-54ba596febe2
-Host: Dr. Sezerman (Ugur.Sezerman@acibadem.edu.tr)
-2020 Annual Meeting with ISME - August Dates TBD, Capetown, South Africa
 
 ----------
 
