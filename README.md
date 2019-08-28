@@ -15,15 +15,53 @@ Last Update: 2019-08
 ----------
 ## featuring
 
+- 2019-08-30 *[2019 MetaSUB Meeting @ Istanbul, Turkey](http://metasub.org/)*
+http://metasub.org/2019-conference/
+
+
+- https://github.com/haruosuz/statistics
+- https://sfcclip.net/bus/
+- https://github.com/haruosuz/books
+- https://github.com/haruosuz/microbe
+- https://github.com/haruosuz/mgsa
+- https://github.com/haruosuz/evolve
+- https://github.com/haruosuz/metasub
+- https://github.com/haruosuz/DS4GD/tree/master/2019
+- https://twitter.com/search?q=Wolbachia%20plasmid
+- https://github.com/haruosuz/codon
+- https://twitter.com/search?q=plasmid%20codon&src=typd
+- https://twitter.com/search?f=tweets&q=built%20environment%20microbiome&src=typd
+- https://www.ted.com/topics/biology
+- https://github.com/haruosuz/introBI/tree/master/2018
+  - http://apprize.info/data/bioinformatics/index.html
+- https://github.com/haruosuz/bioinfo
+- https://github.com/haruosuz/bioinfo/blob/master/README.md#blast
+- https://github.com/haruosuz/plasmids
+- https://github.com/haruosuz/r4bioinfo
+- https://github.com/haruosuz/r4bioinfo/tree/master/R_memo
+- https://qiita.com/advent-calendar/2018/galaxy
+
+Pitagora Galaxy Meetup
+http://wiki.pitagora-galaxy.org/wiki/index.php/Events
+https://pitagora-network.org/events/
+
+
+
+森元良太・田中泉吏『生物学の哲学入門』
+- https://twitter.com/search?q=%22生物学の哲学入門%22
+- http://d.hatena.ne.jp/shorebird/20161222
+- http://d.hatena.ne.jp/sakstyle/20161111/p1
+
+
+
+
+
 http://wiki.lifesciencedb.jp/mw/SPARQLthon
 ```
-2019/08/22-23 SPARQLthon83 @ DBCLS (柏)
 2019/09/01-07 BioHackathon 2019 @ 福岡（暫定）
 お知らせ：9/1に中洲近くの "西鉄イン福岡" でシンポジウムを行い、9/2朝にバスでハッカソン会場へ移動する予定です。8/31, 9/1の招聘者以外の宿泊は、主催側で取りまとめを行わない予定ですので、各自早めのホテル予約をおすすめします。万一、ハッカソンの予定が変更になった場合には各自キャンセルしてください。9/2からのハッカソン会場のほうの宿泊はこれまで通り取りまとめる予定です。
 ```
 
-- 2019-08-30 *[2019 MetaSUB Meeting @ Istanbul, Turkey](http://metasub.org/)*
-http://metasub.org/2019-conference/
 
 https://www2.aeplan.co.jp/mbsj2019/
 第42回日本分子生物学会年会
@@ -37,9 +75,6 @@ https://www.s.u-tokyo.ac.jp/ja/press/2019/6506
 https://ja.wikipedia.org/wiki/MDPI
 
 - https://twitter.com/search?q=医師が教える最善の健康法
-- https://twitter.com/search?q=医師が教える最善の健康法
-
-
 - https://twitter.com/search?q=生命科学クライシス
 - https://twitter.com/search?q=なぜ科学はストーリーを必要としているのか
 - https://twitter.com/search?q="これからの微生物学"
@@ -56,64 +91,13 @@ https://twitter.com/search?q=AI時代へ向けて育成すべきはAI人材か%3
 https://shorebird.hatenablog.com/entry/2019/08/10/180353
 書評　「突然変異主導進化論」 - shorebird　進化心理学中心の書評など
 
-Pitagora Galaxy Meetup
-http://wiki.pitagora-galaxy.org/wiki/index.php/Events
-https://pitagora-network.org/events/
-Pitagora Meetup 2019-08
-2019-08-19 @ 理研日本橋
-https://pitagora-network.org/events/meetup/2019/meetup-201908
-日時： 2019年8月19日（月）10:00 〜 18:00
-場所： 理化学研究所革新知能統合研究センター 会議室1（日本橋）
 
-- https://sfcclip.net/bus/
-- https://github.com/haruosuz/books
-- https://github.com/haruosuz/microbe
-- https://github.com/haruosuz/mgsa
-- https://github.com/haruosuz/statistics
-- https://github.com/haruosuz/evolve
-- https://github.com/haruosuz/metasub
-- https://github.com/haruosuz/DS4GD/tree/master/2019
-- https://twitter.com/search?q=Wolbachia%20plasmid
-- https://github.com/haruosuz/codon
-
-森元良太・田中泉吏『生物学の哲学入門』
-- https://twitter.com/search?q=%22生物学の哲学入門%22
-- http://d.hatena.ne.jp/shorebird/20161222
-- http://d.hatena.ne.jp/sakstyle/20161111/p1
+----------
 
 
 https://twitter.com/WvSchaik/status/1148526049300496384
 Willem van Schaik on Twitter: "Next up: Eduardo Rocha on the diversity of mobile genetic elements. Sequenced 1305 natural E. coli isolates: up to a third of the pan-genome can be in plasmids and phages #FEMS2019"
 5:35 AM - 9 Jul 2019
-
-----------
-
-
-- https://twitter.com/search?q=plasmid%20codon&src=typd
-- https://twitter.com/search?f=tweets&q=built%20environment%20microbiome&src=typd
-- https://www.ted.com/topics/biology
-- https://github.com/haruosuz/introBI/tree/master/2018
-  - http://apprize.info/data/bioinformatics/index.html
-- https://github.com/haruosuz/bioinfo
-- https://github.com/haruosuz/bioinfo/blob/master/README.md#blast
-- https://github.com/haruosuz/plasmids
-- https://github.com/haruosuz/r4bioinfo
-- https://github.com/haruosuz/r4bioinfo/tree/master/R_memo
-- https://qiita.com/advent-calendar/2018/galaxy
-
-----------
-
-
-https://twitter.com/hashtag/新聞記者
-- https://twitter.com/hashtag/新聞記者
-- https://ja.wikipedia.org/wiki/新聞記者_(映画)
-- https://ja.wikipedia.org/wiki/望月衣塑子
-- https://ja.wikipedia.org/wiki/森友学園問題
-- https://ja.wikipedia.org/wiki/加計学園問題
-- https://ja.wikipedia.org/wiki/ダグウェイ羊事件
-
-http://www.asaho.com/jpn/bkno/2019/0708.html
-直言（2019年7月8日）映画『新聞記者』を超えるリアル――逮捕状を握りつぶした人物が警察庁長官に？！
 
 https://www.ncbi.nlm.nih.gov/pubmed/28539477 Sci Transl Med. 2017 May 24;9(391). pii: eaah6500. doi: 10.1126/scitranslmed.aah6500. Bacterial colonization and succession in a newly opened hospital. Lax S1,2, Sangwan N2,3, Smith D4, Larsen P2, Handley KM1, Richardson M1, Guyton K3, Krezalek M3, Shogan BD3, Defazio J3, Flemming I3, Shakhsheer B3, Weber S5, Landon E5, Garcia-Houchins S5, Siegel J6,7, Alverdy J3, Knight R8,9, Stephens B10, Gilbert JA11,2,3.
 
