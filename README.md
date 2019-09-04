@@ -15,15 +15,15 @@ Last Update: 2019-08
 ----------
 ## featuring
 
-- 2019-08-30 *[2019 MetaSUB Meeting @ Istanbul, Turkey](http://metasub.org/)*
-http://metasub.org/2019-conference/
 
-
+- https://twitter.com/kakenhi_com
+- https://科研費.com
 - https://github.com/haruosuz/statistics
 - https://sfcclip.net/bus/
 - https://github.com/haruosuz/books
 - https://github.com/haruosuz/microbe
 - https://github.com/haruosuz/mgsa
+- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#seqkit
 - https://github.com/haruosuz/evolve
 - https://github.com/haruosuz/metasub
 - https://github.com/haruosuz/DS4GD/tree/master/2019
