@@ -16,10 +16,24 @@ Last Update: 2019-08
 ## featuring
 
 
+http://wiki.lifesciencedb.jp/mw/SPARQLthon
+```
+2019/09/01-07 BioHackathon 2019 @ 福岡
+2019/09/26-27 SPARQLthon84 @ DBCLS (柏)
+2019/10/28-29 SPARQLthon85 @ DBCLS (柏)
+2019/11/28-29 SPARQLthon86 @ DBCLS (三島)
+2019/12/19-20 SPARQLthon87 @ DBCLS (柏)
+```
+
+Pitagora Galaxy Meetup
+http://wiki.pitagora-galaxy.org/wiki/index.php/Events
+https://pitagora-network.org/events/
+9/30 (月), 理研日本橋 Workflow Meetup と同時開催。
+
+- https://sfcclip.net/bus/
 - https://twitter.com/kakenhi_com
 - https://科研費.com
 - https://github.com/haruosuz/statistics
-- https://sfcclip.net/bus/
 - https://github.com/haruosuz/books
 - https://github.com/haruosuz/microbe
 - https://github.com/haruosuz/mgsa
@@ -41,10 +55,11 @@ Last Update: 2019-08
 - https://github.com/haruosuz/r4bioinfo/tree/master/R_memo
 - https://qiita.com/advent-calendar/2018/galaxy
 
-Pitagora Galaxy Meetup
-http://wiki.pitagora-galaxy.org/wiki/index.php/Events
-https://pitagora-network.org/events/
 
+https://www2.aeplan.co.jp/mbsj2019/
+第42回日本分子生物学会年会
+https://va.apollon.nta.co.jp/mbsj2019/
+2019年12月3日(火)～6日(金)に「第42回日本分子生物学会年会」が、福岡国際会議場・マリンメッセ福岡・福岡サンパレス ホテル&ホールにて開催
 
 
 森元良太・田中泉吏『生物学の哲学入門』
@@ -54,19 +69,11 @@ https://pitagora-network.org/events/
 
 
 
+https://shorebird.hatenablog.com/entry/2019/08/10/180353
+書評　「突然変異主導進化論」 - shorebird　進化心理学中心の書評など
 
 
-http://wiki.lifesciencedb.jp/mw/SPARQLthon
-```
-2019/09/01-07 BioHackathon 2019 @ 福岡（暫定）
-お知らせ：9/1に中洲近くの "西鉄イン福岡" でシンポジウムを行い、9/2朝にバスでハッカソン会場へ移動する予定です。8/31, 9/1の招聘者以外の宿泊は、主催側で取りまとめを行わない予定ですので、各自早めのホテル予約をおすすめします。万一、ハッカソンの予定が変更になった場合には各自キャンセルしてください。9/2からのハッカソン会場のほうの宿泊はこれまで通り取りまとめる予定です。
-```
 
-
-https://www2.aeplan.co.jp/mbsj2019/
-第42回日本分子生物学会年会
-https://va.apollon.nta.co.jp/mbsj2019/
-2019年12月3日(火)～6日(金)に「第42回日本分子生物学会年会」が、福岡国際会議場・マリンメッセ福岡・福岡サンパレス ホテル&ホールにて開催
 
 
 https://www.s.u-tokyo.ac.jp/ja/press/2019/6506
@@ -88,8 +95,6 @@ https://twitter.com/search?q=AI時代へ向けて育成すべきはAI人材か%3
 
 
 
-https://shorebird.hatenablog.com/entry/2019/08/10/180353
-書評　「突然変異主導進化論」 - shorebird　進化心理学中心の書評など
 
 
 ----------
