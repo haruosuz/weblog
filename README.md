@@ -22,6 +22,9 @@ https://www.jsbi.org/news/annual-meetings/20190909-11/
 https://iibmp2019.tokyo/
 https://iibmp2019.tokyo/program/
 
+https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#notung
+http://www.cs.cmu.edu/~durand/Notung/ Notung-2.9 is a gene tree-species tree reconciliation software package that supports duplication-loss (DL) and duplication-transfer-loss (DTL) event models with a parsimony-based optimization criterion.
+
 https://twitter.com/Symbionticism/status/1123203760564637697
 Seth Bordenstein on Twitter: "This is a game changer. Many intracellular microbes have a genome wide bias in A’s and T’s. The major assumption has been a mutational bias / drift impacts this outcome. Well, not so fast. Evidence below that selection can contribute or cause it.… https://t.co/yfDqN3b3Lj"
 8:33 AM - 30 Apr 2019
@@ -35,7 +38,6 @@ Nathan Grubaugh on Twitter: "🚨 We used travel surveillance and genomic epidem
 
 http://wiki.lifesciencedb.jp/mw/SPARQLthon
 ```
-2019/09/01-07 BioHackathon 2019 @ 福岡
 2019/09/26-27 SPARQLthon84 @ DBCLS (柏)
 2019/10/28-29 SPARQLthon85 @ DBCLS (柏)
 2019/11/28-29 SPARQLthon86 @ DBCLS (三島)
