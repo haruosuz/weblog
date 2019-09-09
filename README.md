@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-08
+Last Update: 2019-09
 
 ----------
 
@@ -21,6 +21,12 @@ https://www.jsbi.org/news/annual-meetings/20190909-11/
 場　所：東京工業大学 大岡山キャンパス（東京都目黒区）
 https://iibmp2019.tokyo/
 https://iibmp2019.tokyo/program/
+
+https://twitter.com/torstenseemann/status/1170944364765270016
+Torsten Seemann on Twitter: ""25 reasons Genbank assemblies don't make it into Refseq" - my latest blog post #bioinformatics https://t.co/yjkwgpARXj"
+3:17 PM · Sep 9, 2019·
+https://thegenomefactory.blogspot.com/2019/09/25-reasons-assemblies-dont-make-it-into.html
+
 
 https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#notung
 http://www.cs.cmu.edu/~durand/Notung/ Notung-2.9 is a gene tree-species tree reconciliation software package that supports duplication-loss (DL) and duplication-transfer-loss (DTL) event models with a parsimony-based optimization criterion.
