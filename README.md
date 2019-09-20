@@ -15,33 +15,6 @@ Last Update: 2019-09
 ----------
 ## featuring
 
-https://www.jsbi.org/news/annual-meetings/20190909-11/
-【日本バイオインフォマティクス学会 2019 年年会·第 8回生命医薬情報学連合大会(IIBMP2019) 概要】
-日　時：2019年9月9日（月）～11日（水）
-場　所：東京工業大学 大岡山キャンパス（東京都目黒区）
-https://iibmp2019.tokyo/
-https://iibmp2019.tokyo/program/
-
-https://twitter.com/torstenseemann/status/1170944364765270016
-Torsten Seemann on Twitter: ""25 reasons Genbank assemblies don't make it into Refseq" - my latest blog post #bioinformatics https://t.co/yjkwgpARXj"
-3:17 PM · Sep 9, 2019·
-https://thegenomefactory.blogspot.com/2019/09/25-reasons-assemblies-dont-make-it-into.html
-
-
-https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#notung
-http://www.cs.cmu.edu/~durand/Notung/ Notung-2.9 is a gene tree-species tree reconciliation software package that supports duplication-loss (DL) and duplication-transfer-loss (DTL) event models with a parsimony-based optimization criterion.
-
-https://twitter.com/Symbionticism/status/1123203760564637697
-Seth Bordenstein on Twitter: "This is a game changer. Many intracellular microbes have a genome wide bias in A’s and T’s. The major assumption has been a mutational bias / drift impacts this outcome. Well, not so fast. Evidence below that selection can contribute or cause it.… https://t.co/yfDqN3b3Lj"
-8:33 AM - 30 Apr 2019
-https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007778
-Selective advantages favour high genomic AT-contents in intracellular elements
-Accordingly, introducing AT-rich and GC-rich plasmids into other bacterial species with different genomic GC-contents revealed that the costs of G+C-rich plasmids decreased with an increasing GC-content of their host’s genomic DNA. 
-
-
-https://twitter.com/NathanGrubaugh/status/1164553815376441350
-Nathan Grubaugh on Twitter: "🚨 We used travel surveillance and genomic epidemiology to detect an unreported #Zika outbreak at an unexpected time. Felt more like writing a detective novel 🕵️‍♂️🔎 than a scientific article... “Zika files: case of the missing outbreak” 👇thread https://t.co/MGmc9gBtWM" / Twitter
-
 http://wiki.lifesciencedb.jp/mw/SPARQLthon
 ```
 2019/09/26-27 SPARQLthon84 @ DBCLS (柏)
@@ -64,8 +37,8 @@ https://va.apollon.nta.co.jp/mbsj2019/
 - https://sfcclip.net/bus/
 - https://twitter.com/kakenhi_com
 - https://科研費.com
-- https://github.com/haruosuz/statistics
 - https://github.com/haruosuz/books
+- https://github.com/haruosuz/books/blob/master/references/books.microbe.md
 - https://github.com/haruosuz/microbe
 - https://github.com/haruosuz/mgsa
 - https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#seqkit
@@ -85,8 +58,28 @@ https://va.apollon.nta.co.jp/mbsj2019/
 - https://github.com/haruosuz/r4bioinfo
 - https://github.com/haruosuz/r4bioinfo/tree/master/R_memo
 - https://qiita.com/advent-calendar/2018/galaxy
+- https://github.com/haruosuz/statistics
 
 
+https://twitter.com/torstenseemann/status/1170944364765270016
+Torsten Seemann on Twitter: ""25 reasons Genbank assemblies don't make it into Refseq" - my latest blog post #bioinformatics https://t.co/yjkwgpARXj"
+3:17 PM · Sep 9, 2019·
+https://thegenomefactory.blogspot.com/2019/09/25-reasons-assemblies-dont-make-it-into.html
+
+
+https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#notung
+http://www.cs.cmu.edu/~durand/Notung/ Notung-2.9 is a gene tree-species tree reconciliation software package that supports duplication-loss (DL) and duplication-transfer-loss (DTL) event models with a parsimony-based optimization criterion.
+
+https://twitter.com/Symbionticism/status/1123203760564637697
+Seth Bordenstein on Twitter: "This is a game changer. Many intracellular microbes have a genome wide bias in A’s and T’s. The major assumption has been a mutational bias / drift impacts this outcome. Well, not so fast. Evidence below that selection can contribute or cause it.… https://t.co/yfDqN3b3Lj"
+8:33 AM - 30 Apr 2019
+https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007778
+Selective advantages favour high genomic AT-contents in intracellular elements
+Accordingly, introducing AT-rich and GC-rich plasmids into other bacterial species with different genomic GC-contents revealed that the costs of G+C-rich plasmids decreased with an increasing GC-content of their host’s genomic DNA. 
+
+
+https://twitter.com/NathanGrubaugh/status/1164553815376441350
+Nathan Grubaugh on Twitter: "🚨 We used travel surveillance and genomic epidemiology to detect an unreported #Zika outbreak at an unexpected time. Felt more like writing a detective novel 🕵️‍♂️🔎 than a scientific article... “Zika files: case of the missing outbreak” 👇thread https://t.co/MGmc9gBtWM" / Twitter
 
 
 ----------
