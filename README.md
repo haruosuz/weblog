@@ -20,6 +20,19 @@ http://wiki.pitagora-galaxy.org/wiki/index.php/Events
 https://pitagora-network.org/events/
 9/30 (月), 理研日本橋 Workflow Meetup と同時開催。
 
+https://github.com/manabuishii/workflow-meetup/wiki/20190930
+
+Date: 2019-09-30(Mon) 日程：2019年9月30日月曜日
+
+Time: 10:00-19:00(JST) 時間：10時から19時
+
+東京会場：理化学研究所、東京連絡事務所（15階）
+
+部屋の前に、10:00- Workflow Meetupと書いてある看板があると思います。
+
+アクセス：東京連絡事務所・革新知能統合研究センター・医科学イノベーションハブ推進プログラムへのアクセス | 理化学研究所
+
+
 https://bioinfologics.github.io/post/2018/09/17/k-mer-counting-part-i-introduction/
 k-mer counting, part I: Introduction | BioInfoLogics
 
