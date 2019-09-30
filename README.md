@@ -15,28 +15,25 @@ Last Update: 2019-09
 ----------
 ## featuring
 
-http://wiki.lifesciencedb.jp/mw/SPARQLthon
-```
-2019/09/26-27 SPARQLthon84 @ DBCLS (柏)
-2019/10/28-29 SPARQLthon85 @ DBCLS (柏)
-2019/11/28-29 SPARQLthon86 @ DBCLS (三島)
-2019/12/19-20 SPARQLthon87 @ DBCLS (柏)
-```
-
 Pitagora Galaxy Meetup
 http://wiki.pitagora-galaxy.org/wiki/index.php/Events
 https://pitagora-network.org/events/
 9/30 (月), 理研日本橋 Workflow Meetup と同時開催。
 
-https://www2.aeplan.co.jp/mbsj2019/
-第42回日本分子生物学会年会
-https://va.apollon.nta.co.jp/mbsj2019/
-2019年12月3日(火)～6日(金)に「第42回日本分子生物学会年会」が、福岡国際会議場・マリンメッセ福岡・福岡サンパレス ホテル&ホールにて開催
+https://bioinfologics.github.io/post/2018/09/17/k-mer-counting-part-i-introduction/
+k-mer counting, part I: Introduction | BioInfoLogics
 
+https://twitter.com/torstenseemann/status/1170944364765270016
+Torsten Seemann on Twitter: ""25 reasons Genbank assemblies don't make it into Refseq" - my latest blog post #bioinformatics https://t.co/yjkwgpARXj"
+3:17 PM · Sep 9, 2019·
+https://thegenomefactory.blogspot.com/2019/09/25-reasons-assemblies-dont-make-it-into.html
 
-- https://sfcclip.net/bus/
+https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#notung
+http://www.cs.cmu.edu/~durand/Notung/ Notung-2.9 is a gene tree-species tree reconciliation software package that supports duplication-loss (DL) and duplication-transfer-loss (DTL) event models with a parsimony-based optimization criterion.
+
 - https://twitter.com/kakenhi_com
 - https://科研費.com
+- https://sfcclip.net/bus/
 - https://github.com/haruosuz/books
 - https://github.com/haruosuz/books/blob/master/references/books.microbe.md
 - https://github.com/haruosuz/microbe
@@ -59,16 +56,20 @@ https://va.apollon.nta.co.jp/mbsj2019/
 - https://github.com/haruosuz/r4bioinfo/tree/master/R_memo
 - https://qiita.com/advent-calendar/2018/galaxy
 - https://github.com/haruosuz/statistics
+- https://ja.wikipedia.org/wiki/Sci-Hub
 
 
-https://twitter.com/torstenseemann/status/1170944364765270016
-Torsten Seemann on Twitter: ""25 reasons Genbank assemblies don't make it into Refseq" - my latest blog post #bioinformatics https://t.co/yjkwgpARXj"
-3:17 PM · Sep 9, 2019·
-https://thegenomefactory.blogspot.com/2019/09/25-reasons-assemblies-dont-make-it-into.html
+http://wiki.lifesciencedb.jp/mw/SPARQLthon
+```
+2019/10/28-29 SPARQLthon85 @ DBCLS (柏)
+2019/11/28-29 SPARQLthon86 @ DBCLS (三島)
+2019/12/19-20 SPARQLthon87 @ DBCLS (柏)
+```
 
-
-https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#notung
-http://www.cs.cmu.edu/~durand/Notung/ Notung-2.9 is a gene tree-species tree reconciliation software package that supports duplication-loss (DL) and duplication-transfer-loss (DTL) event models with a parsimony-based optimization criterion.
+https://www2.aeplan.co.jp/mbsj2019/
+第42回日本分子生物学会年会
+https://va.apollon.nta.co.jp/mbsj2019/
+2019年12月3日(火)～6日(金)に「第42回日本分子生物学会年会」が、福岡国際会議場・マリンメッセ福岡・福岡サンパレス ホテル&ホールにて開催
 
 https://twitter.com/Symbionticism/status/1123203760564637697
 Seth Bordenstein on Twitter: "This is a game changer. Many intracellular microbes have a genome wide bias in A’s and T’s. The major assumption has been a mutational bias / drift impacts this outcome. Well, not so fast. Evidence below that selection can contribute or cause it.… https://t.co/yfDqN3b3Lj"
