@@ -35,6 +35,13 @@ http://www.cs.cmu.edu/~durand/Notung/ Notung-2.9 is a gene tree-species tree rec
 - https://twitter.com/kakenhi_com
 - https://科研費.com
 - https://sfcclip.net/bus/
+- https://github.com/haruosuz/r4bioinfo
+- https://github.com/haruosuz/r4bioinfo/tree/master/R_memo
+- https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md
+- https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#how-to-install-r-and-a-brief-introduction-to-r
+- https://github.com/haruosuz/DS4GD/tree/master/2019giga
+- https://github.com/haruosuz/introBI/tree/master/2019
+  - http://apprize.info/data/bioinformatics/index.html
 - https://github.com/haruosuz/books
 - https://github.com/haruosuz/books/blob/master/references/books.microbe.md
 - https://github.com/haruosuz/microbe
@@ -42,19 +49,14 @@ http://www.cs.cmu.edu/~durand/Notung/ Notung-2.9 is a gene tree-species tree rec
 - https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#seqkit
 - https://github.com/haruosuz/evolve
 - https://github.com/haruosuz/metasub
-- https://github.com/haruosuz/DS4GD/tree/master/2019
 - https://twitter.com/search?q=Wolbachia%20plasmid
 - https://github.com/haruosuz/codon
 - https://twitter.com/search?q=plasmid%20codon&src=typd
 - https://twitter.com/search?f=tweets&q=built%20environment%20microbiome&src=typd
 - https://www.ted.com/topics/biology
-- https://github.com/haruosuz/introBI/tree/master/2018
-  - http://apprize.info/data/bioinformatics/index.html
 - https://github.com/haruosuz/bioinfo
 - https://github.com/haruosuz/bioinfo/blob/master/README.md#blast
 - https://github.com/haruosuz/plasmids
-- https://github.com/haruosuz/r4bioinfo
-- https://github.com/haruosuz/r4bioinfo/tree/master/R_memo
 - https://qiita.com/advent-calendar/2018/galaxy
 - https://github.com/haruosuz/statistics
 - https://ja.wikipedia.org/wiki/Sci-Hub
