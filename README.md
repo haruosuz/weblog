@@ -15,19 +15,11 @@ Last Update: 2019-09
 ----------
 ## featuring
 
-Pitagora Galaxy Meetup
-http://wiki.pitagora-galaxy.org/wiki/index.php/Events
-https://pitagora-network.org/events/
-9/30 (月), 理研日本橋 Workflow Meetup と同時開催。
-
-https://github.com/manabuishii/workflow-meetup/wiki/20190930
-
-
-
 https://www.ncbi.nlm.nih.gov/pubmed/27540085
 Genome Biol Evol. 2017 Oct 1;9(10):2560-2579. doi: 10.1093/gbe/evw201.
 Switches in Genomic GC Content Drive Shifts of Optimal Codons under Sustained Selection on Synonymous Sites.
 Sun Y1, Tamarit D1, Andersson SGE1.
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5629928/
 
 https://bioinfologics.github.io/post/2018/09/17/k-mer-counting-part-i-introduction/
 k-mer counting, part I: Introduction | BioInfoLogics
@@ -66,6 +58,13 @@ http://www.cs.cmu.edu/~durand/Notung/ Notung-2.9 is a gene tree-species tree rec
 - https://qiita.com/advent-calendar/2018/galaxy
 - https://github.com/haruosuz/statistics
 - https://ja.wikipedia.org/wiki/Sci-Hub
+
+
+Pitagora Galaxy Meetup
+http://wiki.pitagora-galaxy.org/wiki/index.php/Events
+https://pitagora-network.org/events/
+https://github.com/manabuishii/workflow-meetup/wiki/20190930
+
 
 
 http://wiki.lifesciencedb.jp/mw/SPARQLthon
