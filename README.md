@@ -15,6 +15,15 @@ Last Update: 2019-09
 ----------
 ## featuring
 
+
+https://biosciencedbc.jp/event/symposium/togo2019/
+トーゴーの日シンポジウム2019　～バイオデータベース：つないで使う～
+
+日時	2019年10月5日（土）10:30～17:45
+会場	日本科学未来館（東京都江東区青海2-3-6）
+
+当日の参加も受け付けております。直接会場にお越し下さい。
+
 https://www.ncbi.nlm.nih.gov/pubmed/27540085
 Genome Biol Evol. 2017 Oct 1;9(10):2560-2579. doi: 10.1093/gbe/evw201.
 Switches in Genomic GC Content Drive Shifts of Optimal Codons under Sustained Selection on Synonymous Sites.
