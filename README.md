@@ -16,6 +16,19 @@ Last Update: 2019-09
 ## featuring
 
 
+
+
+
+https://twitter.com/NBDC_info/status/1180293173102297088
+トーゴーの日シンポジウム2019の配信を開始します
+#NBDC #105_sympo2019
+youtube/togotv/live
+- https://twitter.com/hashtag/NBDC
+- https://twitter.com/hashtag/105_sympo2019
+
+
+
+
 https://biosciencedbc.jp/event/symposium/togo2019/
 トーゴーの日シンポジウム2019　～バイオデータベース：つないで使う～
 
