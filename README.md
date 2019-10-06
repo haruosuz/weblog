@@ -15,21 +15,21 @@ Last Update: 2019-10
 ----------
 ## featuring
 
-https://twitter.com/NBDC_info/status/1180293173102297088
-トーゴーの日シンポジウム2019の配信を開始します
-#NBDC #105_sympo2019
-youtube/togotv/live
-- https://twitter.com/hashtag/NBDC
-- https://twitter.com/hashtag/105_sympo2019
 
-https://biosciencedbc.jp/event/symposium/togo2019/
-トーゴーの日シンポジウム2019　～バイオデータベース：つないで使う～
 
-日時	2019年10月5日（土）10:30～17:45
-会場	日本科学未来館（東京都江東区青海2-3-6）
 
-https://biosciencedbc.jp/event/symposium/togo2019/poster/
-ポスター発表 - NBDC
+https://www.sfc.keio.ac.jp/gsmg/about/faculty/ 教員 | 慶應義塾大学大学院政策・メディア研究科
+
+
+https://wired.jp/2018/10/23/genetic-engineering-for-mars/
+人類は火星移住に向け、遺伝子改変で“進化”する──科学者の提案と、その倫理的な考察｜WIRED.jp
+
+コーネル大学医学部に研究室をもつ遺伝学者のクリス・メイソンは現在、NASAのある研究に参加している。それは双子を被験者として、その1人が宇宙で1年間を過ごし、もう1人は地球にいたときに、2人にどのような違いが生じるのかを調べる研究だ。
+
+そのメイソンは、宇宙の植民地化に向けた「500年計画」をかねて提唱している。その計画の中心に置かれた3つの要素は、現在の遺伝学の知見を拡大している領域にほかならない。
+
+ひとつは、変異すれば命に関わる遺伝子はどれか、つまり「触れてはならない」遺伝子はどれかを特定すること。2つ目は微生物のエンジニアリング。3つ目は永続的で継承される変化を起こすために、遺伝子を追加、削除、改変することである。
+
 
 
 https://www.ncbi.nlm.nih.gov/pubmed/27540085
