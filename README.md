@@ -20,6 +20,14 @@ Last Update: 2019-10
 https://www.sfc.keio.ac.jp/gsmg/about/faculty/
 教員 | 慶應義塾大学大学院政策・メディア研究科
 
+156-8502
+東京都世田谷区桜丘1-1-1
+東京農業大学　生命科学部　分子微生物学科
+バイオインフォマティクス研究室
+https://www.nodai.ac.jp/academics/life_sci/mole_micro/lab/146/
+11号館の4階
+
+
 https://www.ncbi.nlm.nih.gov/pubmed/31584605
 Bioinformatics. 2019 Oct 4. pii: btz735. doi: 10.1093/bioinformatics/btz735. [Epub ahead of print]
 simurg: simulate bacterial pangenomes in R.
