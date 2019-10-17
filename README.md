@@ -20,12 +20,33 @@ Last Update: 2019-10
 https://www.sfc.keio.ac.jp/gsmg/about/faculty/
 教員 | 慶應義塾大学大学院政策・メディア研究科
 
-156-8502
-東京都世田谷区桜丘1-1-1
-東京農業大学　生命科学部　分子微生物学科
-バイオインフォマティクス研究室
-https://www.nodai.ac.jp/academics/life_sci/mole_micro/lab/146/
-11号館の4階
+
+http://www.affrc.maff.go.jp/tsukuba/top/event/workshop/ws_2019/222ws.html
+開催日時	
+2019年10月23日（水曜日）-10月25日（金曜日）
+開催場所	
+農林水産技術会議事務局 筑波産学連携支援センター
+情報通信共同利用館（電農館） 3階 セミナー室 （茨城県つくば市観音台2-1-9)
+
+Pitagora Galaxy Meetup
+http://wiki.pitagora-galaxy.org/wiki/index.php/Events
+https://pitagora-network.org/events/
+https://github.com/manabuishii/workflow-meetup/wiki/20190930
+
+
+
+http://wiki.lifesciencedb.jp/mw/SPARQLthon
+```
+2019/10/28-29 SPARQLthon85 @ DBCLS (柏)
+2019/11/28-29 SPARQLthon86 @ DBCLS (三島)
+2019/12/19-20 SPARQLthon87 @ DBCLS (柏)
+```
+
+https://www2.aeplan.co.jp/mbsj2019/
+第42回日本分子生物学会年会
+https://va.apollon.nta.co.jp/mbsj2019/
+2019年12月3日(火)～6日(金)に「第42回日本分子生物学会年会」が、福岡国際会議場・マリンメッセ福岡・福岡サンパレス ホテル&ホールにて開催
+
 
 
 https://www.ncbi.nlm.nih.gov/pubmed/31584605
@@ -80,24 +101,7 @@ http://www.cs.cmu.edu/~durand/Notung/ Notung-2.9 is a gene tree-species tree rec
 - https://ja.wikipedia.org/wiki/Sci-Hub
 
 
-Pitagora Galaxy Meetup
-http://wiki.pitagora-galaxy.org/wiki/index.php/Events
-https://pitagora-network.org/events/
-https://github.com/manabuishii/workflow-meetup/wiki/20190930
 
-
-
-http://wiki.lifesciencedb.jp/mw/SPARQLthon
-```
-2019/10/28-29 SPARQLthon85 @ DBCLS (柏)
-2019/11/28-29 SPARQLthon86 @ DBCLS (三島)
-2019/12/19-20 SPARQLthon87 @ DBCLS (柏)
-```
-
-https://www2.aeplan.co.jp/mbsj2019/
-第42回日本分子生物学会年会
-https://va.apollon.nta.co.jp/mbsj2019/
-2019年12月3日(火)～6日(金)に「第42回日本分子生物学会年会」が、福岡国際会議場・マリンメッセ福岡・福岡サンパレス ホテル&ホールにて開催
 
 https://twitter.com/Symbionticism/status/1123203760564637697
 Seth Bordenstein on Twitter: "This is a game changer. Many intracellular microbes have a genome wide bias in A’s and T’s. The major assumption has been a mutational bias / drift impacts this outcome. Well, not so fast. Evidence below that selection can contribute or cause it.… https://t.co/yfDqN3b3Lj"
