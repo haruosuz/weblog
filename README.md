@@ -20,7 +20,6 @@ Last Update: 2019-10
 https://www.sfc.keio.ac.jp/gsmg/about/faculty/
 教員 | 慶應義塾大学大学院政策・メディア研究科
 
-
 http://www.affrc.maff.go.jp/tsukuba/top/event/workshop/ws_2019/222ws.html
 開催日時	
 2019年10月23日（水曜日）-10月25日（金曜日）
@@ -49,10 +48,41 @@ https://va.apollon.nta.co.jp/mbsj2019/
 
 
 
-https://www.ncbi.nlm.nih.gov/pubmed/31584605
-Bioinformatics. 2019 Oct 4. pii: btz735. doi: 10.1093/bioinformatics/btz735. [Epub ahead of print]
-simurg: simulate bacterial pangenomes in R.
-Ferrés I1, Fresia P1,2, Iraola G1,3,4.
+
+----------
+
+### 2016-08-26
+
+http://www.keisoshobo.co.jp/book/b239975.html
+生物学の哲学入門 - 株式会社　勁草書房
+
+正誤表（PDF）
+http://www.keisoshobo.co.jp/files/seigohyo/9784326102549_03.pdf
+
+［第6章］　種
+6.4　微生物と本質主義
+
+2016-12-22
+https://shorebird.hatenablog.com/entries/2016/12/22
+書評　「生物学の哲学入門」 - shorebird　進化心理学中心の書評など
+
+第3章　利他性の進化
+（更にコラムとしてドーキンスの利己的遺伝子）
+
+第6章　種
+最後に著者たちは話を微生物に広げて検討を行い，恒常的性質クラスター説は所詮巨生物（本書では非微生物をこう呼ぶ）中心主義であると断罪し，種カテゴリー反実在，種概念の排除などの議論を好意的に紹介している．
+
+2016-11-11
+http://d.hatena.ne.jp/sakstyle/20161111/p1
+森元良太・田中泉吏『生物学の哲学入門』 - logical cypher scape
+微生物学との関係
+
+https://keisobiblio.com/2016/11/01/philosophyofbiologyfair/
+『生物学の哲学入門』刊行記念ブックフェア「哲学で探る生物学の世界」 - けいそうビブリオフィル
+11月 01日, 2016 勁草書房編集部
+
+
+
 
 https://www.ncbi.nlm.nih.gov/pubmed/27540085
 Genome Biol Evol. 2017 Oct 1;9(10):2560-2579. doi: 10.1093/gbe/evw201.
