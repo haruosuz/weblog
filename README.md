@@ -20,6 +20,9 @@ Last Update: 2019-10
 https://www.sfc.keio.ac.jp/gsmg/about/faculty/
 教員 | 慶應義塾大学大学院政策・メディア研究科
 
+http://kazumaxneo.hatenablog.com/entry/2019/07/13/235653
+普遍的な single-copy proteinsに基づいてバクテリアとアーキアを分類するGenome Taxonomy Database (GTDB) とその分類ツール GTDB-Tk - macでインフォマティクス
+
 ### 2018-06-14
 
 http://www.utp.or.jp/book/b357694.html
@@ -29,6 +32,8 @@ https://norikoinada.hatenadiary.jp/entry/2018/08/08/171543
 『細胞内共生説の謎』を読んだ - 本が好きなので
 
 https://twitter.com/search?q=%22細胞内共生説の謎%22&src=typed_query&f=live
+
+
 
 
 Pitagora Galaxy Meetup
