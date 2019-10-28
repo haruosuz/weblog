@@ -20,12 +20,16 @@ Last Update: 2019-10
 https://www.sfc.keio.ac.jp/gsmg/about/faculty/
 教員 | 慶應義塾大学大学院政策・メディア研究科
 
-http://www.affrc.maff.go.jp/tsukuba/top/event/workshop/ws_2019/222ws.html
-開催日時	
-2019年10月23日（水曜日）-10月25日（金曜日）
-開催場所	
-農林水産技術会議事務局 筑波産学連携支援センター
-情報通信共同利用館（電農館） 3階 セミナー室 （茨城県つくば市観音台2-1-9)
+### 2018-06-14
+
+http://www.utp.or.jp/book/b357694.html
+細胞内共生説の謎 - 東京大学出版会
+
+https://norikoinada.hatenadiary.jp/entry/2018/08/08/171543
+『細胞内共生説の謎』を読んだ - 本が好きなので
+
+https://twitter.com/search?q=%22細胞内共生説の謎%22&src=typed_query&f=live
+
 
 Pitagora Galaxy Meetup
 http://wiki.pitagora-galaxy.org/wiki/index.php/Events
