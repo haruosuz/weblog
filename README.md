@@ -20,6 +20,13 @@ Last Update: 2019-10
 https://www.sfc.keio.ac.jp/gsmg/about/faculty/
 教員 | 慶應義塾大学大学院政策・メディア研究科
 
+
+
+https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#mash
+
+http://kazumaxneo.hatenablog.com/entry/2018/05/11/180244
+MinHashを使い高速にゲノムを比較する MASH - macでインフォマティクス
+
 http://kazumaxneo.hatenablog.com/entry/2019/07/13/235653
 普遍的な single-copy proteinsに基づいてバクテリアとアーキアを分類するGenome Taxonomy Database (GTDB) とその分類ツール GTDB-Tk - macでインフォマティクス
 
