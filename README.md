@@ -15,6 +15,16 @@ Last Update: 2019-10
 ----------
 ## featuring
 
+https://github.com/haruosuz/microbe/blob/master/references/microbe.updates.md
+
+2019年10月15日（火）11時00分
+https://www.newsweekjapan.jp/stories/culture/2019/10/hotzone02.php
+岡田晴恵：訪日客急増の2020年､感染症は「今そこにある危機」になる可能性 | カルチャー | 最新記事 | ニューズウィーク日本版 オフィシャルサイト
+
+2019年10月8日（火）13時00分
+https://www.newsweekjapan.jp/stories/culture/2019/10/hotzone01.php
+モーリー･ロバートソン：ウイルス同様に｢偽情報も進化する時代｣に備えよ | カルチャー | 最新記事 | ニューズウィーク日本版 オフィシャルサイト
+
 - https://sfcclip.net/bus/
 
 https://www.sfc.keio.ac.jp/gsmg/about/faculty/
