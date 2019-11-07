@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-10
+Last Update: 2019-11
 
 ----------
 
@@ -15,32 +15,19 @@ Last Update: 2019-10
 ----------
 ## featuring
 
-https://github.com/haruosuz/books/blob/master/references/books.updates.md
+- https://github.com/haruosuz/books/blob/master/references/books.updates.md#2019-06-15
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.updates.md
+- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#minhash
+- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#mash
 
-https://github.com/haruosuz/microbe/blob/master/references/microbe.updates.md
+http://kazumaxneo.hatenablog.com/entry/2019/07/13/235653
+普遍的な single-copy proteinsに基づいてバクテリアとアーキアを分類するGenome Taxonomy Database (GTDB) とその分類ツール GTDB-Tk - macでインフォマティクス
 
-2019年10月15日（火）11時00分
-https://www.newsweekjapan.jp/stories/culture/2019/10/hotzone02.php
-岡田晴恵：訪日客急増の2020年､感染症は「今そこにある危機」になる可能性 | カルチャー | 最新記事 | ニューズウィーク日本版 オフィシャルサイト
-
-2019年10月8日（火）13時00分
-https://www.newsweekjapan.jp/stories/culture/2019/10/hotzone01.php
-モーリー･ロバートソン：ウイルス同様に｢偽情報も進化する時代｣に備えよ | カルチャー | 最新記事 | ニューズウィーク日本版 オフィシャルサイト
 
 - https://sfcclip.net/bus/
 
 https://www.sfc.keio.ac.jp/gsmg/about/faculty/
 教員 | 慶應義塾大学大学院政策・メディア研究科
-
-
-
-https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#mash
-
-http://kazumaxneo.hatenablog.com/entry/2018/05/11/180244
-MinHashを使い高速にゲノムを比較する MASH - macでインフォマティクス
-
-http://kazumaxneo.hatenablog.com/entry/2019/07/13/235653
-普遍的な single-copy proteinsに基づいてバクテリアとアーキアを分類するGenome Taxonomy Database (GTDB) とその分類ツール GTDB-Tk - macでインフォマティクス
 
 ### 2018-06-14
 
