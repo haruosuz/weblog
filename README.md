@@ -15,6 +15,8 @@ Last Update: 2019-10
 ----------
 ## featuring
 
+https://github.com/haruosuz/books/blob/master/references/books.updates.md
+
 https://github.com/haruosuz/microbe/blob/master/references/microbe.updates.md
 
 2019年10月15日（火）11時00分
