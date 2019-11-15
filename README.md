@@ -15,6 +15,7 @@ Last Update: 2019-11
 ----------
 ## featuring
 
+- https://github.com/haruosuz/statistics
 - https://github.com/haruosuz/books/blob/master/references/books.updates.md#2019-06-15
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.updates.md
 - https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#minhash
@@ -142,7 +143,6 @@ http://www.cs.cmu.edu/~durand/Notung/ Notung-2.9 is a gene tree-species tree rec
 - https://github.com/haruosuz/bioinfo/blob/master/README.md#blast
 - https://github.com/haruosuz/plasmids
 - https://qiita.com/advent-calendar/2018/galaxy
-- https://github.com/haruosuz/statistics
 - https://ja.wikipedia.org/wiki/Sci-Hub
 
 
