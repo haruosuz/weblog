@@ -24,6 +24,8 @@ Last Update: 2019-11
 http://kazumaxneo.hatenablog.com/entry/2019/07/13/235653
 普遍的な single-copy proteinsに基づいてバクテリアとアーキアを分類するGenome Taxonomy Database (GTDB) とその分類ツール GTDB-Tk - macでインフォマティクス
 
+http://news.kodansha.co.jp/8035
+ジムの筋トレと同じ効果！　10歳若返る本当に効果的な歩き方｜今日のおすすめ｜講談社BOOK倶楽部
 
 - https://sfcclip.net/bus/
 
