@@ -12,14 +12,62 @@ Last Update: 2019-11
 - [link](#link)
 - [unclassified](#unclassified)
 
+
+https://twitter.com/lobrowR/status/1157870107303055362
+Nathan Brouwer on Twitter: "I've compiled a short list of #rstats -based #bioinformatics and computational biology books and tutorials. (THREAD) 1/n"
+1:25 PM · Aug 4, 2019
+
+
+
+## 2019-06-28
+
+https://www.chikumashobo.co.jp/product/9784480837202/
+筑摩書房 クロード・シャノン　情報時代を発明した男 / ジミー・ソニ 著, ロブ・グッドマン 著, 小坂 恵理 著
+
+2019年08月28日
+https://honz.jp/articles/-/45341
+『クロード・シャノン　情報時代を発明した男 』情報時代の本質とその未来を考えるために - HONZ
+
 ----------
 ## featuring
 
+- https://sfcclip.net/bus/
 - https://github.com/haruosuz/statistics
 - https://github.com/haruosuz/books/blob/master/references/books.updates.md#2019-06-15
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.updates.md
 - https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#minhash
 - https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#mash
+
+https://www2.aeplan.co.jp/mbsj2019/
+第42回日本分子生物学会年会
+https://va.apollon.nta.co.jp/mbsj2019/
+2019年12月3日(火)～6日(金)に「第42回日本分子生物学会年会」が、福岡国際会議場・マリンメッセ福岡・福岡サンパレス ホテル&ホールにて開催
+
+http://wiki.lifesciencedb.jp/mw/SPARQLthon
+```
+2019/11/28-29 SPARQLthon86 @ DBCLS (三島)
+2019/12/23-24 SPARQLthon87 @ DBCLS (柏)
+2020/01/23-24 SPARQLthon88 @ DBCLS (柏)
+2020/02/20-21 SPARQLthon89 @ DBCLS (柏)
+2020/03/30-31 SPARQLthon90 @ DBCLS (三島)
+```
+
+Pitagora Galaxy Meetup
+https://pitagora-network.org/events/
+Meetup
+Pitagora Meetup 2019-12
+2019-12-09 @ 理研日本橋
+
+https://github.com/manabuishii/workflow-meetup
+https://hackmd.io/2DCSEu-ATMeON7yYcxIceQ
+次回は、東京の会場がNII
+2019-12-16(Mon)
+10:00 - 19:00 まで。
+東京：国立情報学研究所(NII)、2005 講義室1 (20階)
+https://github.com/manabuishii/workflow-meetup/wiki/20191216
+
+
+
 
 http://kazumaxneo.hatenablog.com/entry/2019/07/13/235653
 普遍的な single-copy proteinsに基づいてバクテリアとアーキアを分類するGenome Taxonomy Database (GTDB) とその分類ツール GTDB-Tk - macでインフォマティクス
@@ -41,29 +89,6 @@ https://norikoinada.hatenadiary.jp/entry/2018/08/08/171543
 『細胞内共生説の謎』を読んだ - 本が好きなので
 
 https://twitter.com/search?q=%22細胞内共生説の謎%22&src=typed_query&f=live
-
-
-
-
-Pitagora Galaxy Meetup
-http://wiki.pitagora-galaxy.org/wiki/index.php/Events
-https://pitagora-network.org/events/
-https://github.com/manabuishii/workflow-meetup/wiki/20190930
-
-
-
-http://wiki.lifesciencedb.jp/mw/SPARQLthon
-```
-2019/10/28-29 SPARQLthon85 @ DBCLS (柏)
-2019/11/28-29 SPARQLthon86 @ DBCLS (三島)
-2019/12/19-20 SPARQLthon87 @ DBCLS (柏)
-```
-
-https://www2.aeplan.co.jp/mbsj2019/
-第42回日本分子生物学会年会
-https://va.apollon.nta.co.jp/mbsj2019/
-2019年12月3日(火)～6日(金)に「第42回日本分子生物学会年会」が、福岡国際会議場・マリンメッセ福岡・福岡サンパレス ホテル&ホールにて開催
-
 
 
 
@@ -121,7 +146,6 @@ http://www.cs.cmu.edu/~durand/Notung/ Notung-2.9 is a gene tree-species tree rec
 
 - https://twitter.com/kakenhi_com
 - https://科研費.com
-- https://sfcclip.net/bus/
 - https://github.com/haruosuz/r4bioinfo
 - https://github.com/haruosuz/r4bioinfo/tree/master/R_memo
 - https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md
