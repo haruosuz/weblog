@@ -13,21 +13,6 @@ Last Update: 2019-11
 - [unclassified](#unclassified)
 
 
-https://twitter.com/lobrowR/status/1157870107303055362
-Nathan Brouwer on Twitter: "I've compiled a short list of #rstats -based #bioinformatics and computational biology books and tutorials. (THREAD) 1/n"
-1:25 PM · Aug 4, 2019
-
-
-
-## 2019-06-28
-
-https://www.chikumashobo.co.jp/product/9784480837202/
-筑摩書房 クロード・シャノン　情報時代を発明した男 / ジミー・ソニ 著, ロブ・グッドマン 著, 小坂 恵理 著
-
-2019年08月28日
-https://honz.jp/articles/-/45341
-『クロード・シャノン　情報時代を発明した男 』情報時代の本質とその未来を考えるために - HONZ
-
 ----------
 ## featuring
 
@@ -37,20 +22,6 @@ https://honz.jp/articles/-/45341
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.updates.md
 - https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#minhash
 - https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#mash
-
-https://www2.aeplan.co.jp/mbsj2019/
-第42回日本分子生物学会年会
-https://va.apollon.nta.co.jp/mbsj2019/
-2019年12月3日(火)～6日(金)に「第42回日本分子生物学会年会」が、福岡国際会議場・マリンメッセ福岡・福岡サンパレス ホテル&ホールにて開催
-
-http://wiki.lifesciencedb.jp/mw/SPARQLthon
-```
-2019/11/28-29 SPARQLthon86 @ DBCLS (三島)
-2019/12/23-24 SPARQLthon87 @ DBCLS (柏)
-2020/01/23-24 SPARQLthon88 @ DBCLS (柏)
-2020/02/20-21 SPARQLthon89 @ DBCLS (柏)
-2020/03/30-31 SPARQLthon90 @ DBCLS (三島)
-```
 
 Pitagora Galaxy Meetup
 https://pitagora-network.org/events/
@@ -66,6 +37,73 @@ https://hackmd.io/2DCSEu-ATMeON7yYcxIceQ
 東京：国立情報学研究所(NII)、2005 講義室1 (20階)
 https://github.com/manabuishii/workflow-meetup/wiki/20191216
 
+
+http://wiki.lifesciencedb.jp/mw/SPARQLthon
+```
+2019/12/23-24 SPARQLthon87 @ DBCLS (柏)
+2020/01/23-24 SPARQLthon88 @ DBCLS (柏)
+2020/02/20-21 SPARQLthon89 @ DBCLS (柏)
+2020/03/30-31 SPARQLthon90 @ DBCLS (三島)
+```
+
+
+
+https://twitter.com/lobrowR/status/1157870107303055362
+Nathan Brouwer on Twitter: "I've compiled a short list of #rstats -based #bioinformatics and computational biology books and tutorials. (THREAD) 1/n"
+1:25 PM · Aug 4, 2019
+
+
+----------
+https://qiita.com/advent-calendar/2019/galaxy
+Galaxy Advent Calendar 2019 - Qiita
+
+
+https://adventar.org/calendars/4523
+Open and Reproducible Science Advent Calendar 2019 - Adventar
+
+https://cpp-laboratory.hatenablog.com/entry/2019/12/08/080332
+心理学における理論の危機について - Computational Clinical Psychology Lab
+2019-12-08
+心理学における理論の危機について
+この記事は，Open and Reproducible Science Advent Calendar 2019の8日目の記事です。
+
+----------
+https://qiita.com/advent-calendar/2019/bioinfo
+バイオインフォマティクス Advent Calendar 2019 - Qiita
+
+https://khigashi1987.github.io/pyEDM_Maizuru/
+pyEDMを使った生態学時系列データの因果推定
+
+https://qiita.com/antiplastics/items/474a49237d3aa6f0e9e3
+BiocWorkflowToolsパッケージを使ってみた - Qiita
+
+Microbiome関係のパッケージ群: https://f1000research.com/articles/5-1492
+Bioconductor Workflow for Microbiome Data Analysis: from raw reads to community analyses [version 2; peer review: 3 approved]
+
+
+----------
+https://qiita.com/advent-calendar/2019/metagenome
+メタゲノム Advent Calendar 2019 - Qiita
+
+https://qiita.com/hi-mori/items/a1d3e0923f2cc85edb84
+メタゲノムの情報解析が学べるWeb教材（スライドや動画） - Qiita
+
+https://qiita.com/Yohei__K/items/dffc8767581bfbaad812
+メタゲノムのイケてるネットワーク解析手法、WGCNA解説 - Qiita
+R packageに関して
+
+----------
+
+## 2019-06-28
+
+https://www.chikumashobo.co.jp/product/9784480837202/
+筑摩書房 クロード・シャノン　情報時代を発明した男 / ジミー・ソニ 著, ロブ・グッドマン 著, 小坂 恵理 著
+
+2019年08月28日
+https://honz.jp/articles/-/45341
+『クロード・シャノン　情報時代を発明した男 』情報時代の本質とその未来を考えるために - HONZ
+
+----------
 
 
 
