@@ -17,25 +17,49 @@ Last Update: 2019-11
 ## featuring
 
 - https://sfcclip.net/bus/
+- https://github.com/haruosuz/microbe
+- https://github.com/haruosuz/microbe/blob/master/README.md
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.updates.md
 - https://github.com/haruosuz/statistics
 - https://github.com/haruosuz/books/blob/master/references/books.updates.md#2019-06-15
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.updates.md
 - https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#minhash
 - https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#mash
+
+
+https://www.asakura.co.jp/books/isbn/978-4-254-12882-6/
+朝倉書店｜新版 統計学のセンス ―デザインする視点・データを見る目―
+
+https://tjo.hatenablog.com/entry/2018/12/12/190000
+『新版 統計学のセンス』は統計学を「使う」人なら必携の書 - 渋谷駅前で働くデータサイエンティストのブログ
+
+
+----------
+
+2019.12.15 4:35
+https://diamond.jp/articles/-/223378
+ダーウィンの「進化論」は誤解されている | 若い読者に贈る美しい生物学講義 | ダイヤモンド・オンライン
+
+2019.12.14 4:25
+https://diamond.jp/articles/-/223238
+「トカゲ」は「ヒト」よりも進化している!? | 若い読者に贈る美しい生物学講義 | ダイヤモンド・オンライン
+https://diamond.jp/articles/-/223238?page=2
+
+### 2017-01-24
+![](http://www.harashobo.co.jp//images/book/369202.jpg)
+
+http://www.harashobo.co.jp/book/b369202.html
+感染源 - 原書房
+防御不能のパンデミックを追う
+
+2017年03月19日
+https://honz.jp/articles/-/43893
+パンデミックの複雑な見取り図『感染源 防御不能のパンデミックを追う』 - HONZ
+
+----------
 
 Pitagora Galaxy Meetup
 https://pitagora-network.org/events/
 Meetup
-Pitagora Meetup 2019-12
-2019-12-09 @ 理研日本橋
-
-https://github.com/manabuishii/workflow-meetup
-https://hackmd.io/2DCSEu-ATMeON7yYcxIceQ
-次回は、東京の会場がNII
-2019-12-16(Mon)
-10:00 - 19:00 まで。
-東京：国立情報学研究所(NII)、2005 講義室1 (20階)
-https://github.com/manabuishii/workflow-meetup/wiki/20191216
 
 
 http://wiki.lifesciencedb.jp/mw/SPARQLthon
@@ -193,7 +217,6 @@ http://www.cs.cmu.edu/~durand/Notung/ Notung-2.9 is a gene tree-species tree rec
   - http://apprize.info/data/bioinformatics/index.html
 - https://github.com/haruosuz/books
 - https://github.com/haruosuz/books/blob/master/references/books.microbe.md
-- https://github.com/haruosuz/microbe
 - https://github.com/haruosuz/mgsa
 - https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#seqkit
 - https://github.com/haruosuz/evolve
