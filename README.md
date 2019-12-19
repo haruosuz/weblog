@@ -24,7 +24,11 @@ Last Update: 2019-11
 - https://github.com/haruosuz/books/blob/master/references/books.updates.md#2019-06-15
 - https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#minhash
 - https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#mash
-
+- https://github.com/haruosuz/introBI/tree/master/2019
+  - http://apprize.info/data/bioinformatics/index.html
+- https://github.com/haruosuz/DS4GD/tree/master/2019giga
+- https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md
+- https://github.com/haruosuz/r4bioinfo
 
 https://www.asakura.co.jp/books/isbn/978-4-254-12882-6/
 朝倉書店｜新版 統計学のセンス ―デザインする視点・データを見る目―
@@ -235,13 +239,6 @@ http://www.cs.cmu.edu/~durand/Notung/ Notung-2.9 is a gene tree-species tree rec
 
 - https://twitter.com/kakenhi_com
 - https://科研費.com
-- https://github.com/haruosuz/r4bioinfo
-- https://github.com/haruosuz/r4bioinfo/tree/master/R_memo
-- https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md
-- https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#how-to-install-r-and-a-brief-introduction-to-r
-- https://github.com/haruosuz/DS4GD/tree/master/2019giga
-- https://github.com/haruosuz/introBI/tree/master/2019
-  - http://apprize.info/data/bioinformatics/index.html
 - https://github.com/haruosuz/books
 - https://github.com/haruosuz/books/blob/master/references/books.microbe.md
 - https://github.com/haruosuz/mgsa
