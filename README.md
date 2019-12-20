@@ -30,6 +30,9 @@ Last Update: 2019-11
 - https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md
 - https://github.com/haruosuz/r4bioinfo
 
+https://logics-of-blue.com/r-programming-intro-book-support/
+R言語ではじめるプログラミングとデータ分析：サポートページ | Logics of Blue
+
 https://www.asakura.co.jp/books/isbn/978-4-254-12882-6/
 朝倉書店｜新版 統計学のセンス ―デザインする視点・データを見る目―
 
