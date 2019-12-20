@@ -30,6 +30,12 @@ Last Update: 2019-11
 - https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md
 - https://github.com/haruosuz/r4bioinfo
 
+
+https://twitter.com/yokadzaki/status/1207664496778469378
+Yusuke Okazaki on Twitter: "論文の集め方と文献管理の方法を紹介。読むためではなく知識の引き出しを作るために論文を集めているという考えです https://t.co/UGleuRPPd6" / Twitter
+https://yokazaki.hatenablog.com/entry/2019/12/19/224848
+新着論文の集め方・文献管理方法 - yokaのblog
+
 https://logics-of-blue.com/r-programming-intro-book-support/
 R言語ではじめるプログラミングとデータ分析：サポートページ | Logics of Blue
 
