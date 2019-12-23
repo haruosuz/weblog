@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-11
+Last Update: 2019-12
 
 ----------
 
@@ -17,6 +17,8 @@ Last Update: 2019-11
 ## featuring
 
 - https://sfcclip.net/bus/
+- https://github.com/haruosuz/codon
+- https://twitter.com/search?q=plasmid%20codon&src=typd
 - https://github.com/haruosuz/microbe
 - https://github.com/haruosuz/microbe/blob/master/README.md
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.updates.md
@@ -255,8 +257,6 @@ http://www.cs.cmu.edu/~durand/Notung/ Notung-2.9 is a gene tree-species tree rec
 - https://github.com/haruosuz/evolve
 - https://github.com/haruosuz/metasub
 - https://twitter.com/search?q=Wolbachia%20plasmid
-- https://github.com/haruosuz/codon
-- https://twitter.com/search?q=plasmid%20codon&src=typd
 - https://twitter.com/search?f=tweets&q=built%20environment%20microbiome&src=typd
 - https://www.ted.com/topics/biology
 - https://github.com/haruosuz/bioinfo
