@@ -33,45 +33,34 @@ Last Update: 2019-12
 - https://github.com/haruosuz/r4bioinfo
 
 
+
+----------
+
+https://twitter.com/TJO_datasci/status/1173066910490980352
+TJO on Twitter: "「研究者皆が論文を載せたがる高IFトップジャーナルほど検定力が低い＝偽陽性で間違った結論を載せている可能性が高い」という報告がされている分野すらある一方で「高IF低採択率のトップジャーナルの論文ほど信用できる」と2019年にもなって公言する研究者が出てくるジャパン https://t.co/5NFvOWIX4l"
+11:52 AM · Sep 15, 2019
+https://tjo.hatenablog.com/entry/2017/05/06/090000
+論文メモ：Empirical assessment of published effect sizes and power in the recent cognitive neuroscience and psychology literature (Szucs & Ioannidis, PLoS Biol, 2017) - 六本木で働くデータサイエンティストのブログ
+
+
+https://tjo.hatenablog.com/entry/2014/02/24/192655
+効果量(effect size)のはなし - 渋谷駅前で働くデータサイエンティストのブログ
+
+
+----------
+
+
+
+http://kazumaxneo.hatenablog.com/entry/2019/11/08/073000
+pATLASflow - macでインフォマティクス
+
+http://kazumaxneo.hatenablog.com/entry/2019/11/06/073000
+プラスミドの分析と視覚化のwebサービス Plasmid ATLAS - macでインフォマティクス
+
 https://twitter.com/yokadzaki/status/1207664496778469378
 Yusuke Okazaki on Twitter: "論文の集め方と文献管理の方法を紹介。読むためではなく知識の引き出しを作るために論文を集めているという考えです https://t.co/UGleuRPPd6" / Twitter
 https://yokazaki.hatenablog.com/entry/2019/12/19/224848
 新着論文の集め方・文献管理方法 - yokaのblog
-
-https://logics-of-blue.com/r-programming-intro-book-support/
-R言語ではじめるプログラミングとデータ分析：サポートページ | Logics of Blue
-
-https://www.asakura.co.jp/books/isbn/978-4-254-12882-6/
-朝倉書店｜新版 統計学のセンス ―デザインする視点・データを見る目―
-
-https://tjo.hatenablog.com/entry/2018/12/12/190000
-『新版 統計学のセンス』は統計学を「使う」人なら必携の書 - 渋谷駅前で働くデータサイエンティストのブログ
-
-----------
-
-https://hillslife.jp/innovation/2019/12/18/how-to-be-creative-in-the-university/
-慶應SFC環境情報学部長でアーティスト・脇田玲が語る、次代の大学に必要な4つのクリエイティビティ｜ヒルズライフ HILLS LIFE
-
-https://kenkyustyle.blogspot.com/2019/06/blog-post_23.html
-「博士論文・修士論文が書けない」と思ったら読んでください|僕らの研究スタイル
-
-https://www.yodosha.co.jp/yodobook/book/9784758125253/
-実験医学：再定義されるタンパク質の常識〜古典的なセントラルドグマの刷新と未開拓のタンパク質の世界 - 羊土社
-
-実験医学 2019年11月号 Vol.37 No.18
-再定義されるタンパク質の常識
-古典的なセントラルドグマの刷新と未開拓のタンパク質の世界
-田口英樹／企画
-2019年10月18日発行 
-
-教科書的な開始・終止コドンやncRNAの定義に従わない翻訳機構が明かされ，タンパク質の世界が拡大しています．タンパク質の全貌に迫る網羅的解析技術や，相分離，人工タンパク質など重要トピックスを紹介！
-
-特集の概論を読む
-https://www.yodosha.co.jp/jikkenigaku/book/9784758125253/3040.html
-実験医学：再定義されるタンパク質の常識〜古典的なセントラルドグマの刷新と未開拓のタンパク質の世界
-
-
-----------
 
 
 
@@ -103,21 +92,16 @@ Pitagora Galaxy Meetup
 https://pitagora-network.org/events/
 Meetup
 
-
 http://wiki.lifesciencedb.jp/mw/SPARQLthon
 ```
-2019/12/23-24 SPARQLthon87 @ DBCLS (柏)
 2020/01/23-24 SPARQLthon88 @ DBCLS (柏)
 2020/02/20-21 SPARQLthon89 @ DBCLS (柏)
 2020/03/30-31 SPARQLthon90 @ DBCLS (三島)
 ```
 
-
-
 https://twitter.com/lobrowR/status/1157870107303055362
 Nathan Brouwer on Twitter: "I've compiled a short list of #rstats -based #bioinformatics and computational biology books and tutorials. (THREAD) 1/n"
 1:25 PM · Aug 4, 2019
-
 
 ----------
 https://qiita.com/advent-calendar/2019/galaxy
@@ -142,7 +126,6 @@ pyEDMを使った生態学時系列データの因果推定
 
 https://qiita.com/antiplastics/items/474a49237d3aa6f0e9e3
 BiocWorkflowToolsパッケージを使ってみた - Qiita
-
 Microbiome関係のパッケージ群: https://f1000research.com/articles/5-1492
 Bioconductor Workflow for Microbiome Data Analysis: from raw reads to community analyses [version 2; peer review: 3 approved]
 
