@@ -32,9 +32,10 @@ Last Update: 2019-12
 - https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md
 - https://github.com/haruosuz/r4bioinfo
 
-
-
 ----------
+
+https://tjo.hatenablog.com/entry/2018/12/12/190000
+『新版 統計学のセンス』は統計学を「使う」人なら必携の書 - 渋谷駅前で働くデータサイエンティストのブログ
 
 https://twitter.com/TJO_datasci/status/1173066910490980352
 TJO on Twitter: "「研究者皆が論文を載せたがる高IFトップジャーナルほど検定力が低い＝偽陽性で間違った結論を載せている可能性が高い」という報告がされている分野すらある一方で「高IF低採択率のトップジャーナルの論文ほど信用できる」と2019年にもなって公言する研究者が出てくるジャパン https://t.co/5NFvOWIX4l"
@@ -48,8 +49,6 @@ https://tjo.hatenablog.com/entry/2014/02/24/192655
 
 
 ----------
-
-
 
 http://kazumaxneo.hatenablog.com/entry/2019/11/08/073000
 pATLASflow - macでインフォマティクス
