@@ -34,6 +34,14 @@ Last Update: 2019-12
 
 ----------
 
+
+https://twitter.com/BejaLab/status/1195926101509496832
+Oded Béjà on Twitter: "while preparing my microbial ecology lecture for today i came upon this one (not for the first time
+). Bacterial clade with the ribosomal RNA operon on a small plasmid rather than the chromosome https://t.co/PsC007lQoY" / Twitter
+1:46 PM · Nov 17, 2019·Twitter Web App
+
+
+
 https://tjo.hatenablog.com/entry/2018/12/12/190000
 『新版 統計学のセンス』は統計学を「使う」人なら必携の書 - 渋谷駅前で働くデータサイエンティストのブログ
 
