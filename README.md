@@ -35,6 +35,24 @@ Last Update: 2019-12
 ----------
 
 
+
+http://kazumaxneo.hatenablog.com/entry/2019/07/13/235653
+普遍的な single-copy proteinsに基づいてバクテリアとアーキアを分類するGenome Taxonomy Database (GTDB) とその分類ツール GTDB-Tk - macでインフォマティクス
+
+http://news.kodansha.co.jp/8035
+ジムの筋トレと同じ効果！　10歳若返る本当に効果的な歩き方｜今日のおすすめ｜講談社BOOK倶楽部
+
+
+----------
+
+2018 年 23 巻 2 号 p. 265-278
+https://www.jstage.jst.go.jp/article/hozen/23/2/23_265/_article/-char/ja
+総説
+都市の生物多様性研究は何を目的や対象としてきたか？： 国内研究の動向分析
+土屋 一彬, 斎藤 昌幸
+https://www.jstage.jst.go.jp/article/hozen/23/2/23_265/_pdf/-char/ja
+
+
 https://twitter.com/BejaLab/status/1195926101509496832
 Oded Béjà on Twitter: "while preparing my microbial ecology lecture for today i came upon this one (not for the first time
 ). Bacterial clade with the ribosomal RNA operon on a small plasmid rather than the chromosome https://t.co/PsC007lQoY" / Twitter
@@ -159,20 +177,9 @@ https://www.chikumashobo.co.jp/product/9784480837202/
 https://honz.jp/articles/-/45341
 『クロード・シャノン　情報時代を発明した男 』情報時代の本質とその未来を考えるために - HONZ
 
-----------
 
 
 
-http://kazumaxneo.hatenablog.com/entry/2019/07/13/235653
-普遍的な single-copy proteinsに基づいてバクテリアとアーキアを分類するGenome Taxonomy Database (GTDB) とその分類ツール GTDB-Tk - macでインフォマティクス
-
-http://news.kodansha.co.jp/8035
-ジムの筋トレと同じ効果！　10歳若返る本当に効果的な歩き方｜今日のおすすめ｜講談社BOOK倶楽部
-
-- https://sfcclip.net/bus/
-
-https://www.sfc.keio.ac.jp/gsmg/about/faculty/
-教員 | 慶應義塾大学大学院政策・メディア研究科
 
 ### 2018-06-14
 
