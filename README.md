@@ -36,11 +36,16 @@ Last Update: 2019-12
 
 
 
-http://kazumaxneo.hatenablog.com/entry/2019/07/13/235653
-普遍的な single-copy proteinsに基づいてバクテリアとアーキアを分類するGenome Taxonomy Database (GTDB) とその分類ツール GTDB-Tk - macでインフォマティクス
+https://twitter.com/BejaLab/status/1195926101509496832
+Oded Béjà on Twitter: "while preparing my microbial ecology lecture for today i came upon this one (not for the first time
+). Bacterial clade with the ribosomal RNA operon on a small plasmid rather than the chromosome https://t.co/PsC007lQoY" / Twitter
+1:46 PM · Nov 17, 2019·Twitter Web App
 
-http://news.kodansha.co.jp/8035
-ジムの筋トレと同じ効果！　10歳若返る本当に効果的な歩き方｜今日のおすすめ｜講談社BOOK倶楽部
+
+
+https://twitter.com/WvSchaik/status/583760066505007104
+Willem van Schaik on Twitter: "Everything that is wrong about microbiome research in one blog post 'Microbiome correlated with income': http://t.co/qXuW7nnviQ" / Twitter
+
 
 
 ----------
@@ -51,12 +56,6 @@ https://www.jstage.jst.go.jp/article/hozen/23/2/23_265/_article/-char/ja
 都市の生物多様性研究は何を目的や対象としてきたか？： 国内研究の動向分析
 土屋 一彬, 斎藤 昌幸
 https://www.jstage.jst.go.jp/article/hozen/23/2/23_265/_pdf/-char/ja
-
-
-https://twitter.com/BejaLab/status/1195926101509496832
-Oded Béjà on Twitter: "while preparing my microbial ecology lecture for today i came upon this one (not for the first time
-). Bacterial clade with the ribosomal RNA operon on a small plasmid rather than the chromosome https://t.co/PsC007lQoY" / Twitter
-1:46 PM · Nov 17, 2019·Twitter Web App
 
 
 
@@ -73,14 +72,12 @@ https://tjo.hatenablog.com/entry/2017/05/06/090000
 https://tjo.hatenablog.com/entry/2014/02/24/192655
 効果量(effect size)のはなし - 渋谷駅前で働くデータサイエンティストのブログ
 
+http://news.kodansha.co.jp/8035
+ジムの筋トレと同じ効果！　10歳若返る本当に効果的な歩き方｜今日のおすすめ｜講談社BOOK倶楽部
+
 
 ----------
 
-http://kazumaxneo.hatenablog.com/entry/2019/11/08/073000
-pATLASflow - macでインフォマティクス
-
-http://kazumaxneo.hatenablog.com/entry/2019/11/06/073000
-プラスミドの分析と視覚化のwebサービス Plasmid ATLAS - macでインフォマティクス
 
 https://twitter.com/yokadzaki/status/1207664496778469378
 Yusuke Okazaki on Twitter: "論文の集め方と文献管理の方法を紹介。読むためではなく知識の引き出しを作るために論文を集めているという考えです https://t.co/UGleuRPPd6" / Twitter
