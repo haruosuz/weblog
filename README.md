@@ -33,6 +33,13 @@ Last Update: 2020-01-08
 - https://github.com/haruosuz/r4bioinfo
 
 
+https://sfcclip.net/bus/
+バス時刻表 ∣ SFC CLIP
+
+https://www.sfc.keio.ac.jp/gsmg/about/faculty/
+教員 | 慶應義塾大学大学院政策・メディア研究科
+
+
 https://twitter.com/leeswijzer/status/1214654308597161984
 MINAKA Nobuhiro『ビールの自然誌』近刊 on Twitter: "［欹耳袋］ hellog～英語史ブログ「#3905. 系統学の歴史言語学への適用について (1)」（2020年1月5日） https://t.co/IbinPQumj5 ※三中信宏 2017. 考古学は進化学から何を学んだか？ Pp. 125-165：中尾央・松木武彦・三中信宏（編）『文化進化の考古学』勁草書房を踏まえて．" / Twitter
 http://user.keio.ac.jp/~rhotta/hellog/2020-01-05-1.html
