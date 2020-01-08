@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-12
+Last Update: 2020-01-08
 
 ----------
 
@@ -32,16 +32,44 @@ Last Update: 2019-12
 - https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md
 - https://github.com/haruosuz/r4bioinfo
 
+
+https://twitter.com/leeswijzer/status/1214654308597161984
+MINAKA Nobuhiro『ビールの自然誌』近刊 on Twitter: "［欹耳袋］ hellog～英語史ブログ「#3905. 系統学の歴史言語学への適用について (1)」（2020年1月5日） https://t.co/IbinPQumj5 ※三中信宏 2017. 考古学は進化学から何を学んだか？ Pp. 125-165：中尾央・松木武彦・三中信宏（編）『文化進化の考古学』勁草書房を踏まえて．" / Twitter
+http://user.keio.ac.jp/~rhotta/hellog/2020-01-05-1.html
+#3905. 系統学の歴史言語学への適用について (1)
+
+https://twitter.com/leeswijzer/status/1214654846663421952
+MINAKA Nobuhiro『ビールの自然誌』近刊 on Twitter: "続）［欹耳袋］ hellog～英語史ブログ「#3906. 系統学の歴史言語学への適用について (2)」（2020年1月6日） https://t.co/Pck4hubATc" / Twitter
+http://user.keio.ac.jp/~rhotta/hellog/2020-01-06-1.html
+#3906. 系統学の歴史言語学への適用について (2)
+
+
+
+Wed 01 January 2020
+http://ivory.idyll.org/blog/2020-sourmash-gtdb-oddities.html
+Finding problematic bacterial/archaeal genomes using k-mers and taxonomy
+
+
+2020年01月03日
+https://honz.jp/articles/-/45497
+『反穀物の人類史──国家誕生のディープヒストリー』 農業の優越性という神話、国家の形成をめぐるパラドックス - HONZ
+
+2019年09月02日
+https://honz.jp/articles/-/45342
+『事実はなぜ人の意見を変えられないのか』 不都合な真実から目を背ける人たち - HONZ
+
 ----------
 
 
+### 2020
+
+
+### 2019
 
 https://twitter.com/BejaLab/status/1195926101509496832
 Oded Béjà on Twitter: "while preparing my microbial ecology lecture for today i came upon this one (not for the first time
 ). Bacterial clade with the ribosomal RNA operon on a small plasmid rather than the chromosome https://t.co/PsC007lQoY" / Twitter
 1:46 PM · Nov 17, 2019·Twitter Web App
-
-
 
 https://twitter.com/WvSchaik/status/583760066505007104
 Willem van Schaik on Twitter: "Everything that is wrong about microbiome research in one blog post 'Microbiome correlated with income': http://t.co/qXuW7nnviQ" / Twitter
