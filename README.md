@@ -156,43 +156,6 @@ https://twitter.com/lobrowR/status/1157870107303055362
 Nathan Brouwer on Twitter: "I've compiled a short list of #rstats -based #bioinformatics and computational biology books and tutorials. (THREAD) 1/n"
 1:25 PM · Aug 4, 2019
 
-----------
-https://qiita.com/advent-calendar/2019/galaxy
-Galaxy Advent Calendar 2019 - Qiita
-
-
-https://adventar.org/calendars/4523
-Open and Reproducible Science Advent Calendar 2019 - Adventar
-
-https://cpp-laboratory.hatenablog.com/entry/2019/12/08/080332
-心理学における理論の危機について - Computational Clinical Psychology Lab
-2019-12-08
-心理学における理論の危機について
-この記事は，Open and Reproducible Science Advent Calendar 2019の8日目の記事です。
-
-----------
-https://qiita.com/advent-calendar/2019/bioinfo
-バイオインフォマティクス Advent Calendar 2019 - Qiita
-
-https://khigashi1987.github.io/pyEDM_Maizuru/
-pyEDMを使った生態学時系列データの因果推定
-
-https://qiita.com/antiplastics/items/474a49237d3aa6f0e9e3
-BiocWorkflowToolsパッケージを使ってみた - Qiita
-Microbiome関係のパッケージ群: https://f1000research.com/articles/5-1492
-Bioconductor Workflow for Microbiome Data Analysis: from raw reads to community analyses [version 2; peer review: 3 approved]
-
-
-----------
-https://qiita.com/advent-calendar/2019/metagenome
-メタゲノム Advent Calendar 2019 - Qiita
-
-https://qiita.com/hi-mori/items/a1d3e0923f2cc85edb84
-メタゲノムの情報解析が学べるWeb教材（スライドや動画） - Qiita
-
-https://qiita.com/Yohei__K/items/dffc8767581bfbaad812
-メタゲノムのイケてるネットワーク解析手法、WGCNA解説 - Qiita
-R packageに関して
 
 ----------
 
