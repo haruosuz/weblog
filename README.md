@@ -18,6 +18,8 @@ Last Update: 2020-01-08
 
 - https://sfcclip.net/bus/
 - https://www.sfc.keio.ac.jp/gsmg/about/faculty/
+- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md
+- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.k-mer.md
 - https://github.com/haruosuz/codon
 - https://twitter.com/search?q=plasmid%20codon&src=typd
 - https://github.com/haruosuz/microbe
@@ -25,8 +27,6 @@ Last Update: 2020-01-08
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.updates.md
 - https://github.com/haruosuz/statistics
 - https://github.com/haruosuz/books/blob/master/references/books.updates.md#2019-06-15
-- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#minhash
-- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#mash
 - https://github.com/haruosuz/introBI/tree/master/2019
   - http://apprize.info/data/bioinformatics/index.html
 - https://github.com/haruosuz/DS4GD/tree/master/2019giga
@@ -47,11 +47,6 @@ MINAKA Nobuhiro『ビールの自然誌』近刊 on Twitter: "続）［欹耳袋
 http://user.keio.ac.jp/~rhotta/hellog/2020-01-06-1.html
 #3906. 系統学の歴史言語学への適用について (2)
 
-Wed 01 January 2020
-http://ivory.idyll.org/blog/2020-sourmash-gtdb-oddities.html
-Finding problematic bacterial/archaeal genomes using k-mers and taxonomy
-
-
 2020年01月03日
 https://honz.jp/articles/-/45497
 『反穀物の人類史──国家誕生のディープヒストリー』 農業の優越性という神話、国家の形成をめぐるパラドックス - HONZ
@@ -59,6 +54,15 @@ https://honz.jp/articles/-/45497
 2019年09月02日
 https://honz.jp/articles/-/45342
 『事実はなぜ人の意見を変えられないのか』 不都合な真実から目を背ける人たち - HONZ
+
+https://twitter.com/torstenseemann/status/1170944364765270016
+Torsten Seemann on Twitter: ""25 reasons Genbank assemblies don't make it into Refseq" - my latest blog post #bioinformatics https://t.co/yjkwgpARXj"
+3:17 PM · Sep 9, 2019·
+https://thegenomefactory.blogspot.com/2019/09/25-reasons-assemblies-dont-make-it-into.html
+
+https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#notung
+http://www.cs.cmu.edu/~durand/Notung/ Notung-2.9 is a gene tree-species tree reconciliation software package that supports duplication-loss (DL) and duplication-transfer-loss (DTL) event models with a parsimony-based optimization criterion.
+
 
 ----------
 
@@ -249,25 +253,6 @@ https://keisobiblio.com/2016/11/01/philosophyofbiologyfair/
 『生物学の哲学入門』刊行記念ブックフェア「哲学で探る生物学の世界」 - けいそうビブリオフィル
 11月 01日, 2016 勁草書房編集部
 
-
-
-
-https://www.ncbi.nlm.nih.gov/pubmed/27540085
-Genome Biol Evol. 2017 Oct 1;9(10):2560-2579. doi: 10.1093/gbe/evw201.
-Switches in Genomic GC Content Drive Shifts of Optimal Codons under Sustained Selection on Synonymous Sites.
-Sun Y1, Tamarit D1, Andersson SGE1.
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5629928/
-
-https://bioinfologics.github.io/post/2018/09/17/k-mer-counting-part-i-introduction/
-k-mer counting, part I: Introduction | BioInfoLogics
-
-https://twitter.com/torstenseemann/status/1170944364765270016
-Torsten Seemann on Twitter: ""25 reasons Genbank assemblies don't make it into Refseq" - my latest blog post #bioinformatics https://t.co/yjkwgpARXj"
-3:17 PM · Sep 9, 2019·
-https://thegenomefactory.blogspot.com/2019/09/25-reasons-assemblies-dont-make-it-into.html
-
-https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#notung
-http://www.cs.cmu.edu/~durand/Notung/ Notung-2.9 is a gene tree-species tree reconciliation software package that supports duplication-loss (DL) and duplication-transfer-loss (DTL) event models with a parsimony-based optimization criterion.
 
 - https://twitter.com/kakenhi_com
 - https://科研費.com
