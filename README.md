@@ -65,6 +65,33 @@ https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md
 http://www.cs.cmu.edu/~durand/Notung/ Notung-2.9 is a gene tree-species tree reconciliation software package that supports duplication-loss (DL) and duplication-transfer-loss (DTL) event models with a parsimony-based optimization criterion.
 
 
+
+
+----------
+
+
+https://gendai.ismedia.jp/articles/-/59676?page=2
+環境全体が即座にわかる！「メタゲノム解析」が明かす「ゲノムの謎」（サイエンスリポート） | ブルーバックス | 講談社（2/3）
+
+このデータに、たとえば人口分布や犯罪率といった流域周辺の社会環境のデータを組み合わせることで、今度は地域環境を評価することができるようになると期待しています。
+
+
+https://sr.rois.ac.jp/article/sr/007.html
+007僕らはゲノムでできている。01 | サイエンスリポート
+
+（聞き手：池谷瑠絵　特記外の写真：飯島雄二　公開日：2017/06/12　修正日：2019/02/04）
+
+「奥多摩湖から羽田空港まで、多摩川138キロの河川水の微生物群集を調べました。するとこのデータからは、奥多摩湖から東京湾に至るまでの多摩川流域の環境の変化を読み取ることができました。このデータに、たとえば人口分布や犯罪率といった流域周辺の社会環境のデータを組み合わせることで、今度は地域環境を評価することができるようになると期待しています。われわれは微生物の群集構造を見るだけで、周辺環境が推定できる技術を作り上げています」
+
+https://www.igaku-shoin.co.jp/paperDetail.do?id=PA03303_01
+医学書院／週刊医学界新聞(第3303号 2018年12月24日)
+【座談会】
+ヒトマイクロバイオーム
+人体に潜む，多様な微生物の世界をのぞく
+
+https://lne.st/2015/06/15/ken-kurokawa/
+細菌叢研究が 可能にする未来 黒川 顕 | リバネス
+
 ----------
 
 
