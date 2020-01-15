@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2020-01-08
+Last Update: 2020-01
 
 ----------
 
@@ -18,6 +18,7 @@ Last Update: 2020-01-08
 
 - https://sfcclip.net/bus/
 - https://www.sfc.keio.ac.jp/gsmg/about/faculty/
+- https://twitter.com/search?q=%20日本社会のしくみ
 - https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#orthofinder
 - https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md
 - https://github.com/haruosuz/mgsa/blob/master/references/mgsa.k-mer.md
@@ -33,6 +34,12 @@ Last Update: 2020-01-08
 - https://github.com/haruosuz/DS4GD/tree/master/2019giga
 - https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md
 - https://github.com/haruosuz/r4bioinfo
+- 
+- 
+- https://twitter.com/arambaut
+Andrew Rambaut
+- https://twitter.com/edwardcholmes
+Eddie Holmes
 
 https://twitter.com/WvSchaik/status/583760066505007104
 Willem van Schaik on Twitter: "Everything that is wrong about microbiome research in one blog post 'Microbiome correlated with income': http://t.co/qXuW7nnviQ" / Twitter
