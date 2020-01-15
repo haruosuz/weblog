@@ -41,6 +41,16 @@ Andrew Rambaut
 - https://twitter.com/edwardcholmes
 Eddie Holmes
 
+
+https://www.jsbi.org/news/papers_awards/20190826qm/
+Japanese Society for Bioinformatics - JSBi :: 松井求会員と岩崎渉会員の研究成果がSystematic Biologyに掲載
+
+https://www.s.u-tokyo.ac.jp/ja/press/2019/6506/
+ネットワーク解析技術を応用した新しい進化解析法 「グラフスプリッティング法」で遺伝子の初期進化に迫る - 東京大学 大学院理学系研究科・理学部
+
+図1:多重配列アライメントと配列類似性グラフの比較
+進化的に遠く離れている場合、遺伝子PとQ、およびQとRは整列可能だが、PとRは整列不可能である、というケースがでてくる。多重配列アラインメントではこのような場合、三つの遺伝子で共有される縦の列がうまく取得できず（左）、多重配列アライメントから構築する距離行列にも「無限大」という扱いの困難な距離が出現する（中央）。一方で配列類似性グラフでは、PとRが整列できないことをPとRの間に「エッジを張らない」ということで自然に表現することができる（右）。
+
 https://twitter.com/WvSchaik/status/583760066505007104
 Willem van Schaik on Twitter: "Everything that is wrong about microbiome research in one blog post 'Microbiome correlated with income': http://t.co/qXuW7nnviQ" / Twitter
 7:37 AM · Apr 3, 2015
