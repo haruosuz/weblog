@@ -12,12 +12,12 @@ Last Update: 2020-01
 - [link](#link)
 - [unclassified](#unclassified)
 
-
 ----------
 ## featuring
 
 - https://sfcclip.net/bus/
 - https://www.sfc.keio.ac.jp/gsmg/about/faculty/
+- https://github.com/haruosuz/r4bioinfo/blob/master/r_books/README.md
 - https://twitter.com/search?q=%20日本社会のしくみ
 - https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#orthofinder
 - https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md
@@ -40,6 +40,7 @@ Last Update: 2020-01
 Andrew Rambaut
 - https://twitter.com/edwardcholmes
 Eddie Holmes
+
 
 
 https://www.jsbi.org/news/papers_awards/20190826qm/
