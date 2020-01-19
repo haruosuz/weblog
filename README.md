@@ -18,6 +18,17 @@ Last Update: 2020-01
 - https://sfcclip.net/bus/
 - https://www.sfc.keio.ac.jp/gsmg/about/faculty/
 - https://github.com/haruosuz/r4bioinfo/blob/master/r_books/README.md
+- 
+- https://twitter.com/search?q=%22文化進化の考古学%22
+- http://user.keio.ac.jp/~rhotta/hellog/2020-01-05-1.html
+#3905. 系統学の歴史言語学への適用について (1)
+- http://user.keio.ac.jp/~rhotta/hellog/2020-01-06-1.html
+#3906. 系統学の歴史言語学への適用について (2)
+- 
+- https://twitter.com/search?q=%20文化系統学への招待&f=live
+- https://togetter.com/li/541217
+文化系統学・文化進化研究の現在―『文化系統学への招待』合評会 - Togetter
+- 
 - https://twitter.com/search?q=%20日本社会のしくみ
 - https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#orthofinder
 - https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md
