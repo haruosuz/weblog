@@ -46,6 +46,8 @@ Andrew Rambaut
 Eddie Holmes
 
 
+https://shorebird.hatenablog.com/entry/20180509/1525863616
+「Darwin Comes to Town」 - shorebird　進化心理学中心の書評など
 
 https://www.jsbi.org/news/papers_awards/20190826qm/
 Japanese Society for Bioinformatics - JSBi :: 松井求会員と岩崎渉会員の研究成果がSystematic Biologyに掲載
