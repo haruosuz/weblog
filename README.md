@@ -19,6 +19,8 @@ Last Update: 2020-01
 - https://www.sfc.keio.ac.jp/gsmg/about/faculty/
 - https://github.com/haruosuz/r4bioinfo/blob/master/r_books/README.md
 - https://benjjneb.github.io/dada2/tutorial.html
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md#coronavirus
 - 
 - https://github.com/haruosuz/books
 - https://github.com/haruosuz/books/blob/master/references/books.microbe.md
