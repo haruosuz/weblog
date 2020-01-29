@@ -26,7 +26,6 @@ Last Update: 2020-01
 - https://github.com/haruosuz/books/blob/master/references/books.microbe.md
 - https://github.com/haruosuz/books/blob/master/references/books.updates.md#2019-06-15
 - https://twitter.com/search?q=%20日本社会のしくみ
-- https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#orthofinder
 - https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md
 - https://github.com/haruosuz/mgsa/blob/master/references/mgsa.k-mer.md
 - https://github.com/haruosuz/codon
@@ -41,24 +40,22 @@ Last Update: 2020-01
 - https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md
 - https://github.com/haruosuz/r4bioinfo
 - 
+- https://github.com/haruosuz/evolve
+- https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#orthofinder
+- https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md
 - 
 - https://twitter.com/arambaut
 Andrew Rambaut
 - https://twitter.com/edwardcholmes
 Eddie Holmes
 
+https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#notung
+http://www.cs.cmu.edu/~durand/Notung/ Notung-2.9 is a gene tree-species tree reconciliation software package that supports duplication-loss (DL) and duplication-transfer-loss (DTL) event models with a parsimony-based optimization criterion.
+
 
 https://shorebird.hatenablog.com/entry/20180509/1525863616
 「Darwin Comes to Town」 - shorebird　進化心理学中心の書評など
 
-https://www.jsbi.org/news/papers_awards/20190826qm/
-Japanese Society for Bioinformatics - JSBi :: 松井求会員と岩崎渉会員の研究成果がSystematic Biologyに掲載
-
-https://www.s.u-tokyo.ac.jp/ja/press/2019/6506/
-ネットワーク解析技術を応用した新しい進化解析法 「グラフスプリッティング法」で遺伝子の初期進化に迫る - 東京大学 大学院理学系研究科・理学部
-
-図1:多重配列アライメントと配列類似性グラフの比較
-進化的に遠く離れている場合、遺伝子PとQ、およびQとRは整列可能だが、PとRは整列不可能である、というケースがでてくる。多重配列アラインメントではこのような場合、三つの遺伝子で共有される縦の列がうまく取得できず（左）、多重配列アライメントから構築する距離行列にも「無限大」という扱いの困難な距離が出現する（中央）。一方で配列類似性グラフでは、PとRが整列できないことをPとRの間に「エッジを張らない」ということで自然に表現することができる（右）。
 
 https://twitter.com/WvSchaik/status/583760066505007104
 Willem van Schaik on Twitter: "Everything that is wrong about microbiome research in one blog post 'Microbiome correlated with income': http://t.co/qXuW7nnviQ" / Twitter
@@ -86,10 +83,6 @@ https://twitter.com/torstenseemann/status/1170944364765270016
 Torsten Seemann on Twitter: ""25 reasons Genbank assemblies don't make it into Refseq" - my latest blog post #bioinformatics https://t.co/yjkwgpARXj"
 3:17 PM · Sep 9, 2019·
 https://thegenomefactory.blogspot.com/2019/09/25-reasons-assemblies-dont-make-it-into.html
-
-https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#notung
-http://www.cs.cmu.edu/~durand/Notung/ Notung-2.9 is a gene tree-species tree reconciliation software package that supports duplication-loss (DL) and duplication-transfer-loss (DTL) event models with a parsimony-based optimization criterion.
-
 
 
 
@@ -158,7 +151,6 @@ http://wiki.lifesciencedb.jp/mw/SPARQLthon
 - https://科研費.com
 - https://github.com/haruosuz/mgsa
 - https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#seqkit
-- https://github.com/haruosuz/evolve
 - https://github.com/haruosuz/metasub
 - https://twitter.com/search?q=Wolbachia%20plasmid
 - https://twitter.com/search?f=tweets&q=built%20environment%20microbiome&src=typd
