@@ -49,6 +49,13 @@ Andrew Rambaut
 - https://twitter.com/edwardcholmes
 Eddie Holmes
 
+
+2020/01/30 15:16
+https://www.buzzfeed.com/jp/naokoiwanaga/ncov2019-okabe
+新型コロナウイルス どれぐらい警戒したらいいの？　感染症のスペシャリストに聞きました
+
+新型コロナウイルスをこれほど怖がっているにもかかわらず、いまだに麻疹や風疹のワクチンをうたない人がいるのは不思議なことです。
+
 https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#notung
 http://www.cs.cmu.edu/~durand/Notung/ Notung-2.9 is a gene tree-species tree reconciliation software package that supports duplication-loss (DL) and duplication-transfer-loss (DTL) event models with a parsimony-based optimization criterion.
 
