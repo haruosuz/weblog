@@ -50,6 +50,11 @@ Andrew Rambaut
 Eddie Holmes
 
 
+
+https://twitter.com/igakukaishinbun/status/1223143920181211137
+査読がTL上で話題になっていますが、弊紙過去記事もぜひご一読を/週刊医学界新聞〔寄稿〕若手臨床研究者のための査読の心得（伊藤康太） https://igaku-shoin.co.jp/paperDetail.do?id=PA03047_02
+
+
 2020/01/30 15:16
 https://www.buzzfeed.com/jp/naokoiwanaga/ncov2019-okabe
 新型コロナウイルス どれぐらい警戒したらいいの？　感染症のスペシャリストに聞きました
