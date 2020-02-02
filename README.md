@@ -17,11 +17,12 @@ Last Update: 2020-01
 
 - https://sfcclip.net/bus/
 - https://www.sfc.keio.ac.jp/gsmg/about/faculty/
-- https://github.com/haruosuz/r4bioinfo/blob/master/r_books/README.md
 - https://benjjneb.github.io/dada2/tutorial.html
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md#coronavirus
 - 
+- https://github.com/haruosuz/bioinfo
+- https://github.com/haruosuz/bioinfo/blob/master/references/README.reproducibility.md
 - https://github.com/haruosuz/books
 - https://github.com/haruosuz/books/blob/master/references/books.microbe.md
 - https://github.com/haruosuz/books/blob/master/references/books.updates.md#2019-06-15
@@ -37,8 +38,9 @@ Last Update: 2020-01
 - https://github.com/haruosuz/introBI/tree/master/2019
   - http://apprize.info/data/bioinformatics/index.html
 - https://github.com/haruosuz/DS4GD/tree/master/2019giga
-- https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md
 - https://github.com/haruosuz/r4bioinfo
+- https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md
+- https://github.com/haruosuz/r4bioinfo/blob/master/r_books/README.md
 - 
 - https://github.com/haruosuz/evolve
 - https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#orthofinder
@@ -167,8 +169,6 @@ http://wiki.lifesciencedb.jp/mw/SPARQLthon
 - https://twitter.com/search?q=Wolbachia%20plasmid
 - https://twitter.com/search?f=tweets&q=built%20environment%20microbiome&src=typd
 - https://www.ted.com/topics/biology
-- https://github.com/haruosuz/bioinfo
-- https://github.com/haruosuz/bioinfo/blob/master/README.md#blast
 - https://github.com/haruosuz/plasmids
 - https://qiita.com/advent-calendar/2018/galaxy
 - https://ja.wikipedia.org/wiki/Sci-Hub
