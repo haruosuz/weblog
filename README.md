@@ -50,12 +50,20 @@ Last Update: 2020-01
 Andrew Rambaut
 - https://twitter.com/edwardcholmes
 Eddie Holmes
+- https://twitter.com/oikawamaru
 
-
+https://courrier.jp/news/archives/188057/
+SDGsの取り組みがビジネスチャンスを生むって本当ですか？ | 【短期連載】いまさら聞けないSDGs×ビジネスの疑問 #2 | クーリエ・ジャポン
 
 https://twitter.com/igakukaishinbun/status/1223143920181211137
 査読がTL上で話題になっていますが、弊紙過去記事もぜひご一読を/週刊医学界新聞〔寄稿〕若手臨床研究者のための査読の心得（伊藤康太） https://igaku-shoin.co.jp/paperDetail.do?id=PA03047_02
 
+http://www.igaku-shoin.co.jp/paperDetail.do?id=PA03357_03
+医学書院／週刊医学界新聞(第3357号 2020年02月03日)
+【寄稿】
+あなたの解析，再現できますか？
+統計解析の再現可能性を高めるために
+国里 愛彦（専修大学人間科学部心理学科准教授）
 
 2020/01/30 15:16
 https://www.buzzfeed.com/jp/naokoiwanaga/ncov2019-okabe
