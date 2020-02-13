@@ -56,16 +56,18 @@ Eddie Holmes
 
 ----------
 
+2020/02/12 17:30
+https://shinsho.kobunsha.com/n/nd4c6579ddc38
+岩田健太郎『「感染症パニック」を防げ！』の「はじめに」を全文公開｜光文社新書
+新書: 313ページ
+出版社: 光文社 (2014/11/13)
 
 ### 2020
 
+https://www.nature.com/articles/s41396-020-0600-z
+Disentangling the impact of environmental and phylogenetic constraints on prokaryotic within-species diversity | The ISME Journal
 
 ### 2019
-
-https://twitter.com/BejaLab/status/1195926101509496832
-Oded Béjà on Twitter: "while preparing my microbial ecology lecture for today i came upon this one (not for the first time
-). Bacterial clade with the ribosomal RNA operon on a small plasmid rather than the chromosome https://t.co/PsC007lQoY" / Twitter
-1:46 PM · Nov 17, 2019·Twitter Web App
 
 ----------
 
