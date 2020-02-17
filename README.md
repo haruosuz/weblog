@@ -61,6 +61,15 @@ https://ja.wikipedia.org/wiki/逃亡奴隷
 
 ----------
 
+
+https://www.maruzen-publishing.co.jp/info/n19784.html
+『続・人類と感染症の歴史』の第9章「SARSとMERS」を公開します。 - 丸善出版 理工・医学・人文社会科学の専門書出版社
+第9章「SARSとMERS」PDF版はこちら
+最新データに基づく加藤茂孝先生によるコラム
+【コラム】新型コロナウイルスはどう落ち着くのか？（2020/2/13up）
+https://www.maruzen-publishing.co.jp/info/n19786.html
+【コラム】新型コロナウイルスはどう落ち着くのか？ - 丸善出版 理工・医学・人文社会科学の専門書出版社
+
 2020/02/12 17:30
 https://shinsho.kobunsha.com/n/nd4c6579ddc38
 岩田健太郎『「感染症パニック」を防げ！』の「はじめに」を全文公開｜光文社新書
