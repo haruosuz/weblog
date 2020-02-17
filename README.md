@@ -54,6 +54,11 @@ Andrew Rambaut
 Eddie Holmes
 - https://twitter.com/oikawamaru
 
+https://ja.wikipedia.org/wiki/自由黒人
+https://ja.wikipedia.org/wiki/アメリカ合衆国の奴隷制度の歴史
+https://ja.wikipedia.org/wiki/逃亡奴隷
+
+
 ----------
 
 2020/02/12 17:30
