@@ -54,14 +54,18 @@ Andrew Rambaut
 Eddie Holmes
 - https://twitter.com/oikawamaru
 
-https://ja.wikipedia.org/wiki/自由黒人
-https://ja.wikipedia.org/wiki/アメリカ合衆国の奴隷制度の歴史
-https://ja.wikipedia.org/wiki/逃亡奴隷
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
+新型コロナウイルス感染症に備えて　～一人ひとりができる対策を知っておこう～
+https://www.kantei.go.jp/jp/headline/kansensho/coronavirus.html
+
+新型コロナウイルスに関するQ&A（一般の方向け）
+https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/dengue_fever_qa_00001.html
+
+新型コロナウイルス感染症（COVID-19)に関する情報
+http://idsc.tokyo-eiken.go.jp/diseases/2019-ncov/
 
 ----------
-
-
 
 https://mainichi.jp/articles/20200214/k00/00m/040/374000c
 新型コロナ、何を気をつけるべきか　感染症対策の専門家・岩田健太郎・神戸大教授に聞く - 毎日新聞
@@ -79,6 +83,17 @@ https://shinsho.kobunsha.com/n/nd4c6579ddc38
 岩田健太郎『「感染症パニック」を防げ！』の「はじめに」を全文公開｜光文社新書
 新書: 313ページ
 出版社: 光文社 (2014/11/13)
+
+----------
+
+https://ja.wikipedia.org/wiki/自由黒人
+https://ja.wikipedia.org/wiki/アメリカ合衆国の奴隷制度の歴史
+https://ja.wikipedia.org/wiki/逃亡奴隷
+
+
+
+
+
 
 ### 2020
 
