@@ -53,6 +53,14 @@ Andrew Rambaut
 - https://twitter.com/edwardcholmes
 Eddie Holmes
 - https://twitter.com/oikawamaru
+- 
+- https://twitter.com/y_tambe
+Y Tambe (@y_tambe) / Twitter
+- https://twitter.com/georgebest1969
+岩田健太郎 (@georgebest1969) / Twitter
+- https://twitter.com/EARL_Med_Tw
+EARLの医学ツイート (@EARL_Med_Tw) / Twitter
+- 
 
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
