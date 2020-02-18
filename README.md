@@ -62,6 +62,10 @@ https://ja.wikipedia.org/wiki/逃亡奴隷
 ----------
 
 
+
+https://mainichi.jp/articles/20200214/k00/00m/040/374000c
+新型コロナ、何を気をつけるべきか　感染症対策の専門家・岩田健太郎・神戸大教授に聞く - 毎日新聞
+
 https://www.maruzen-publishing.co.jp/info/n19784.html
 『続・人類と感染症の歴史』の第9章「SARSとMERS」を公開します。 - 丸善出版 理工・医学・人文社会科学の専門書出版社
 第9章「SARSとMERS」PDF版はこちら
