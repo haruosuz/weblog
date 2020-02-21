@@ -24,8 +24,6 @@ Last Update: 2020-01
 - https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md
 - 
 - https://benjjneb.github.io/dada2/tutorial.html
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md#coronavirus
 - 
 - https://github.com/haruosuz/bioinfo
 - https://github.com/haruosuz/bioinfo/blob/master/references/README.reproducibility.md
@@ -37,9 +35,6 @@ Last Update: 2020-01
 - https://github.com/haruosuz/mgsa/blob/master/references/mgsa.k-mer.md
 - https://github.com/haruosuz/codon
 - https://twitter.com/search?q=plasmid%20codon&src=typd
-- https://github.com/haruosuz/microbe
-- https://github.com/haruosuz/microbe/blob/master/README.md
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.updates.md
 - https://github.com/haruosuz/statistics
 - https://github.com/haruosuz/introBI/tree/master/2019
   - http://apprize.info/data/bioinformatics/index.html
@@ -47,6 +42,11 @@ Last Update: 2020-01
 - https://github.com/haruosuz/r4bioinfo
 - https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md
 - https://github.com/haruosuz/r4bioinfo/blob/master/r_books/README.md
+- https://github.com/haruosuz/microbe
+- https://github.com/haruosuz/microbe/blob/master/README.md
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.updates.md
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md#coronavirus
 - 
 - https://twitter.com/arambaut
 Andrew Rambaut
@@ -62,6 +62,33 @@ Y Tambe (@y_tambe) / Twitter
 EARLの医学ツイート (@EARL_Med_Tw) / Twitter
 - 
 
+
+https://tjo.hatenablog.com/entry/2020/01/24/190000
+『効果検証入門』はマーケティング実験＆分析に関わる全ての人にお薦めの統計的因果推論の入門書 - 渋谷駅前で働くデータサイエンティストのブログ
+コーディング（Rによる）例を豊富に付した統計的因果推論の専門書は稀有
+
+
+https://twitter.com/oohamazaki/status/1229607308549713921
+【御礼とシェアのお願い】 昨日リリースした都道府県別新型コロナウイルス感染症数マップ（ http://bit.ly/covid19jp )
+
+
+https://mainichi.jp/articles/20200214/k00/00m/040/374000c
+新型コロナ、何を気をつけるべきか　感染症対策の専門家・岩田健太郎・神戸大教授に聞く - 毎日新聞
+
+2020/02/12 17:30
+https://shinsho.kobunsha.com/n/nd4c6579ddc38
+岩田健太郎『「感染症パニック」を防げ！』の「はじめに」を全文公開｜光文社新書
+新書: 313ページ
+出版社: 光文社 (2014/11/13)
+
+https://www.maruzen-publishing.co.jp/info/n19784.html
+『続・人類と感染症の歴史』の第9章「SARSとMERS」を公開します。 - 丸善出版 理工・医学・人文社会科学の専門書出版社
+第9章「SARSとMERS」PDF版はこちら
+最新データに基づく加藤茂孝先生によるコラム
+【コラム】新型コロナウイルスはどう落ち着くのか？（2020/2/13up）
+https://www.maruzen-publishing.co.jp/info/n19786.html
+【コラム】新型コロナウイルスはどう落ち着くのか？ - 丸善出版 理工・医学・人文社会科学の専門書出版社
+
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
 新型コロナウイルス感染症に備えて　～一人ひとりができる対策を知っておこう～
@@ -75,33 +102,9 @@ http://idsc.tokyo-eiken.go.jp/diseases/2019-ncov/
 
 ----------
 
-https://mainichi.jp/articles/20200214/k00/00m/040/374000c
-新型コロナ、何を気をつけるべきか　感染症対策の専門家・岩田健太郎・神戸大教授に聞く - 毎日新聞
-
-https://www.maruzen-publishing.co.jp/info/n19784.html
-『続・人類と感染症の歴史』の第9章「SARSとMERS」を公開します。 - 丸善出版 理工・医学・人文社会科学の専門書出版社
-第9章「SARSとMERS」PDF版はこちら
-最新データに基づく加藤茂孝先生によるコラム
-【コラム】新型コロナウイルスはどう落ち着くのか？（2020/2/13up）
-https://www.maruzen-publishing.co.jp/info/n19786.html
-【コラム】新型コロナウイルスはどう落ち着くのか？ - 丸善出版 理工・医学・人文社会科学の専門書出版社
-
-2020/02/12 17:30
-https://shinsho.kobunsha.com/n/nd4c6579ddc38
-岩田健太郎『「感染症パニック」を防げ！』の「はじめに」を全文公開｜光文社新書
-新書: 313ページ
-出版社: 光文社 (2014/11/13)
-
-----------
-
 https://ja.wikipedia.org/wiki/自由黒人
 https://ja.wikipedia.org/wiki/アメリカ合衆国の奴隷制度の歴史
 https://ja.wikipedia.org/wiki/逃亡奴隷
-
-
-
-
-
 
 ### 2020
 
