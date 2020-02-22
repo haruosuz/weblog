@@ -63,6 +63,32 @@ EARLの医学ツイート (@EARL_Med_Tw) / Twitter
 - 
 
 
+https://staff.aist.go.jp/a.ohta/japanese/study/Review_ex_top.htm
+英語論文の査読表現集
+https://staff.aist.go.jp/a.ohta/japanese/study/Review_ex1.htm
+英語論文の査読表現集：General comments編
+
+
+https://twitter.com/Paul_hph/status/1230520003155447809
+Paul Hanel on Twitter: "**Data visualisation thread** In the past few years, quite a few papers were published arguing that the way we visualise data in social and biomedical sciences should be more transparent. Below are a couple of do’s and don’ts for a range of designs. 1/ https://t.co/M5KKJwGIa2" / Twitter
+12:50 AM · Feb 21, 2020
+https://threadreaderapp.com/thread/1230520003155447809.html
+Thread by @Paul_hph: **Data visualisation thread** In the past few years, quite a few papers were published arguing that the way we visualise data in social and…
+
+
+https://twitter.com/tsuyomiyakawa/status/1230695500510199809
+Tsuyoshi Miyakawa on Twitter: "編集長がデータが「綺麗すぎる」と感じた原稿41本において生データの提出を著者に依頼。21本で投稿が取り下げられ、うち19本でデータの一部（例. 各条件N=1ずつの代表データのみ）しか提出されなかった or 生データと結果が不一致だったためリジェクト。これ論文化しました。 https://t.co/ve99RgkHMe https://t.co/fEik4B2e3W" / Twitter
+12:27 PM · Feb 21, 2020
+
+https://twitter.com/tsuyomiyakawa/status/1230672758163402752
+Tsuyoshi Miyakawa on Twitter: "My editorial paper entitled, "No raw data, no science: another possible source of the reproducibility crisis". When I feel the results are too beautiful, I requested raw data before sending it out for review. 40 out of 41 did not send me the right data. https://t.co/ve99RgkHMe https://t.co/KyP60jZ8Mp" / Twitter
+10:57 AM · Feb 21, 2020
+
+
+
+
+
+
 https://tjo.hatenablog.com/entry/2020/01/24/190000
 『効果検証入門』はマーケティング実験＆分析に関わる全ての人にお薦めの統計的因果推論の入門書 - 渋谷駅前で働くデータサイエンティストのブログ
 コーディング（Rによる）例を豊富に付した統計的因果推論の専門書は稀有
