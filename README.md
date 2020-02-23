@@ -69,6 +69,23 @@ https://staff.aist.go.jp/a.ohta/japanese/study/Review_ex1.htm
 英語論文の査読表現集：General comments編
 
 
+
+https://twitter.com/h_okumura/status/1231369239887400960
+感度: 感染している人が陽性と判定される確率
+特異度: 感染してない人が陰性と判定される確率
+COVID-19のPCRは感度30-50%（educated guess?），71%（n=51）など諸説あり
+特異度は100%に近い？（ただしコンタミ（検体に外からウイルスが混入すること）に注意）
+
+インフルエンザ迅速検査では感度62.3%，特異度98.2%（2012年のメタアナリシス，PMID: 22371850）
+特に初期は感度が低いので，インフル陰性ですと言われても感染していること多い。
+インフルもCOVIDも検査に頼りすぎず症状があれば休むべし
+
+https://www.gohongi-clinic.com/k_blog/3873/
+新型コロナウイルス感染をPCRで判定しても、様々な問題が発生する可能性があります。 | 五本木クリニック
+
+
+
+
 https://twitter.com/Paul_hph/status/1230520003155447809
 Paul Hanel on Twitter: "**Data visualisation thread** In the past few years, quite a few papers were published arguing that the way we visualise data in social and biomedical sciences should be more transparent. Below are a couple of do’s and don’ts for a range of designs. 1/ https://t.co/M5KKJwGIa2" / Twitter
 12:50 AM · Feb 21, 2020
