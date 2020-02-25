@@ -52,16 +52,23 @@ Last Update: 2020-01
 Andrew Rambaut
 - https://twitter.com/edwardcholmes
 Eddie Holmes
-- https://twitter.com/oikawamaru
 - 
-- https://twitter.com/y_tambe
-Y Tambe (@y_tambe) / Twitter
+- https://twitter.com/DLYDDDDK
+空飛ぶペプチドタグ (@DLYDDDDK) / Twitter
+- https://twitter.com/mdfujita
+藤田康介 (@mdfujita) / Twitter
 - https://twitter.com/georgebest1969
 岩田健太郎 (@georgebest1969) / Twitter
 - https://twitter.com/EARL_Med_Tw
 EARLの医学ツイート (@EARL_Med_Tw) / Twitter
+- https://twitter.com/y_tambe
+Y Tambe (@y_tambe) / Twitter
+- https://twitter.com/NATROM
+名取宏（なとろむ） (@NATROM) / Twitter
 - 
-
+- https://twitter.com/oikawamaru
+オイカワ丸 (@oikawamaru) / Twitter
+- 
 
 https://staff.aist.go.jp/a.ohta/japanese/study/Review_ex_top.htm
 英語論文の査読表現集
