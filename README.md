@@ -61,19 +61,21 @@ Eddie Holmes
 岩田健太郎 (@georgebest1969) / Twitter
 - https://twitter.com/EARL_Med_Tw
 EARLの医学ツイート (@EARL_Med_Tw) / Twitter
-- https://twitter.com/y_tambe
-Y Tambe (@y_tambe) / Twitter
 - https://twitter.com/NATROM
 名取宏（なとろむ） (@NATROM) / Twitter
+- https://twitter.com/y_tambe
+Y Tambe (@y_tambe) / Twitter
+- https://twitter.com/HattoriM
+HattoriM (@HattoriM) / Twitter
+上海の大学で老師をしてゐる。Working on the structural and chemical biology of metal homeostasis.
 - 
 - https://twitter.com/oikawamaru
 オイカワ丸 (@oikawamaru) / Twitter
 - 
 
-https://staff.aist.go.jp/a.ohta/japanese/study/Review_ex_top.htm
-英語論文の査読表現集
-https://staff.aist.go.jp/a.ohta/japanese/study/Review_ex1.htm
-英語論文の査読表現集：General comments編
+
+
+----------
 
 
 
