@@ -27,6 +27,8 @@ Eddie Holmes
 空飛ぶペプチドタグ (@DLYDDDDK) / Twitter
 - https://twitter.com/mdfujita
 藤田康介 (@mdfujita) / Twitter
+- https://twitter.com/hiro_icd
+高山義浩 (@hiro_icd) / Twitter
 - https://twitter.com/georgebest1969
 岩田健太郎 (@georgebest1969) / Twitter
 - https://twitter.com/EARL_Med_Tw
@@ -76,6 +78,11 @@ HattoriM (@HattoriM) / Twitter
 
 
 ----------
+
+
+https://artic.network/how-to-read-a-tree.html
+How to read a phylogenetic tree
+Revision Date:	2018-07-30
 
 
 https://www.targma.jp/j-ron/2020/03/03/post719/
