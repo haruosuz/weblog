@@ -88,6 +88,14 @@ https://note.com/sheemer/n/ne297d1e846fe?fbclid=IwAR3RC3PlbB3lKybQp6QFJiOUO8TX8J
 https://wired.jp/2020/03/06/coronavirus-uk-schools-closed/
 新型コロナウイルス対策としての「休校」は本当に有効？ 感染が広がる英国で波紋｜WIRED.jp
 
+https://twitter.com/bluebacks_pub/status/1238606119745945600
+講談社ブルーバックス on Twitter: "【言ってなかったとは！】 「この世に生き残る生物は、激しい変化にいち早く対応できたもの」 多くの人がダーウィンが残した名言として信じているこの言説は、実は、ダーウィンの言葉ではなく、彼が唱えた「進化論」に照らしてみても誤ったものだった。https://t.co/R3xTKCS3d3 #進化のからくり" / Twitter
+https://gendai.ismedia.jp/articles/-/70729
+誰もが知っているダーウィンの名言は、進化論の誤解から生じた！（千葉 聡） | ブルーバックス | 講談社（1/2）
+https://gendai.ismedia.jp/articles/-/70729?page=2
+誰もが知っているダーウィンの名言は、進化論の誤解から生じた！（千葉 聡） | ブルーバックス | 講談社（2/2）
+あまり意識されることはないが、実は進化研究の成果は農業、製薬、医療などに幅広く利用されている。たとえば、新型コロナウイルスの感染ルート解明に欠かせぬ分子系統解析の技術は、進化理論の粋を集めたものである。
+
 https://twitter.com/shorebird2000/status/1237335052985323521
 shorebird on Twitter: "書評をブログにアップしました．　「進化のからくり」 - shorebird　進化心理学中心の書評など https://t.co/lp39LjLIPN" / Twitter
 https://shorebird.hatenablog.com/entry/2020/03/10/201021
