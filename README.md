@@ -18,29 +18,6 @@ Last Update: 2020-01
 - https://sfcclip.net/bus/
 - https://www.sfc.keio.ac.jp/gsmg/about/faculty/
 - 
-- https://twitter.com/arambaut
-Andrew Rambaut
-- https://twitter.com/edwardcholmes
-Eddie Holmes
-- 
-- https://twitter.com/DLYDDDDK
-空飛ぶペプチドタグ (@DLYDDDDK) / Twitter
-- https://twitter.com/mdfujita
-藤田康介 (@mdfujita) / Twitter
-- https://twitter.com/hiro_icd
-高山義浩 (@hiro_icd) / Twitter
-- https://twitter.com/georgebest1969
-岩田健太郎 (@georgebest1969) / Twitter
-- https://twitter.com/EARL_Med_Tw
-EARLの医学ツイート (@EARL_Med_Tw) / Twitter
-- https://twitter.com/NATROM
-名取宏（なとろむ） (@NATROM) / Twitter
-- https://twitter.com/y_tambe
-Y Tambe (@y_tambe) / Twitter
-- https://twitter.com/HattoriM
-HattoriM (@HattoriM) / Twitter
-上海の大学で老師をしてゐる。Working on the structural and chemical biology of metal homeostasis.
-- 
 - https://twitter.com/oikawamaru
 オイカワ丸 (@oikawamaru) / Twitter
 - 
@@ -76,95 +53,19 @@ HattoriM (@HattoriM) / Twitter
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md#coronavirus
 
 
-
 ----------
 
-https://news.yahoo.co.jp/byline/tsugawayusuke/20200315-00167833/
-コロナ対策に休校は無意味なのか？医療政策のエビデンスをもとに解説(津川友介) - 個人 - Yahoo!ニュース
+## tree
 
-https://note.com/sheemer/n/ne297d1e846fe?fbclid=IwAR3RC3PlbB3lKybQp6QFJiOUO8TX8JAzVnyKNG8skiD0UviGySQl8BiMuME
-「コロナは全員PCRしろ」という人は「ベイズ推定」と検査の実効を理解する必要がある｜sheemer｜note
-
-https://wired.jp/2020/03/06/coronavirus-uk-schools-closed/
-新型コロナウイルス対策としての「休校」は本当に有効？ 感染が広がる英国で波紋｜WIRED.jp
-
-https://twitter.com/bluebacks_pub/status/1238606119745945600
-講談社ブルーバックス on Twitter: "【言ってなかったとは！】 「この世に生き残る生物は、激しい変化にいち早く対応できたもの」 多くの人がダーウィンが残した名言として信じているこの言説は、実は、ダーウィンの言葉ではなく、彼が唱えた「進化論」に照らしてみても誤ったものだった。https://t.co/R3xTKCS3d3 #進化のからくり" / Twitter
-https://gendai.ismedia.jp/articles/-/70729
-誰もが知っているダーウィンの名言は、進化論の誤解から生じた！（千葉 聡） | ブルーバックス | 講談社（1/2）
-https://gendai.ismedia.jp/articles/-/70729?page=2
-誰もが知っているダーウィンの名言は、進化論の誤解から生じた！（千葉 聡） | ブルーバックス | 講談社（2/2）
-あまり意識されることはないが、実は進化研究の成果は農業、製薬、医療などに幅広く利用されている。たとえば、新型コロナウイルスの感染ルート解明に欠かせぬ分子系統解析の技術は、進化理論の粋を集めたものである。
-
-https://twitter.com/shorebird2000/status/1237335052985323521
-shorebird on Twitter: "書評をブログにアップしました．　「進化のからくり」 - shorebird　進化心理学中心の書評など https://t.co/lp39LjLIPN" / Twitter
-https://shorebird.hatenablog.com/entry/2020/03/10/201021
-書評　「進化のからくり」 - shorebird　進化心理学中心の書評など
-
-https://www.kinpodo-pub.co.jp/book/1815-0/
-そのエビデンス、妥当ですか？システマティック・レビューとメタ解析で読み解く　小児のかぜの薬のエビデンス | 株式会社 金芳堂
+https://nextstrain.org/help/general/how-to-read-a-tree
+How to interpret the phylogenetic trees
 
 https://artic.network/how-to-read-a-tree.html
 How to read a phylogenetic tree
 Revision Date:	2018-07-30
 
-https://twitter.com/Paul_hph/status/1230520003155447809
-Paul Hanel on Twitter: "**Data visualisation thread** In the past few years, quite a few papers were published arguing that the way we visualise data in social and biomedical sciences should be more transparent. Below are a couple of do’s and don’ts for a range of designs. 1/ https://t.co/M5KKJwGIa2" / Twitter
-12:50 AM · Feb 21, 2020
-https://threadreaderapp.com/thread/1230520003155447809.html
-Thread by @Paul_hph: **Data visualisation thread** In the past few years, quite a few papers were published arguing that the way we visualise data in social and…
-
-
-
-
-https://twitter.com/h_okumura/status/1231369239887400960
-感度: 感染している人が陽性と判定される確率
-特異度: 感染してない人が陰性と判定される確率
-COVID-19のPCRは感度30-50%（educated guess?），71%（n=51）など諸説あり
-特異度は100%に近い？（ただしコンタミ（検体に外からウイルスが混入すること）に注意）
-
-インフルエンザ迅速検査では感度62.3%，特異度98.2%（2012年のメタアナリシス，PMID: 22371850）
-特に初期は感度が低いので，インフル陰性ですと言われても感染していること多い。
-インフルもCOVIDも検査に頼りすぎず症状があれば休むべし
-
-https://www.gohongi-clinic.com/k_blog/3873/
-新型コロナウイルス感染をPCRで判定しても、様々な問題が発生する可能性があります。 | 五本木クリニック
-
-https://twitter.com/tsuyomiyakawa/status/1230695500510199809
-Tsuyoshi Miyakawa on Twitter: "編集長がデータが「綺麗すぎる」と感じた原稿41本において生データの提出を著者に依頼。21本で投稿が取り下げられ、うち19本でデータの一部（例. 各条件N=1ずつの代表データのみ）しか提出されなかった or 生データと結果が不一致だったためリジェクト。これ論文化しました。 https://t.co/ve99RgkHMe https://t.co/fEik4B2e3W" / Twitter
-12:27 PM · Feb 21, 2020
-
-https://twitter.com/tsuyomiyakawa/status/1230672758163402752
-Tsuyoshi Miyakawa on Twitter: "My editorial paper entitled, "No raw data, no science: another possible source of the reproducibility crisis". When I feel the results are too beautiful, I requested raw data before sending it out for review. 40 out of 41 did not send me the right data. https://t.co/ve99RgkHMe https://t.co/KyP60jZ8Mp" / Twitter
-10:57 AM · Feb 21, 2020
-
-
-
-
-
-
-https://tjo.hatenablog.com/entry/2020/01/24/190000
-『効果検証入門』はマーケティング実験＆分析に関わる全ての人にお薦めの統計的因果推論の入門書 - 渋谷駅前で働くデータサイエンティストのブログ
-コーディング（Rによる）例を豊富に付した統計的因果推論の専門書は稀有
-
-
-
-＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
-
-新型コロナウイルス感染症に備えて　～一人ひとりができる対策を知っておこう～
-https://www.kantei.go.jp/jp/headline/kansensho/coronavirus.html
-
-新型コロナウイルスに関するQ&A（一般の方向け）
-https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/dengue_fever_qa_00001.html
-
-新型コロナウイルス感染症（COVID-19)に関する情報
-http://idsc.tokyo-eiken.go.jp/diseases/2019-ncov/
-
 ----------
 
-https://ja.wikipedia.org/wiki/自由黒人
-https://ja.wikipedia.org/wiki/アメリカ合衆国の奴隷制度の歴史
-https://ja.wikipedia.org/wiki/逃亡奴隷
 
 ### 2020
 
@@ -176,11 +77,6 @@ Disentangling the impact of environmental and phylogenetic constraints on prokar
 ----------
 
 
-https://twitter.com/yokadzaki/status/1207664496778469378
-Yusuke Okazaki on Twitter: "論文の集め方と文献管理の方法を紹介。読むためではなく知識の引き出しを作るために論文を集めているという考えです https://t.co/UGleuRPPd6" / Twitter
-https://yokazaki.hatenablog.com/entry/2019/12/19/224848
-新着論文の集め方・文献管理方法 - yokaのblog
-
 
 ----------
 
@@ -190,8 +86,6 @@ Meetup
 
 http://wiki.lifesciencedb.jp/mw/SPARQLthon
 ```
-2020/01/23-24 SPARQLthon88 @ DBCLS (柏)
-2020/02/20-21 SPARQLthon89 @ DBCLS (柏)
 2020/03/30-31 SPARQLthon90 @ DBCLS (三島)
 ```
 
