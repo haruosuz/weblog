@@ -69,6 +69,11 @@ Revision Date:	2018-07-30
 
 ### 2020
 
+
+急ピッチで進む日本発「新型コロナ予防ワクチン」は五輪に間に合うか（木原 洋美） | 現代ビジネス | 講談社（1/5）
+https://gendai.ismedia.jp/articles/-/71104
+
+
 https://www.nature.com/articles/s41396-020-0600-z
 Disentangling the impact of environmental and phylogenetic constraints on prokaryotic within-species diversity | The ISME Journal
 
