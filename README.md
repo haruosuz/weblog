@@ -18,9 +18,30 @@ Last Update: 2020-01
 - https://sfcclip.net/bus/
 - https://www.sfc.keio.ac.jp/gsmg/about/faculty/
 - 
+----------
+
+## tree
+
+- 
+- https://nextstrain.org/narratives/trees-background
+- https://nextstrain.org/narratives/trees-background/ja
+- 
+
+https://nextstrain.org/help/general/how-to-read-a-tree
+How to interpret the phylogenetic trees
+
+https://artic.network/how-to-read-a-tree.html
+How to read a phylogenetic tree
+Revision Date:	2018-07-30
+
+----------
+## twitter
+
+- https://sfcclip.net/bus/
+- https://www.sfc.keio.ac.jp/gsmg/about/faculty/
+- 
 - https://twitter.com/oikawamaru
 オイカワ丸 (@oikawamaru) / Twitter
-- 
 - 
 - https://github.com/haruosuz/metasub/blob/master/references/urban_biomes.md
 - https://github.com/haruosuz/evolve
@@ -51,50 +72,8 @@ Last Update: 2020-01
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.updates.md
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md#coronavirus
-
-
-----------
-
-## tree
-
-https://nextstrain.org/help/general/how-to-read-a-tree
-How to interpret the phylogenetic trees
-
-https://artic.network/how-to-read-a-tree.html
-How to read a phylogenetic tree
-Revision Date:	2018-07-30
-
-----------
-
-
-### 2020
-
-
-急ピッチで進む日本発「新型コロナ予防ワクチン」は五輪に間に合うか（木原 洋美） | 現代ビジネス | 講談社（1/5）
-https://gendai.ismedia.jp/articles/-/71104
-
-
-https://www.nature.com/articles/s41396-020-0600-z
-Disentangling the impact of environmental and phylogenetic constraints on prokaryotic within-species diversity | The ISME Journal
-
-### 2019
-
-----------
-
-
-
-----------
-
-Pitagora Galaxy Meetup
-https://pitagora-network.org/events/
-Meetup
-
-http://wiki.lifesciencedb.jp/mw/SPARQLthon
-```
-2020/03/30-31 SPARQLthon90 @ DBCLS (三島)
-```
-
-
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.COVID-19.md
+- 
 - https://twitter.com/kakenhi_com
 - https://科研費.com
 - https://github.com/haruosuz/mgsa
@@ -108,6 +87,28 @@ http://wiki.lifesciencedb.jp/mw/SPARQLthon
 - https://ja.wikipedia.org/wiki/Sci-Hub
 
 
+----------
+
+## event
+
+Pitagora Galaxy Meetup
+- https://pitagora-network.org/events/
+- https://github.com/manabuishii/workflow-meetup
+- http://wiki.lifesciencedb.jp/mw/SPARQLthon
+	• 2020/04/23-24 SPARQLthon91 @ DBCLS (柏)
+
+----------
+
+
+### 2020
+
+
+https://www.nature.com/articles/s41396-020-0600-z
+Disentangling the impact of environmental and phylogenetic constraints on prokaryotic within-species diversity | The ISME Journal
+
+
+
+
 
 ----------
 ## updates
@@ -116,13 +117,14 @@ http://wiki.lifesciencedb.jp/mw/SPARQLthon
 
 
 
-2019年05月06日 09時00分
-https://twitter.com/search?q=7人の命を奪ったPowerPointのスライド発表
 
 ## 2018
 
 
 ### 2018-11
+
+2019年05月06日 09時00分
+https://twitter.com/search?q=7人の命を奪ったPowerPointのスライド発表
 
 https://twitter.com/M123Takahashi/status/1058862929217376256
 高橋将宜 Masayoshi Takahashi on Twitter: "King教授の指摘を皮切りに、興味深い議論が行われている。要約すると、地震のような外的要因を処置とする準実験の場合、一見、標本サイズが5000人もいても、それはマルチレベルのボトムレベルの標本サイズで、これは因果推論に寄与しておらず、実際に使えるのはトップレベルの標本サイズ2個しかない。… https://t.co/lDTbCjSsoJ"
