@@ -15,6 +15,10 @@ Last Update: 2020-01
 ----------
 ## featuring
 
+
+https://note.com/akiduki/n/n3dbc10a6ea60
+【図解】内的妥当性と外的妥当性｜キユシト｜note
+
 - https://sfcclip.net/bus/
 - https://www.sfc.keio.ac.jp/gsmg/about/faculty/
 - 
