@@ -107,6 +107,18 @@ Pitagora Galaxy Meetup
 ### 2020
 
 
+
+今のところ、地下鉄から新型コロナウイルス（SARS-CoV-2）のRNAは検出されず。
+https://twitter.com/mason_lab/status/1245394591819477003
+Christopher MasonさんはTwitterを使っています 「"NYC Scientists Swab the Subway in Search of SARS-CoV-2." Is it there? So far, nope! Environmental and ongoing clinical #COVID19 efforts discussed here: https://t.co/D8gYGQaU7I thx @GENbio @NEBiolabs @illumina @TwistBioscience @nanopore @nygenome @metasub @BenKallos @ZymoResearch」 / Twitter
+
+https://www.genengnews.com/insights/nyc-scientists-swab-the-subway-in-search-of-sars-cov-2/
+NYC Scientists Swab the Subway in Search of SARS-CoV-2
+NYCの科学者がSARS-CoV-2を求めて地下鉄を綿棒で調べる
+
+
+
+
 https://www.nature.com/articles/s41396-020-0600-z
 Disentangling the impact of environmental and phylogenetic constraints on prokaryotic within-species diversity | The ISME Journal
 
