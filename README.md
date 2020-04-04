@@ -15,6 +15,16 @@ Last Update: 2020-01
 ----------
 ## featuring
 
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md#coronavirus
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.COVID-19.md
+
+
+https://twitter.com/DNA_PAPA/status/1245671281158045696
+この記事のように新型コロナは表面の上で生きているって書いてるが、活性があるって言うだけで、生きていません。細菌とウイルスを混同しては駄目です。細菌は自分で増殖できますが、ウイルスは、宿主がいないと増殖できません。人間に感染できなければ、いずれ消滅します。
+8:15 PM · Apr 2, 2020
+https://wired.jp/2020/04/02/how-long-does-the-coronavirus-last-on-surfaces/
+新型コロナウイルスは、物体の表面で数日間は生き続ける？ 研究結果から見えてきたこと｜WIRED.jp
 
 https://note.com/akiduki/n/n3dbc10a6ea60
 【図解】内的妥当性と外的妥当性｜キユシト｜note
@@ -74,9 +84,6 @@ Revision Date:	2018-07-30
 - https://github.com/haruosuz/microbe
 - https://github.com/haruosuz/microbe/blob/master/README.md
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.updates.md
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md#coronavirus
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.COVID-19.md
 - 
 - https://twitter.com/kakenhi_com
 - https://科研費.com
@@ -105,18 +112,6 @@ Pitagora Galaxy Meetup
 
 
 ### 2020
-
-
-
-今のところ、地下鉄から新型コロナウイルス（SARS-CoV-2）のRNAは検出されず。
-https://twitter.com/mason_lab/status/1245394591819477003
-Christopher MasonさんはTwitterを使っています 「"NYC Scientists Swab the Subway in Search of SARS-CoV-2." Is it there? So far, nope! Environmental and ongoing clinical #COVID19 efforts discussed here: https://t.co/D8gYGQaU7I thx @GENbio @NEBiolabs @illumina @TwistBioscience @nanopore @nygenome @metasub @BenKallos @ZymoResearch」 / Twitter
-
-https://www.genengnews.com/insights/nyc-scientists-swab-the-subway-in-search-of-sars-cov-2/
-NYC Scientists Swab the Subway in Search of SARS-CoV-2
-NYCの科学者がSARS-CoV-2を求めて地下鉄を綿棒で調べる
-
-
 
 
 https://www.nature.com/articles/s41396-020-0600-z
