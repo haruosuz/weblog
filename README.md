@@ -15,10 +15,12 @@ Last Update: 2020-01
 ----------
 ## featuring
 
+https://github.com/virtual-biohackathons/covid-19-bh20/wiki/Translation
+
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md#coronavirus
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.COVID-19.md
-
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.COVID-19.md#nextstrain
 
 https://twitter.com/DNA_PAPA/status/1245671281158045696
 この記事のように新型コロナは表面の上で生きているって書いてるが、活性があるって言うだけで、生きていません。細菌とウイルスを混同しては駄目です。細菌は自分で増殖できますが、ウイルスは、宿主がいないと増殖できません。人間に感染できなければ、いずれ消滅します。
@@ -32,6 +34,35 @@ https://note.com/akiduki/n/n3dbc10a6ea60
 - https://sfcclip.net/bus/
 - https://www.sfc.keio.ac.jp/gsmg/about/faculty/
 - 
+
+
+https://twitter.com/copypasteusa/status/1245668507557097473
+Haruo Suzuki on Twitter: "ニューヨークの地下鉄で新型コロナウイルス（SARS-CoV-2）は今のところ見つかっていない。10％はヒトRNA、1～2％はウイルスRNA（インフルエンザウイルスを含む）、残りの88％は由来不明。 https://t.co/V2rziTjs9N" / Twitter
+8:04 PM · Apr 2, 2020
+
+https://twitter.com/mason_lab/status/1245394591819477003
+Christopher Mason on Twitter: ""NYC Scientists Swab the Subway in Search of SARS-CoV-2." Is it there? So far, nope! Environmental and ongoing clinical #COVID19 efforts discussed here: https://t.co/D8gYGQaU7I thx @GENbio @NEBiolabs @illumina @TwistBioscience @nanopore @nygenome @metasub @BenKallos @ZymoResearch" / Twitter
+1:56 AM · Apr 2, 2020
+
+----------
+
+## nextstrain
+
+https://twitter.com/gigazine/status/1244942572197277696
+GIGAZINE(ギガジン) on Twitter: "新型コロナウイルスの流行状況を遺伝子配列データをもとに分析したNextstrainのレポートの日本語版が登場 https://t.co/dKooleeMXP" / Twitter
+8:00 PM · Mar 31, 2020
+https://gigazine.net/news/20200331-nextstrain-covid19-report/
+新型コロナウイルスの流行状況を遺伝子配列データをもとに分析したNextstrainのレポートの日本語版が登場 - GIGAZINE
+
+https://nextstrain.org/narratives/trees-background
+How to interpret phylogenetic trees
+
+https://nextstrain.org/narratives/trees-background/ja
+系統発生樹の解読について
+
+https://nextstrain.org/narratives/ncov/sit-rep/ja/2020-04-03
+新型コロナウイルス拡散の遺伝的解析と状況報告 2020-04-03.
+
 ----------
 
 ## tree
