@@ -22,6 +22,20 @@ https://github.com/virtual-biohackathons/covid-19-bh20/wiki/Translation
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.COVID-19.md
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.COVID-19.md#nextstrain
 
+
+https://twitter.com/sounaka/status/1247082658179366913
+こちら少し書きました、総説を読んだ人で、もう少し背景とか知りたいというヒト向けです（いるのかな？）。
+https://sites.google.com/site/sonakagawa/etc/sars-cov-2_yodosha_etc
+「新型コロナウイルスSARS-CoV-2の比較ウイルス学と比較ゲノム解析」執筆のよもやま話 - So Nakagawa Website
+
+https://twitter.com/sounaka/status/1239789326830948353
+So Nakagawa on Twitter: "実験医学誌にコロナウイルスに関する総説を書きました、4/20発売の5月号に掲載予定です。そちらに掲載される予定のコロナウイルスの系統樹をshareします。SARS-CoV-2の類似配列のみならず、61種のコロナウイルスの配列を使って系統樹を作りました。#新型コロナウイルス https://t.co/ALRM9lmXTl" / Twitter
+2:43 PM · Mar 17, 2020
+ヒトに感染するウイルスはベータコロナウイルス属とアルファコロナウイルス属からのみ見つかっています。コウモリが宿主となっている例も多いですが、その他の生物も様々なコロナウイルスを持っています。一部配列はGISAID（https://gisaid.org）から入手しました。 #新型コロナウイルス
+この図のshareに関しては羊土社実験医学編集部から許可をもらっています（掲載時には多少変更があるかも）。また、outgroupに使っているコロナウイルスをはじめ、多くのコロナウイルスが中国を中心に世界様々な研究グループによって発見されています、GISAID含め、それら研究グループに感謝します。
+
+
+
 https://twitter.com/DNA_PAPA/status/1245671281158045696
 この記事のように新型コロナは表面の上で生きているって書いてるが、活性があるって言うだけで、生きていません。細菌とウイルスを混同しては駄目です。細菌は自分で増殖できますが、ウイルスは、宿主がいないと増殖できません。人間に感染できなければ、いずれ消滅します。
 8:15 PM · Apr 2, 2020
