@@ -24,6 +24,9 @@ https://github.com/virtual-biohackathons/covid-19-bh20/wiki/Translation
 
 
 
+https://gigazine.net/news/20200331-how-to-tell-beating-covid-19/
+新型コロナウイルスの感染は拡大しているのか、それとも収束しているのかが理解できるムービー - GIGAZINE
+
 https://shorebird.hatenablog.com/entry/20180610/1528591977
 「統計思考の世界」 - shorebird　進化心理学中心の書評など
 
