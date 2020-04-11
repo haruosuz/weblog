@@ -23,6 +23,10 @@ https://github.com/virtual-biohackathons/covid-19-bh20/wiki/Translation
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.COVID-19.md#nextstrain
 
 
+
+https://shorebird.hatenablog.com/entry/20180610/1528591977
+「統計思考の世界」 - shorebird　進化心理学中心の書評など
+
 https://note.com/akiduki/n/n3dbc10a6ea60
 【図解】内的妥当性と外的妥当性｜キユシト｜note
 
