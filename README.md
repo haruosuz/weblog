@@ -15,6 +15,7 @@ Last Update: 2020-01
 ----------
 ## featuring
 
+
 https://github.com/virtual-biohackathons/covid-19-bh20/wiki/Translation
 
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md
@@ -23,6 +24,10 @@ https://github.com/virtual-biohackathons/covid-19-bh20/wiki/Translation
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.COVID-19.md#nextstrain
 
 
+
+
+https://ameblo.jp/yusaku-ohkubo/entry-12588890730.html
+「数理科学を使えば統計の”主義”を争う必要ない」という主張について検討する | 人はやがて死ぬ
 
 https://gigazine.net/news/20200331-how-to-tell-beating-covid-19/
 新型コロナウイルスの感染は拡大しているのか、それとも収束しているのかが理解できるムービー - GIGAZINE
