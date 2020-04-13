@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2020-01
+Last Update: 2020-04
 
 ----------
 
@@ -15,16 +15,13 @@ Last Update: 2020-01
 ----------
 ## featuring
 
-
 https://github.com/virtual-biohackathons/covid-19-bh20/wiki/Translation
 
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md#coronavirus
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.COVID-19.md
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.COVID-19.md#nextstrain
-
-
-
+- https://twitter.com/nextstrain
 
 https://ameblo.jp/yusaku-ohkubo/entry-12588890730.html
 「数理科学を使えば統計の”主義”を争う必要ない」という主張について検討する | 人はやがて死ぬ
@@ -34,13 +31,6 @@ https://gigazine.net/news/20200331-how-to-tell-beating-covid-19/
 
 https://shorebird.hatenablog.com/entry/20180610/1528591977
 「統計思考の世界」 - shorebird　進化心理学中心の書評など
-
-https://note.com/akiduki/n/n3dbc10a6ea60
-【図解】内的妥当性と外的妥当性｜キユシト｜note
-
-- https://sfcclip.net/bus/
-- https://www.sfc.keio.ac.jp/gsmg/about/faculty/
-- 
 
 https://twitter.com/nextstrain/status/1248707010750640128
 Nextstrain on Twitter: "Our new Situation Report is now available. https://t.co/Oz3iiAk2uh This week, we take a step back to trace how the outbreak has unfolded, month by month. We focus on transmission dynamics between regions of the world. https://t.co/JoSPKVOkFT" / Twitter
@@ -56,9 +46,6 @@ https://stats.biopapyrus.jp/stats/history-of-statistical-test.html
 http://www.jfssa.jp/taikai/2017/table/program_detail/pdf/201-250/10213.pdf
 p 値と仮説検定：どう教えればよいか
 岡山大学 環境生命科学研究科（環） 坂本 亘
-
-
-
 
 ----------
 
