@@ -38,6 +38,16 @@ Nextstrain on Twitter: "Our new Situation Report is now available. https://t.co/
 https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10
 Genomic analysis of COVID-19 spread. Situation report 2020-04-10.
 
+
+
+Carl T. Bergstrom
+5. It's hard to predict for certain, but my personal opinion is that given the rates at which we seeing mutations in the virus and the structure of its genome, there is not strong reason to expect more transmissible variants to evolve and become widespread over the next year.
+https://twitter.com/trvrb/status/1242319784798117888
+Trevor Bedford on Twitter: "@CT_Bergstrom Seasonal influenza H3N2 has had 50 years to evolve to increase transmissibility. We don’t have evidence for this. Generally would not be my expectation. Still, we’re watching for signs of adaptive evolution among #SARSCoV2 variants." / Twitter
+2:18 PM · Mar 24, 2020
+
+
+
 2018.08.19
 https://stats.biopapyrus.jp/stats/history-of-statistical-test.html
 検定の歴史 | Neyman-Pearson 流の仮説検定が提唱されるまでの歴史
