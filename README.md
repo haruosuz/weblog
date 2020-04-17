@@ -44,6 +44,13 @@ The proximal origin of SARS-CoV-2
 ## featuring
 
 
+https://twitter.com/leeswijzer/status/1248471034505789442
+MINAKA Nobuhiro on Twitter: "［欹耳袋］leeswijzer | オンライン授業準備どたばた顛末｜2020年4月10日 https://t.co/xJZ4pqFXeb ※今日まで3週間のできごとを整理しました．" / Twitter
+https://note.com/leeswijzer/n/n0ac366694389
+オンライン授業発信じたばた試行｜leeswijzer｜note
+
+
+
 https://ameblo.jp/yusaku-ohkubo/entry-12588890730.html
 「数理科学を使えば統計の”主義”を争う必要ない」という主張について検討する | 人はやがて死ぬ
 
