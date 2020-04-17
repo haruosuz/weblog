@@ -17,6 +17,14 @@ Last Update: 2020-04
 ## papers
 
 
+https://twitter.com/EARL_Med_Tw/status/1230746232223490048
+新型コロナウイルスが人工ウイルスであるとする陰謀論を強く非難する．複数国の科学者達がゲノムを公開・分析して野生生物に由来したものであることが強く結論づけられている．陰謀論は世界的な協力を危うくする恐怖，デマ，偏見を作り出すだけである（Lancet 2020, Feb19）
+
+Published:February 19, 2020
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30418-9/fulltext
+Statement in support of the scientists, public health professionals, and medical professionals of China combatting COVID-19 - The Lancet
+
+
 https://twitter.com/arambaut/status/1229366869095800832
 I have just posted a pre-print of a review written by 
 @K_G_Andersen
@@ -35,13 +43,6 @@ The proximal origin of SARS-CoV-2
 ----------
 ## featuring
 
-https://github.com/virtual-biohackathons/covid-19-bh20/wiki/Translation
-
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md#coronavirus
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.COVID-19.md
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.COVID-19.md#nextstrain
-- https://twitter.com/nextstrain
 
 https://ameblo.jp/yusaku-ohkubo/entry-12588890730.html
 「数理科学を使えば統計の”主義”を争う必要ない」という主張について検討する | 人はやがて死ぬ
@@ -53,10 +54,13 @@ https://shorebird.hatenablog.com/entry/20180610/1528591977
 「統計思考の世界」 - shorebird　進化心理学中心の書評など
 
 
+https://github.com/virtual-biohackathons/covid-19-bh20/wiki/Translation
 
-
-
-
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md#coronavirus
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.COVID-19.md
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.COVID-19.md#nextstrain
+- https://twitter.com/nextstrain
 
 
 
