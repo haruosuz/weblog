@@ -12,6 +12,26 @@ Last Update: 2020-04
 - [link](#link)
 - [unclassified](#unclassified)
 
+
+----------
+## papers
+
+
+https://twitter.com/arambaut/status/1229366869095800832
+I have just posted a pre-print of a review written by 
+@K_G_Andersen
+, 
+@edwardcholmes
+, Ian Lipkin & Bob Garry about some particular features in the #SARSCov2 spike protein and what they tell us about the evolution and emergence of #covid19 in humans.
+
+
+Published: 17 March 2020
+https://www.nature.com/articles/s41591-020-0820-9/
+The proximal origin of SARS-CoV-2
+
+
+
+
 ----------
 ## featuring
 
@@ -32,19 +52,11 @@ https://gigazine.net/news/20200331-how-to-tell-beating-covid-19/
 https://shorebird.hatenablog.com/entry/20180610/1528591977
 「統計思考の世界」 - shorebird　進化心理学中心の書評など
 
-https://twitter.com/nextstrain/status/1248707010750640128
-Nextstrain on Twitter: "Our new Situation Report is now available. https://t.co/Oz3iiAk2uh This week, we take a step back to trace how the outbreak has unfolded, month by month. We focus on transmission dynamics between regions of the world. https://t.co/JoSPKVOkFT" / Twitter
-5:18 AM · Apr 11, 2020
-https://nextstrain.org/narratives/ncov/sit-rep/2020-04-10
-Genomic analysis of COVID-19 spread. Situation report 2020-04-10.
 
 
 
-Carl T. Bergstrom
-5. It's hard to predict for certain, but my personal opinion is that given the rates at which we seeing mutations in the virus and the structure of its genome, there is not strong reason to expect more transmissible variants to evolve and become widespread over the next year.
-https://twitter.com/trvrb/status/1242319784798117888
-Trevor Bedford on Twitter: "@CT_Bergstrom Seasonal influenza H3N2 has had 50 years to evolve to increase transmissibility. We don’t have evidence for this. Generally would not be my expectation. Still, we’re watching for signs of adaptive evolution among #SARSCoV2 variants." / Twitter
-2:18 PM · Mar 24, 2020
+
+
 
 
 
