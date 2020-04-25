@@ -17,31 +17,28 @@ Last Update: 2020-04
 ## papers
 
 
-https://twitter.com/EARL_Med_Tw/status/1230746232223490048
-新型コロナウイルスが人工ウイルスであるとする陰謀論を強く非難する．複数国の科学者達がゲノムを公開・分析して野生生物に由来したものであることが強く結論づけられている．陰謀論は世界的な協力を危うくする恐怖，デマ，偏見を作り出すだけである（Lancet 2020, Feb19）
-
-Published:February 19, 2020
-https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30418-9/fulltext
-Statement in support of the scientists, public health professionals, and medical professionals of China combatting COVID-19 - The Lancet
-
-
-https://twitter.com/arambaut/status/1229366869095800832
-I have just posted a pre-print of a review written by 
-@K_G_Andersen
-, 
-@edwardcholmes
-, Ian Lipkin & Bob Garry about some particular features in the #SARSCov2 spike protein and what they tell us about the evolution and emergence of #covid19 in humans.
-
-
-Published: 17 March 2020
-https://www.nature.com/articles/s41591-020-0820-9/
-The proximal origin of SARS-CoV-2
-
-
-
 
 ----------
 ## featuring
+
+
+
+
+https://academist-cf.com/journal/?p=12936
+「分岐」という言葉でつなぐ、深海生物テヅルモヅルと希少言語ムラブリ語 – アカデミスト学会ランチョン座談会レポート | academist Journal
+
+
+9:56 PM · Apr 25, 2020
+https://twitter.com/WB_DataAnalyst/status/1254031648405913600
+しんめー on Twitter: "「サンプルサイズが小さく検出力が弱いがために，たまたま効果量の大きいかったがために有意に観測され，研究結果としては実際の効果量より誇張されて報告されてしまう」winner's curse (勝者の呪い)という現象を今更知りました。 実験経済学者以外の経済学者は知らない人多そう。" / Twitter
+https://tjo.hatenablog.com/entry/2017/05/06/090000
+論文メモ：Empirical assessment of published effect sizes and power in the recent cognitive neuroscience and psychology literature (Szucs & Ioannidis, PLoS Biol, 2017) - 渋谷駅前で働くデータサイエンティストのブログ
+
+
+https://twitter.com/MayumiNarako/status/1251889444069793793
+Mayumi Naramura on Twitter: "パンデミックの今後。20人以上の専門家（公衆衛生、医学、疫学、歴史）の知見にもとづく長い記事ですが読める方は是非。これまでの動きもよくまとまっており、重要記事リンクつき。以下に要点を。 https://t.co/43nsJZlW4S" / Twitter
+12:04 AM · Apr 20, 2020
+
 
 
 https://twitter.com/leeswijzer/status/1248471034505789442
