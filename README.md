@@ -21,7 +21,17 @@ Last Update: 2020-04
 ----------
 ## featuring
 
+11:34 AM · Apr 22, 2020
+https://twitter.com/NatureDigest/status/1252787729076633600
+Nature ダイジェスト／編集部 on Twitter: "若手研究者が在宅勤務のコツをまとめています。1日の予定を決める（自分1人で決めない）/「朝のルーチン」を作る/作業場所を確保/許された範囲で外に出る、体を動かす/「帰宅」と同様に仕事を終わる等。「私たちはパンデミックの最中。通常の生産性を求めなくて大丈夫。ベストを尽くすことを目指そう」 https://t.co/7LiotpmKXo" / Twitter
 
+5:08 PM · Apr 22, 2020
+https://twitter.com/academist_cf/status/1252871980031721473
+academist on Twitter: "DNAの塩基配列など分子の情報を用いる「分子進化学」。進化の研究にDNA情報を持ち込むことにはどのような意味があるのか、どんな技術や考え方が大切なのだろうか？https://t.co/MxX5RGTUGg" / Twitter
+
+2019年7月22日
+https://academist-cf.com/journal/?p=11378
+DNAというものさしで生物種同士を比較する – 理化学研究所・工樂樹洋チームリーダーに聞く分子進化学者の役割とは | academist Journal
 
 
 https://academist-cf.com/journal/?p=12936
@@ -35,18 +45,6 @@ https://tjo.hatenablog.com/entry/2017/05/06/090000
 論文メモ：Empirical assessment of published effect sizes and power in the recent cognitive neuroscience and psychology literature (Szucs & Ioannidis, PLoS Biol, 2017) - 渋谷駅前で働くデータサイエンティストのブログ
 
 
-https://twitter.com/MayumiNarako/status/1251889444069793793
-Mayumi Naramura on Twitter: "パンデミックの今後。20人以上の専門家（公衆衛生、医学、疫学、歴史）の知見にもとづく長い記事ですが読める方は是非。これまでの動きもよくまとまっており、重要記事リンクつき。以下に要点を。 https://t.co/43nsJZlW4S" / Twitter
-12:04 AM · Apr 20, 2020
-
-
-
-https://twitter.com/leeswijzer/status/1248471034505789442
-MINAKA Nobuhiro on Twitter: "［欹耳袋］leeswijzer | オンライン授業準備どたばた顛末｜2020年4月10日 https://t.co/xJZ4pqFXeb ※今日まで3週間のできごとを整理しました．" / Twitter
-https://note.com/leeswijzer/n/n0ac366694389
-オンライン授業発信じたばた試行｜leeswijzer｜note
-
-
 
 https://ameblo.jp/yusaku-ohkubo/entry-12588890730.html
 「数理科学を使えば統計の”主義”を争う必要ない」という主張について検討する | 人はやがて死ぬ
@@ -56,6 +54,12 @@ https://gigazine.net/news/20200331-how-to-tell-beating-covid-19/
 
 https://shorebird.hatenablog.com/entry/20180610/1528591977
 「統計思考の世界」 - shorebird　進化心理学中心の書評など
+
+
+https://twitter.com/MayumiNarako/status/1251889444069793793
+Mayumi Naramura on Twitter: "パンデミックの今後。20人以上の専門家（公衆衛生、医学、疫学、歴史）の知見にもとづく長い記事ですが読める方は是非。これまでの動きもよくまとまっており、重要記事リンクつき。以下に要点を。 https://t.co/43nsJZlW4S" / Twitter
+12:04 AM · Apr 20, 2020
+
 
 
 https://github.com/virtual-biohackathons/covid-19-bh20/wiki/Translation
