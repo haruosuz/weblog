@@ -13,6 +13,10 @@ Last Update: 2020-04
 - [unclassified](#unclassified)
 
 
+- https://github.com/haruosuz/DS4GD/tree/master/2020
+- https://github.com/haruosuz/r4bioinfo
+- https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md
+
 ----------
 ## papers
 
@@ -20,6 +24,13 @@ Last Update: 2020-04
 
 ----------
 ## featuring
+
+https://twitter.com/toukei_kentei
+toukei_kentei (@toukei_kentei) / Twitter
+https://twitter.com/toukei_kentei/status/1255303330332643328
+(1) toukei_kentei on Twitter: "アビガンの「観察研究」が始まったと報道があり、首相もそう言いました。 医療統計の人たちはびっくりだと思います。薬の効果には「介入研究（実験研究）」が必要です。用語としては「臨床研究」の方が好ましいです。下を参考に！ 折笠先生のモノローグNO.112. https://t.co/z6JAP7i0ym" / Twitter
+https://kana-ot.jp/congress/kccot3rd/vol-3
+第３話　研究編　「研究デザインって何？」 » 第3回神奈川県臨床作業療法大会
 
 11:34 AM · Apr 22, 2020
 https://twitter.com/NatureDigest/status/1252787729076633600
@@ -144,10 +155,6 @@ Revision Date:	2018-07-30
 - https://twitter.com/search?q=plasmid%20codon&src=typd
 - https://github.com/haruosuz/statistics
 - https://github.com/haruosuz/introBI/tree/master/2019
-  - http://apprize.info/data/bioinformatics/index.html
-- https://github.com/haruosuz/DS4GD/tree/master/2019giga
-- https://github.com/haruosuz/r4bioinfo
-- https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md
 - https://github.com/haruosuz/r4bioinfo/blob/master/r_books/README.md
 - https://github.com/haruosuz/microbe
 - https://github.com/haruosuz/microbe/blob/master/README.md
