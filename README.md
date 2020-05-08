@@ -21,9 +21,55 @@ Last Update: 2020-04
 ## papers
 
 
+----------
+## books
+
+https://link.springer.com/book/10.1007/978-3-030-38281-0
+The Pangenome
+Diversity, Dynamics and Evolution of Genomes
+
+3:07 AM · May 5, 2020
+https://twitter.com/jomcinerney/status/1257371283819462658
+James McInerney on Twitter: "#OA New book chapter with @alanmcn1 @Evol_Molly @whelanfj @blackpassiflora McInerney JO, Whelan FJ, Domingo-Sananes MR, McNally A, O’Connell MJ (2020) Pangenomes and Selection: The Public Goods Hypothesis. In: Tettelin H., Medini D. (eds) The Pangenome https://t.co/EoLCWAO9pL https://t.co/QLyjSBXRUg" / Twitter
+
+
+10:45 PM · May 4, 2020
+https://twitter.com/XavierDidelot/status/1257305244146360320
+Xavier Didelot on Twitter: "I'm pleased to have contributed a chapter with @LassalleFlo to this great new book on pangenome evolution and even more pleased that it is completely open access! https://t.co/EBytWHZVnn https://t.co/kPDXGWcZqQ" / Twitter
+
+
 
 ----------
 ## featuring
+
+
+
+----------
+
+
+
+
+
+
+4:37 AM · May 8, 2020
+https://twitter.com/NathanGrubaugh/status/1258480994094637057
+Nathan Grubaugh on Twitter: "Three rebuttals published in response the that terrible "A, B, C" paper in @PNASNews on the same day! Maybe just retract it? https://t.co/SdsVahzbZW" / Twitter
+
+5:28 AM · May 8, 2020
+https://twitter.com/kfuku0502/status/1258493846159319040
+Kenji Fukushima on Twitter: "分子系統学をほんの少しかじった者としてはSARS-CoV-2のゲノム配列を解析してみたい気持ちもあるんだけど、こういうの読むと地雷が多すぎてアーティファクトに嵌まる未来しか見えない。配列アラインメントを作るところですでにドメイン知識豊富な専門家が必要になってくる。 https://t.co/cECG4TCV6s" / Twitter
+全部自力でやろうとしたら、ここに挙げられているアーティファクトのいくつかは私では見破れないと思う。もしアラインメントを精査せずにその後の段階に進んでしまったら系統樹を描いた段階で枝が長い配列に気付いてそれらを除くくらいで、他の多くの点はスルーしてしまう気がする。
+http://virological.org/t/issues-with-sars-cov-2-sequencing-data/473
+Issues with SARS-CoV-2 sequencing data - Novel 2019 coronavirus / nCoV-2019 Genomic Epidemiology - Virological
+Figure 2: IQTree phylogeny showing some very long terminal branches.
+Investigating recombinations and clusters of mutations/artefacts
+To further investigate, and to look into possible recombination events, homoplasies (mutation events seemingly happening multiple times along the phylogeny) and mutational clusters, we ran ClonalFrameML v1.12 [4]. This software found 30 putative recombination events happening at terminal branches, consistent with the long terminal branches in Figure 2.
+
+
+----------
+
+
+
 
 https://twitter.com/toukei_kentei
 toukei_kentei (@toukei_kentei) / Twitter
