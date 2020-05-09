@@ -46,11 +46,6 @@ Xavier Didelot on Twitter: "I'm pleased to have contributed a chapter with @Lass
 
 ----------
 
-
-
-
-
-
 4:37 AM · May 8, 2020
 https://twitter.com/NathanGrubaugh/status/1258480994094637057
 Nathan Grubaugh on Twitter: "Three rebuttals published in response the that terrible "A, B, C" paper in @PNASNews on the same day! Maybe just retract it? https://t.co/SdsVahzbZW" / Twitter
@@ -67,6 +62,8 @@ To further investigate, and to look into possible recombination events, homoplas
 
 
 
+
+----------
 
 
 https://twitter.com/search?q=学問における内輪の「秘儀」
