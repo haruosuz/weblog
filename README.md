@@ -66,6 +66,22 @@ Investigating recombinations and clusters of mutations/artefacts
 To further investigate, and to look into possible recombination events, homoplasies (mutation events seemingly happening multiple times along the phylogeny) and mutational clusters, we ran ClonalFrameML v1.12 [4]. This software found 30 putative recombination events happening at terminal branches, consistent with the long terminal branches in Figure 2.
 
 
+
+
+
+https://twitter.com/search?q=学問における内輪の「秘儀」
+
+5:36 PM · Sep 25, 2019
+https://twitter.com/f_nisihara/status/1176777475432386560
+Fumiaki Nishihara（西原史暁） on Twitter: "そう言えば、前にこんな記事を書きました。大人だけの場でも秘儀は起こりうるわけです。 - 学問における内輪の「秘儀」 https://t.co/qCjU4WN45j https://t.co/aMab2HqLnC" / Twitter
+
+
+6:30 PM · May 25, 2018
+https://twitter.com/f_nisihara/status/999945874644979712
+Fumiaki Nishihara（西原史暁） on Twitter: "今日書いた記事「とりあえずビール、とりあえず分散分析」 https://t.co/z0nCV8gqWW と合わせて読むと面白そうなのが、「学問における内輪の『秘儀』」という記事 https://t.co/DobU4bqmA4 です。後者の方が真面目。" / Twitter
+
+
+
 ----------
 
 
