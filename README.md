@@ -12,10 +12,13 @@ Last Update: 2020-04
 - [link](#link)
 - [unclassified](#unclassified)
 
-
 - https://github.com/haruosuz/DS4GD/tree/master/2020
+- https://github.com/haruosuz/DS4GD/blob/master/2020/README.md
+- https://github.com/haruosuz/DS4GD/blob/master/2020/CaseStudy.md
 - https://github.com/haruosuz/r4bioinfo
 - https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md
+- https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/index.html
+- https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/installr.html
 
 ----------
 ## papers
