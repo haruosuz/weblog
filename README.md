@@ -11,7 +11,6 @@ Last Update: 2020-05
   - [2018](#2018)
 - [link](#link)
 - [unclassified](#unclassified)
-
 - https://github.com/haruosuz/DS4GD/tree/master/2020
 - https://github.com/haruosuz/DS4GD/blob/master/2020/README.md
 - https://github.com/haruosuz/DS4GD/blob/master/2020/CaseStudy.md
@@ -24,8 +23,32 @@ Last Update: 2020-05
 - https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapter1.html#exercises
 - https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapter_answers.html#dna-sequence-statistics-1
 
+
+
+9:34 AM · May 18, 2020
+https://twitter.com/h_kanki/status/1262179641646710784
+Hirokuni Kanki on Twitter: "京大の宮沢孝幸准教授 @takavet1 との共著で、先日「新型コロナウイルスの比較ウイルス学と比較ゲノム分析」を発表した、東海大の中川 草先生 @sounaka に聞きました。テーマはウイルスとの共存。生命の起源から、感染症に対抗する生物のシステムまで話されています。ぜひ。 https://t.co/m2RqVLr4lk" / Twitter
+2020.05.01
+https://nature-and-science.jp/virus/
+私たちとともにあるウイルスという他者 | アマナとひらく「自然・科学」のトビラ | NATURE ＆ SCIENCE
+
+
+2020年5月7日木曜日
+https://ushio-ecology-blog.blogspot.com/2020/05/20200507blogger0012.html
+Ushio's blog: 解析するときのルールあれこれ
+
+
 ----------
 ## papers
+
+
+https://twitter.com/sounaka
+
+3:23 AM · May 20, 2020
+https://twitter.com/Chjulian/status/1262811239048253440
+Ch. Julian Villabona-Arenas on Twitter: "Genome sequences of SARS-CoV-2 allow phylogenetic investigation. @BillHanage, @DamienTully &amp; I advise caution interpreting these phylogenies w/o additional (epidemiological) information. Sequences may exhibit limited variability and sampling may be biased. https://t.co/DskfVKHPcv" / Twitter
+https://www.nature.com/articles/s41564-020-0738-5
+Phylogenetic interpretation during outbreaks requires caution | Nature Microbiology
 
 
 ----------
@@ -48,6 +71,13 @@ Xavier Didelot on Twitter: "I'm pleased to have contributed a chapter with @Lass
 
 ----------
 ## featuring
+
+
+https://lambtani.hatenablog.jp/entry/2020/05/19/233210
+中学生から始める適応進化理論2：よくある誤解 - Life is Beautiful
+
+https://lambtani.hatenablog.jp/entry/2020/05/10/200459
+中学生から始める適応進化理論 - Life is Beautiful
 
 
 
