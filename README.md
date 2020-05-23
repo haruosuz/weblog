@@ -25,6 +25,14 @@ Last Update: 2020-05
 
 
 
+2020年05月22日
+https://hc.nikkan-gendai.com/articles/273497
+日本人が新型コロナウイルスに強い理由は？ゲノム学者が解説
+
+https://headlines.yahoo.co.jp/hl?a=20200522-00000018-nkgendai-hlth
+
+
+
 9:34 AM · May 18, 2020
 https://twitter.com/h_kanki/status/1262179641646710784
 Hirokuni Kanki on Twitter: "京大の宮沢孝幸准教授 @takavet1 との共著で、先日「新型コロナウイルスの比較ウイルス学と比較ゲノム分析」を発表した、東海大の中川 草先生 @sounaka に聞きました。テーマはウイルスとの共存。生命の起源から、感染症に対抗する生物のシステムまで話されています。ぜひ。 https://t.co/m2RqVLr4lk" / Twitter
