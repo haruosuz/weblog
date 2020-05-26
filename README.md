@@ -18,12 +18,9 @@ Last Update: 2020-05
 - https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan
 - https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md
 - https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#dna-sequence-statistics-1
+- https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#dna-sequence-statistics-2
+- https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapter2.html
 - https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/index.html
-- https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapter1.html
-- https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapter1.html#exercises
-- https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapter_answers.html#dna-sequence-statistics-1
-
-
 
 2020年05月22日
 https://hc.nikkan-gendai.com/articles/273497
