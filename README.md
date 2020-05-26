@@ -22,6 +22,15 @@ Last Update: 2020-05
 - https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapter2.html
 - https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/index.html
 
+8割おじさん･西浦教授が語る｢コロナ新事実｣ - (1/2)｜ニフティニュース
+https://news.nifty.com/article/magazine/12208-672907/
+8割おじさん･西浦教授が語る｢コロナ新事実｣ | コロナ戦争を読み解く | 東洋経済オンライン | 経済ニュースの新基準
+https://toyokeizai.net/articles/-/352503
+https://news.yahoo.co.jp/articles/d7eefbac4873acdceaf18d08da4bd7b6434540aa
+
+
+
+
 2020年05月22日
 https://hc.nikkan-gendai.com/articles/273497
 日本人が新型コロナウイルスに強い理由は？ゲノム学者が解説
