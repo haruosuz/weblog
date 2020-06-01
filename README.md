@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2020-05
+Last Update: 2020-06
 
 ----------
 
@@ -17,10 +17,13 @@ Last Update: 2020-05
 - https://github.com/haruosuz/r4bioinfo
 - https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan
 - https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md
-- https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#dna-sequence-statistics-1
-- https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#dna-sequence-statistics-2
-- https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapter2.html
-- https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/index.html
+
+https://trattoriainutano.tumblr.com/
+こんな時間ですがパスタを茹でます
+https://trattoriainutano.tumblr.com/post/619697368071372800/vbh-pt1
+2020-06-01
+COVID19 Virtual BioHackathon 2020 をやった
+
 
 8割おじさん･西浦教授が語る｢コロナ新事実｣ - (1/2)｜ニフティニュース
 https://news.nifty.com/article/magazine/12208-672907/
