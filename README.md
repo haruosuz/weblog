@@ -17,6 +17,8 @@ Last Update: 2020-06
 - https://github.com/haruosuz/r4bioinfo
 - https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan
 - https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md
+- https://github.com/haruosuz/statistics
+- https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/index.html 統計の落とし穴と蜘蛛の糸 - Smart Lab Life - 羊土社
 
 https://trattoriainutano.tumblr.com/
 こんな時間ですがパスタを茹でます
@@ -266,7 +268,6 @@ Revision Date:	2018-07-30
 - https://github.com/haruosuz/mgsa/blob/master/references/mgsa.k-mer.md
 - https://github.com/haruosuz/codon
 - https://twitter.com/search?q=plasmid%20codon&src=typd
-- https://github.com/haruosuz/statistics
 - https://github.com/haruosuz/introBI/tree/master/2019
 - https://github.com/haruosuz/r4bioinfo/blob/master/r_books/README.md
 - https://github.com/haruosuz/microbe
