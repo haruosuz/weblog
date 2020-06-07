@@ -20,6 +20,31 @@ Last Update: 2020-06
 - https://github.com/haruosuz/statistics
 - https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/index.html 統計の落とし穴と蜘蛛の糸 - Smart Lab Life - 羊土社
 
+
+
+----------
+
+## tidy data
+整然データ
+
+https://www.jstage.jst.go.jp/article/jkg/67/9/67_448/_article/-char/ja/
+整然データとは何か
+2017 年 67 巻 9 号 p. 448-453
+
+https://id.fnshr.info/2017/01/09/trans-tidy-data/
+【翻訳】整然データ｜Colorless Green Ideas
+
+https://id.fnshr.info/2017/01/09/tidy-data-intro/
+整然データとは何か｜Colorless Green Ideas
+
+https://id.fnshr.info/2017/01/09/tidy-data-seizen/
+なぜ“tidy data”を「整然データ」と訳したのか｜Colorless Green Ideas
+“tidy data”の対義語である“messy data”を「雑然データ」と訳せば、「整然」と「雑然」と似たような漢語になり、両者に関係があることが分かりやすい。
+
+
+----------
+
+
 https://trattoriainutano.tumblr.com/
 こんな時間ですがパスタを茹でます
 https://trattoriainutano.tumblr.com/post/619697368071372800/vbh-pt1
