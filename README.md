@@ -17,30 +17,28 @@ Last Update: 2020-06
 - https://github.com/haruosuz/r4bioinfo
 - https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan
 - https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md
+- https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#pairwise-sequence-alignment
+- https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapter4.html
+-
 - https://github.com/haruosuz/statistics
 - https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/index.html 統計の落とし穴と蜘蛛の糸 - Smart Lab Life - 羊土社
 
-
-
 ----------
 
-## tidy data
-整然データ
 
-https://www.jstage.jst.go.jp/article/jkg/67/9/67_448/_article/-char/ja/
-整然データとは何か
-2017 年 67 巻 9 号 p. 448-453
 
-https://id.fnshr.info/2017/01/09/trans-tidy-data/
-【翻訳】整然データ｜Colorless Green Ideas
+http://cse.naro.affrc.go.jp/minaka/R/R-top.html
+租界〈Ｒ〉の門前にて
 
-https://id.fnshr.info/2017/01/09/tidy-data-intro/
-整然データとは何か｜Colorless Green Ideas
+◇統計高座中継（YouTube）
+以下に公開する統計高座の YouTube 動画ファイルは，2011年2月8日（火）〜10日（木）の三日間にわたって，九州大学大学院比較社会文化研究科（伊都キャンパス）で私が行なった集中講義〈データ解析概論〉の全録画です（→九大・比社文サイト）．
 
-https://id.fnshr.info/2017/01/09/tidy-data-seizen/
-なぜ“tidy data”を「整然データ」と訳したのか｜Colorless Green Ideas
-“tidy data”の対義語である“messy data”を「雑然データ」と訳せば、「整然」と「雑然」と似たような漢語になり、両者に関係があることが分かりやすい。
 
+昨日，自由民主党広報部ツイッターから下記のようなツイートが発せられました：
+https://twitter.com/jimin_koho/status/1273893819579166720
+
+http://natrom.sakura.ne.jp/koizumi.html
+ダーウィンは「変化に最も対応できる生き物が生き残る」と言ったか？
 
 ----------
 
