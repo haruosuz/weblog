@@ -33,6 +33,11 @@ Last Update: 2020-06
 https://id.fnshr.info/2015/11/07/math-class-4-stats/
 統計を勉強するときに数学に悩まされる人のための一冊｜Colorless Green Ideas
 
+
+2018/3/12 高橋康介
+https://www.slideshare.net/kohske/rrstudior-markdown
+再現可能性ベストプラクティス 　解析方法とレポート作成方法の再現可能性 　RとRStudioとR Markdownを通して
+
 ----------
 
 
