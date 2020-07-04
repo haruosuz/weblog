@@ -11,34 +11,27 @@ Last Update: 2020-06
   - [2018](#2018)
 - [link](#link)
 - [unclassified](#unclassified)
+-
+- 
+- https://github.com/haruosuz/bioinfo
+- https://github.com/haruosuz/bioinfo/blob/master/references/README.reproducibility.md
+- https://github.com/haruosuz/bioinfo/blob/master/2020/CaseStudy.md#2020-07-06
+- 
 - https://github.com/haruosuz/DS4GD/tree/master/2020
 - https://github.com/haruosuz/DS4GD/blob/master/2020/README.md
 - https://github.com/haruosuz/DS4GD/blob/master/2020/CaseStudy.md
+- 
 - https://github.com/haruosuz/r4bioinfo
 - https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan
 - https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md
 - https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#pairwise-sequence-alignment
 - https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapter4.html
--
+- 
 - https://github.com/haruosuz/statistics
 - https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/index.html 統計の落とし穴と蜘蛛の糸 - Smart Lab Life - 羊土社
 
-----------
-
-
-
-http://cse.naro.affrc.go.jp/minaka/R/R-top.html
-租界〈Ｒ〉の門前にて
-
-◇統計高座中継（YouTube）
-以下に公開する統計高座の YouTube 動画ファイルは，2011年2月8日（火）〜10日（木）の三日間にわたって，九州大学大学院比較社会文化研究科（伊都キャンパス）で私が行なった集中講義〈データ解析概論〉の全録画です（→九大・比社文サイト）．
-
-
-昨日，自由民主党広報部ツイッターから下記のようなツイートが発せられました：
-https://twitter.com/jimin_koho/status/1273893819579166720
-
-http://natrom.sakura.ne.jp/koizumi.html
-ダーウィンは「変化に最も対応できる生き物が生き残る」と言ったか？
+https://id.fnshr.info/2015/11/07/math-class-4-stats/
+統計を勉強するときに数学に悩まされる人のための一冊｜Colorless Green Ideas
 
 ----------
 
@@ -50,6 +43,7 @@ https://trattoriainutano.tumblr.com/post/619697368071372800/vbh-pt1
 COVID19 Virtual BioHackathon 2020 をやった
 
 
+2020年05月26日
 8割おじさん･西浦教授が語る｢コロナ新事実｣ - (1/2)｜ニフティニュース
 https://news.nifty.com/article/magazine/12208-672907/
 8割おじさん･西浦教授が語る｢コロナ新事実｣ | コロナ戦争を読み解く | 東洋経済オンライン | 経済ニュースの新基準
@@ -57,14 +51,11 @@ https://toyokeizai.net/articles/-/352503
 https://news.yahoo.co.jp/articles/d7eefbac4873acdceaf18d08da4bd7b6434540aa
 
 
-
-
 2020年05月22日
 https://hc.nikkan-gendai.com/articles/273497
 日本人が新型コロナウイルスに強い理由は？ゲノム学者が解説
 
 https://headlines.yahoo.co.jp/hl?a=20200522-00000018-nkgendai-hlth
-
 
 
 9:34 AM · May 18, 2020
@@ -75,9 +66,6 @@ https://nature-and-science.jp/virus/
 私たちとともにあるウイルスという他者 | アマナとひらく「自然・科学」のトビラ | NATURE ＆ SCIENCE
 
 
-2020年5月7日木曜日
-https://ushio-ecology-blog.blogspot.com/2020/05/20200507blogger0012.html
-Ushio's blog: 解析するときのルールあれこれ
 
 
 ----------
@@ -281,8 +269,6 @@ Revision Date:	2018-07-30
 - 
 - https://benjjneb.github.io/dada2/tutorial.html
 - 
-- https://github.com/haruosuz/bioinfo
-- https://github.com/haruosuz/bioinfo/blob/master/references/README.reproducibility.md
 - https://github.com/haruosuz/books
 - https://github.com/haruosuz/books/blob/master/references/books.microbe.md
 - https://github.com/haruosuz/books/blob/master/references/books.updates.md#2019-06-15
