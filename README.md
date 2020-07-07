@@ -13,6 +13,7 @@ Last Update: 2020-07
 - [unclassified](#unclassified)
 -
 - https://sfcclip.net/bus/
+- http://www.kanachu.co.jp/dia/diagram/timetable/cs:0000800447-1/nid:00129985/rt:0/k:慶応大学
 - https://www.sfc.keio.ac.jp/gsmg/about/faculty/
 - 
 - https://github.com/haruosuz/bioinfo
