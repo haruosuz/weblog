@@ -12,13 +12,13 @@ Last Update: 2020-07
 - [link](#link)
 - [unclassified](#unclassified)
 -
+- https://sfcclip.net/bus/
+- https://www.sfc.keio.ac.jp/gsmg/about/faculty/
+- 
 - https://github.com/haruosuz/bioinfo
 - https://github.com/haruosuz/bioinfo/blob/master/references/README.reproducibility.md
 - https://github.com/haruosuz/bioinfo/blob/master/2020/CaseStudy.md#2020-07-06
-
-http://www.iu.a.u-tokyo.ac.jp/lectures/AG14/
-14.農学生命情報科学特論IV | アグリバイオインフォマティクス教育研究ユニット
-
+- 
 - https://github.com/haruosuz/DS4GD/tree/master/2020
 - https://github.com/haruosuz/DS4GD/blob/master/2020/README.md
 - https://github.com/haruosuz/DS4GD/blob/master/2020/CaseStudy.md
@@ -263,9 +263,6 @@ Revision Date:	2018-07-30
 ----------
 ## twitter
 
-- https://sfcclip.net/bus/
-- https://www.sfc.keio.ac.jp/gsmg/about/faculty/
-- 
 - https://twitter.com/oikawamaru
 オイカワ丸 (@oikawamaru) / Twitter
 - 
