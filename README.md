@@ -33,34 +33,25 @@ Last Update: 2020-07
 - https://github.com/haruosuz/statistics
 - https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/index.html 統計の落とし穴と蜘蛛の糸 - Smart Lab Life - 羊土社
 
+
+11:01 AM · Jul 16, 2020
+https://twitter.com/nishiurah/status/1283582409712078848
+Hiroshi Nishiura on Twitter: "考え方の共有目的です。感染制御意見はここまでで、この先は都市計画の専門家とコラボあるいはお任せにて。https://t.co/SE6UM2KlQS" / Twitter
+
 https://id.fnshr.info/2015/11/07/math-class-4-stats/
 統計を勉強するときに数学に悩まされる人のための一冊｜Colorless Green Ideas
 
 ----------
 
 
-
 http://cse.naro.affrc.go.jp/minaka/R/R-top.html
 租界〈Ｒ〉の門前にて
-
-◇農環研ウェブ高座 〈農業環境のための統計学〉
-本連載記事は，独立行政法人農業環境技術研究所が発行するウェブマガジン『農業と環境』に2012年8月から2013年8月まで連載されました．
-
-　　第1回　前口上：統計学の世界を鳥瞰するために［No. 148 | 2012年8月1日発行］
-　　第2回　統計学のロジックとフィーリング［No. 149 | 2012年9月1日発行］
-
-http://www.naro.affrc.go.jp/archive/niaes/magazine/148/mgzn14805.html
-農環研ウェブ高座「農業環境のための統計学」第１回 (農業と環境 No.148 2012.8)
-農環研ウェブ高座 「農業環境のための統計学」
-第１回 「前口上－統計学の世界を鳥瞰するために」
-
+『農業と環境』に2012年8月から2013年8月まで連載されました．
 ■農環研ウェブ高座「農業環境のための統計学」 掲載リスト
 第１回　前口上－統計学の世界を鳥瞰するために （2012年8月）
+http://www.naro.affrc.go.jp/archive/niaes/magazine/148/mgzn14805.html
 第２回　統計学のロジックとフィーリング （2012年9月）
-
 http://www.naro.affrc.go.jp/archive/niaes/magazine/149/mgzn14907.html
-農環研ウェブ高座「農業環境のための統計学」第２回 (農業と環境 No.149 2012.9)
-農環研ウェブ高座 「農業環境のための統計学」 第２回 「統計学のロジックとフィーリング」
 
 ----------
 
