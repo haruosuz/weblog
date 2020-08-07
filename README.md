@@ -1,5 +1,5 @@
 Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2020-07
+Last Update: 2020-08-02
 
 ----------
 
@@ -34,12 +34,20 @@ Last Update: 2020-07
 - https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/index.html 統計の落とし穴と蜘蛛の糸 - Smart Lab Life - 羊土社
 
 
-11:01 AM · Jul 16, 2020
-https://twitter.com/nishiurah/status/1283582409712078848
-Hiroshi Nishiura on Twitter: "考え方の共有目的です。感染制御意見はここまでで、この先は都市計画の専門家とコラボあるいはお任せにて。https://t.co/SE6UM2KlQS" / Twitter
+2020年7月31日（金）
+https://www.newsweekjapan.jp/stories/world/2020/07/pcr-4.php
+【独占】押谷仁教授が語る、PCR検査の有用性とリスクとの向き合い方 | ワールド | 最新記事 | ニューズウィーク日本版 オフィシャルサイト
 
-https://id.fnshr.info/2015/11/07/math-class-4-stats/
-統計を勉強するときに数学に悩まされる人のための一冊｜Colorless Green Ideas
+https://blog.kentarok.org/entry/2020/07/31/003804
+効率的に新しいことを学ぶ方法 - Kentaro Kuribayashi's blog
+
+----------
+
+- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.taxonomy.md
+
+http://kazumaxneo.hatenablog.com/entry/2019/10/29/143024 GTDBのオンライン系統樹 AnnoTree - macでインフォマティクス
+
+http://kazumaxneo.hatenablog.com/entry/2019/07/13/235653 普遍的な single-copy proteinsに基づいてバクテリアとアーキアを分類するGenome Taxonomy Database (GTDB) とその分類ツール GTDB-Tk - macでインフォマティクス
 
 ----------
 
@@ -48,10 +56,61 @@ http://cse.naro.affrc.go.jp/minaka/R/R-top.html
 租界〈Ｒ〉の門前にて
 『農業と環境』に2012年8月から2013年8月まで連載されました．
 ■農環研ウェブ高座「農業環境のための統計学」 掲載リスト
-第１回　前口上－統計学の世界を鳥瞰するために （2012年8月）
-http://www.naro.affrc.go.jp/archive/niaes/magazine/148/mgzn14805.html
-第２回　統計学のロジックとフィーリング （2012年9月）
-http://www.naro.affrc.go.jp/archive/niaes/magazine/149/mgzn14907.html
+http://www.naro.affrc.go.jp/archive/niaes/magazine/157/mgzn15702.html
+農環研ウェブ高座 「農業環境のための統計学」 第９回 (農業と環境 No.157 2013.5)
+
+
+
+
+----------
+
+
+
+----------
+## species
+
+2:08 AM · Jul 31, 2020
+https://twitter.com/MattagenOlmics/status/1288884073755074561
+Matt Olm on Twitter: "Glad to see more recent interest on the question "Are bacterial species discrete units in nature?". A pre-print article came out a few days ago entirely in the "NO" camp (https://t.co/tQM4NRbKLM), but after reading I still think the answer is "YES". Here's why. (1/4)" / Twitter
+
+Their main argument is that biases in reference genome databases can lead to the spurious discovery of discrete bacterial species (I agree). They then write that phylogenetic normalization of database genomes is the right way to look for bacterial species (I disagree) (2/4)
+
+Any genome set will or will not have clusters based on how it is made. To see if species exist in nature, we need to evenly sample bacteria in nature. Analyzing environmental DNA directly is a fair way to do this, and its data shows discrete units (3/4)
+
+In the final paragraphs the authors make theoretical arguments against using metagenomics (enviro DNA sequencing) to answer this question, but the arguments have no data to support them and have other problems (detailed rebuttal in bioRxiv comment http://disq.us/p/2av19w2) (4/4)
+
+https://www.biorxiv.org/content/10.1101/2020.07.27.223511v1#comment-5010354002
+
+https://pubmed.ncbi.nlm.nih.gov/31937678/
+mSystems
+. 2020 Jan 14;5(1):e00731-19. doi: 10.1128/mSystems.00731-19.
+Consistent Metagenome-Derived Metrics Verify and Delineate Bacterial Species Boundaries
+Matthew R Olm 1 2, Alexander Crits-Christoph 2, Spencer Diamond 1, Adi Lavy 1, Paula B Matheus Carnevali 1, Jillian F Banfield 3 4 5 6
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6967389/
+
+----------
+
+
+11:34 AM · Apr 22, 2020
+https://twitter.com/NatureDigest/status/1252787729076633600
+Nature ダイジェスト／編集部 on Twitter: "若手研究者が在宅勤務のコツをまとめています。1日の予定を決める（自分1人で決めない）/「朝のルーチン」を作る/作業場所を確保/許された範囲で外に出る、体を動かす/「帰宅」と同様に仕事を終わる等。「私たちはパンデミックの最中。通常の生産性を求めなくて大丈夫。ベストを尽くすことを目指そう」 https://t.co/7LiotpmKXo" / Twitter
+
+9:56 PM · Apr 25, 2020
+https://twitter.com/WB_DataAnalyst/status/1254031648405913600
+しんめー on Twitter: "「サンプルサイズが小さく検出力が弱いがために，たまたま効果量の大きいかったがために有意に観測され，研究結果としては実際の効果量より誇張されて報告されてしまう」winner's curse (勝者の呪い)という現象を今更知りました。 実験経済学者以外の経済学者は知らない人多そう。" / Twitter
+https://tjo.hatenablog.com/entry/2017/05/06/090000
+論文メモ：Empirical assessment of published effect sizes and power in the recent cognitive neuroscience and psychology literature (Szucs & Ioannidis, PLoS Biol, 2017) - 渋谷駅前で働くデータサイエンティストのブログ
+
+
+
+https://ameblo.jp/yusaku-ohkubo/entry-12588890730.html
+「数理科学を使えば統計の”主義”を争う必要ない」という主張について検討する | 人はやがて死ぬ
+
+https://shorebird.hatenablog.com/entry/20180610/1528591977
+「統計思考の世界」 - shorebird　進化心理学中心の書評など
+
+
+
 
 ----------
 
@@ -123,47 +182,7 @@ Xavier Didelot on Twitter: "I'm pleased to have contributed a chapter with @Lass
 ## featuring
 
 
-https://lambtani.hatenablog.jp/entry/2020/05/19/233210
-中学生から始める適応進化理論2：よくある誤解 - Life is Beautiful
-
-https://lambtani.hatenablog.jp/entry/2020/05/10/200459
-中学生から始める適応進化理論 - Life is Beautiful
-
-
-
 ----------
-
-4:37 AM · May 8, 2020
-https://twitter.com/NathanGrubaugh/status/1258480994094637057
-Nathan Grubaugh on Twitter: "Three rebuttals published in response the that terrible "A, B, C" paper in @PNASNews on the same day! Maybe just retract it? https://t.co/SdsVahzbZW" / Twitter
-
-5:28 AM · May 8, 2020
-https://twitter.com/kfuku0502/status/1258493846159319040
-Kenji Fukushima on Twitter: "分子系統学をほんの少しかじった者としてはSARS-CoV-2のゲノム配列を解析してみたい気持ちもあるんだけど、こういうの読むと地雷が多すぎてアーティファクトに嵌まる未来しか見えない。配列アラインメントを作るところですでにドメイン知識豊富な専門家が必要になってくる。 https://t.co/cECG4TCV6s" / Twitter
-全部自力でやろうとしたら、ここに挙げられているアーティファクトのいくつかは私では見破れないと思う。もしアラインメントを精査せずにその後の段階に進んでしまったら系統樹を描いた段階で枝が長い配列に気付いてそれらを除くくらいで、他の多くの点はスルーしてしまう気がする。
-http://virological.org/t/issues-with-sars-cov-2-sequencing-data/473
-Issues with SARS-CoV-2 sequencing data - Novel 2019 coronavirus / nCoV-2019 Genomic Epidemiology - Virological
-Figure 2: IQTree phylogeny showing some very long terminal branches.
-Investigating recombinations and clusters of mutations/artefacts
-To further investigate, and to look into possible recombination events, homoplasies (mutation events seemingly happening multiple times along the phylogeny) and mutational clusters, we ran ClonalFrameML v1.12 [4]. This software found 30 putative recombination events happening at terminal branches, consistent with the long terminal branches in Figure 2.
-
-
-
-
-----------
-
-
-https://twitter.com/search?q=学問における内輪の「秘儀」
-
-5:36 PM · Sep 25, 2019
-https://twitter.com/f_nisihara/status/1176777475432386560
-Fumiaki Nishihara（西原史暁） on Twitter: "そう言えば、前にこんな記事を書きました。大人だけの場でも秘儀は起こりうるわけです。 - 学問における内輪の「秘儀」 https://t.co/qCjU4WN45j https://t.co/aMab2HqLnC" / Twitter
-
-
-6:30 PM · May 25, 2018
-https://twitter.com/f_nisihara/status/999945874644979712
-Fumiaki Nishihara（西原史暁） on Twitter: "今日書いた記事「とりあえずビール、とりあえず分散分析」 https://t.co/z0nCV8gqWW と合わせて読むと面白そうなのが、「学問における内輪の『秘儀』」という記事 https://t.co/DobU4bqmA4 です。後者の方が真面目。" / Twitter
-
 
 
 ----------
@@ -178,39 +197,8 @@ https://twitter.com/toukei_kentei/status/1255303330332643328
 https://kana-ot.jp/congress/kccot3rd/vol-3
 第３話　研究編　「研究デザインって何？」 » 第3回神奈川県臨床作業療法大会
 
-11:34 AM · Apr 22, 2020
-https://twitter.com/NatureDigest/status/1252787729076633600
-Nature ダイジェスト／編集部 on Twitter: "若手研究者が在宅勤務のコツをまとめています。1日の予定を決める（自分1人で決めない）/「朝のルーチン」を作る/作業場所を確保/許された範囲で外に出る、体を動かす/「帰宅」と同様に仕事を終わる等。「私たちはパンデミックの最中。通常の生産性を求めなくて大丈夫。ベストを尽くすことを目指そう」 https://t.co/7LiotpmKXo" / Twitter
-
-5:08 PM · Apr 22, 2020
-https://twitter.com/academist_cf/status/1252871980031721473
-academist on Twitter: "DNAの塩基配列など分子の情報を用いる「分子進化学」。進化の研究にDNA情報を持ち込むことにはどのような意味があるのか、どんな技術や考え方が大切なのだろうか？https://t.co/MxX5RGTUGg" / Twitter
-
-2019年7月22日
-https://academist-cf.com/journal/?p=11378
-DNAというものさしで生物種同士を比較する – 理化学研究所・工樂樹洋チームリーダーに聞く分子進化学者の役割とは | academist Journal
-
-
-https://academist-cf.com/journal/?p=12936
-「分岐」という言葉でつなぐ、深海生物テヅルモヅルと希少言語ムラブリ語 – アカデミスト学会ランチョン座談会レポート | academist Journal
-
-
-9:56 PM · Apr 25, 2020
-https://twitter.com/WB_DataAnalyst/status/1254031648405913600
-しんめー on Twitter: "「サンプルサイズが小さく検出力が弱いがために，たまたま効果量の大きいかったがために有意に観測され，研究結果としては実際の効果量より誇張されて報告されてしまう」winner's curse (勝者の呪い)という現象を今更知りました。 実験経済学者以外の経済学者は知らない人多そう。" / Twitter
-https://tjo.hatenablog.com/entry/2017/05/06/090000
-論文メモ：Empirical assessment of published effect sizes and power in the recent cognitive neuroscience and psychology literature (Szucs & Ioannidis, PLoS Biol, 2017) - 渋谷駅前で働くデータサイエンティストのブログ
-
-
-
-https://ameblo.jp/yusaku-ohkubo/entry-12588890730.html
-「数理科学を使えば統計の”主義”を争う必要ない」という主張について検討する | 人はやがて死ぬ
-
 https://gigazine.net/news/20200331-how-to-tell-beating-covid-19/
 新型コロナウイルスの感染は拡大しているのか、それとも収束しているのかが理解できるムービー - GIGAZINE
-
-https://shorebird.hatenablog.com/entry/20180610/1528591977
-「統計思考の世界」 - shorebird　進化心理学中心の書評など
 
 
 https://twitter.com/MayumiNarako/status/1251889444069793793
