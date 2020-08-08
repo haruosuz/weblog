@@ -11,11 +11,17 @@ Last Update: 2020-08-02
   - [2018](#2018)
 - [link](#link)
 - [unclassified](#unclassified)
--
+- 
 - https://sfcclip.net/bus/
 - http://www.kanachu.co.jp/dia/diagram/timetable/cs:0000800447-1/nid:00129985/rt:0/k:慶応大学
 - https://www.sfc.keio.ac.jp/gsmg/about/faculty/
 - 
+- https://twitter.com
+- https://twitter.com/home
+- 
+- https://github.com/virtual-biohackathons/covid-19-bh20/wiki/Translation
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.COVID-19.md
 - https://github.com/haruosuz/bioinfo
 - https://github.com/haruosuz/bioinfo/blob/master/references/README.reproducibility.md
 - https://github.com/haruosuz/bioinfo/blob/master/2020/CaseStudy.md#2020-07-06
@@ -32,11 +38,6 @@ Last Update: 2020-08-02
 - 
 - https://github.com/haruosuz/statistics
 - https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/index.html 統計の落とし穴と蜘蛛の糸 - Smart Lab Life - 羊土社
-
-
-2020年7月31日（金）
-https://www.newsweekjapan.jp/stories/world/2020/07/pcr-4.php
-【独占】押谷仁教授が語る、PCR検査の有用性とリスクとの向き合い方 | ワールド | 最新記事 | ニューズウィーク日本版 オフィシャルサイト
 
 https://blog.kentarok.org/entry/2020/07/31/003804
 効率的に新しいことを学ぶ方法 - Kentaro Kuribayashi's blog
@@ -115,38 +116,6 @@ https://shorebird.hatenablog.com/entry/20180610/1528591977
 ----------
 
 
-https://trattoriainutano.tumblr.com/
-こんな時間ですがパスタを茹でます
-https://trattoriainutano.tumblr.com/post/619697368071372800/vbh-pt1
-2020-06-01
-COVID19 Virtual BioHackathon 2020 をやった
-
-
-2020年05月26日
-8割おじさん･西浦教授が語る｢コロナ新事実｣ - (1/2)｜ニフティニュース
-https://news.nifty.com/article/magazine/12208-672907/
-8割おじさん･西浦教授が語る｢コロナ新事実｣ | コロナ戦争を読み解く | 東洋経済オンライン | 経済ニュースの新基準
-https://toyokeizai.net/articles/-/352503
-https://news.yahoo.co.jp/articles/d7eefbac4873acdceaf18d08da4bd7b6434540aa
-
-
-2020年05月22日
-https://hc.nikkan-gendai.com/articles/273497
-日本人が新型コロナウイルスに強い理由は？ゲノム学者が解説
-
-https://headlines.yahoo.co.jp/hl?a=20200522-00000018-nkgendai-hlth
-
-
-9:34 AM · May 18, 2020
-https://twitter.com/h_kanki/status/1262179641646710784
-Hirokuni Kanki on Twitter: "京大の宮沢孝幸准教授 @takavet1 との共著で、先日「新型コロナウイルスの比較ウイルス学と比較ゲノム分析」を発表した、東海大の中川 草先生 @sounaka に聞きました。テーマはウイルスとの共存。生命の起源から、感染症に対抗する生物のシステムまで話されています。ぜひ。 https://t.co/m2RqVLr4lk" / Twitter
-2020.05.01
-https://nature-and-science.jp/virus/
-私たちとともにあるウイルスという他者 | アマナとひらく「自然・科学」のトビラ | NATURE ＆ SCIENCE
-
-
-
-
 ----------
 ## papers
 
@@ -182,39 +151,12 @@ Xavier Didelot on Twitter: "I'm pleased to have contributed a chapter with @Lass
 ## featuring
 
 
-----------
-
-
-----------
-
-
-
-
 https://twitter.com/toukei_kentei
 toukei_kentei (@toukei_kentei) / Twitter
 https://twitter.com/toukei_kentei/status/1255303330332643328
 (1) toukei_kentei on Twitter: "アビガンの「観察研究」が始まったと報道があり、首相もそう言いました。 医療統計の人たちはびっくりだと思います。薬の効果には「介入研究（実験研究）」が必要です。用語としては「臨床研究」の方が好ましいです。下を参考に！ 折笠先生のモノローグNO.112. https://t.co/z6JAP7i0ym" / Twitter
 https://kana-ot.jp/congress/kccot3rd/vol-3
 第３話　研究編　「研究デザインって何？」 » 第3回神奈川県臨床作業療法大会
-
-https://gigazine.net/news/20200331-how-to-tell-beating-covid-19/
-新型コロナウイルスの感染は拡大しているのか、それとも収束しているのかが理解できるムービー - GIGAZINE
-
-
-https://twitter.com/MayumiNarako/status/1251889444069793793
-Mayumi Naramura on Twitter: "パンデミックの今後。20人以上の専門家（公衆衛生、医学、疫学、歴史）の知見にもとづく長い記事ですが読める方は是非。これまでの動きもよくまとまっており、重要記事リンクつき。以下に要点を。 https://t.co/43nsJZlW4S" / Twitter
-12:04 AM · Apr 20, 2020
-
-
-
-https://github.com/virtual-biohackathons/covid-19-bh20/wiki/Translation
-
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md#coronavirus
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.COVID-19.md
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.COVID-19.md#nextstrain
-- https://twitter.com/nextstrain
-
 
 
 2018.08.19
