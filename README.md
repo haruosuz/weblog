@@ -42,6 +42,14 @@ Last Update: 2020-08-02
 https://blog.kentarok.org/entry/2020/07/31/003804
 効率的に新しいことを学ぶ方法 - Kentaro Kuribayashi's blog
 
+
+5:30 PM · Aug 11, 2020
+https://twitter.com/igakukaishinbun/status/1293102353281884160
+週刊医学界新聞 on Twitter: "「人生のターニングポイントで悩むのは研修医ぐらいで終わる。それで一度決心したら，もうがむしゃらにやるほかない」 一躍時の人となった西浦先生が厚労省クラスター班に参加するまでの姿に迫ります！ 週刊医学界新聞〔シリーズ〕この先生に会いたい！（西浦博，村山泰章） https://t.co/uKChfTiwqj https://t.co/5E3v9fTghb" / Twitter
+
+https://www.igaku-shoin.co.jp/paperDetail.do?id=PA03383_01
+医学書院／週刊医学界新聞(第3383号 2020年08月10日)
+
 ----------
 
 - https://github.com/haruosuz/mgsa/blob/master/references/mgsa.taxonomy.md
