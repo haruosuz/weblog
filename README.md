@@ -39,8 +39,12 @@ Last Update: 2020-08-02
 - https://github.com/haruosuz/statistics
 - https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/index.html 統計の落とし穴と蜘蛛の糸 - Smart Lab Life - 羊土社
 
-https://blog.kentarok.org/entry/2020/07/31/003804
-効率的に新しいことを学ぶ方法 - Kentaro Kuribayashi's blog
+
+
+2020年8月7日
+https://wedge.ismedia.jp/articles/-/20415
+ネイチャーが招いた風評。トレハロース問題の顛末は 　WEDGE Infinity(ウェッジ)
+松永和紀 （科学ジャーナリスト）
 
 
 5:30 PM · Aug 11, 2020
@@ -49,6 +53,10 @@ https://twitter.com/igakukaishinbun/status/1293102353281884160
 
 https://www.igaku-shoin.co.jp/paperDetail.do?id=PA03383_01
 医学書院／週刊医学界新聞(第3383号 2020年08月10日)
+
+https://blog.kentarok.org/entry/2020/07/31/003804
+効率的に新しいことを学ぶ方法 - Kentaro Kuribayashi's blog
+
 
 ----------
 
