@@ -57,10 +57,36 @@ http://cse.naro.affrc.go.jp/minaka/R/R-top.html
 http://www.naro.affrc.go.jp/archive/niaes/magazine/157/mgzn15702.html
 農環研ウェブ高座 「農業環境のための統計学」 第９回 (農業と環境 No.157 2013.5)
 
-
-
-
 ----------
+
+
+
+
+
+https://www.researchgate.net/post/What_is_nucleotide_substitution_rate_of_aligned_sequences
+What is nucleotide substitution rate (of aligned sequences)?
+
+a substitution rate is measesured in substitutions per site and time (e.g. years).
+
+https://pubmed.ncbi.nlm.nih.gov/24166031/
+Review Nat Rev Genet
+. 2013 Dec;14(12):827-39. doi: 10.1038/nrg3564. Epub 2013 Oct 29.
+Genome dynamics during experimental evolution
+Jeffrey E Barrick 1, Richard E Lenski
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4239992/
+Box 1
+Mutation rates versus substitution rates
+
+https://www.nature.com/scitable/knowledge/library/neutrality-and-molecular-clocks-100492542/
+Neutrality and Molecular Clocks | Learn Science at Scitable
+
+The rate of substitutions is calculated as the number of new mutations in each generation (Nu) multiplied by the probability each new mutation reaches fixation (1/N), which equals u. In other words, for neutral mutations, the rate of substitution is equal to the rate of mutation!
+
+https://groups.google.com/g/beast-users/c/9Zhiya7OIgE?pli=1
+Definition of substitution rate vs. mutation rate
+
+The short answer is no, mutation rate is not the same as substitution rate. 
+
 
 
 ----------
