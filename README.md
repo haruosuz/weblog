@@ -1,23 +1,15 @@
-Haruo Suzuki (haruo[at]g-language[dot]org)  
 Last Update: 2020-09
 
 ----------
 
 # weblog
 
+
 ## Table of Contents
-- [featuring](#featuring)
 - [updates](#updates)
   - [2018](#2018)
 - [link](#link)
 - [unclassified](#unclassified)
-- 
-- 
-- https://twitter.com/hashtag/IIBMP2020
-- https://twitter.com/hashtag/IIBMP2020?f=live
-- https://www.jsbi.org/iibmp2020/
-- https://www.jsbi.org/iibmp2020/program/oral.html
-- 
 - 
 - https://sfcclip.net/bus/
 - http://www.kanachu.co.jp/dia/diagram/timetable/cs:0000800447-1/nid:00129985/rt:0/k:慶応大学
@@ -25,6 +17,8 @@ Last Update: 2020-09
 - 
 - https://twitter.com
 - https://twitter.com/home
+- https://twitter.com/kakenhi_com
+科研費.com (@kakenhi_com) / Twitter
 - 
 - https://github.com/virtual-biohackathons/covid-19-bh20/wiki/Translation
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md
@@ -45,7 +39,6 @@ Last Update: 2020-09
 - 
 - https://github.com/haruosuz/statistics
 - https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/index.html 統計の落とし穴と蜘蛛の糸 - Smart Lab Life - 羊土社
-
 
 ----------
 
@@ -120,13 +113,6 @@ James McInerney on Twitter: "#OA New book chapter with @alanmcn1 @Evol_Molly @wh
 10:45 PM · May 4, 2020
 https://twitter.com/XavierDidelot/status/1257305244146360320
 Xavier Didelot on Twitter: "I'm pleased to have contributed a chapter with @LassalleFlo to this great new book on pangenome evolution and even more pleased that it is completely open access! https://t.co/EBytWHZVnn https://t.co/kPDXGWcZqQ" / Twitter
-
-
-
-----------
-## featuring
-
-
 
 ----------
 ## twitter
