@@ -40,6 +40,14 @@ Last Update: 2020-09
 - https://github.com/haruosuz/statistics
 - https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/index.html 統計の落とし穴と蜘蛛の糸 - Smart Lab Life - 羊土社
 
+
+https://www.huffingtonpost.jp/entry/story_jp_5f619877c5b68d1b09c96e9b
+「コロナは武漢の研究所で作られた」中国人学者が論文発表→専門家は「荒唐無稽」と指摘【新型コロナ】 | ハフポスト
+
+2017年12月6日
+https://togetter.com/li/1178658
+「いかにして『使える』データベースを維持し続けるか?」 - Togetter
+
 ----------
 
 
