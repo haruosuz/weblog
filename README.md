@@ -53,6 +53,31 @@ https://togetter.com/li/1178658
 
 ----------
 
+https://twitter.com/bluebacks_pub/status/1307787002251628545
+講談社ブルーバックス on Twitter: "【医学はこうして統計学をハッキングした】 新型コロナウイルスにどう対応するかは客観的なデータが教えてくれるはず……本当にそうでしょうか？　客観的なデータはどこにあるのでしょうか？ : https://t.co/XNdzVPrJAL #ブルーバックス" / Twitter
+https://gendai.ismedia.jp/articles/-/75641?media=bb
+コロナウイルスが明らかにした「エビデンスに基づく医療」の虚構（大脇 幸志郎） | ブルーバックス | 講談社（1/5）
+https://gendai.ismedia.jp/articles/-/75641?page=2
+
+
+----------
+
+
+https://yokazaki.hatenablog.com/entry/2019/10/17/233545
+琵琶湖の細菌・ウイルスのゲノムカタログ - yokaのblog
+
+https://yokazaki.hatenablog.com/entry/2019/06/16/232833
+登った山からの景色は楽しまなければならない - yokaのblog
+
+https://pubmed.ncbi.nlm.nih.gov/31608575/
+Environ Microbiol
+. 2019 Dec;21(12):4740-4754. doi: 10.1111/1462-2920.14816. Epub 2019 Nov 6.
+Genome-resolved viral and cellular metagenomes revealed potential key virus-host interactions in a deep freshwater lake
+Yusuke Okazaki 1 2, Yosuke Nishimura 3 4 5, Takashi Yoshida 3, Hiroyuki Ogata 4, Shin-Ichi Nakano 
+https://sfamjournals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.14816
+
+----------
+
 
 http://cse.naro.affrc.go.jp/minaka/R/R-top.html
 租界〈Ｒ〉の門前にて
