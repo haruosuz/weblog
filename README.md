@@ -4,7 +4,6 @@ Last Update: 2020-09
 
 # weblog
 
-
 ## Table of Contents
 - [updates](#updates)
   - [2018](#2018)
@@ -19,6 +18,10 @@ Last Update: 2020-09
 - https://twitter.com/home
 - https://twitter.com/kakenhi_com
 科研費.com (@kakenhi_com) / Twitter
+- https://twitter.com/takanzai
+takanzai (@takanzai) / Twitter
+- https://twitter.com/hashtag/科研費採択のコツ?f=live
+- https://twitter.com/ikuo_shimizu/status/1307835181357625345
 - 
 - https://github.com/virtual-biohackathons/covid-19-bh20/wiki/Translation
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md
