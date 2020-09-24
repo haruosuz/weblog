@@ -43,6 +43,9 @@ takanzai (@takanzai) / Twitter
 - https://github.com/haruosuz/statistics
 - https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/index.html 統計の落とし穴と蜘蛛の糸 - Smart Lab Life - 羊土社
 
+----------
+
+
 
 https://www.huffingtonpost.jp/entry/story_jp_5f619877c5b68d1b09c96e9b
 「コロナは武漢の研究所で作られた」中国人学者が論文発表→専門家は「荒唐無稽」と指摘【新型コロナ】 | ハフポスト
@@ -51,13 +54,16 @@ https://www.huffingtonpost.jp/entry/story_jp_5f619877c5b68d1b09c96e9b
 https://togetter.com/li/1178658
 「いかにして『使える』データベースを維持し続けるか?」 - Togetter
 
-----------
-
 https://twitter.com/bluebacks_pub/status/1307787002251628545
 講談社ブルーバックス on Twitter: "【医学はこうして統計学をハッキングした】 新型コロナウイルスにどう対応するかは客観的なデータが教えてくれるはず……本当にそうでしょうか？　客観的なデータはどこにあるのでしょうか？ : https://t.co/XNdzVPrJAL #ブルーバックス" / Twitter
 https://gendai.ismedia.jp/articles/-/75641?media=bb
 コロナウイルスが明らかにした「エビデンスに基づく医療」の虚構（大脇 幸志郎） | ブルーバックス | 講談社（1/5）
 https://gendai.ismedia.jp/articles/-/75641?page=2
+
+
+
+http://kazumaxneo.hatenablog.com/entry/2019/02/15/073000
+メタゲノムのアセンブリcontig.fastaに精度の高い系統情報をアサインするCATと、binned.fastaに精度の高い系統情報をアサインするBAT - macでインフォマティクス
 
 
 ----------
