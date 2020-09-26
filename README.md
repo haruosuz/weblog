@@ -65,6 +65,16 @@ https://gendai.ismedia.jp/articles/-/75641?page=2
 http://kazumaxneo.hatenablog.com/entry/2019/02/15/073000
 メタゲノムのアセンブリcontig.fastaに精度の高い系統情報をアサインするCATと、binned.fastaに精度の高い系統情報をアサインするBAT - macでインフォマティクス
 
+http://kazumaxneo.hatenablog.com/entry/2019/01/23/073000
+taxonomy ID、種名、系統情報など相互変換する taxonkit - macでインフォマティクス
+
+https://www.ncbi.nlm.nih.gov/guide/taxonomy/
+Downloads
+FTP: NCBI Taxonomy
+This site contains the full taxonomy database along with files associating nucleotide and protein sequence records with their taxonomy IDs. See the taxdump_readme.txt and gi_taxid.readme files for more information.
+
+
+
 
 ----------
 
