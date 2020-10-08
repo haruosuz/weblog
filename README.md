@@ -48,19 +48,49 @@ https://twitter.com/search?q=なぜ科学はストーリーを必要としてい
 https://twitter.com/KEIOUP/status/1306456124292431872
 慶應義塾大学出版会 on Twitter: "立教大学経営学部　中原淳研究室「https://t.co/6xnY1CsIjE」に、『なぜ科学はストーリーを必要としているのか──ハリウッドに学んだ伝える技術』（ランディ・オルソン 著、坪子 理美 訳）の書評が掲載されました。 https://t.co/t16gWs5KPu https://t.co/ZyuQhDiWlv https://t.co/t6RdBqe9S1" / Twitter
 
+
+https://www.mita-hyoron.keio.ac.jp/features/2020/
+特集｜三田評論ONLINE
+
+https://www.mita-hyoron.keio.ac.jp/features/2020/10-4.html
+これまでのSFC、これからのSFC｜特集｜三田評論ONLINE
+加藤　文俊（かとう　ふみとし）
+
+https://www.mita-hyoron.keio.ac.jp/features/2020/10-3.html
+はじまりの終わり、終わりのはじまり｜特集｜三田評論ONLINE
+脇田　玲（わきた　あきら）
+
+https://www.mita-hyoron.keio.ac.jp/features/2020/10-2.html
+創設30年を迎えたSFC──新しい文明の先導を目指す｜特集｜三田評論ONLINE
+國領　二郎（こくりょう　じろう）
+
+
 ----------
 
+2 days ago
+https://github.com/crazyhottommy/bioinformatics-one-liners/blob/master/README.md
+bioinformatics-one-liners
+
+2020.04.18
+https://bi.biopapyrus.jp/os/linux/bash.html
+bash | Linux で利用できるシェルスクリプト（文字列・配列・構文などの取り扱い方）
+
+Jun 10, 2019
+https://github.com/stephenturner/oneliners
+Bioinformatics one-liners
+
+8.6 years ago
+https://www.biostars.org/p/17680/
+Useful Bash Commands To Handle Fasta Files
+
+----------
 
 2017年12月6日
 https://togetter.com/li/1178658
 「いかにして『使える』データベースを維持し続けるか?」 - Togetter
 
-
-
 http://kazumaxneo.hatenablog.com/entry/2019/02/15/073000
 メタゲノムのアセンブリcontig.fastaに精度の高い系統情報をアサインするCATと、binned.fastaに精度の高い系統情報をアサインするBAT - macでインフォマティクス
-
-
 
 
 ----------
