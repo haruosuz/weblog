@@ -44,9 +44,27 @@ takanzai (@takanzai) / Twitter
 - https://github.com/haruosuz/statistics
 - https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/index.html 統計の落とし穴と蜘蛛の糸 - Smart Lab Life - 羊土社
 
+https://twitter.com/senmonka21
+コロナ専門家有志の会 (@senmonka21) / Twitter
+
+11:48 PM · Oct 12, 2020·
+https://twitter.com/senmonka21/status/1315665607048622081
+コロナ専門家有志の会 on Twitter: "新型コロナの感染リスクを高める場面の具体的な例がわかってきました。新型コロナウイルス感染症対策分科会の第10回（2020年9月25日）で提言された、7つの場面をお伝えします。　 #ここが気になる新型コロナ #警戒の心は忘れずに https://t.co/yhiPjLTLoo" / Twitter
+https://note.stopcovid19.jp/n/n7dda9dd222d5
+感染リスクを高める7つの場面｜コロナ専門家有志の会
+
+
+
+
+
+
 https://twitter.com/search?q=なぜ科学はストーリーを必要としているのか
 https://twitter.com/KEIOUP/status/1306456124292431872
 慶應義塾大学出版会 on Twitter: "立教大学経営学部　中原淳研究室「https://t.co/6xnY1CsIjE」に、『なぜ科学はストーリーを必要としているのか──ハリウッドに学んだ伝える技術』（ランディ・オルソン 著、坪子 理美 訳）の書評が掲載されました。 https://t.co/t16gWs5KPu https://t.co/ZyuQhDiWlv https://t.co/t6RdBqe9S1" / Twitter
+
+
+https://ocoshite.me/how-to-use-paperpile
+Googleと相性抜群の文献管理ソフト「Paperpile」 | minoblog
 
 
 https://www.mita-hyoron.keio.ac.jp/features/2020/
