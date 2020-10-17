@@ -53,10 +53,35 @@ https://twitter.com/senmonka21/status/1315665607048622081
 https://note.stopcovid19.jp/n/n7dda9dd222d5
 感染リスクを高める7つの場面｜コロナ専門家有志の会
 
+----------
+## 2018-06-14
+
+https://norikoinada.hatenadiary.jp/entry/2018/08/08/171543
+『細胞内共生説の謎』を読んだ - 本が好きなので
+
+https://twitter.com/search?q=%22細胞内共生説の謎%22
+
+https://twitter.com/freakscafe/status/1190874169921044481
+＋M on Twitter: "佐藤直樹『細胞内共生説の謎』(東京大学出版局)。 メレシコフスキーに提唱され、マーギュリスによる包括的説明により定説化した細胞内共生説。著者はその歴史的経緯を批判的に読み解き、さらに最新のゲノムサイエンスに基づいて、進化のダイナミクスを、細胞学的な限界から解放する方向性を示唆する。 https://t.co/esfUwRHIv9" / Twitter
+3:11 PM · Nov 3, 2019
 
 
+----------
+## 2018-04-21
+
+http://www.seidosha.co.jp/book/index.php?id=3153
+創発の生命学
+-生命が１ギガバイトから抜け出すための30章-
+佐藤直樹 著
+
+https://twitter.com/search?q=%22創発の生命学%22
+
+https://twitter.com/freakscafe/status/1098028513599188994
+＋M on Twitter: "佐藤直樹『創発の生命学 生命が1ギガバイトから抜け出すための30章』(青土)。 DNAは情報量としては1ギガバイトにも満たない。DNAは生命の「設計図」ではなく、エネルギーの流れ、形態形成の創発性を「調整」する変換器に過ぎない。 https://t.co/SnsnuH79MI" / Twitter
+10:16 AM · Feb 20, 2019
 
 
+----------
 
 https://twitter.com/search?q=なぜ科学はストーリーを必要としているのか
 https://twitter.com/KEIOUP/status/1306456124292431872
