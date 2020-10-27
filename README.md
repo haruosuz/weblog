@@ -10,6 +10,16 @@ Last Update: 2020-09
 - [link](#link)
 - [unclassified](#unclassified)
 - 
+- https://github.com/haruosuz/r4bioinfo
+- https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan
+- https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md
+- 
+- https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#dna-sequence-statistics-1
+- https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapter1.html
+- 
+- https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#pairwise-sequence-alignment
+- https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapter4.html
+- 
 - https://sfcclip.net/bus/
 - http://www.kanachu.co.jp/dia/diagram/timetable/cs:0000800447-1/nid:00129985/rt:0/k:慶応大学
 - https://www.sfc.keio.ac.jp/gsmg/about/faculty/
@@ -34,12 +44,6 @@ takanzai (@takanzai) / Twitter
 - https://github.com/haruosuz/DS4GD/tree/master/2020
 - https://github.com/haruosuz/DS4GD/blob/master/2020/README.md
 - https://github.com/haruosuz/DS4GD/blob/master/2020/CaseStudy.md
-- 
-- https://github.com/haruosuz/r4bioinfo
-- https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan
-- https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md
-- https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#pairwise-sequence-alignment
-- https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapter4.html
 - 
 - https://github.com/haruosuz/statistics
 - https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/index.html 統計の落とし穴と蜘蛛の糸 - Smart Lab Life - 羊土社
