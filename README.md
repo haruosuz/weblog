@@ -11,10 +11,6 @@ Last Update: 2020-09
 - [unclassified](#unclassified)
 - 
 - https://github.com/haruosuz/DS4GD/tree/master/2020giga
-- 
-- https://github.com/haruosuz/r4bioinfo
-- https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan
-- https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md
 - https://github.com/haruosuz/DS4GD/blob/master/2020giga/CaseStudy.md
 - 
 - https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#dna-sequence-statistics-2
@@ -22,6 +18,10 @@ Last Update: 2020-09
 - 
 - https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#pairwise-sequence-alignment
 - https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapter4.html
+- 
+- https://github.com/haruosuz/r4bioinfo
+- https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan
+- https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md
 - 
 - https://sfcclip.net/bus/
 - http://www.kanachu.co.jp/dia/diagram/timetable/cs:0000800447-1/nid:00129985/rt:0/k:慶応大学
