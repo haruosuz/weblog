@@ -13,9 +13,6 @@ Last Update: 2020-09
 - https://github.com/haruosuz/DS4GD/tree/master/2020giga
 - https://github.com/haruosuz/DS4GD/blob/master/2020giga/CaseStudy.md
 - 
-- https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#dna-sequence-statistics-2
-- https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapter2.html
-- 
 - https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#pairwise-sequence-alignment
 - https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapter4.html
 - 
