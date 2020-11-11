@@ -64,102 +64,26 @@ https://www.unp.or.jp/ISBN/ISBN978-4-8158-1003-0.html
 https://twitter.com/junotk_jp
 Jun Otsuka (@junotk_jp) / Twitter
 
+https://mercbeinp.hatenablog.com/entry/2020/11/08/202445
+大塚淳『統計学を哲学する』について - mercbeinpのブログ
 
-6:43 PM · Nov 8, 2020
-https://twitter.com/hee_verm/status/1325373243574816769
-heechulju on Twitter: "話題の大塚淳『統計学を哲学する』（名古屋大学出版会、2020）を入手しました。まだざっと読みですが、個人的には会社に入ってデータ分析・コンサルを担務とする部署で働きはじめて以来ずっと抱いていた「この営みは哲学的に(も)面白いし、重要に違いない」という興奮があざやかに蘇るすごい一冊です。 https://t.co/gSPCrxhx1o" / Twitter
-
-10:58 PM · Nov 4, 2020
-https://twitter.com/pooneil/status/1323987926242349056
-吉田 正俊 (膝改造中) on Twitter: "「統計学を哲学する」(大塚淳著)、最後まで読み終えた。すごくいい本だった。それぞれの章で統計について最小限の数式での説明をした上でその哲学的含意を語り、を繰り返して、最終章でもういちど哲学的含意の部分をつないで説明し直す、ここまでやってトータル229ページでコンパクトにおさめてる。" / Twitter
-
-3:47 PM · Nov 2, 2020
-https://twitter.com/junotk_jp/status/1323154739253538816
-Jun Otsuka on Twitter: "山口さんがnoteにて本書2章を丁寧に解説して下さっています。" / Twitter
-2:29 PM · Nov 2, 2020
-https://twitter.com/yamaguchi__sho/status/1323135047881302016
-yamaguchisho on Twitter: "ベイズ的全体論へ――大塚淳『統計学を哲学する』（名古屋大学出版会、2020年）の第2章の解釈 https://t.co/XABmAzGeVS" / Twitter
 2020/11/02 14:28
 https://note.com/free_will/n/n0c842a1f76d8
 ベイズ的全体論へ――大塚淳『統計学を哲学する』（名古屋大学出版会、2020年）の第2章の解釈｜山口尚｜note
 
-1:24 PM · Oct 31, 2020
-https://twitter.com/junotk_jp/status/1322393916381880320
-#統計学を哲学する 訂正：
-p. 201の因果経路のブロックの定義2において、「経路上の合流点およびその合流点の結果はどれもZに含まれない」ときZが経路をブロックする、とありますが、正しくは「その点および子孫がZに含まれないような、経路上の合流点がある」となります。
-あるいは「その点ないし子孫が」としたほうが良いのかな。英語で言えば 「the path has a collider which or a child of which is not included in Z」 とでもなるところなのですが。やはり黒木先生に従い「合流点で、その合流点とその子孫がZに含まれないものがある」とすべきか。
-
-11:08 AM · Oct 30, 2020
-https://twitter.com/junotk_jp/status/1321997349304987648
-スレッドで各章ごとに紹介してもらってます。ありがとうございます。
+5:24 PM · Oct 29, 2020
 https://twitter.com/qumaiwao/status/1321729726243770368
 くまだ総研（久萬田巌） on Twitter: "という訳で読み始めますー。 統計学を哲学する https://t.co/B7bvAceQ3A #Amazon" / Twitter
 
-https://mercbeinp.hatenablog.com/entry/2020/11/08/202445
-大塚淳『統計学を哲学する』について - mercbeinpのブログ
-
-8:14 PM · Oct 15, 2020
-https://twitter.com/UN_Press/status/1316699075207520256
-名古屋大学出版会 on Twitter: "【新刊出来】大塚淳『統計学を哲学する』 統計はなぜ科学的な根拠になるのか？　帰納推論や因果推論の背後に存在する枠組みを浮き彫りにし、科学的認識論としてデータサイエンスを捉え直す。 ＊書誌情報⇒ https://t.co/MiNr6B1Mnf https://t.co/F1OngCnIYw" / Twitter
-
-----------
-
-
 
 
 ----------
-
-https://twitter.com/search?q=なぜ科学はストーリーを必要としているのか
-https://twitter.com/KEIOUP/status/1306456124292431872
-慶應義塾大学出版会 on Twitter: "立教大学経営学部　中原淳研究室「https://t.co/6xnY1CsIjE」に、『なぜ科学はストーリーを必要としているのか──ハリウッドに学んだ伝える技術』（ランディ・オルソン 著、坪子 理美 訳）の書評が掲載されました。 https://t.co/t16gWs5KPu https://t.co/ZyuQhDiWlv https://t.co/t6RdBqe9S1" / Twitter
-
-
-https://ocoshite.me/how-to-use-paperpile
-Googleと相性抜群の文献管理ソフト「Paperpile」 | minoblog
-
 
 https://www.mita-hyoron.keio.ac.jp/features/2020/
 特集｜三田評論ONLINE
 
-https://www.mita-hyoron.keio.ac.jp/features/2020/10-4.html
-これまでのSFC、これからのSFC｜特集｜三田評論ONLINE
-加藤　文俊（かとう　ふみとし）
-
-https://www.mita-hyoron.keio.ac.jp/features/2020/10-3.html
-はじまりの終わり、終わりのはじまり｜特集｜三田評論ONLINE
-脇田　玲（わきた　あきら）
-
-https://www.mita-hyoron.keio.ac.jp/features/2020/10-2.html
-創設30年を迎えたSFC──新しい文明の先導を目指す｜特集｜三田評論ONLINE
-國領　二郎（こくりょう　じろう）
-
-
-----------
-
-2 days ago
-https://github.com/crazyhottommy/bioinformatics-one-liners/blob/master/README.md
-bioinformatics-one-liners
-
-2020.04.18
-https://bi.biopapyrus.jp/os/linux/bash.html
-bash | Linux で利用できるシェルスクリプト（文字列・配列・構文などの取り扱い方）
-
-Jun 10, 2019
-https://github.com/stephenturner/oneliners
-Bioinformatics one-liners
-
-8.6 years ago
-https://www.biostars.org/p/17680/
-Useful Bash Commands To Handle Fasta Files
-
-----------
-
-2017年12月6日
-https://togetter.com/li/1178658
-「いかにして『使える』データベースを維持し続けるか?」 - Togetter
-
-http://kazumaxneo.hatenablog.com/entry/2019/02/15/073000
-メタゲノムのアセンブリcontig.fastaに精度の高い系統情報をアサインするCATと、binned.fastaに精度の高い系統情報をアサインするBAT - macでインフォマティクス
+https://ocoshite.me/how-to-use-paperpile
+Googleと相性抜群の文献管理ソフト「Paperpile」 | minoblog
 
 
 ----------
@@ -189,39 +113,6 @@ http://www.naro.affrc.go.jp/archive/niaes/magazine/157/mgzn15702.html
 農環研ウェブ高座 「農業環境のための統計学」 第９回 (農業と環境 No.157 2013.5)
 
 ----------
-
-
-
-
-
-https://www.researchgate.net/post/What_is_nucleotide_substitution_rate_of_aligned_sequences
-What is nucleotide substitution rate (of aligned sequences)?
-
-a substitution rate is measesured in substitutions per site and time (e.g. years).
-
-https://pubmed.ncbi.nlm.nih.gov/24166031/
-Review Nat Rev Genet
-. 2013 Dec;14(12):827-39. doi: 10.1038/nrg3564. Epub 2013 Oct 29.
-Genome dynamics during experimental evolution
-Jeffrey E Barrick 1, Richard E Lenski
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4239992/
-Box 1
-Mutation rates versus substitution rates
-
-https://www.nature.com/scitable/knowledge/library/neutrality-and-molecular-clocks-100492542/
-Neutrality and Molecular Clocks | Learn Science at Scitable
-
-The rate of substitutions is calculated as the number of new mutations in each generation (Nu) multiplied by the probability each new mutation reaches fixation (1/N), which equals u. In other words, for neutral mutations, the rate of substitution is equal to the rate of mutation!
-
-https://groups.google.com/g/beast-users/c/9Zhiya7OIgE?pli=1
-Definition of substitution rate vs. mutation rate
-
-The short answer is no, mutation rate is not the same as substitution rate. 
-
-
-
-----------
-
 
 ----------
 ## papers
