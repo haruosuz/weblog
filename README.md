@@ -54,32 +54,57 @@ https://twitter.com/senmonka21/status/1315665607048622081
 https://note.stopcovid19.jp/n/n7dda9dd222d5
 感染リスクを高める7つの場面｜コロナ専門家有志の会
 
-----------
-## 2018-06-14
-
-https://norikoinada.hatenadiary.jp/entry/2018/08/08/171543
-『細胞内共生説の謎』を読んだ - 本が好きなので
-
-https://twitter.com/search?q=%22細胞内共生説の謎%22
-
-https://twitter.com/freakscafe/status/1190874169921044481
-＋M on Twitter: "佐藤直樹『細胞内共生説の謎』(東京大学出版局)。 メレシコフスキーに提唱され、マーギュリスによる包括的説明により定説化した細胞内共生説。著者はその歴史的経緯を批判的に読み解き、さらに最新のゲノムサイエンスに基づいて、進化のダイナミクスを、細胞学的な限界から解放する方向性を示唆する。 https://t.co/esfUwRHIv9" / Twitter
-3:11 PM · Nov 3, 2019
-
 
 ----------
-## 2018-04-21
+https://www.unp.or.jp/ISBN/ISBN978-4-8158-1003-0.html
+統計学を哲学する « 名古屋大学出版会
+統計学を哲学する
+大塚 淳 著
 
-http://www.seidosha.co.jp/book/index.php?id=3153
-創発の生命学
--生命が１ギガバイトから抜け出すための30章-
-佐藤直樹 著
+https://twitter.com/junotk_jp
+Jun Otsuka (@junotk_jp) / Twitter
 
-https://twitter.com/search?q=%22創発の生命学%22
 
-https://twitter.com/freakscafe/status/1098028513599188994
-＋M on Twitter: "佐藤直樹『創発の生命学 生命が1ギガバイトから抜け出すための30章』(青土)。 DNAは情報量としては1ギガバイトにも満たない。DNAは生命の「設計図」ではなく、エネルギーの流れ、形態形成の創発性を「調整」する変換器に過ぎない。 https://t.co/SnsnuH79MI" / Twitter
-10:16 AM · Feb 20, 2019
+6:43 PM · Nov 8, 2020
+https://twitter.com/hee_verm/status/1325373243574816769
+heechulju on Twitter: "話題の大塚淳『統計学を哲学する』（名古屋大学出版会、2020）を入手しました。まだざっと読みですが、個人的には会社に入ってデータ分析・コンサルを担務とする部署で働きはじめて以来ずっと抱いていた「この営みは哲学的に(も)面白いし、重要に違いない」という興奮があざやかに蘇るすごい一冊です。 https://t.co/gSPCrxhx1o" / Twitter
+
+10:58 PM · Nov 4, 2020
+https://twitter.com/pooneil/status/1323987926242349056
+吉田 正俊 (膝改造中) on Twitter: "「統計学を哲学する」(大塚淳著)、最後まで読み終えた。すごくいい本だった。それぞれの章で統計について最小限の数式での説明をした上でその哲学的含意を語り、を繰り返して、最終章でもういちど哲学的含意の部分をつないで説明し直す、ここまでやってトータル229ページでコンパクトにおさめてる。" / Twitter
+
+3:47 PM · Nov 2, 2020
+https://twitter.com/junotk_jp/status/1323154739253538816
+Jun Otsuka on Twitter: "山口さんがnoteにて本書2章を丁寧に解説して下さっています。" / Twitter
+2:29 PM · Nov 2, 2020
+https://twitter.com/yamaguchi__sho/status/1323135047881302016
+yamaguchisho on Twitter: "ベイズ的全体論へ――大塚淳『統計学を哲学する』（名古屋大学出版会、2020年）の第2章の解釈 https://t.co/XABmAzGeVS" / Twitter
+2020/11/02 14:28
+https://note.com/free_will/n/n0c842a1f76d8
+ベイズ的全体論へ――大塚淳『統計学を哲学する』（名古屋大学出版会、2020年）の第2章の解釈｜山口尚｜note
+
+1:24 PM · Oct 31, 2020
+https://twitter.com/junotk_jp/status/1322393916381880320
+#統計学を哲学する 訂正：
+p. 201の因果経路のブロックの定義2において、「経路上の合流点およびその合流点の結果はどれもZに含まれない」ときZが経路をブロックする、とありますが、正しくは「その点および子孫がZに含まれないような、経路上の合流点がある」となります。
+あるいは「その点ないし子孫が」としたほうが良いのかな。英語で言えば 「the path has a collider which or a child of which is not included in Z」 とでもなるところなのですが。やはり黒木先生に従い「合流点で、その合流点とその子孫がZに含まれないものがある」とすべきか。
+
+11:08 AM · Oct 30, 2020
+https://twitter.com/junotk_jp/status/1321997349304987648
+スレッドで各章ごとに紹介してもらってます。ありがとうございます。
+https://twitter.com/qumaiwao/status/1321729726243770368
+くまだ総研（久萬田巌） on Twitter: "という訳で読み始めますー。 統計学を哲学する https://t.co/B7bvAceQ3A #Amazon" / Twitter
+
+https://mercbeinp.hatenablog.com/entry/2020/11/08/202445
+大塚淳『統計学を哲学する』について - mercbeinpのブログ
+
+8:14 PM · Oct 15, 2020
+https://twitter.com/UN_Press/status/1316699075207520256
+名古屋大学出版会 on Twitter: "【新刊出来】大塚淳『統計学を哲学する』 統計はなぜ科学的な根拠になるのか？　帰納推論や因果推論の背後に存在する枠組みを浮き彫りにし、科学的認識論としてデータサイエンスを捉え直す。 ＊書誌情報⇒ https://t.co/MiNr6B1Mnf https://t.co/F1OngCnIYw" / Twitter
+
+----------
+
+
 
 
 ----------
