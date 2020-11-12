@@ -55,6 +55,32 @@ https://note.stopcovid19.jp/n/n7dda9dd222d5
 感染リスクを高める7つの場面｜コロナ専門家有志の会
 
 
+
+https://www.ncbi.nlm.nih.gov/pubmed/32265315
+mSystems. 2020 Apr 7;5(2). pii: e00245-20. doi: 10.1128/mSystems.00245-20.
+2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission.
+Dietz L#1, Horve PF#2, Coil DA3, Fretz M1,4, Eisen JA5,6,3, Van Den Wymelenberg K1,4.
+https://msystems.asm.org/content/5/2/e00245-20
+人工環境(built environment; BE)の微生物学研究と新型コロナウイルス（SARS-CoV-2）に関する既知の情報を統合し、感染を減らすための実行可能なガイダンスを提供
+
+- 室内温度では、相対湿度(RH)40%以上は一般的なウィルスの生存に有害である(63, 66, 67)
+- 高いRHは感染性インフルエンザウイルスを減少させる(67)
+- 高いRHはウイルス粒子の空気中の飛散を減少させる(63, 68, 69)
+- 高湿度は、脂質膜に影響を与え、ウイルスを不活性化する(70, 71)
+- 湿度の変化は、個人がウイルス粒子による感染を受けやすいかどうか(72)、ウイルス粒子がどの程度まで気道に沈着しやすいか(68)に影響を与える可能性
+- RHの低下は、侵入した病原体の気道粘液線毛クリアランス mucociliary clearance (MCC)を減少させ、自然免疫応答を弱める(72-74)
+- しかし、RH80%以上は、カビの増殖を促進する（健康に有害な）可能性(75)
+
+相対湿度(RH)40-60%を推奨
+https://40to60rh.com
+
+https://twitter.com/VirusesImmunity/status/1320430656481120256
+Prof. Akiko Iwasaki
+@VirusesImmunity
+As we approach the cold winter months in the Northern Hemisphere, I want to share these movies of mucociliary clearance (MCC) in the trachea of mice housed at 10% vs. 50% relative humidity (RH). Captured by 
+@ericsongg
+  (1/n)
+
 ----------
 https://www.unp.or.jp/ISBN/ISBN978-4-8158-1003-0.html
 統計学を哲学する « 名古屋大学出版会
