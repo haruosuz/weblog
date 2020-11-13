@@ -81,6 +81,21 @@ As we approach the cold winter months in the Northern Hemisphere, I want to shar
 @ericsongg
   (1/n)
 
+
+----------
+2020-02-20
+
+https://www.yodosha.co.jp/yodobook/book/9784758121040/
+ポスドクの流儀〜悩みを解きほぐして今日から行動するためのチェックリスト - 羊土社
+ポスドクの流儀
+悩みを解きほぐして今日から行動するためのチェックリスト
+Liz Elvidge，Carol Spencely，Emma Williams／著，小谷　力／翻訳
+2020年02月20日発行 A5判 262ページ ISBN 978-4-7581-2104-0
+本書を一部お読みいただけます
+https://www.yodosha.co.jp/yodobook/book/9784758121040/161.html
+
+
+
 ----------
 https://www.unp.or.jp/ISBN/ISBN978-4-8158-1003-0.html
 統計学を哲学する « 名古屋大学出版会
