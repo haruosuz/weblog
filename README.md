@@ -105,6 +105,28 @@ https://www.unp.or.jp/ISBN/ISBN978-4-8158-1003-0.html
 https://twitter.com/junotk_jp
 Jun Otsuka (@junotk_jp) / Twitter
 
+
+
+
+4:02 PM · Nov 16, 2020
+https://twitter.com/simizu706/status/1328231886867501058
+Hiroshi Shimizu on Twitter: "「頻度主義とベイズ主義についてのメモ」を書きました。 後でブログ用に書き直すと思いますが、メモをとりえあずOSFにあげました。無駄に長いし、まとまってないのでお暇な人がいればどうぞ・・・ https://t.co/j2TS6IIP0W" / Twitter
+
+
+
+
+
+https://twitter.com/simizu706/status/1328231886867501058
+Hiroshi Shimizu on Twitter: "「頻度主義とベイズ主義についてのメモ」を書きました。 後でブログ用に書き直すと思いますが、メモをとりえあずOSFにあげました。無駄に長いし、まとまってないのでお暇な人がいればどうぞ・・・ https://t.co/j2TS6IIP0W" / Twitter
+
+
+
+11:28 PM · Nov 15, 2020
+https://twitter.com/rmaruy/status/1327981812157612034
+R. Maruyama on Twitter: "はてなブログに投稿しました #はてなブログ 読書メモ：統計学を哲学する（大塚淳 著） - 重ね描き日記（rmaruy_blogあらため） https://t.co/AVpEGstU53 …長いわりにスカスカかもしれません。ひとまず、力が及ぶ範囲で書きました。" / Twitter
+https://rmaruy.hatenablog.com/entry/2020/11/15/232619
+読書メモ：統計学を哲学する（大塚淳 著） - 重ね描き日記（rmaruy_blogあらため）
+
 https://mercbeinp.hatenablog.com/entry/2020/11/08/202445
 大塚淳『統計学を哲学する』について - mercbeinpのブログ
 
