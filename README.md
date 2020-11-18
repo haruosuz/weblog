@@ -1,4 +1,4 @@
-Last Update: 2020-09
+Last Update: 2020-11
 
 ----------
 
@@ -10,6 +10,12 @@ Last Update: 2020-09
 - [link](#link)
 - [unclassified](#unclassified)
 - 
+- https://sfcclip.net/bus/
+- http://www.kanachu.co.jp/dia/diagram/timetable/cs:0000800447-1/nid:00129985/rt:0/k:慶応大学
+- https://www.sfc.keio.ac.jp/gsmg/about/faculty/
+- https://www.sfc.keio.ac.jp/deans_diary/
+- 
+- https://github.com/haruosuz/introBI/tree/master/2020
 - https://github.com/haruosuz/DS4GD/tree/master/2020giga
 - https://github.com/haruosuz/DS4GD/blob/master/2020giga/CaseStudy.md
 - 
@@ -19,11 +25,6 @@ Last Update: 2020-09
 - https://github.com/haruosuz/r4bioinfo
 - https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan
 - https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md
-- 
-- https://sfcclip.net/bus/
-- http://www.kanachu.co.jp/dia/diagram/timetable/cs:0000800447-1/nid:00129985/rt:0/k:慶応大学
-- https://www.sfc.keio.ac.jp/gsmg/about/faculty/
-- https://www.sfc.keio.ac.jp/deans_diary/
 - 
 - https://twitter.com
 - https://twitter.com/home
@@ -105,21 +106,9 @@ https://www.unp.or.jp/ISBN/ISBN978-4-8158-1003-0.html
 https://twitter.com/junotk_jp
 Jun Otsuka (@junotk_jp) / Twitter
 
-
-
-
 4:02 PM · Nov 16, 2020
 https://twitter.com/simizu706/status/1328231886867501058
 Hiroshi Shimizu on Twitter: "「頻度主義とベイズ主義についてのメモ」を書きました。 後でブログ用に書き直すと思いますが、メモをとりえあずOSFにあげました。無駄に長いし、まとまってないのでお暇な人がいればどうぞ・・・ https://t.co/j2TS6IIP0W" / Twitter
-
-
-
-
-
-https://twitter.com/simizu706/status/1328231886867501058
-Hiroshi Shimizu on Twitter: "「頻度主義とベイズ主義についてのメモ」を書きました。 後でブログ用に書き直すと思いますが、メモをとりえあずOSFにあげました。無駄に長いし、まとまってないのでお暇な人がいればどうぞ・・・ https://t.co/j2TS6IIP0W" / Twitter
-
-
 
 11:28 PM · Nov 15, 2020
 https://twitter.com/rmaruy/status/1327981812157612034
