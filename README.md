@@ -43,6 +43,10 @@ takanzai (@takanzai) / Twitter
 - https://github.com/haruosuz/bioinfo/blob/master/2020/CaseStudy.md#2020-07-06
 - 
 - 
+- https://github.com/haruosuz/plasmids
+- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_resistance.md
+- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_metagenome.md
+- 
 - https://github.com/haruosuz/statistics
 - https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/index.html 統計の落とし穴と蜘蛛の糸 - Smart Lab Life - 羊土社
 
@@ -230,7 +234,6 @@ Xavier Didelot on Twitter: "I'm pleased to have contributed a chapter with @Lass
 - https://twitter.com/search?q=Wolbachia%20plasmid
 - https://twitter.com/search?f=tweets&q=built%20environment%20microbiome&src=typd
 - https://www.ted.com/topics/biology
-- https://github.com/haruosuz/plasmids
 - https://qiita.com/advent-calendar/2018/galaxy
 - https://ja.wikipedia.org/wiki/Sci-Hub
 
