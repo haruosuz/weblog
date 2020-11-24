@@ -10,21 +10,22 @@ Last Update: 2020-11
 - [link](#link)
 - [unclassified](#unclassified)
 - 
-- https://sfcclip.net/bus/
-- http://www.kanachu.co.jp/dia/diagram/timetable/cs:0000800447-1/nid:00129985/rt:0/k:慶応大学
-- https://www.sfc.keio.ac.jp/gsmg/about/faculty/
-- https://www.sfc.keio.ac.jp/deans_diary/
-- 
 - https://github.com/haruosuz/introBI/tree/master/2020
+- 
 - https://github.com/haruosuz/DS4GD/tree/master/2020giga
 - https://github.com/haruosuz/DS4GD/blob/master/2020giga/CaseStudy.md
-- 
-- https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#pairwise-sequence-alignment
-- https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapter4.html
 - 
 - https://github.com/haruosuz/r4bioinfo
 - https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan
 - https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md
+- https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#multiple-alignment-and-phylogenetic-trees
+- https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapter5.html
+- 
+- 
+- https://sfcclip.net/bus/
+- http://www.kanachu.co.jp/dia/diagram/timetable/cs:0000800447-1/nid:00129985/rt:0/k:慶応大学
+- https://www.sfc.keio.ac.jp/gsmg/about/faculty/
+- https://www.sfc.keio.ac.jp/deans_diary/
 - 
 - https://twitter.com
 - https://twitter.com/home
