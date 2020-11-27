@@ -11,6 +11,8 @@ Last Update: 2020-11
 - [unclassified](#unclassified)
 - 
 - https://github.com/haruosuz/introBI/tree/master/2020
+- https://github.com/vsbuffalo/bds-files/tree/master/chapter-08-r
+- 
 - 
 - https://github.com/haruosuz/DS4GD/tree/master/2020giga
 - https://github.com/haruosuz/DS4GD/blob/master/2020giga/CaseStudy.md
@@ -221,7 +223,6 @@ Xavier Didelot on Twitter: "I'm pleased to have contributed a chapter with @Lass
 - https://github.com/haruosuz/mgsa/blob/master/references/mgsa.k-mer.md
 - https://github.com/haruosuz/codon
 - https://twitter.com/search?q=plasmid%20codon&src=typd
-- https://github.com/haruosuz/introBI/tree/master/2019
 - https://github.com/haruosuz/r4bioinfo/blob/master/r_books/README.md
 - https://github.com/haruosuz/microbe
 - https://github.com/haruosuz/microbe/blob/master/README.md
