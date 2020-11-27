@@ -12,7 +12,7 @@ Last Update: 2020-11
 - 
 - https://github.com/haruosuz/introBI/tree/master/2020
 - https://github.com/vsbuffalo/bds-files/tree/master/chapter-08-r
-- 
+- https://github.com/haruosuz/bioinfo/blob/master/references/README.bioinfo.tools.md#sliding-window
 - 
 - https://github.com/haruosuz/DS4GD/tree/master/2020giga
 - https://github.com/haruosuz/DS4GD/blob/master/2020giga/CaseStudy.md
