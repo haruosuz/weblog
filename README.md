@@ -10,19 +10,15 @@ Last Update: 2020-11
 - [link](#link)
 - [unclassified](#unclassified)
 - 
+- https://github.com/haruosuz/DS4GD/tree/master/2020giga
+- https://github.com/haruosuz/DS4GD/blob/master/2020giga/README.md#guest-speaker
+- https://github.com/haruosuz/DS4GD/blob/master/2020giga/CaseStudy.md
+- 
+- https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan
+- 
 - https://github.com/haruosuz/introBI/tree/master/2020
 - https://github.com/vsbuffalo/bds-files/tree/master/chapter-08-r
 - https://github.com/haruosuz/bioinfo/blob/master/references/README.bioinfo.tools.md#sliding-window
-- 
-- https://github.com/haruosuz/DS4GD/tree/master/2020giga
-- https://github.com/haruosuz/DS4GD/blob/master/2020giga/CaseStudy.md
-- 
-- https://github.com/haruosuz/r4bioinfo
-- https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan
-- https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md
-- https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#multiple-alignment-and-phylogenetic-trees
-- https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapter5.html
-- 
 - 
 - https://sfcclip.net/bus/
 - http://www.kanachu.co.jp/dia/diagram/timetable/cs:0000800447-1/nid:00129985/rt:0/k:慶応大学
@@ -37,13 +33,27 @@ Last Update: 2020-11
 - https://github.com/haruosuz/bioinfo/blob/master/references/README.reproducibility.md
 - https://github.com/haruosuz/bioinfo/blob/master/2020/CaseStudy.md#2020-07-06
 - 
-- 
 - https://github.com/haruosuz/plasmids
 - https://github.com/haruosuz/plasmids/blob/master/references/plasmid_resistance.md
 - https://github.com/haruosuz/plasmids/blob/master/references/plasmid_metagenome.md
 - 
 - https://github.com/haruosuz/statistics
 - https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/index.html 統計の落とし穴と蜘蛛の糸 - Smart Lab Life - 羊土社
+
+12:48 PM · Nov 29, 2020
+https://twitter.com/antiplastics/status/1332894189185421312
+もじゃもじゃのほう (Koki Tsuyuzaki) on Twitter: "「バイオインフォ分野におけるtidyなデータ解析の最新動向」 の発表資料を公開しました #mishimasyk https://t.co/87XxMi6iK6" / Twitter
+Published on Nov 29, 2020
+https://www2.slideshare.net/antiplastics/tidy-239579849
+バイオインフォ分野におけるtidyなデータ解析の最新動向
+
+2018-08-31
+https://www.krsk-phs.com/entry/simpsonparadox
+データ分析の不思議、シンプソンのパラドックスを統計的因果推論から考える - Unboundedly
+
+Published: September 11, 2014
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833
+Ten Simple Rules for Better Figures
 
 https://twitter.com/senmonka21
 コロナ専門家有志の会 (@senmonka21) / Twitter
