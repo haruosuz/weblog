@@ -20,6 +20,8 @@ Last Update: 2020-11
 - https://github.com/vsbuffalo/bds-files/tree/master/chapter-08-r
 - https://github.com/haruosuz/bioinfo/blob/master/references/README.bioinfo.tools.md#sliding-window
 - 
+- https://github.com/haruosuz/r4bioinfo/blob/master/references/R.memo.md
+- 
 - https://sfcclip.net/bus/
 - http://www.kanachu.co.jp/dia/diagram/timetable/cs:0000800447-1/nid:00129985/rt:0/k:慶応大学
 - https://www.sfc.keio.ac.jp/gsmg/about/faculty/
