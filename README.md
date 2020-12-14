@@ -4,6 +4,10 @@ Last Update: 2020-11
 
 # weblog
 
+- http://www.iqtree.org/doc/Frequently-Asked-Questions#what-is-the-purpose-of-composition-test
+What is the purpose of composition test?
+
+
 ## Table of Contents
 - [updates](#updates)
   - [2018](#2018)
