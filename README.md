@@ -98,49 +98,62 @@ As we approach the cold winter months in the Northern Hemisphere, I want to shar
   (1/n)
 
 
-----------
-2020-02-20
-
-https://www.yodosha.co.jp/yodobook/book/9784758121040/
-ポスドクの流儀〜悩みを解きほぐして今日から行動するためのチェックリスト - 羊土社
-ポスドクの流儀
-悩みを解きほぐして今日から行動するためのチェックリスト
-Liz Elvidge，Carol Spencely，Emma Williams／著，小谷　力／翻訳
-2020年02月20日発行 A5判 262ページ ISBN 978-4-7581-2104-0
-本書を一部お読みいただけます
-https://www.yodosha.co.jp/yodobook/book/9784758121040/161.html
 
 
 
 ----------
-https://www.unp.or.jp/ISBN/ISBN978-4-8158-1003-0.html
-統計学を哲学する « 名古屋大学出版会
-統計学を哲学する
-大塚 淳 著
+2019年1月15日
 
-https://twitter.com/junotk_jp
-Jun Otsuka (@junotk_jp) / Twitter
+https://www.nikkeibp.co.jp/atclpubmkt/book/19/P89600/
+FACTFULNESS（ファクトフルネス）10の思い込みを乗り越え、データを基に世界を正しく見る習慣｜日経BPブックナビ【公式サイト】
+ISBN	978-4-8222-8960-7
 
-4:02 PM · Nov 16, 2020
-https://twitter.com/simizu706/status/1328231886867501058
-Hiroshi Shimizu on Twitter: "「頻度主義とベイズ主義についてのメモ」を書きました。 後でブログ用に書き直すと思いますが、メモをとりえあずOSFにあげました。無駄に長いし、まとまってないのでお暇な人がいればどうぞ・・・ https://t.co/j2TS6IIP0W" / Twitter
+※電子書籍は価格や一部内容が異なる場合がございます。
 
-11:28 PM · Nov 15, 2020
-https://twitter.com/rmaruy/status/1327981812157612034
-R. Maruyama on Twitter: "はてなブログに投稿しました #はてなブログ 読書メモ：統計学を哲学する（大塚淳 著） - 重ね描き日記（rmaruy_blogあらため） https://t.co/AVpEGstU53 …長いわりにスカスカかもしれません。ひとまず、力が及ぶ範囲で書きました。" / Twitter
-https://rmaruy.hatenablog.com/entry/2020/11/15/232619
-読書メモ：統計学を哲学する（大塚淳 著） - 重ね描き日記（rmaruy_blogあらため）
+https://www.flierinc.com/summary/1784
+FACTFULNESS / 10の思い込みを乗り越え、データを基に世界を正しく見る習慣 | 本の要約サイト flier(フライヤー)
 
-https://mercbeinp.hatenablog.com/entry/2020/11/08/202445
-大塚淳『統計学を哲学する』について - mercbeinpのブログ
 
-2020/11/02 14:28
-https://note.com/free_will/n/n0c842a1f76d8
-ベイズ的全体論へ――大塚淳『統計学を哲学する』（名古屋大学出版会、2020年）の第2章の解釈｜山口尚｜note
+----------
 
-5:24 PM · Oct 29, 2020
-https://twitter.com/qumaiwao/status/1321729726243770368
-くまだ総研（久萬田巌） on Twitter: "という訳で読み始めますー。 統計学を哲学する https://t.co/B7bvAceQ3A #Amazon" / Twitter
+
+
+----------
+2016-02-10
+
+https://y-mattu.hatenablog.com/entry/2016/02/28/203515
+『R言語徹底解説』（原著 "Advanced R"）を読んだので感想を書く - ★データ解析備忘録★
+
+https://www.amazon.co.jp/dp/432012393X
+電子版、かつ英語に抵抗がなければ、http://adv-r.had.co.nz/ から同じ内容が無料で読める。
+
+http://adv-r.had.co.nz/
+Welcome · Advanced R.
+
+https://www.kyoritsu-pub.co.jp/bookdetail/9784320123939
+R言語徹底解説 / Hadley Wickham 　著 石田 基広　市川 太祐　高柳 慎一　福島 真太朗　訳 | 共立出版
+ISBN	978-4-320-12393-9
+
+2016年02月12日
+https://qiita.com/nakamichi/items/3d52e292789bfcfc9dc8
+「R言語徹底解説」入門 - Qiita
+
+----------
+2017-11-28
+
+## Rプログラミング本格入門
+
+http://www.kyoritsu-pub.co.jp/bookdetail/9784320124264
+Rプログラミング本格入門 ―達人データサイエンティストへの道― / Kun Ren 　著 湯谷 啓明　松村 杏子　市川 太祐　訳 株式会社ホクソエム 　監訳 | 共立出版
+発売日	2017年11月28日
+
+本書のサポートサイト
+
+http://estrellita.hatenablog.com/entry/2017/11/30/174650
+Rプログラミング本格入門をご恵贈頂きました - INPUTしたらOUTPUT!
+
+----------
+
 
 
 
