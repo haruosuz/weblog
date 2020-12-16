@@ -98,8 +98,15 @@ As we approach the cold winter months in the Northern Hemisphere, I want to shar
   (1/n)
 
 
+----------
 
+https://shorebird.hatenablog.com/entry/2020/11/26/103746
+書評　「生物群集を理解する」 - shorebird　進化心理学中心の書評など
 
+https://www.kyoto-up.or.jp/books/9784876983438.html
+シリーズ群集生態学 1
+生物群集を理解する
+大串 隆之・近藤 倫生・難波 利幸 編
 
 ----------
 2019年1月15日
@@ -112,10 +119,6 @@ ISBN	978-4-8222-8960-7
 
 https://www.flierinc.com/summary/1784
 FACTFULNESS / 10の思い込みを乗り越え、データを基に世界を正しく見る習慣 | 本の要約サイト flier(フライヤー)
-
-
-----------
-
 
 
 ----------
