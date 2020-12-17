@@ -100,6 +100,19 @@ As we approach the cold winter months in the Northern Hemisphere, I want to shar
 
 ----------
 
+
+EVOLVE、TAXA、生物学基礎論研究会MLのみなさま（重複ご容赦ください）
+
+会津大学の網谷祐一です。先日拙著『種を語ること、定義すること』（勁草書房）についての投稿をいたしましたが、 二つ補足の情報をお伝えします。
+
+１）拙著の前書きが勁草書房のウェブサイト「けいそうビブリオフィル」にて公開されています。https://keisobiblio.com/2020/12/15/atogakitachiyomi_shuwokatarukoto/
+
+２）プロモーションの一環として執筆した記事が「現代ビジネス」にて公開されています。
+https://gendai.ismedia.jp/articles/-/78398
+こちらは本の内容そのものではなく、哲学と科学の関係についての簡単な考察になっています。
+
+----------
+
 https://shorebird.hatenablog.com/entry/2020/11/26/103746
 書評　「生物群集を理解する」 - shorebird　進化心理学中心の書評など
 
