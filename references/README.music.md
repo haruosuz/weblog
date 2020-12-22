@@ -1,5 +1,4 @@
-Haruo Suzuki (haruo[at]g-language[dot]org)  
-Last Update: 2019-01-01
+Last Update: 2020-12
 
 ----------
 
@@ -7,13 +6,58 @@ Last Update: 2019-01-01
 
 ## Table of Contents
 - [updates](#updates)
-  - [2018](#2018)
+[2019](#2019)
+[2018](#2018)
 - [queen](#queen)
   - [bohemian_rhapsody](#bohemian_rhapsody)
 - [unclassified](#unclassified)
+- [xmas](#xmas)
+
+----------
+## xmas
+
+https://www.youtube.com/watch?v=GAEWxUwGxR8&list=RDt3vblZlnnnY&index=2
+Cheap Trick- "Come On Christmas" - YouTube
+
+2020-11-09
+https://yukichi-camp.hatenablog.com/entry/heavy-metal-christmas
+【メタルクリスマス】ハードロック／ヘヴィメタルバンドによるクリスマスアルバム10選 - ゆうきちのDig Dig METAL
+
+https://en.wikipedia.org/wiki/Monster_Ballads_XMas
+
+https://www.youtube.com/watch?v=dmSkPX2gCsA
+Monster Ballads Xmas- As Seen On TV - YouTube
+
+https://www.youtube.com/watch?v=Iw4yNNmwkxg&list=PLfekLyGikxLvT3PTQLD14ZklbADYrGh7W
+01. Jingle Bells - Skid Row - YouTube
+
+2008年12月25日14:21
+http://blog.livedoor.jp/airyfairies/archives/65128368.html
+まだまだあった メタル・クリスマス・アルバム！ : Spirit In The Sky
+
+
+
+https://www.youtube.com/watch?v=Isldypob7V0
+X Christmas - Your Favorite Christian Rock Artists Doing Christmas Songs! - YouTube
+
+https://www.allmusic.com/album/x-christmas-mw0000801843
+X Christmas - Various Artists | Songs, Reviews, Credits | AllMusic
+
+https://www.youtube.com/watch?v=5gq60RH1vfI
+05 Feliz Navidad David Crowder Band X Christmas 2008 - YouTube
+
 
 ----------
 ## updates
+
+## 2019
+
+http://bravewords.com/news/the-defiants-featuring-danger-danger-members-streaming-new-song-hollywood-in-headlights
+Bruno Ravel: Bass
+Paul Laine: Vocals, Guitar
+Rob Marcello: Guitar
+Steve West: Drums
+
 ## 2018
 
 ----------
@@ -31,6 +75,10 @@ https://www.udiscovermusic.jp/stories/bohemian-rhapsody-second-movement
 クイーン「Bohemian Rhapsody」が持つ音楽史でのとてもつもない偉業
 
 ### live aid
+
+https://www.youtube.com/watch?v=2cH5htm6T4E&t=499s
+Live Aid | Bohemian Rhapsody (2018) - scene comparisons - YouTube
+Feb 28, 2019
 
 https://www.youtube.com/watch?v=2cH5htm6T4E
 Live Aid | Bohemian Rhapsody (2018) - scene comparisons - YouTube
@@ -54,6 +102,14 @@ http://www.foxmovies-jp.com/bohemianrhapsody/
 
 https://www.foxmovies.com/movies/bohemian-rhapsody
 Bohemian Rhapsody | Fox Movies
+
+https://www.youtube.com/watch?v=wNoE9awIZs4
+Bohemian Rhapsody OST Soundtrack - YouTube
+Published on Nov 17, 2018
+
+https://www.youtube.com/watch?v=dRI_Uzrv-Jo&list=PLqIK01W9QdPmZoPyEmIDrnT23J4NGloCh&index=1
+Bohemian Rhapsody Official Movie Soundtrack by Irving Aguilar
+Published on Oct 18, 2018
 
 https://www.youtube.com/watch?v=8z6wJHPhJUM
 BOHEMIAN RHAPSODY 2018 [COMPLETE SONGS side by side with QUEEN Live Aid 1985] FULL LIVE AID SCENE - YouTube
@@ -106,10 +162,6 @@ Published on Dec 6, 2018
 https://www.youtube.com/watch?v=vW01ecOtzPY
 ボヘミアン・ラプソディ大ヒット 伝説のバンドに涙する理由 - YouTube
 Published on Nov 30, 2018
-
-https://www.youtube.com/watch?v=wNoE9awIZs4
-Bohemian Rhapsody OST Soundtrack - YouTube
-Published on Nov 17, 2018
 
 https://www.youtube.com/watch?v=cwzzJ2QSgsQ
 SONGS　QUEENヒストリー - YouTube
@@ -170,6 +222,55 @@ Published on Oct 28, 2012
 
 ## unclassified
 
+
+https://www.youtube.com/watch?v=56SH96uKcPY&list=OLAK5uy_kLLUzKAk7BRr5hU9Dh1HiBtMeaLBrPQZM
+Bedroom Demos
+David Boyles
+Saturday
+3:01
+Better Life
+3:43
+
+
+https://www.youtube.com/watch?v=56SH96uKcPY
+Saturday
+David Boyles
+
+https://www.youtube.com/playlist?list=PLiCU_4PP8OPEuAvwRC8l02tfXcP3ev0Fq
+Jamiroquai - High Times: Singles 1992-2006 - YouTube
+
+
+https://en.fujirockfestival.com/history/2004/
+2004 | FUJI ROCK FESTIVAL '19
+
+PE`Z
+KEMURI
+
+http://www.summersonic.com/history/2004.html
+History - 2004 | SUMMER SONIC
+
+LOSTPROPHETS
+JUNIOR SENIOR
+ZEBRAHEAD
+HOOBASTANK
+
+
+
+https://www.youtube.com/watch?v=jxOFyXzSAsg&t=293s
+Lostprophets Start Something Full Album 2004 - YouTube
+
+
+https://www.youtube.com/watch?v=wsdy_rct6uo
+Spin Doctors - Two Princes - YouTube
+
+https://www.youtube.com/watch?v=wx0H1VsTbJw
+Loud Minority - United Future Organization - YouTube
+
+https://www.youtube.com/watch?v=HLUX0y4EptA
+Flobots - Handlebars - YouTube
+
+
+
 https://ameblo.jp/gucchann1965/entry-12397728972.html
 SPLITSVILLE | 真夜中に聴く音楽
 ・THE POPULAR
@@ -189,10 +290,71 @@ Published on Jun 13, 2013
 https://www.youtube.com/watch?v=Gl9GtO_vQxw
 Foo Fighters Meets 70's Bobby Caldwell - Live Looping Mashup by Elise Trouw - YouTube
 
+https://www.youtube.com/watch?v=1ClCpfeIELw
+Deep Blue Something - Breakfast At Tiffany's (Official Video) - YouTube
+
+
+
+----------
+
+
+
+https://www.youtube.com/watch?v=mpmLP0CeVrU
+Zebrahead - Anthem (Official Music Video) - YouTube
+
+
+https://www.youtube.com/watch?v=kohCQuPTPDA&list=PLJ6lHlen7RC1_F3DnAQ2wSanXVrm03EEY
+Use Your Head - Money Mark - YouTube
+
+
+https://www.youtube.com/watch?v=HFtPhh2aIyA
+Red Hot + Rio 2 - Baby - YouTube
+https://www.youtube.com/watch?v=Ot5AyrqpaKQ
+Alice Smith + Aloe Blacc - Baby (Official Video) - YouTube
+
+
+
+https://www.youtube.com/watch?v=Q3KsgROgats
+【MAD】今敏監督作品集『もしも僕が死んだらこの世界は変わるんだろうか 』 - YouTube
+
+https://www.discogs.com/ja/Various-Vans-Warped-Tour-2004-Tour-Compilation/release/1189456
+Vans Warped Tour (2004 Tour Compilation) (2004, CD) | Discogs
+
+1-10	–Motion City Soundtrack	Capital H
+
+Coheed And Cambria	Three Evils (Embodied In Love And Shadow)
+
+https://www.youtube.com/watch?v=KAMnyCY37_4&list=PLcZMZxR9uxC-43YcwFZWGqrry-TiDBdfw&index=1
+Motion City Soundtrack - "Cambridge" (Full Album Stream) - YouTube
+https://www.youtube.com/watch?v=i_nT6ojWzxo&list=PLcZMZxR9uxC-43YcwFZWGqrry-TiDBdfw&index=3
+Motion City Soundtrack - "The Future Freaks Me Out" - YouTube
+
+https://www.youtube.com/watch?v=mILJ7siz-N8
+Sugarcult - Memory (Punk Goes Acoustic Vol. 1) - YouTube
+
+https://www.youtube.com/watch?v=UQGeZn_q0R4
+Melee - The War (Official Music Video)
+
+https://www.youtube.com/watch?v=zGG0QYjdgJQ
+The Starting Line - Best Of Me (Official Video) - YouTube
+
+https://www.youtube.com/watch?v=k-HdGnzYdFQ&list=PLm015WZNNRFCqUg9VW9jeGMIK492k4Zvx
+It's Not Unusual · Tom Jones
+
+https://www.youtube.com/watch?v=wsdy_rct6uo
+Spin Doctors - Two Princes - YouTube
+
+
+
+----------
+
+
 
 https://indianajones.fandom.com/ja/wiki/サギー
 
 https://ranpo.co/article/6297738316049551361
 インドの秘密結社！！『インディ・ジョーンズ』に登場した暗殺集団は映画よりエグイ！？ | 日刊Ranpo
+
+
 
 ----------
