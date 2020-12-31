@@ -46,6 +46,32 @@ What is the purpose of composition test?
 - https://github.com/haruosuz/statistics
 - https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/index.html 統計の落とし穴と蜘蛛の糸 - Smart Lab Life - 羊土社
 
+
+
+
+----------
+
+https://www.yodosha.co.jp/yodobook/book/9784758112161/6.html
+PEAK　books：人類は感染症とともに生きていく〜学校では教えてくれないパンデミックとワクチンの現代史 - 羊土社
+PEAK　books
+人類は感染症とともに生きていく
+学校では教えてくれないパンデミックとワクチンの現代史
+ミーラ・センティリンガム，Meera Senthilingam／著，石黒千秋／翻訳
+2020年12月18日発行 四六判 207ページ ISBN 978-4-7581-1216-1
+
+https://peak.yodosha.jp/book_list/978-4-7581-1216-1/
+人類は感染症とともに生きていく 〜学校では教えてくれないパンデミックとワクチンの現代史 | PEAK books ピークブックス：科学と医療をこよなく愛する編集者が生み出した書籍レーベル
+
+2020/12/25 13:39
+https://note.com/peakbooks/n/nb44cee2b6734
+『人類は感染症とともに生きていく 〜学校では教えてくれないパンデミックとワクチンの現代史』 【編集後記】｜PEAK books（ピークブックス）｜note
+
+
+
+----------
+
+
+
 12:48 PM · Nov 29, 2020
 https://twitter.com/antiplastics/status/1332894189185421312
 もじゃもじゃのほう (Koki Tsuyuzaki) on Twitter: "「バイオインフォ分野におけるtidyなデータ解析の最新動向」 の発表資料を公開しました #mishimasyk https://t.co/87XxMi6iK6" / Twitter
