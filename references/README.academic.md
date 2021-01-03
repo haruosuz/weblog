@@ -25,8 +25,16 @@
 - [presentation](#presentation)
   - [Presentation Zen](#presentation)
 
+
+
+
+
 ----------
 ## unclassified
+
+
+
+
 
 
 2020/08/09
@@ -172,6 +180,26 @@ http://www.m-review.co.jp/book/detail/978-4-7792-1724-1
 - https://www.igaku-honyaku.jp/ホーム/書評なぜ論文が書けないのか/
 実は数年前に、ある素晴らしい書籍との出会いがありました。それは『理科系のための英文作法』（１９９４年）と『どう書くか､理科系の為の論文作法』（２００１年）という書籍でした（ともに杉原厚吉著）。これらの著書の中でも同様のことが解説されています。
 
+
+----------
+2001-01-01
+
+https://www.kyoritsu-pub.co.jp/kenpon/bookDetail/9784320005631
+どう書くか ―理科系のための論文作法― / 杉原 厚吉 著　 | 共立出版 教科書献本サイト
+ISBN		978-4-320-00563-1
+- https://twitter.com/search?q=%22理科系のための論文作法%22
+- https://chika0509.hatenablog.com/entry/2016/04/29/212928
+- https://sleepy-yoshi.hatenablog.com/entry/20100304/p1
+
+----------
+1994-11-25
+
+http://www.chuko.co.jp/shinsho/1994/11/101216.html
+理科系のための英文作法｜新書｜中央公論新社
+ISBN	978-4-12-101216-6
+- https://twitter.com/search?q=%22理科系のための英文作法%22
+
+
 ----------
 ## 2016-12-12
 Write It Up: Practical Strategies for Writing and Publishing Journal Articles 
@@ -180,8 +208,7 @@ https://www.kspub.co.jp/book/detail/1556270.html
 できる研究者の論文作成メソッド　書き上げるための実践ポイント
 https://www.kspub.co.jp/book/detail/images/9784061556270-1.pdf
 執筆部分は中央集権化する
-- https://twitter.com/search?q=できる研究者の論文作成メソッド
-- http://naka3-3dsuki.hatenablog.com/entry/2017/10/17/220000
+- https://twitter.com/search?q=%22できる研究者の論文作成メソッド%22&f=live
 - https://www.chem-station.com/books/2017/01/dekiru.html 2017/1/2
 - http://youngecon.com/write-it-up-j/ 2016/12/19
 - http://scienceandtechnology.jp/page-14051/page-19039 2016/12/12
@@ -193,8 +220,8 @@ How to Write a Lot: A Practical Guide to Productive Academic Writing
 
 http://bookclub.kodansha.co.jp/product?item=0000147753
 『できる研究者の論文生産術　どうすれば「たくさん」書けるのか』（ポール．Ｊ・シルヴィア，高橋　さきの）｜講談社BOOK倶楽部
-- http://hyohyolibrary.com/?p=829 2016/10/17
 - https://naka3-3dsuki.hatenablog.com/entry/2017/10/17/220000
+- http://hyohyolibrary.com/?p=829 2016/10/17
 - http://youngecon.com/how-to-write-a-lot/ 2015/06/12
 
 ----------
