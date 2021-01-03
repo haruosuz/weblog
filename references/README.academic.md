@@ -19,9 +19,11 @@
 - [paper](#paper)
   - [reading](#reading)
   - [writing](#writing)
+  - [inMeXes](#inmexes) 逐次PubMed表現検索
+  - [scientific name](#scientific-name) 学名
+  - [plagiarism](#plagiarism) 盗用
 - [presentation](#presentation)
   - [Presentation Zen](#presentation)
-
 
 ----------
 ## unclassified
@@ -39,7 +41,6 @@ https://liberal-arts-guide.com/writing-paper-books/
 https://kojigen.com/paper-2-4554.html
 いい論文を書くために読んでおきたい参考書籍20冊｜論文の教室
 
-
 2013年8月25日
 http://www.waseda.jp/honjo/honjo/ssh/waises2014/2013/howto.pdf
 科学論文䛾書き方―理論編―
@@ -47,7 +48,6 @@ http://www.waseda.jp/honjo/honjo/ssh/waises2014/2013/howto.pdf
 （早稲田大学オープン教育センター）
 大嶋えり子、Petra	Karlova
 （早稲田大学大学院）
-
 
 https://www.yodosha.co.jp/jikkenigaku/book/9784758108409/index.html
 ハーバードでも通用した 研究者の英語術〜ひとりで学べる英文ライティング・スキル - 羊土社
@@ -209,74 +209,17 @@ https://gendai.ismedia.jp/articles/-/35431?page=2
 
 ----------
 ## 1981-09-22
-
 https://www.chuko.co.jp/shinsho/1981/09/100624.html
-理科系の作文技術｜新書｜中央公論新社
-
-### 1981-09-22
-http://www.chuko.co.jp/shinsho/1981/09/100624.html
 理科系の作文技術｜新書｜中央公論新社
 
 https://ja.wikipedia.org/wiki/理科系の作文技術
 
-2020.05.18 2020.04.06
-https://take26.com/rikakeino-sakubungijutsu
-論文作成に向けて『理科系の作文技術』を読み直した感想
-
-
-2017-12-21
-http://www.nu-nobettenn.com/entry/rikakei-sakubungizyutu
-理系必読の一冊『理科系の作文技術』まとめ - ヌーノ・別天地構想
-4. パラグラフ
-4.3 トピックセンテンス
-
-2016年03月27日
-https://withnews.jp/article/f0160327003qq000000000000000W02j10701qq000013170A
-『理科系の作文技術』、81刷100万部を突破　異例のヒットの理由 - withnews（ウィズニュース）
-
-http://viewofyamato.ninja-x.jp/rikakeisakubun.htm
-理科系の作文技術
-```
-４．パラグラフ
-
-4.1パラグラフとは
-
-・パラグラフとは、内容的に関連のある複数の文（センテンス）の集まりで、それによって一つの考えを表現するもの。
-
-4.2パラグラフの満たすべき条件
-
-・パラグラフには、そこで何について何を言おうとするのかを一口に、概論的に述べた文が含まれる。･･･トピック・センテンス
-
-4.3トピック・センテンス
-
-・重点先行主義にしたがって、トピック・センテンスを最初に書く。
-
-・パラグラフにはトピック・センテンスを含むのが通例
-
-4.4文書構成要素としてのパラグラフ
-
-・パラグラフは、あるトピックについてある一つのことをいう。
-
-・パラグラフの標準的長さは200～300字
-```
-
-http://www2.ube-k.ac.jp/usui/rikakei.html
-「理科系の作文技術」抜粋
-
-資料３　　　　　　　参考・木下是雄著『理科系の作文技術』中公新書
-
-```
-３．パラグラフ
-
-３－１ パラグラフのみたすべき条件
-　・パラグラフには、そこで何について何を言おうとするのかを一口に、概論的に述べた文がふくまれるのが通例である。これをトピック・センテンスという。（ｐ６２）
-
-３－２ トピック・センテンス
-　・トピック・センテンスは、パラグラフの最初に書くのがたてまえである。（ｐ６４）
-　・トピック・センテンスは各パラグラフのエッセンスを述べたものだから、それを並べれば文章ぜんたいの要約にならなければならないのだ。（ｐ６５）
-　・私は、こと仕事の文書に関するかぎり、重点先行主義にしたがってトピック・センテンスを最初に書くことを原則とすべきだと考える。（ｐ６６）
-```
-
+- https://note.com/dr_kano/n/n9f7f9d0c89c8 2020/05/01 20:35
+- https://take26.com/rikakeino-sakubungijutsu 2020.05.18 2020.04.06
+- https://paradigm0917.com/「理科系の作文技術」はなぜ売れ続ける？文系や/ 2019年5月24日2019年12月21日
+- https://withnews.jp/article/f0160327003qq000000000000000W02j10701qq000013170A 2016年03月27日
+- http://viewofyamato.ninja-x.jp/rikakeisakubun.htm
+- http://www2.ube-k.ac.jp/usui/rikakei.html 抜粋
 
 ----------
 ## paper
@@ -349,7 +292,8 @@ https://twitter.com/bonohu/status/1008150073484558337
 bonohu on Twitter: "朝から世話になった “inMeXesは、#DBCLS のサービスで、生命科学系の文献(PubMedに含まれるタイトルとアブストラクト)に頻出する英語表現を、1文字の入力ごとに高速に再検索可能” #togotv / “inMeXe…” https://t.co/AKOAyaW55D"
 8:51 PM - 16 Jun 2018
 
-#### name
+#### scientific name
+学名
 
 https://ja.wikipedia.org/wiki/学名
 属名、種小名は、地の文と明確に区別できる異なる字体で表記しなければならない。欧文では一般にイタリック体（斜字体）が使用されることが多い。イタリック体による表記が難しい場合は、下線を引くことでも代用できる。
@@ -381,7 +325,7 @@ X	誤:	We analyzed the EPR (electron paramagnetic resonance) spectra of...
 ○	正:	Correct: We analyzed the electron paramagnetic resonance (EPR) spectra of...
 DNAなど、世間に広く知られている略語を定義する必要はありません。投稿先のジャーナルの規程で、定義なしで使用できる略語のリストがあるかもしれません。チェックしてください。
 
-#### Plagiarism
+#### plagiarism
 盗用
 
 http://ronbun.jp/chest/popup024/index.html
