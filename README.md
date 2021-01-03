@@ -1,4 +1,4 @@
-Last Update: 2020-11
+Last Update: 2021-01
 
 ----------
 
@@ -13,6 +13,12 @@ What is the purpose of composition test?
   - [2018](#2018)
 - [link](#link)
 - [unclassified](#unclassified)
+- 
+- https://github.com/haruosuz/microbe
+- https://github.com/haruosuz/microbe/blob/master/README.md
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.updates.md
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.COVID-19.md
 - 
 - https://github.com/haruosuz/DS4GD/tree/master/2020giga
 - https://github.com/haruosuz/DS4GD/blob/master/2020giga/README.md#guest-speaker
@@ -33,8 +39,6 @@ What is the purpose of composition test?
 - 
 - https://twitter.com
 - https://twitter.com/home
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.COVID-19.md
 - https://github.com/haruosuz/bioinfo
 - https://github.com/haruosuz/bioinfo/blob/master/references/README.reproducibility.md
 - https://github.com/haruosuz/bioinfo/blob/master/2020/CaseStudy.md#2020-07-06
@@ -287,9 +291,6 @@ Xavier Didelot on Twitter: "I'm pleased to have contributed a chapter with @Lass
 - https://github.com/haruosuz/codon
 - https://twitter.com/search?q=plasmid%20codon&src=typd
 - https://github.com/haruosuz/r4bioinfo/blob/master/r_books/README.md
-- https://github.com/haruosuz/microbe
-- https://github.com/haruosuz/microbe/blob/master/README.md
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.updates.md
 - 
 - https://twitter.com/kakenhi_com
 - https://科研費.com
