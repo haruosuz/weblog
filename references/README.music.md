@@ -35,7 +35,7 @@ https://www.youtube.com/watch?v=Iw4yNNmwkxg&list=PLfekLyGikxLvT3PTQLD14ZklbADYrG
 http://blog.livedoor.jp/airyfairies/archives/65128368.html
 まだまだあった メタル・クリスマス・アルバム！ : Spirit In The Sky
 
-
+-----
 
 https://www.youtube.com/watch?v=Isldypob7V0
 X Christmas - Your Favorite Christian Rock Artists Doing Christmas Songs! - YouTube
@@ -45,6 +45,20 @@ X Christmas - Various Artists | Songs, Reviews, Credits | AllMusic
 
 https://www.youtube.com/watch?v=5gq60RH1vfI
 05 Feliz Navidad David Crowder Band X Christmas 2008 - YouTube
+
+
+-----
+
+https://music.apple.com/us/album/taste-of-christmas/715374811
+Taste of Christmas by Various Artists on Apple Music
+
+https://www.youtube.com/watch?v=szQk9hdpVw0
+The Used - Happy Christmas (War Is Over) (HQ) - YouTube
+
+http://hvymetal.com/28432.html
+THE USED - この曲を聴け!
+
+
 
 
 ----------
