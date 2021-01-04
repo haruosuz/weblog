@@ -5,16 +5,23 @@
 - [updates](#updates)
   - [2018](#2018)
   - [2017](#2017)
-- [paper](#paper)
-  - [reading](#reading)
-  - [writing](#writing)
-- [presentation](#presentation)
-  - [Presentation Zen](#presentation)
-- [robust](#robust)
 - [docker](#docker)
 - [git](#git)
 - [ecology](#ecology)
 - [sfc](#sfc)
+
+
+----------
+
+https://www.sukima.me/
+スキマ | 全巻無料漫画が32,000冊以上読み放題！
+
+https://www.sukima.me/book/genre/青年漫画/
+青年漫画のオススメ作品 | スキマ | 全巻無料漫画が32,000冊以上読み放題！
+
+https://www.sukima.me/book/title/BT0000185480/
+[414話無料] 静かなるドン | スキマ | 全巻無料漫画が32,000冊以上読み放題！
+
 
 ----------
 ## link
@@ -143,33 +150,6 @@ https://jp.chibicode.com/factfulness-matome/
 2019/01/07
 
 ## reading
-
-https://hon.booklog.jp/interview/hakkounokagaku-20180406
-「麹菌」は日本人が育んできた「家畜」！？―ブルーバックス『日本の伝統 発酵の科学』著者・中島春紫さん独占インタビュー | ブクログ通信
-2018年4月6日
-
-http://news.kodansha.co.jp/5786
-発酵の科学「臭いものはなぜ旨い？」納豆､くさや､シュール･ストレミング！
-2018.03.16
-
-http://bookclub.kodansha.co.jp/product?item=0000226693
-日本の伝統　発酵の科学　微生物が生み出す「旨さ」の秘密
-著：中島　春紫
-2018年01月18日
-
-- https://twitter.com/search?q=闘う微生物
-
-- https://twitter.com/search?q=%22土・牛・微生物%22
-
-- https://twitter.com/search?q=なぜ科学はストーリーを必要としているのか
-https://www.dokushok.com/entry/2018/10/27/080000
-
-- https://twitter.com/search?f=tweets&q=絶滅できない動物たち
-- https://bookmeter.com/books/13113041
-- https://www.amazon.co.jp/dp/4478067317
-- http://honnohon.blog137.fc2.com/blog-entry-2132.html 
-2019-01-01
-ホンの本好き 昨日何読んだ 『絶滅できない動物たち』（ダイヤモンド社）
 
 
 https://www.ncbi.nlm.nih.gov/pubmed/24146954
@@ -436,269 +416,6 @@ http://www.c.u-tokyo.ac.jp/info/about/history/dean/2013-2015/h27.3.25ishii.html
 
 
 
-----------
-## paper
-論文読み書き
-
-https://www.igaku-honyaku.jp/ホーム/書評なぜ論文が書けないのか/
-
-http://yumulog.hatenablog.com/entry/2016/09/19/011833
-「なぜあなたの研究は進まないのか?」「なぜあなたは論文が書けないのか?」の2冊が素晴らしかった - yumulog | 社会人博士の日記
-
-### reading
-
-https://twitter.com/hamajit/status/1128453856109649920
-浜地 貴志 on Twitter: "ラボのM1たちが英語を読むのに苦労しているところにM2が「こういういいものがあるよ」と、マウスオーバーでLife Science Dictionaryの生命科学語彙が出てくる拡張機能（アドオン）を紹介していた。Chrome版もFirefox版もあるらしい。リンクはChrome版 https://t.co/RTCxOK61ez… https://t.co/hOz6PhT10M"
-8:15 PM - 14 May 2019
-
-http://lafrenze.hatenablog.com/entry/2015/08/04/120205
-高速で論文がバリバリ読める落合先生のフォーマットがいい感じだったのでメモ - 書架とラフレンツェ
-
-http://okatenari.com/2017/06/02/post-595/
-英語論文の読み方のコツはこれ！メーカーで研究職の僕が実践している方法 | 本日はおかてんなり
-
-https://rabotiku-sato.com/entry/2016/11/29/020928/
-【５分でわかる！】研究室での英語論文の読み方のコツ | ラボライブ！
-
-20150616
-http://hikaru1122.hatenadiary.jp/entry/ronbun-no-yomikata
-効率的な論文の読み方とは？　論文の読み方を知るための論文 - Knowledge As Practice
-
-### writing
-
-https://twitter.com/EditageJapan/status/1102360072687104000
-研究者応援！エディテージ・インサイト on Twitter: "多くの著者が、研究背景の執筆に苦労しています。また、「背景」と「文献レビュー」の区別も、研究者たちが苦手意識を持っている問題です。背景の書き方の基本と、背景と文献レビューとの違いを押さえて、読者の興味をそそる背景を書き上げましょう。 #研究の背景 #文献検索 https://t.co/R0DOGwUEhI"
-7:08 PM - 3 Mar 2019
-
-2018年5月23日
-https://www.editage.jp/insights/the-secret-to-using-tenses-in-scientific-writing
-科学論文における時制の使い分け | Editage Insights
-
-![](http://insights.cactusglobal.com/sites/default/files/Using%20tenses%20in%20scientific%20writing.png)
-
-科学に佇む書斎 【2014/06/16】
-http://sciencebook.blog110.fc2.com/blog-entry-2149.html
-科学な本のご紹介： 　国際誌エディターが教えるアクセプトされる論文の書きかた
-
-英文は、100や2.3などの算用数字で書きはじめてはいけません。
-　❌　500 g of the…
-　⭕　Five hundred grams of the…
-
-http://www.m-review.co.jp/book/detail/978-4-7792-1724-1
-書籍詳細 - なぜあなたは論文が書けないのか？ | メディカルレビュー社
-- http://yumulog.hatenablog.com/entry/2016/09/19/011833
-文章を書く技術については、大定番の 理科系の作文技術 (中公新書 (624)) など、他の本を合わせて読むとよさそうです。以下、引用。
-
-
-https://www.slideshare.net/kdmsnr/writing-a-paper-seven-suggestions
-優れた研究論文の書き方―7つの提案
-Published on Oct 31, 2015
-
-
-2016年03月27日
-https://withnews.jp/article/f0160327003qq000000000000000W02j10701qq000013170A
-『理科系の作文技術』、81刷100万部を突破　異例のヒットの理由 - withnews（ウィズニュース）
-
-http://www2.ube-k.ac.jp/usui/rikakei.html
-「理科系の作文技術」抜粋
-
-https://www.amazon.co.jp/どう書くか―理科系のための論文作法-杉原-厚吉/dp/4320005635
-2001/1/1
-
-https://www.kyoritsu-pub.co.jp/kenpon/bookDetail/9784320005631
-どう書くか ―理科系のための論文作法― / 杉原 厚吉 著　 | 共立出版 教科書献本サイト
-
-- http://chika0509.hatenablog.com/entry/2016/04/29/212928
-- http://d.hatena.ne.jp/sleepy_yoshi/20100304/p1
-
-https://www.ki1tos.com/entry/2018/11/17/150454
-英語論文が出せなくてすべてが終わる前に - ハカセのあやしい研究ノート
-
-2016.12.20
-https://honcierge.jp/articles/shelf_story/937
-論文の書き方がわかるおすすめ本５選！レポート、卒論、理系英語まで伝授。 | ホンシェルジュ
-
-2016/3/20
-http://kojigen.com/paper-2-4554.html
-いい論文を書くために読んでおきたい参考書籍20冊｜論文の教室
-
-2010.12.18
-https://readingmonkey.blog.fc2.com/blog-entry-464.html
-論文書きに役立つ記事のまとめ（逆引きインデクス）をつくってみた 読書猿Classic: between / beyond readers
-
-#### inMeXes
-
-https://docman.dbcls.jp/im/
-Incremental PubMed Expression Search: inMeXes (インメクセズ)
-
-https://doi.org/10.7875/togotv.2018.026
-inMeXesを使って文献に頻出する英語表現や関連語を高速に検索する 2018 統合TV(togotv)｜生命科学系DB・ツール使い倒し系チャンネル
-
-https://twitter.com/tonets/status/1010321829502676993
-大上雅史／猫じゃら氏 on Twitter: "英語論文を書く上でお世話になっている５つのウェブサイト ①Google翻訳 ②ALC英辞郎 on the WEB (Pro) ③Hyper Collocation - arXiv論文英語コロケーションDB https://t.co/DCH7C98LBm ④inMeXes - 逐次PubMed表現検索 https://t.co/86FjTdmGhN ⑤Academic Phrasebank https://t.co/sCaYaun6ij"
-8:41 PM - 22 Jun 2018
-
-英語論文を書く上でお世話になっている５つのウェブサイト
-
-①Google翻訳
-②ALC英辞郎 on the WEB (Pro)
-③Hyper Collocation - arXiv論文英語コロケーションDB
-https://hypcol.marutank.net/ja/ 
-④inMeXes - 逐次PubMed表現検索
-http://docman.dbcls.jp/im/ 
-⑤Academic Phrasebank
-http://www.phrasebank.manchester.ac.uk/ 
-
-https://twitter.com/bonohu/status/1008150073484558337
-bonohu on Twitter: "朝から世話になった “inMeXesは、#DBCLS のサービスで、生命科学系の文献(PubMedに含まれるタイトルとアブストラクト)に頻出する英語表現を、1文字の入力ごとに高速に再検索可能” #togotv / “inMeXe…” https://t.co/AKOAyaW55D"
-8:51 PM - 16 Jun 2018
-
-#### name
-
-https://ja.wikipedia.org/wiki/学名
-属名、種小名は、地の文と明確に区別できる異なる字体で表記しなければならない。欧文では一般にイタリック体（斜字体）が使用されることが多い。イタリック体による表記が難しい場合は、下線を引くことでも代用できる。
-
-https://www.editage.jp/insights/4-style-tips-for-presenting-scientific-names-of-organisms-in-academic-writing
-学術論文における生物の学名表記に関する4つのアドバイス | エディテージ・インサイト
-2. イタリック体：
-これらのbinomials（二名式）は、イタリック体で書きますが、イタリック体は、その周りの本文と学名を区別するためのものであると覚えておくと役に立ちます: 周りの文章がもしイタリック体で書かれていたら、学名は普通にまっすぐ立たせた文字で書きます。 
-
-https://www.sbj.or.jp/wp-content/uploads/file/sbj/8906/8906_yomoyama_2.pdf
-(生物工学基礎講座-バイオよもやま話-)
-微生物名ってどうやって決まるの？
-森　 浩二*・中川　恭好
-
-生物の種名（Escherichia coli）は，属名（Escherichia）
-と種形容語（coli）からなる学名で（リンネの二名法），
-ラテン語であるためイタリック表記する．
-
-Pseudomonas aeruginosa RH815Tのように，菌株名の
-後に上付文字の「T」がついている菌株は，その種の基
-準株であることを示している．
-
-https://www.enago.jp/learn/how-to-use-abbreviations.htm
-略語 >> 英語論文校正サービスのエナゴ
-略語は論文中で初出の際に、何の略であるのか定義するのが基本です。定義する際は、
-初めに正式名称を書き、その直後の丸括弧（parentheses）内に略語を記します。
-
-X	誤:	We analyzed the EPR (electron paramagnetic resonance) spectra of...
-○	正:	Correct: We analyzed the electron paramagnetic resonance (EPR) spectra of...
-DNAなど、世間に広く知られている略語を定義する必要はありません。投稿先のジャーナルの規程で、定義なしで使用できる略語のリストがあるかもしれません。チェックしてください。
-
-#### Plagiarism
-盗用
-
-http://ronbun.jp/chest/popup024/index.html
-Ronbun.jp - 剽窃(ひょうせつ)（盗用）科学論文執筆の際、危険を避けるために
-剽窃を避けるための方策
-言い換えや要約であっても、他人の貢献やアイデア、文章の引用を常に記載する。
-そのまま引用した文やデータは、引用符で囲む。
-
-「英語論文投稿のコツ」トップへ
-
-https://www.enago.jp/academy/how-to-avoid-plagiarism1/
-論文の 盗用・剽窃 を避けるコツ－前編
-On Dec 27, 2017 Last updated Jun 21, 2018
-■　盗用・剽窃対策5つのポイント 
-1　間接引用する
-2　直接引用には引用符を
-
-https://www.enago.jp/academy/journal-paper-plagiarism/
-研究論文での盗用を未然に防ぐには？ - 学術英語アカデミー
-On May 15, 2015 Last updated Jul 6, 2018
-1. 言い換え
-2. 引用符
-3. 引用する対象の取捨選択
-4. 引用元情報の記述
-
-https://www.editage.jp/insights/is-it-plagiarism-if-i-use-the-same-words-as-the-original-text-but-cite-the-source
-Q&A: 出典を明記しても、同じ単語を使って文章を書いたら剽窃とみなされますか？ | エディテージ・インサイト
-質問者 Editage Insights on 30 8月, 2016
-第3条: パラフレーズや要約をするにせよ、引用符で括るにせよ、自分の文章に利用する場合、出典はすべて明確にしなければらない。
-
-----------
-## presentation
-
-
-2016年2月
-遺伝研メソッドで学ぶ科学英語プレゼンテーション　感じる力、考える力、討論する力を育てる　動画・音声付き
-https://www.nig.ac.jp/jimu/soken/courses/OSC/contents/Q&A_j.pdf
-Q&Aを楽しもう!その1:質問をしよう
-その2:質問に答えよう
-
-2017/1/26, ver. 1
-http://kanamori.cs.tsukuba.ac.jp/docs/presentation_faqs.html
-研究発表でのよくある質問集
-
-2009-08-17
-http://takenaka-akio.org/doc/researcher/discussion.html
-学会での質疑応答 (TAKENAKA's Web Page)
-
-https://www.sci.hokudai.ac.jp/~minobe/class/presentation.html
-口頭・ポスター発表
-質問をしよう
-
-http://leeswijzer.org/diary2015-04.html#11
-◆［欹耳袋］大人数を前に噺をするということ —— 
-ひとつはスライドの形式．
-
-http://leeswijzer.org/diary2006-03.html##06
-◇〈講師論語〉 —— 先日，自宅の書棚を整理していたら，かつて純粋なオーバードクター（OD）だった頃に収入を得ていた，とある予備校の超名物講師（にして経営者）が講師全員に配布した〈講義心得：講師のための授業マニュアル〉なるヒミツ書類が出土した．
-15ページにわたってびっしり書かれたこの〈講義心得〉の見出しを下記に記す．それらは，ぼく自身が〈実践プレゼンテーションテクニック－講演はショータイム！－〉で書いたことに通じる（当然だ）．
-
-1997
-http://cse.naro.affrc.go.jp/minaka/files/oudoukon1997.html
-http://leeswijzer.org/files/oudoukon1997.html
-実践プレゼンテーションテクニック－講演はショータイム！－
-三中信宏
-
-https://twitter.com/3Bgoripachi/status/1012128869497753600
-ゴリぱち on Twitter: "学会用ポスターを作るときに、参考にしている資料です。 とても分かりやすくて、おすすめです。 https://t.co/8IkdlQAlLg… "
-
-https://twitter.com/search?q=科学論文にご用心、大半は誤り%20専門家が警鐘
-
-https://www.youtube.com/watch?v=6iwP1hMjxjs
-(2) How to CHAIR an academic session - YouTube
-
-http://d.hatena.ne.jp/takehikom/20120824/1345765064
-初めての国際会議座長 - わさっき
-
-http://www.geocities.jp/kusumotokeiji/eigo17.htm
-英語のプレゼンテーション、発表講演の例文を手軽に見て自然に学ぶサイト
-2. 英語での司会・座長の決まり文句
-
-----------
-### Presentation Zen
-https://www.presentationzen.com/presentationzen/
-
-https://www.youtube.com/watch?v=YbV3b-l1sZs
-Why storytelling matters | Garr Reynolds | TEDxKyoto - YouTube
-Oct 30, 2014
-
-https://www.youtube.com/watch?v=cVR7GK4ViUw
-[1] 効果的なプレゼンテーションとは - YouTube
-Aug 15, 2014
-
-https://www.youtube.com/watch?v=YmNsk-6cUZs
-[2] これからのプレゼンテーション～デザインがプレゼンテーションを変える - YouTube
-Aug 15, 2014
-
-----------
-## peer review
-査読
-
-http://scienceandtechnology.jp/archives/12909
-論文の査読レポートで使える英語表現 | 日本の科学と技術
-
-http://scienceandtechnology.jp/archives/12812
-査読のやり方、査読レポートの書き方 | 日本の科学と技術
-
-https://staff.aist.go.jp/a.ohta/japanese/study/Review_ex_top.htm
-英語論文の査読表現集
-
-
-
-
 
 ----------
 ### docker
@@ -735,19 +452,6 @@ http://apprize.info/data/bioinformatics/index.html
 Bioinformatics Data Skills (2015)
 http://apprize.info/data/bioinformatics/5.html
 Chapter 5. Git for Scientists
-
-----------
-
-## robust
-ロバスト
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2608848/
-Comparison of Correspondence Analysis Methods for Synonymous Codon Usage in Bacteria
-It is important to note that these results remained similar when all complete bacterial genomic sequences available from the NCBI repository on August 2008 were included (data not shown). Similar results were obtained when only long sequences with >300 codons were used (data not shown). We also verified the consistency of the results when using detection thresholds below |r| = 0.70 (data not shown). Thus we conclude that WCA is more effective than the other three methods in generating axes that correspond to variation in synonymous codon usage, regardless of the data sets and statistical criteria used.https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2602791/
-Using Mahalanobis distance to compare genomic signatures between bacterial plasmids and chromosomes
-
-We tested the robustness of our result that Mahalanobis distance performs better than the conventional δ-distance by varying chromosomal segment size, word size (e.g. tri- and tetra-nucleotides) (12,29,37) and composition of the host data set. Campbell et al. (11) and Wong et al. (20) used 50-kb chromosomal segments, while van Passel et al. (25) used plasmid-size chromosomal segments; that is, the segment size was not fixed but depended on the plasmid size. In the present study, we used a fixed segment size. We found that our results remained similar when partitioning chromosomal sequences into different sizes of segments; e.g. 2, 5, 10 and 20 kb in length (data not shown). Among these, 5 kb was selected because the median rank of the genomic signature similarities between plasmids and their known hosts was maximized. The results were also consistent with those obtained when using relative abundances of different word sizes (data not shown). We also demonstrated that our results were robust to the composition of the host data set by testing different subsets of bacteria, e.g. Proteobacteria, Firmicutes, Gram-positive bacteria, Gram-negative bacteria and also when only one representative was randomly selected in the case of species for which multiple strains have been sequenced (data not shown). Thus, Mahalanobis distance performed better than δ-distance in identifying plasmid hosts based on genomic signature similarity, regardless of the datasets used.
-
 
 
 ----------
