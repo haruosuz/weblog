@@ -14,6 +14,8 @@ What is the purpose of composition test?
 - [link](#link)
 - [unclassified](#unclassified)
 - 
+- https://github.com/haruosuz/metasub
+- https://github.com/haruosuz/metasub/blob/master/references/urban_biomes.md
 - https://github.com/haruosuz/microbe
 - https://github.com/haruosuz/microbe/blob/master/README.md
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.updates.md
@@ -275,7 +277,6 @@ Xavier Didelot on Twitter: "I'm pleased to have contributed a chapter with @Lass
 - https://twitter.com/oikawamaru
 オイカワ丸 (@oikawamaru) / Twitter
 - 
-- https://github.com/haruosuz/metasub/blob/master/references/urban_biomes.md
 - https://github.com/haruosuz/evolve
 - https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#orthofinder
 - https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md
@@ -295,10 +296,6 @@ Xavier Didelot on Twitter: "I'm pleased to have contributed a chapter with @Lass
 - https://twitter.com/kakenhi_com
 - https://科研費.com
 - https://github.com/haruosuz/mgsa
-- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#seqkit
-- https://github.com/haruosuz/metasub
-- https://twitter.com/search?q=Wolbachia%20plasmid
-- https://twitter.com/search?f=tweets&q=built%20environment%20microbiome&src=typd
 - https://www.ted.com/topics/biology
 - https://qiita.com/advent-calendar/2018/galaxy
 - https://ja.wikipedia.org/wiki/Sci-Hub
