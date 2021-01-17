@@ -72,26 +72,11 @@ https://peak.yodosha.jp/book_list/978-4-7581-1216-1/
 https://note.com/peakbooks/n/nb44cee2b6734
 『人類は感染症とともに生きていく 〜学校では教えてくれないパンデミックとワクチンの現代史』 【編集後記】｜PEAK books（ピークブックス）｜note
 
-
-
 ----------
 
 
-
-12:48 PM · Nov 29, 2020
-https://twitter.com/antiplastics/status/1332894189185421312
-もじゃもじゃのほう (Koki Tsuyuzaki) on Twitter: "「バイオインフォ分野におけるtidyなデータ解析の最新動向」 の発表資料を公開しました #mishimasyk https://t.co/87XxMi6iK6" / Twitter
-Published on Nov 29, 2020
-https://www2.slideshare.net/antiplastics/tidy-239579849
-バイオインフォ分野におけるtidyなデータ解析の最新動向
-
-2018-08-31
-https://www.krsk-phs.com/entry/simpsonparadox
-データ分析の不思議、シンプソンのパラドックスを統計的因果推論から考える - Unboundedly
-
-Published: September 11, 2014
-https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833
-Ten Simple Rules for Better Figures
+https://twitter.com/georgebest1969
+岩田健太郎 Kentaro Iwata (@georgebest1969) / Twitter
 
 https://twitter.com/senmonka21
 コロナ専門家有志の会 (@senmonka21) / Twitter
@@ -101,6 +86,10 @@ https://twitter.com/senmonka21/status/1315665607048622081
 コロナ専門家有志の会 on Twitter: "新型コロナの感染リスクを高める場面の具体的な例がわかってきました。新型コロナウイルス感染症対策分科会の第10回（2020年9月25日）で提言された、7つの場面をお伝えします。　 #ここが気になる新型コロナ #警戒の心は忘れずに https://t.co/yhiPjLTLoo" / Twitter
 https://note.stopcovid19.jp/n/n7dda9dd222d5
 感染リスクを高める7つの場面｜コロナ専門家有志の会
+
+
+----------
+
 
 
 
@@ -128,6 +117,27 @@ Prof. Akiko Iwasaki
 As we approach the cold winter months in the Northern Hemisphere, I want to share these movies of mucociliary clearance (MCC) in the trachea of mice housed at 10% vs. 50% relative humidity (RH). Captured by 
 @ericsongg
   (1/n)
+
+
+
+----------
+
+
+
+12:48 PM · Nov 29, 2020
+https://twitter.com/antiplastics/status/1332894189185421312
+もじゃもじゃのほう (Koki Tsuyuzaki) on Twitter: "「バイオインフォ分野におけるtidyなデータ解析の最新動向」 の発表資料を公開しました #mishimasyk https://t.co/87XxMi6iK6" / Twitter
+Published on Nov 29, 2020
+https://www2.slideshare.net/antiplastics/tidy-239579849
+バイオインフォ分野におけるtidyなデータ解析の最新動向
+
+2018-08-31
+https://www.krsk-phs.com/entry/simpsonparadox
+データ分析の不思議、シンプソンのパラドックスを統計的因果推論から考える - Unboundedly
+
+Published: September 11, 2014
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833
+Ten Simple Rules for Better Figures
 
 
 ----------
