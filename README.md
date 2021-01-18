@@ -56,6 +56,30 @@ What is the purpose of composition test?
 
 
 ----------
+- AMR
+- https://asm.org/Articles/2020/November/Some-Good-News-for-World-Antimicrobial-Awareness-W
+- https://www.cdc.gov/drugresistance/biggest-threats.html
+
+人と物の移動により微生物が移動する
+
+出典: Zhu et al. (2017) Science. 357(6356):1099-1100. "Microbial mass movements."
+
+Faria et al. (2016) Science. 352(6283):345-349. "Zika virus in the Americas: Early epidemiological and genetic findings.”
+
+
+
+https://www.primate.or.jp/serialization/109%EF%BC%8Eブラジルでの小頭症は1個のアミノ酸が置換し/ ブラジルにウイルスが持ち込まれた経路については、2014年のサッカー・ワールドカップ（6月から7月）、その直後のリオデジャネイロでのカヌー競技（8月）、2013年6月のコンフェデレーション・カップが候補に挙げられていた。ジカウイルスのゲノムでは、1年間に1000塩基中の1個の割合で変異が起きていると推定されている。この分子進化速度に基づいて計算すると、ウイルスがアメリカ大陸に持ち込まれた時期は、ワールドカップやカヌー競技よりも前で、コンフェデレーション・カップの時期に一致していた。しかし、この競技はポリネシアで最初のジカウイルス感染が確認される前に終わっていたため、このイベントとは関係ないと考えられた（1）。
+
+
+https://pubmed.ncbi.nlm.nih.gov/27013429/
+Science
+. 2016 Apr 15;352(6283):345-349. doi: 10.1126/science.aaf5036. Epub 2016 Mar 24.
+Zika virus in the Americas: Early epidemiological and genetic findings
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4918795/
+https://science.sciencemag.org/content/352/6283/345.long
+
+
+----------
 
 https://www.yodosha.co.jp/yodobook/book/9784758112161/6.html
 PEAK　books：人類は感染症とともに生きていく〜学校では教えてくれないパンデミックとワクチンの現代史 - 羊土社
