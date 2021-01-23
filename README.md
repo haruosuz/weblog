@@ -54,8 +54,13 @@ What is the purpose of composition test?
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.COVID-19.md
 
 
-----------
 
+----------
+2020.04
+
+https://www.morikita.co.jp/books/book/3433
+文化進化の数理 | 森北出版株式会社
+田村光平(著)
 
 https://shorebird.hatenablog.com/entry/2021/01/19/115621
 書評　「文化進化の数理」 - shorebird　進化心理学中心の書評など
@@ -66,6 +71,25 @@ MINAKA Nobuhiro on Twitter: "続）ワタクシの書評が滑り込みで間に
 https://leeswijzer.hatenadiary.com/entry/2021/01/20/173440
 『種を語ること、定義すること：種問題の科学哲学』書評 - leeswijzer: een nieuwe leeszaal van dagboek
 
+
+----------
+2013.08.28
+
+https://www.nttpub.co.jp/search/books/detail/100002272
+自然を名づける なぜ生物分類では直感と科学が衝突するのか｜書籍出版｜NTT出版
+
+https://shorebird.hatenablog.com/entry/20131014/1381746998
+「自然を名づける」 - shorebird　進化心理学中心の書評など
+
+2013年09月12日
+https://honz.jp/articles/-/32302
+『自然を名づける―なぜ生物分類では直感と科学が衝突するのか』　分類学の進化 - HONZ
+
+----------
+
+2010-09-20
+https://shorebird.hatenablog.com/entry/20100920/1284933356
+「進化論はなぜ哲学の問題になるのか」 - shorebird　進化心理学中心の書評など
 
 ----------
 
