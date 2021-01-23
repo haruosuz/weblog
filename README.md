@@ -19,8 +19,6 @@ What is the purpose of composition test?
 - https://github.com/haruosuz/microbe
 - https://github.com/haruosuz/microbe/blob/master/README.md
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.updates.md
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.COVID-19.md
 - 
 - https://github.com/haruosuz/DS4GD/tree/master/2020giga
 - https://github.com/haruosuz/DS4GD/blob/master/2020giga/README.md#guest-speaker
@@ -51,8 +49,29 @@ What is the purpose of composition test?
 - 
 - https://github.com/haruosuz/statistics
 - https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/index.html 統計の落とし穴と蜘蛛の糸 - Smart Lab Life - 羊土社
+- 
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.COVID-19.md
 
 
+----------
+
+
+
+https://www.yodosha.co.jp/yodobook/book/9784758112161/6.html
+PEAK　books：人類は感染症とともに生きていく〜学校では教えてくれないパンデミックとワクチンの現代史 - 羊土社
+PEAK　books
+人類は感染症とともに生きていく
+学校では教えてくれないパンデミックとワクチンの現代史
+ミーラ・センティリンガム，Meera Senthilingam／著，石黒千秋／翻訳
+2020年12月18日発行 四六判 207ページ ISBN 978-4-7581-1216-1
+
+https://peak.yodosha.jp/book_list/978-4-7581-1216-1/
+人類は感染症とともに生きていく 〜学校では教えてくれないパンデミックとワクチンの現代史 | PEAK books ピークブックス：科学と医療をこよなく愛する編集者が生み出した書籍レーベル
+
+2020/12/25 13:39
+https://note.com/peakbooks/n/nb44cee2b6734
+『人類は感染症とともに生きていく 〜学校では教えてくれないパンデミックとワクチンの現代史』 【編集後記】｜PEAK books（ピークブックス）｜note
 
 
 ----------
@@ -77,24 +96,6 @@ Science
 Zika virus in the Americas: Early epidemiological and genetic findings
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4918795/
 https://science.sciencemag.org/content/352/6283/345.long
-
-
-----------
-
-https://www.yodosha.co.jp/yodobook/book/9784758112161/6.html
-PEAK　books：人類は感染症とともに生きていく〜学校では教えてくれないパンデミックとワクチンの現代史 - 羊土社
-PEAK　books
-人類は感染症とともに生きていく
-学校では教えてくれないパンデミックとワクチンの現代史
-ミーラ・センティリンガム，Meera Senthilingam／著，石黒千秋／翻訳
-2020年12月18日発行 四六判 207ページ ISBN 978-4-7581-1216-1
-
-https://peak.yodosha.jp/book_list/978-4-7581-1216-1/
-人類は感染症とともに生きていく 〜学校では教えてくれないパンデミックとワクチンの現代史 | PEAK books ピークブックス：科学と医療をこよなく愛する編集者が生み出した書籍レーベル
-
-2020/12/25 13:39
-https://note.com/peakbooks/n/nb44cee2b6734
-『人類は感染症とともに生きていく 〜学校では教えてくれないパンデミックとワクチンの現代史』 【編集後記】｜PEAK books（ピークブックス）｜note
 
 ----------
 
