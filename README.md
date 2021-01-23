@@ -57,6 +57,19 @@ What is the purpose of composition test?
 ----------
 
 
+https://shorebird.hatenablog.com/entry/2021/01/19/115621
+書評　「文化進化の数理」 - shorebird　進化心理学中心の書評など
+
+
+https://twitter.com/leeswijzer/status/1351811265224605696
+MINAKA Nobuhiro on Twitter: "続）ワタクシの書評が滑り込みで間に合いました：網谷祐一『種を語ること、定義すること：種問題の科学哲学』（2020年12月，勁草書房）※書評公開しました：三中信宏「肩透かしから学ぶ「種問題」の現在」（2021年1月20日） https://t.co/kdFGML1G8J" / Twitter
+https://leeswijzer.hatenadiary.com/entry/2021/01/20/173440
+『種を語ること、定義すること：種問題の科学哲学』書評 - leeswijzer: een nieuwe leeszaal van dagboek
+
+
+----------
+
+
 
 https://www.yodosha.co.jp/yodobook/book/9784758112161/6.html
 PEAK　books：人類は感染症とともに生きていく〜学校では教えてくれないパンデミックとワクチンの現代史 - 羊土社
