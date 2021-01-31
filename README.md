@@ -54,6 +54,20 @@ What is the purpose of composition test?
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.COVID-19.md
 
 
+----------
+
+
+https://twitter.com/georgebest1969
+岩田健太郎 Kentaro Iwata (@georgebest1969) / Twitter
+
+https://twitter.com/senmonka21
+コロナ専門家有志の会 (@senmonka21) / Twitter
+
+11:48 PM · Oct 12, 2020·
+https://twitter.com/senmonka21/status/1315665607048622081
+コロナ専門家有志の会 on Twitter: "新型コロナの感染リスクを高める場面の具体的な例がわかってきました。新型コロナウイルス感染症対策分科会の第10回（2020年9月25日）で提言された、7つの場面をお伝えします。　 #ここが気になる新型コロナ #警戒の心は忘れずに https://t.co/yhiPjLTLoo" / Twitter
+https://note.stopcovid19.jp/n/n7dda9dd222d5
+感染リスクを高める7つの場面｜コロナ専門家有志の会
 
 ----------
 2020.04
@@ -133,22 +147,6 @@ Science
 Zika virus in the Americas: Early epidemiological and genetic findings
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4918795/
 https://science.sciencemag.org/content/352/6283/345.long
-
-----------
-
-
-https://twitter.com/georgebest1969
-岩田健太郎 Kentaro Iwata (@georgebest1969) / Twitter
-
-https://twitter.com/senmonka21
-コロナ専門家有志の会 (@senmonka21) / Twitter
-
-11:48 PM · Oct 12, 2020·
-https://twitter.com/senmonka21/status/1315665607048622081
-コロナ専門家有志の会 on Twitter: "新型コロナの感染リスクを高める場面の具体的な例がわかってきました。新型コロナウイルス感染症対策分科会の第10回（2020年9月25日）で提言された、7つの場面をお伝えします。　 #ここが気になる新型コロナ #警戒の心は忘れずに https://t.co/yhiPjLTLoo" / Twitter
-https://note.stopcovid19.jp/n/n7dda9dd222d5
-感染リスクを高める7つの場面｜コロナ専門家有志の会
-
 
 ----------
 
