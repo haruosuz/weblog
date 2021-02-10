@@ -75,21 +75,34 @@ https://twitter.com/senmonka21/status/1315665607048622081
 https://note.stopcovid19.jp/n/n7dda9dd222d5
 感染リスクを高める7つの場面｜コロナ専門家有志の会
 
+
+
+
+
 ----------
-2020.04
 
-https://www.morikita.co.jp/books/book/3433
-文化進化の数理 | 森北出版株式会社
-田村光平(著)
+http://www.nts-book.co.jp/item/detail/summary/bio/20051225_42.html
+『生物の科学 遺伝』（概要）
+2021年1月発行号　Vol.75 No.1　
+特集　新型コロナ・パンデミック(COVID-19) その衝撃と科学世界への影響 
 
-https://shorebird.hatenablog.com/entry/2021/01/19/115621
-書評　「文化進化の数理」 - shorebird　進化心理学中心の書評など
+11:28 AM · Dec 18, 2020
+https://twitter.com/kohanada/status/1339759397568856064
+hanada, kousuke on Twitter: "「遺伝」という雑誌で、コロナウイルス特集があります。結構面白いです。私も、博士の時のウイルスの進化研究を執筆しました。ただ、最新の知見を載せておらず、少し手を抜いたかなぁと反省しております。https://t.co/rycMAdrv2B" / Twitter
 
+10:41 AM · Apr 9, 2020
+https://twitter.com/kohanada/status/1248063481862995968
+『生物の科学 遺伝』に寄稿論文を載せました。私が以前に研究した「豚で起きていたパンデミック感染」について紹介しています。その時は、感染増大で進化速度が加速化し、ウイルスの多様性が生まれました。今回でもそのようなことが起きているかもしれません。
 
-https://twitter.com/leeswijzer/status/1351811265224605696
-MINAKA Nobuhiro on Twitter: "続）ワタクシの書評が滑り込みで間に合いました：網谷祐一『種を語ること、定義すること：種問題の科学哲学』（2020年12月，勁草書房）※書評公開しました：三中信宏「肩透かしから学ぶ「種問題」の現在」（2021年1月20日） https://t.co/kdFGML1G8J" / Twitter
-https://leeswijzer.hatenadiary.com/entry/2021/01/20/173440
-『種を語ること、定義すること：種問題の科学哲学』書評 - leeswijzer: een nieuwe leeszaal van dagboek
+新型コロナウイルス寄稿論文（『生物の科学 遺伝』Special） - seibutsu-kagaku-iden2 生物の科学 遺伝Webページ
+
+https://seibutsu-kagaku-iden2.jimdo.com/cov/suzuki/
+新型コロナウイルスの起源と進化
+鈴木　善幸
+
+https://seibutsu-kagaku-iden2.jimdo.com/cov/hanada/
+豚で起きていたコロナウイルスに近縁なウイルスでのパンデミック感染の紹介
+花田　耕介
 
 
 ----------
