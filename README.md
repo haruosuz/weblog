@@ -59,6 +59,13 @@ Projects - MetaSUB
 The MetaSEW Project - MetaSUB
 - 
 - https://github.com/SionBayliss/PIRATE/issues/65#issuecomment-775217066
+- 
+- https://github.com/haruosuz/weblog/blob/master/references/README.academic.md
+- https://github.com/haruosuz/weblog/blob/master/references/README.academic.md#2012-11-21
+2012-11-21 論理が伝わる　世界標準の「書く技術」
+- https://github.com/haruosuz/weblog/blob/master/references/README.academic.md#2001-01-01
+2001-01-01 どう書くか ―理科系のための論文作法―
+
 
 ----------
 
