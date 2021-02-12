@@ -6,8 +6,6 @@
 - [updates](#updates)
 [2020](2020)
 - [](#)
-- [](#)
-- [](#)
 - [2019-02-28](#2019-02-28) 国際誌にアクセプトされる医学論文　第2版
 - [2018-07-30](#2018-07-30) なぜ科学はストーリーを必要としているのか
 - [2017-08-01](#2017-08-01) なぜあなたの発表は伝わらないのか？
@@ -15,6 +13,8 @@
 - [2016-12-12](#2016-12-12) できる研究者の論文作成メソッド　書き上げるための実践ポイント Write It Up
 - [2015-04-08](#2015-04-08) できる研究者の論文生産術　どうすれば「たくさん」書けるのか How to Write a Lot
 - [2012-11-21](#2012-11-21) 論理が伝わる　世界標準の「書く技術」
+- [2001-01-01](#2001-01-01) どう書くか ―理科系のための論文作法―
+- [](#)
 - [1981-09-22](#1981-09-22) 理科系の作文技術
 - [paper](#paper)
   - [reading](#reading)
@@ -28,10 +28,6 @@
 
 ----------
 ## unclassified
-
-
-
-
 
 
 2020/08/09
@@ -150,8 +146,6 @@ http://blog.livedoor.jp/dr7/archives/52183516.html
 ----------
 ## 2016-07-07
 
-![](https://www.m-review.co.jp/img/thumb.php?maxwidth=200&maxheight=264&path=goods_picl_978-4-7792-1724-1.jpg)
-
 http://www.m-review.co.jp/book/detail/978-4-7792-1724-1
 書籍詳細 - なぜあなたは論文が書けないのか？ | メディカルレビュー社
 
@@ -162,27 +156,6 @@ http://www.m-review.co.jp/book/detail/978-4-7792-1724-1
 「なぜあなたの研究は進まないのか?」「なぜあなたは論文が書けないのか?」の2冊が素晴らしかった - yumulog | 社会人博士の日記
 - https://www.igaku-honyaku.jp/ホーム/書評なぜ論文が書けないのか/
 実は数年前に、ある素晴らしい書籍との出会いがありました。それは『理科系のための英文作法』（１９９４年）と『どう書くか､理科系の為の論文作法』（２００１年）という書籍でした（ともに杉原厚吉著）。これらの著書の中でも同様のことが解説されています。
-
-
-----------
-2001-01-01
-
-https://www.kyoritsu-pub.co.jp/kenpon/bookDetail/9784320005631
-どう書くか ―理科系のための論文作法― / 杉原 厚吉 著　 | 共立出版 教科書献本サイト
-ISBN		978-4-320-00563-1
-- https://twitter.com/search?q=%22理科系のための論文作法%22
-- https://www.amazon.co.jp/dp/4320005635
-- https://chika0509.hatenablog.com/entry/2016/04/29/212928
-- https://sleepy-yoshi.hatenablog.com/entry/20100304/p1
-
-----------
-1994-11-25
-
-http://www.chuko.co.jp/shinsho/1994/11/101216.html
-理科系のための英文作法｜新書｜中央公論新社
-ISBN	978-4-12-101216-6
-- https://twitter.com/search?q=%22理科系のための英文作法%22
-
 
 ----------
 ## 2016-12-12
@@ -217,6 +190,25 @@ https://bookclub.kodansha.co.jp/product?item=0000194754
 https://gendai.ismedia.jp/articles/-/35431
 世界に通じる“書く”技法「パラグラフ・ライティング」とはなにか（倉島 保美） | ブルーバックス | 講談社（1/2）
 https://gendai.ismedia.jp/articles/-/35431?page=2
+
+----------
+## 2001-01-01
+
+https://www.kyoritsu-pub.co.jp/kenpon/bookDetail/9784320005631
+どう書くか ―理科系のための論文作法― / 杉原 厚吉 著　 | 共立出版 教科書献本サイト
+ISBN		978-4-320-00563-1
+- https://twitter.com/search?q=%22理科系のための論文作法%22
+- https://www.amazon.co.jp/dp/4320005635
+- https://chika0509.hatenablog.com/entry/2016/04/29/212928
+- https://sleepy-yoshi.hatenablog.com/entry/20100304/p1
+
+----------
+1994-11-25
+
+http://www.chuko.co.jp/shinsho/1994/11/101216.html
+理科系のための英文作法｜新書｜中央公論新社
+ISBN	978-4-12-101216-6
+- https://twitter.com/search?q=%22理科系のための英文作法%22
 
 ----------
 ## 1981-09-22
