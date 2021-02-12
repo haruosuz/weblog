@@ -26,9 +26,6 @@
   - [Presentation Zen](#presentation)
 
 
-
-
-
 ----------
 ## unclassified
 
@@ -80,20 +77,6 @@ https://www.slideshare.net/kdmsnr/writing-a-paper-seven-suggestions
 Published on Oct 31, 2015
 
 
-
-
-
-
-
-
-https://www.amazon.co.jp/どう書くか―理科系のための論文作法-杉原-厚吉/dp/4320005635
-2001/1/1
-
-https://www.kyoritsu-pub.co.jp/kenpon/bookDetail/9784320005631
-どう書くか ―理科系のための論文作法― / 杉原 厚吉 著　 | 共立出版 教科書献本サイト
-
-- http://chika0509.hatenablog.com/entry/2016/04/29/212928
-- http://d.hatena.ne.jp/sleepy_yoshi/20100304/p1
 
 https://www.ki1tos.com/entry/2018/11/17/150454
 英語論文が出せなくてすべてが終わる前に - ハカセのあやしい研究ノート
@@ -188,6 +171,7 @@ https://www.kyoritsu-pub.co.jp/kenpon/bookDetail/9784320005631
 どう書くか ―理科系のための論文作法― / 杉原 厚吉 著　 | 共立出版 教科書献本サイト
 ISBN		978-4-320-00563-1
 - https://twitter.com/search?q=%22理科系のための論文作法%22
+- https://www.amazon.co.jp/dp/4320005635
 - https://chika0509.hatenablog.com/entry/2016/04/29/212928
 - https://sleepy-yoshi.hatenablog.com/entry/20100304/p1
 
