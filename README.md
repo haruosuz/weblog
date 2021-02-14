@@ -84,6 +84,13 @@ https://note.stopcovid19.jp/n/n7dda9dd222d5
 
 
 
+https://www.sciencedirect.com/science/article/pii/S266620272030032X#sec0036
+November 2020
+Review of ventilation strategies to reduce the risk of disease transmission in high occupancy buildings
+7. Conclusion
+Many of the current ventilation strategies that rely on centralised air distribution and ceiling level supply or recirculation can provide the optimum conditions for rapid disease spread in high occupancy buildings. On the other hand, displacement ventilation strategies, such as the natural ventilation or naturally assisted ventilation explored above, can provide an effective starting point for reclaiming our buildings for safe use. 
+
+
 
 
 ----------
