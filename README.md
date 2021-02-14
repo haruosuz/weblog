@@ -4,8 +4,6 @@ Last Update: 2021-01
 
 # weblog
 
-- http://www.iqtree.org/doc/Frequently-Asked-Questions#what-is-the-purpose-of-composition-test
-What is the purpose of composition test?
 
 
 ## Table of Contents
@@ -36,7 +34,21 @@ What is the purpose of composition test?
 - https://www.sfc.keio.ac.jp/deans_diary/
 - 
 - https://twitter.com
-- https://twitter.com/home
+- 
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.COVID-19.md
+- 
+- https://github.com/haruosuz/metasub
+- https://github.com/haruosuz/metasub/blob/master/references/urban_biomes.md
+- http://metasub.org/projects/
+Projects - MetaSUB
+- http://metasub.org/the-metasew-project/
+The MetaSEW Project - MetaSUB
+- 
+- https://github.com/SionBayliss/PIRATE/issues/65#issuecomment-775217066
+- 
+- http://www.iqtree.org/doc/Frequently-Asked-Questions#what-is-the-purpose-of-composition-test
+What is the purpose of composition test?
+- 
 - https://github.com/haruosuz/bioinfo
 - https://github.com/haruosuz/bioinfo/blob/master/references/README.reproducibility.md
 - https://github.com/haruosuz/bioinfo/blob/master/2020/CaseStudy.md#2020-07-06
@@ -49,23 +61,13 @@ What is the purpose of composition test?
 - https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/index.html 統計の落とし穴と蜘蛛の糸 - Smart Lab Life - 羊土社
 - 
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.COVID-19.md
 - 
-- https://github.com/haruosuz/metasub
-- https://github.com/haruosuz/metasub/blob/master/references/urban_biomes.md
-- http://metasub.org/projects/
-Projects - MetaSUB
-- http://metasub.org/the-metasew-project/
-The MetaSEW Project - MetaSUB
-- 
-- https://github.com/SionBayliss/PIRATE/issues/65#issuecomment-775217066
 - 
 - https://github.com/haruosuz/weblog/blob/master/references/README.academic.md
 - https://github.com/haruosuz/weblog/blob/master/references/README.academic.md#2012-11-21
 2012-11-21 論理が伝わる　世界標準の「書く技術」
 - https://github.com/haruosuz/weblog/blob/master/references/README.academic.md#2001-01-01
 2001-01-01 どう書くか ―理科系のための論文作法―
-
 
 ----------
 
