@@ -1,10 +1,8 @@
-Last Update: 2021-01
+Last Update: 2021-02
 
 ----------
 
 # weblog
-
-
 
 ## Table of Contents
 - [updates](#updates)
@@ -45,6 +43,7 @@ Projects - MetaSUB
 The MetaSEW Project - MetaSUB
 - 
 - https://github.com/SionBayliss/PIRATE/issues/65#issuecomment-775217066
+gaps in core_alignment.fasta · Issue #65 · SionBayliss/PIRATE
 - 
 - http://www.iqtree.org/doc/Frequently-Asked-Questions#what-is-the-purpose-of-composition-test
 What is the purpose of composition test?
@@ -68,6 +67,12 @@ What is the purpose of composition test?
 2012-11-21 論理が伝わる　世界標準の「書く技術」
 - https://github.com/haruosuz/weblog/blob/master/references/README.academic.md#2001-01-01
 2001-01-01 どう書くか ―理科系のための論文作法―
+
+
+
+5:32 AM · Feb 15, 2021
+https://twitter.com/vscooper/status/1361050785187049475
+Vaughn Cooper on Twitter: "Chance, parallelism or convergence? A🧵inspired by today's preprint. https://t.co/13FVi6PSJJ" / Twitter
 
 ----------
 
