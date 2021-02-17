@@ -74,6 +74,12 @@ What is the purpose of composition test?
 https://twitter.com/vscooper/status/1361050785187049475
 Vaughn Cooper on Twitter: "Chance, parallelism or convergence? A🧵inspired by today's preprint. https://t.co/13FVi6PSJJ" / Twitter
 
+
+https://brh.co.jp/s_library/interview/70/
+統計学から進化と多様性の森に分け入って | サイエンティスト・ライブラリー | JT生命誌研究館
+Hasegawa Masami
+長谷川 政美
+
 ----------
 
 
