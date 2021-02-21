@@ -5,10 +5,16 @@ Last Update: 2021-02
 # weblog
 
 ## Table of Contents
+- 
 - [updates](#updates)
   - [2018](#2018)
 - [link](#link)
 - [unclassified](#unclassified)
+- 
+- 
+- https://gendai.ismedia.jp/list/tag/進化
+- https://gendai.ismedia.jp/list/series/shinkanokogi
+更科功の「一番簡単な進化の講義」 | ブルーバックス
 - 
 - https://github.com/haruosuz/microbe
 - https://github.com/haruosuz/microbe/blob/master/README.md
@@ -68,11 +74,6 @@ What is the purpose of composition test?
 - https://github.com/haruosuz/weblog/blob/master/references/README.academic.md#2001-01-01
 2001-01-01 どう書くか ―理科系のための論文作法―
 
-https://gendai.ismedia.jp/list/series/shinkanokogi
-更科功の「一番簡単な進化の講義」 | ブルーバックス
-
-https://gendai.ismedia.jp/articles/-/36827?media=bb
-ヒトとチンパンジー、どうして「似てる」といえるのか（更科 功） | ブルーバックス | 講談社（1/2）
 
 
 https://twitter.com/kutsunasatoshi/status/1360414637624184832
