@@ -16,6 +16,10 @@ Last Update: 2021-02
 - https://gendai.ismedia.jp/list/series/shinkanokogi
 更科功の「一番簡単な進化の講義」 | ブルーバックス
 - 
+- https://github.com/haruosuz/evolve
+- https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md
+- https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md
+- 
 - https://github.com/haruosuz/microbe
 - https://github.com/haruosuz/microbe/blob/master/README.md
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.updates.md
@@ -73,8 +77,6 @@ What is the purpose of composition test?
 2012-11-21 論理が伝わる　世界標準の「書く技術」
 - https://github.com/haruosuz/weblog/blob/master/references/README.academic.md#2001-01-01
 2001-01-01 どう書くか ―理科系のための論文作法―
-
-
 
 https://twitter.com/kutsunasatoshi/status/1360414637624184832
 忽那賢志 on Twitter: "話題になっている「二重マスク」について書きました。結論としては、大事なのはマスクが顔にフィットしているかどうかなので、小顔の方はフィット感の向上のために参考にしても良いのかもしれません。 二重かどうかよりもマスクを適切に着けることの方が重要かと思います。 https://t.co/GGfw5KwGZL" / Twitter
@@ -405,10 +407,6 @@ Xavier Didelot on Twitter: "I'm pleased to have contributed a chapter with @Lass
 
 - https://twitter.com/oikawamaru
 オイカワ丸 (@oikawamaru) / Twitter
-- 
-- https://github.com/haruosuz/evolve
-- https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md#orthofinder
-- https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md
 - 
 - https://benjjneb.github.io/dada2/tutorial.html
 - 
