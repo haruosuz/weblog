@@ -85,6 +85,11 @@ https://news.yahoo.co.jp/byline/kutsunasatoshi/20210213-00222371/
 感染防止のために「二重マスク」にすべきなのか？(忽那賢志) - 個人 - Yahoo!ニュース
 
 
+5:17 AM · Feb 19, 2021
+https://twitter.com/kwasiscientific/status/1362496383618600961
+Kwasi Wrensford on Twitter: "Aight, I don’t want to just complain about it, so here’s a simple explainer! Convergent evolution describes when unrelated populations of living things independently evolve similar traits in response to similar pressures in their respective environments. (1/9)" / Twitter
+
+
 5:32 AM · Feb 15, 2021
 https://twitter.com/vscooper/status/1361050785187049475
 Vaughn Cooper on Twitter: "Chance, parallelism or convergence? A🧵inspired by today's preprint. https://t.co/13FVi6PSJJ" / Twitter
