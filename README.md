@@ -68,6 +68,12 @@ What is the purpose of composition test?
 - https://github.com/haruosuz/weblog/blob/master/references/README.academic.md#2001-01-01
 2001-01-01 どう書くか ―理科系のための論文作法―
 
+https://gendai.ismedia.jp/list/series/shinkanokogi
+更科功の「一番簡単な進化の講義」 | ブルーバックス
+
+https://gendai.ismedia.jp/articles/-/36827?media=bb
+ヒトとチンパンジー、どうして「似てる」といえるのか（更科 功） | ブルーバックス | 講談社（1/2）
+
 
 https://twitter.com/kutsunasatoshi/status/1360414637624184832
 忽那賢志 on Twitter: "話題になっている「二重マスク」について書きました。結論としては、大事なのはマスクが顔にフィットしているかどうかなので、小顔の方はフィット感の向上のために参考にしても良いのかもしれません。 二重かどうかよりもマスクを適切に着けることの方が重要かと思います。 https://t.co/GGfw5KwGZL" / Twitter
