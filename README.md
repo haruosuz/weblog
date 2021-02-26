@@ -85,6 +85,11 @@ https://news.yahoo.co.jp/byline/kutsunasatoshi/20210213-00222371/
 感染防止のために「二重マスク」にすべきなのか？(忽那賢志) - 個人 - Yahoo!ニュース
 
 
+7:28 AM · Feb 23, 2021
+https://twitter.com/RobLanfear/status/1363979095390912513
+Rob Social Distancing Lanfear on Twitter: "Pleased to announce the birth of QMaker, which allows you to easily estimate amino-acid replacement matrices from your own data. Doing this work with @bq_minh, Cuong Cao Dang, and Le Sy Vinh threw up a few surprises, so here's a little  https://t.co/wWlFi5pHAf" / Twitter
+
+
 5:17 AM · Feb 19, 2021
 https://twitter.com/kwasiscientific/status/1362496383618600961
 Kwasi Wrensford on Twitter: "Aight, I don’t want to just complain about it, so here’s a simple explainer! Convergent evolution describes when unrelated populations of living things independently evolve similar traits in response to similar pressures in their respective environments. (1/9)" / Twitter
