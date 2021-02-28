@@ -96,6 +96,13 @@ https://brh.co.jp/s_library/interview/70/
 Hasegawa Masami
 長谷川 政美
 
+
+公開日: 2019/11/12 最終更新日: 2020/10/20
+https://kimbio.info/系統樹の見方をわかりやすく解説/
+系統樹の見方をわかりやすく解説 – Kim Biology & Informatics
+
+
+
 ----------
 
 
