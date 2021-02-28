@@ -11,6 +11,10 @@ Last Update: 2021-02
 - [link](#link)
 - [unclassified](#unclassified)
 - 
+- https://github.com/haruosuz/plasmids
+- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_resistance.md
+- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_metagenome.md
+- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_IncP1.md
 - 
 - https://gendai.ismedia.jp/list/tag/進化
 - https://gendai.ismedia.jp/list/series/shinkanokogi
@@ -19,6 +23,7 @@ Last Update: 2021-02
 - https://github.com/haruosuz/evolve
 - https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md
 - https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md
+- https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md#convergent
 - 
 - https://github.com/haruosuz/microbe
 - https://github.com/haruosuz/microbe/blob/master/README.md
@@ -62,10 +67,6 @@ What is the purpose of composition test?
 - https://github.com/haruosuz/bioinfo/blob/master/references/README.reproducibility.md
 - https://github.com/haruosuz/bioinfo/blob/master/2020/CaseStudy.md#2020-07-06
 - 
-- https://github.com/haruosuz/plasmids
-- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_resistance.md
-- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_metagenome.md
-- 
 - https://github.com/haruosuz/statistics
 - https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/index.html 統計の落とし穴と蜘蛛の糸 - Smart Lab Life - 羊土社
 - 
@@ -88,16 +89,6 @@ https://news.yahoo.co.jp/byline/kutsunasatoshi/20210213-00222371/
 7:28 AM · Feb 23, 2021
 https://twitter.com/RobLanfear/status/1363979095390912513
 Rob Social Distancing Lanfear on Twitter: "Pleased to announce the birth of QMaker, which allows you to easily estimate amino-acid replacement matrices from your own data. Doing this work with @bq_minh, Cuong Cao Dang, and Le Sy Vinh threw up a few surprises, so here's a little  https://t.co/wWlFi5pHAf" / Twitter
-
-
-5:17 AM · Feb 19, 2021
-https://twitter.com/kwasiscientific/status/1362496383618600961
-Kwasi Wrensford on Twitter: "Aight, I don’t want to just complain about it, so here’s a simple explainer! Convergent evolution describes when unrelated populations of living things independently evolve similar traits in response to similar pressures in their respective environments. (1/9)" / Twitter
-
-
-5:32 AM · Feb 15, 2021
-https://twitter.com/vscooper/status/1361050785187049475
-Vaughn Cooper on Twitter: "Chance, parallelism or convergence? A🧵inspired by today's preprint. https://t.co/13FVi6PSJJ" / Twitter
 
 
 https://brh.co.jp/s_library/interview/70/
