@@ -107,6 +107,27 @@ https://kimbio.info/系統樹の見方をわかりやすく解説/
 
 
 
+
+https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md#outgroup
+
+http://phylobotanist.blogspot.com/2015/01/how-to-root-phylogenetic-tree-outgroup.html
+How to root a phylogenetic tree: outgroup, midpoint and other methods
+- Outgroup rooting
+- Midpoint rooting
+- Ultrametric trees
+- Asymmetric step-matrices
+- Gene duplication events
+
+http://cabbagesofdoom.blogspot.com/2012/06/how-to-root-phylogenetic-tree.html
+How to root a phylogenetic tree
+Unrooted. 
+Midpoint Rooting.
+Outgroup Rooting.
+Why does the root matter?
+
+
+
+
 ----------
 
 
