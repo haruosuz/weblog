@@ -22,6 +22,19 @@ https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-018-0541-1
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6138922/
 
 ----------
+2022-08-18
+
+https://bookclub.kodansha.co.jp/product?item=0000368928
+『最小にして人類最大の宿敵　病原体の世界　歴史をも動かすミクロの攻防』（旦部　幸博，北川　善紀）：ブルーバックス｜講談社BOOK倶楽部
+
+9:24 AM · Nov 17, 2022
+https://twitter.com/y_tambe/status/1593037409972731904
+Y Tambe on Twitter: "講談社WEBブルーバックスでコラムが公開されました。 なぜ生物兵器に利用される？　細菌学の由緒正しき微生物「炭疽菌」（旦部 幸博,北川 善紀） | ブルーバックス | 講談社（1/4） https://t.co/mL1sTP4uCm" / Twitter
+2022.11.16
+https://gendai.media/articles/-/100721
+なぜ生物兵器に利用される？　細菌学の由緒正しき微生物「炭疽菌」（旦部 幸博,北川 善紀） | ブルーバックス | 講談社（1/4）
+
+----------
 
 http://sfcbus.jp/
 慶応大学本館前
