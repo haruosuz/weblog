@@ -8,31 +8,8 @@
 - [unclassified](#unclassified)
 - 
 
-----------
 
-https://kazumaxneo.hatenablog.com/entry/2018/10/07/073000
-複数のbiningツールを統合し、包括的なメタゲノム解析を行うパイプライン metaWRAP - macでインフォマティクス
-https://github.com/bxlab/metaWRAP
-https://pubmed.ncbi.nlm.nih.gov/30219103/
-Microbiome
-. 2018 Sep 15;6(1):158. doi: 10.1186/s40168-018-0541-1.
-MetaWRAP-a flexible pipeline for genome-resolved metagenomic data analysis
-Gherman V Uritskiy 1, Jocelyne DiRuggiero 2, James Taylor 3
-https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-018-0541-1
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6138922/
 
-----------
-2022-08-18
-
-https://bookclub.kodansha.co.jp/product?item=0000368928
-『最小にして人類最大の宿敵　病原体の世界　歴史をも動かすミクロの攻防』（旦部　幸博，北川　善紀）：ブルーバックス｜講談社BOOK倶楽部
-
-9:24 AM · Nov 17, 2022
-https://twitter.com/y_tambe/status/1593037409972731904
-Y Tambe on Twitter: "講談社WEBブルーバックスでコラムが公開されました。 なぜ生物兵器に利用される？　細菌学の由緒正しき微生物「炭疽菌」（旦部 幸博,北川 善紀） | ブルーバックス | 講談社（1/4） https://t.co/mL1sTP4uCm" / Twitter
-2022.11.16
-https://gendai.media/articles/-/100721
-なぜ生物兵器に利用される？　細菌学の由緒正しき微生物「炭疽菌」（旦部 幸博,北川 善紀） | ブルーバックス | 講談社（1/4）
 
 ----------
 
@@ -76,7 +53,6 @@ https://github.com/haruosuz/microbe/blob/master/references/microbe.video.md
 
 https://www.youtube.com/watch?v=6564K4-_DBI&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc Microbiome Discovery 1: Intro to the Microbiome - YouTube
 
-
 2013/07/02
 https://www.youtube.com/watch?v=S-o-sdlzhkE
 R 1.2 - Calculations and Variables - YouTube
@@ -99,6 +75,7 @@ When humans go to #space, microbes go with them. Researchers are learning how sp
 https://asm.org/Articles/2022/October/Out-of-This-World-Microbes-in-Space
 
 Sept. 19, 2022 https://asm.org/Articles/2022/September/Metro-Microbes-Microbiomes-of-Public-Transit-Urban Metro Microbes: Microbiomes of Public Transit & Urban Spaces
+
 
 ----------
 
@@ -126,13 +103,16 @@ vx-underground on Twitter: "Insert commas into your password so when your creden
 
 ----------
 
-- https://twitter.com/Mokanishi
-ひろしまもづる 7/21 『生物を分けると世界が分かる』（講談社ブルーバックス）発売 (@Mokanishi) / Twitter
-http://www.tezuru-mozuru.com/
-チームてづるもづる – クモヒトデ類を研究している岡西政典のHPです
-https://gendai.media/articles/-/99739
-クモヒトデ綱テヅルモヅル・数十種の名付け親！　若手研究者が語る「分類学」（岡西 政典） | ブルーバックス | 講談社（1/2）
-
+https://kazumaxneo.hatenablog.com/entry/2018/10/07/073000
+複数のbiningツールを統合し、包括的なメタゲノム解析を行うパイプライン metaWRAP - macでインフォマティクス
+https://github.com/bxlab/metaWRAP
+https://pubmed.ncbi.nlm.nih.gov/30219103/
+Microbiome
+. 2018 Sep 15;6(1):158. doi: 10.1186/s40168-018-0541-1.
+MetaWRAP-a flexible pipeline for genome-resolved metagenomic data analysis
+Gherman V Uritskiy 1, Jocelyne DiRuggiero 2, James Taylor 3
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-018-0541-1
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6138922/
 
 ----------
 2022-07-21
@@ -146,6 +126,19 @@ https://twitter.com/AlexJProbst/status/1546589615779463168
 𝙰𝚕𝚎𝚡 𝙿𝚛𝚘𝚋𝚜𝚝 on Twitter: "Eventually! CheckM2 is there! It also performs well in predicting genome completeness of CPR and DPANN! One grain of salt though: The software was only benchmarked against the lab’s previous version CheckM1, not against all the other tools out there… https://t.co/nmzwopG8n0" / Twitter
 
 ----------
+2022-08-18
+
+https://bookclub.kodansha.co.jp/product?item=0000368928
+『最小にして人類最大の宿敵　病原体の世界　歴史をも動かすミクロの攻防』（旦部　幸博，北川　善紀）：ブルーバックス｜講談社BOOK倶楽部
+
+9:24 AM · Nov 17, 2022
+https://twitter.com/y_tambe/status/1593037409972731904
+Y Tambe on Twitter: "講談社WEBブルーバックスでコラムが公開されました。 なぜ生物兵器に利用される？　細菌学の由緒正しき微生物「炭疽菌」（旦部 幸博,北川 善紀） | ブルーバックス | 講談社（1/4） https://t.co/mL1sTP4uCm" / Twitter
+2022.11.16
+https://gendai.media/articles/-/100721
+なぜ生物兵器に利用される？　細菌学の由緒正しき微生物「炭疽菌」（旦部 幸博,北川 善紀） | ブルーバックス | 講談社（1/4）
+
+----------
 
 https://github.com/haruosuz/r4bioinfo/blob/master/references/R.bio.md#bioseq
 
@@ -156,7 +149,6 @@ Vignettes:
 Introduction to the 'bioseq' package https://cloud.r-project.org/web/packages/bioseq/vignettes/intro-bioseq.html
 
 Reference database preparation with the 'bioseq' package https://cloud.r-project.org/web/packages/bioseq/vignettes/ref_database.html
-
 
 ----------
 
