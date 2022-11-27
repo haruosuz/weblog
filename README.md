@@ -8,9 +8,6 @@
 - [unclassified](#unclassified)
 - 
 
-
-
-
 ----------
 
 http://sfcbus.jp/
@@ -69,6 +66,44 @@ https://www.mdpi.com/special_issues_guidelines
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.urban.md#danko_2021
 - https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
 
+
+
+----------
+
+https://twitter.com/y_tambe
+
+9:14 AM · Nov 23, 2022
+https://twitter.com/y_tambe/status/1595209086001238016
+Y Tambe on Twitter: "講談社webブルーバックスでコラム公開されました。 ありがたくない冬の風物詩「ノロウイルス」寒い時期になぜ流行る？（旦部 幸博,北川 善紀） | ブルーバックス | 講談社（1/3） https://t.co/BvUh0qJIyH" / Twitter
+https://gendai.media/articles/-/100934
+ありがたくない冬の風物詩「ノロウイルス」寒い時期になぜ流行る？（旦部 幸博,北川 善紀） | ブルーバックス | 講談社（1/3）
+
+9:24 AM · Nov 17, 2022
+https://twitter.com/y_tambe/status/1593037409972731904
+Y Tambe on Twitter: "講談社WEBブルーバックスでコラムが公開されました。 なぜ生物兵器に利用される？　細菌学の由緒正しき微生物「炭疽菌」（旦部 幸博,北川 善紀） | ブルーバックス | 講談社（1/4） https://t.co/mL1sTP4uCm" / Twitter
+2022.11.16
+https://gendai.media/articles/-/100721
+なぜ生物兵器に利用される？　細菌学の由緒正しき微生物「炭疽菌」（旦部 幸博,北川 善紀） | ブルーバックス | 講談社（1/4）
+
+
+2022-08-18
+
+https://bookclub.kodansha.co.jp/product?item=0000368928
+『最小にして人類最大の宿敵　病原体の世界　歴史をも動かすミクロの攻防』（旦部　幸博，北川　善紀）：ブルーバックス｜講談社BOOK倶楽部
+
+----------
+
+https://github.com/haruosuz/r4bioinfo/blob/master/references/R.bio.md#bioseq
+
+https://cran.r-project.org/package=bioseq
+
+Vignettes:
+
+Introduction to the 'bioseq' package https://cloud.r-project.org/web/packages/bioseq/vignettes/intro-bioseq.html
+
+Reference database preparation with the 'bioseq' package https://cloud.r-project.org/web/packages/bioseq/vignettes/ref_database.html
+
+
 ----------
 
 When humans go to #space, microbes go with them. Researchers are learning how space impacts the microbes living in, on and around astronauts—and how they can be used to advance future missions. Learn more: https://asm.social/S3
@@ -124,31 +159,6 @@ https://www.biorxiv.org/content/10.1101/2022.07.11.499243v1.full
 5:17 AM · Jul 12, 2022·
 https://twitter.com/AlexJProbst/status/1546589615779463168
 𝙰𝚕𝚎𝚡 𝙿𝚛𝚘𝚋𝚜𝚝 on Twitter: "Eventually! CheckM2 is there! It also performs well in predicting genome completeness of CPR and DPANN! One grain of salt though: The software was only benchmarked against the lab’s previous version CheckM1, not against all the other tools out there… https://t.co/nmzwopG8n0" / Twitter
-
-----------
-2022-08-18
-
-https://bookclub.kodansha.co.jp/product?item=0000368928
-『最小にして人類最大の宿敵　病原体の世界　歴史をも動かすミクロの攻防』（旦部　幸博，北川　善紀）：ブルーバックス｜講談社BOOK倶楽部
-
-9:24 AM · Nov 17, 2022
-https://twitter.com/y_tambe/status/1593037409972731904
-Y Tambe on Twitter: "講談社WEBブルーバックスでコラムが公開されました。 なぜ生物兵器に利用される？　細菌学の由緒正しき微生物「炭疽菌」（旦部 幸博,北川 善紀） | ブルーバックス | 講談社（1/4） https://t.co/mL1sTP4uCm" / Twitter
-2022.11.16
-https://gendai.media/articles/-/100721
-なぜ生物兵器に利用される？　細菌学の由緒正しき微生物「炭疽菌」（旦部 幸博,北川 善紀） | ブルーバックス | 講談社（1/4）
-
-----------
-
-https://github.com/haruosuz/r4bioinfo/blob/master/references/R.bio.md#bioseq
-
-https://cran.r-project.org/package=bioseq
-
-Vignettes:
-
-Introduction to the 'bioseq' package https://cloud.r-project.org/web/packages/bioseq/vignettes/intro-bioseq.html
-
-Reference database preparation with the 'bioseq' package https://cloud.r-project.org/web/packages/bioseq/vignettes/ref_database.html
 
 ----------
 
