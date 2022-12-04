@@ -66,7 +66,17 @@ https://www.mdpi.com/special_issues_guidelines
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.urban.md#danko_2021
 - https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
 
+https://twitter.com/Micro_MDPI/status/1597202073413509121
+Microorganisms MDPI on Twitter: "📢New Special Issue #mdpimicroorganisms Dr. Haruo Suzuki and Dr. Soojin Jang are leading this Special Issue "The #Urban #Microbiome" for us, check the website: https://t.co/vDqtEYkl2e and submit your publications! https://t.co/C3Xwvso462" / Twitter
 
+https://www.mdpi.com/journal/microorganisms/special_issues/VV03015W12
+Microorganisms | Special Issue : The Urban Microbiome
+
+https://www.mdpi.com/2076-2607/10/12/2311
+Microorganisms | Free Full-Text | The Microbiome of the Built Environment: The Nexus for Urban Regeneration for the Cities of Tomorrow
+
+https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01407-8
+Human microbiota drives hospital-associated antimicrobial resistance dissemination in the urban environment and mirrors patient case rates | Microbiome | Full Text
 
 ----------
 
