@@ -10,29 +10,6 @@
 
 ----------
 
-http://sfcbus.jp/
-慶応大学本館前
-
-カウントダウン
-http://sfcbus.jp/kh-weekday.html
-時刻表（平日）
-http://sfcbus.jp/kh-weekday-j.html
-
-- https://sfcclip.net/bus/
-- http://www.kanachu.co.jp/dia/diagram/timetable/cs:0000800447-1/nid:00129985/rt:0/k:慶応大学
-- https://www.sfc.keio.ac.jp/gsmg/about/faculty/
-- https://www.sfc.keio.ac.jp/deans_diary/
-
-----------
-
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.COVID-19.md
-- 
-- https://twitter.com
-- https://twitter.com/copypasteusa
-- https://twitter.com/copypasteusa/likes
-
-----------
-
 ### class
 
 - https://github.com/haruosuz/DS4GD
@@ -54,9 +31,33 @@ https://www.youtube.com/watch?v=6564K4-_DBI&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9
 https://www.youtube.com/watch?v=S-o-sdlzhkE
 R 1.2 - Calculations and Variables - YouTube
 
-Dave Hone - "How to read a phylogenetic tree" https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/
+- Andrew Rambaut - "How to read a phylogenetic tree", 2018-07-30 https://artic.network/how-to-read-a-tree.html
+- Dave Hone - "How to read a phylogenetic tree" https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/
+- 2015-01-05 [PhyloBotanist: How to root a phylogenetic tree: outgroup, midpoint and other methods](http://phylobotanist.blogspot.com/2015/01/how-to-root-phylogenetic-tree-outgroup.html)
+- 2012-06-07 [The Cabbages of Doom: How to root a phylogenetic tree](http://cabbagesofdoom.blogspot.com/2012/06/how-to-root-phylogenetic-tree.html)
 
-Andrew Rambaut - "How to read a phylogenetic tree", 2018-07-30 https://artic.network/how-to-read-a-tree.html
+----------
+
+http://sfcbus.jp/
+慶応大学本館前
+
+カウントダウン
+http://sfcbus.jp/kh-weekday.html
+時刻表（平日）
+http://sfcbus.jp/kh-weekday-j.html
+
+- https://sfcclip.net/bus/
+- http://www.kanachu.co.jp/dia/diagram/timetable/cs:0000800447-1/nid:00129985/rt:0/k:慶応大学
+- https://www.sfc.keio.ac.jp/gsmg/about/faculty/
+- https://www.sfc.keio.ac.jp/deans_diary/
+
+----------
+
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.COVID-19.md
+- 
+- https://twitter.com
+- https://twitter.com/copypasteusa
+- https://twitter.com/copypasteusa/likes
 
 ----------
 
