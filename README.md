@@ -61,6 +61,20 @@ http://sfcbus.jp/kh-weekday-j.html
 
 ----------
 
+https://www.nig.ac.jp/nig/ja/2018/06/research-highlights_ja/20180613.html
+高速かつ高精度に細菌群集の系統組成を推定するツールVITCOMIC2を開発
+ゲノム進化研究室・黒川研究室
+
+https://www.nig.ac.jp/nig/ja/2018/06/research-highlights_ja/20180619.html
+環境と微生物をビッグデータでつなぐ ～「環境」から微生物を検索し、微生物から「環境」を予測するウェブツール「LEA」を開発～
+Press Release
+ゲノム進化研究室・黒川研究室
+
+http://133.39.177.105/lea/help_ja.html
+LEA global map: How-To-Use
+
+----------
+
 https://www.mdpi.com/special_issues_guidelines
 
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.urban.md
