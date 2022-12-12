@@ -41,6 +41,7 @@ R 1.2 - Calculations and Variables - YouTube
 https://github.com/haruosuz/r4bioinfo/tree/master/R_codon
 
 https://github.com/jlw-ecoevo/gRodon2
+http://microbialgamut.com/gRodon-vignette
 
 http://bioconductor.org/packages/coRdon/
 https://bioconductor.org/packages/release/bioc/vignettes/coRdon/inst/doc/coRdon.html
