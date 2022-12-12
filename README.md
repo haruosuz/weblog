@@ -36,6 +36,14 @@ R 1.2 - Calculations and Variables - YouTube
 - 2015-01-05 [PhyloBotanist: How to root a phylogenetic tree: outgroup, midpoint and other methods](http://phylobotanist.blogspot.com/2015/01/how-to-root-phylogenetic-tree-outgroup.html)
 - 2012-06-07 [The Cabbages of Doom: How to root a phylogenetic tree](http://cabbagesofdoom.blogspot.com/2012/06/how-to-root-phylogenetic-tree.html)
 
+----------
+
+https://github.com/haruosuz/r4bioinfo/tree/master/R_codon
+
+https://github.com/jlw-ecoevo/gRodon2
+
+http://bioconductor.org/packages/coRdon/
+https://bioconductor.org/packages/release/bioc/vignettes/coRdon/inst/doc/coRdon.html
 
 
 
@@ -93,6 +101,20 @@ https://note.com/masakadokawata/n/n2dfc4217831e
 https://twitter.com/jlsteenwyk/status/1580956067755720710
 🧬Jacob L Steenwyk on Twitter: "NEW Publication🥳 Molecular #evolution studies often rely on single-copy orthologs (SC-OGs), resulting in large gene families—like transporters—being ignored. We present OrthoSNAP, software for identifying subsets of SC-OGs within larger gene families. 🔗https://t.co/2rWsRLsamn https://t.co/0d0SpvcRmw" / Twitter
 
+
+----------
+
+https://github.com/haruosuz/r4bioinfo/blob/master/references/R.bio.md#bioseq
+
+https://cran.r-project.org/package=bioseq
+
+Vignettes:
+
+Introduction to the 'bioseq' package https://cloud.r-project.org/web/packages/bioseq/vignettes/intro-bioseq.html
+
+Reference database preparation with the 'bioseq' package https://cloud.r-project.org/web/packages/bioseq/vignettes/ref_database.html
+
+
 ----------
 
 https://www.nig.ac.jp/nig/ja/2018/06/research-highlights_ja/20180613.html
@@ -106,6 +128,7 @@ Press Release
 
 http://133.39.177.105/lea/help_ja.html
 LEA global map: How-To-Use
+
 
 ----------
 
@@ -141,19 +164,6 @@ https://gendai.media/articles/-/100721
 
 https://bookclub.kodansha.co.jp/product?item=0000368928
 『最小にして人類最大の宿敵　病原体の世界　歴史をも動かすミクロの攻防』（旦部　幸博，北川　善紀）：ブルーバックス｜講談社BOOK倶楽部
-
-----------
-
-https://github.com/haruosuz/r4bioinfo/blob/master/references/R.bio.md#bioseq
-
-https://cran.r-project.org/package=bioseq
-
-Vignettes:
-
-Introduction to the 'bioseq' package https://cloud.r-project.org/web/packages/bioseq/vignettes/intro-bioseq.html
-
-Reference database preparation with the 'bioseq' package https://cloud.r-project.org/web/packages/bioseq/vignettes/ref_database.html
-
 
 ----------
 
