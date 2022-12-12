@@ -36,6 +36,26 @@ R 1.2 - Calculations and Variables - YouTube
 - 2015-01-05 [PhyloBotanist: How to root a phylogenetic tree: outgroup, midpoint and other methods](http://phylobotanist.blogspot.com/2015/01/how-to-root-phylogenetic-tree-outgroup.html)
 - 2012-06-07 [The Cabbages of Doom: How to root a phylogenetic tree](http://cabbagesofdoom.blogspot.com/2012/06/how-to-root-phylogenetic-tree.html)
 
+
+
+
+----------
+
+- https://github.com/haruosuz/bioinfo
+- https://github.com/haruosuz/bioinfo/blob/master/references/README.reproducibility.md
+- https://github.com/haruosuz/bioinfo/blob/master/references/README.bioinfo.tools.md#sliding-window
+- https://github.com/haruosuz/bioinfo/blob/master/references/README.bioinfo.tools.md#vsearch
+- 
+- https://github.com/haruosuz/codon
+- https://twitter.com/search?q=plasmid%20codon
+- https://twitter.com/jpjhall/status/1381550560046891009
+Jamie Hall on Twitter: "Others have found similar patterns — mutations that compensate plasmid cost tend to target specific genes, rather than reducing plasmid size, ameliorating codon biases, mass silencing, etc. https://t.co/wX3lzB0TR8 ; https://t.co/B3Ccj2WxBF ; https://t.co/HNU4VRtEqQ" / Twitter
+- 
+- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#clonalframeml
+  - https://github.com/xavierdidelot/ClonalFrameML
+  - https://github.com/xavierdidelot/clonalframeml/wiki
+- 
+
 ----------
 
 http://sfcbus.jp/
@@ -61,6 +81,20 @@ http://sfcbus.jp/kh-weekday-j.html
 
 ----------
 
+2:15 PM · Oct 9, 2022
+https://twitter.com/KawataMasakado/status/1578977453623545856
+Masakado Kawata on Twitter: "進化学における「適応」ついて改めて解説しました。定義を明確にするというよりも、「適応」を定義することの難しさについて考察しました。 進化における「適応」という言葉をめぐって｜河田 雅圭 @KawataMasakado #note #最近の学び https://t.co/decOO7lLRS" / Twitter
+https://note.com/masakadokawata/n/n2dfc4217831e
+進化における「適応」という言葉をめぐって｜河田 雅圭｜note
+
+2:05 PM · Oct 30, 2021 https://twitter.com/KawataMasakado/status/1454313530375622656 Masakado Kawata on Twitter: "生物多様性は感染症リスクを減少させるのかどうかについては国外では論争になっています。最近の論文をレビューして紹介しました。 生物多様性は感染症リスクを減少させるのか増大させるのか｜河田 雅圭 @KawataMasakado #note #最近の学び https://t.co/PRlRGhMtI9" / Twitter 2021年10月30日 10:03 https://note.com/masakadokawata/n/n9aaf1270abc2 生物多様性は感染症リスクを減少させるのか増大させるのか｜河田 雅圭｜note
+
+1:17 AM · Oct 15, 2022
+https://twitter.com/jlsteenwyk/status/1580956067755720710
+🧬Jacob L Steenwyk on Twitter: "NEW Publication🥳 Molecular #evolution studies often rely on single-copy orthologs (SC-OGs), resulting in large gene families—like transporters—being ignored. We present OrthoSNAP, software for identifying subsets of SC-OGs within larger gene families. 🔗https://t.co/2rWsRLsamn https://t.co/0d0SpvcRmw" / Twitter
+
+----------
+
 https://www.nig.ac.jp/nig/ja/2018/06/research-highlights_ja/20180613.html
 高速かつ高精度に細菌群集の系統組成を推定するツールVITCOMIC2を開発
 ゲノム進化研究室・黒川研究室
@@ -75,23 +109,15 @@ LEA global map: How-To-Use
 
 ----------
 
-https://www.mdpi.com/special_issues_guidelines
-
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.urban.md
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.urban.md#danko_2021
 - https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
 
-https://twitter.com/Micro_MDPI/status/1597202073413509121
-Microorganisms MDPI on Twitter: "📢New Special Issue #mdpimicroorganisms Dr. Haruo Suzuki and Dr. Soojin Jang are leading this Special Issue "The #Urban #Microbiome" for us, check the website: https://t.co/vDqtEYkl2e and submit your publications! https://t.co/C3Xwvso462" / Twitter
 
-https://www.mdpi.com/journal/microorganisms/special_issues/VV03015W12
-Microorganisms | Special Issue : The Urban Microbiome
+- https://github.com/jlw-ecoevo/gRodon2
+- http://microbialgamut.com/gRodon-vignette
 
-https://www.mdpi.com/2076-2607/10/12/2311
-Microorganisms | Free Full-Text | The Microbiome of the Built Environment: The Nexus for Urban Regeneration for the Cities of Tomorrow
-
-https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-022-01407-8
-Human microbiota drives hospital-associated antimicrobial resistance dissemination in the urban environment and mirrors patient case rates | Microbiome | Full Text
+----------
 
 ----------
 
@@ -135,55 +161,6 @@ When humans go to #space, microbes go with them. Researchers are learning how sp
 https://asm.org/Articles/2022/October/Out-of-This-World-Microbes-in-Space
 
 Sept. 19, 2022 https://asm.org/Articles/2022/September/Metro-Microbes-Microbiomes-of-Public-Transit-Urban Metro Microbes: Microbiomes of Public Transit & Urban Spaces
-
-
-----------
-
-2:15 PM · Oct 9, 2022
-https://twitter.com/KawataMasakado/status/1578977453623545856
-Masakado Kawata on Twitter: "進化学における「適応」ついて改めて解説しました。定義を明確にするというよりも、「適応」を定義することの難しさについて考察しました。 進化における「適応」という言葉をめぐって｜河田 雅圭 @KawataMasakado #note #最近の学び https://t.co/decOO7lLRS" / Twitter
-https://note.com/masakadokawata/n/n2dfc4217831e
-進化における「適応」という言葉をめぐって｜河田 雅圭｜note
-
-2:05 PM · Oct 30, 2021 https://twitter.com/KawataMasakado/status/1454313530375622656 Masakado Kawata on Twitter: "生物多様性は感染症リスクを減少させるのかどうかについては国外では論争になっています。最近の論文をレビューして紹介しました。 生物多様性は感染症リスクを減少させるのか増大させるのか｜河田 雅圭 @KawataMasakado #note #最近の学び https://t.co/PRlRGhMtI9" / Twitter 2021年10月30日 10:03 https://note.com/masakadokawata/n/n9aaf1270abc2 生物多様性は感染症リスクを減少させるのか増大させるのか｜河田 雅圭｜note
-
-1:17 AM · Oct 15, 2022
-https://twitter.com/jlsteenwyk/status/1580956067755720710
-🧬Jacob L Steenwyk on Twitter: "NEW Publication🥳 Molecular #evolution studies often rely on single-copy orthologs (SC-OGs), resulting in large gene families—like transporters—being ignored. We present OrthoSNAP, software for identifying subsets of SC-OGs within larger gene families. 🔗https://t.co/2rWsRLsamn https://t.co/0d0SpvcRmw" / Twitter
-
-----------
-
-6:27 AM · Oct 9, 2022
-·Twitter Web App
-https://twitter.com/mootastic/status/1578859632931459077
-新山祐介 (Yusuke Shinyama) on Twitter: "「自分のパスワードには常にカンマを含めておけ、そうすれば漏洩してCSVになったときにうまく動かなくなるから」" / Twitter
-8:58 AM · Oct 6, 2022
-https://twitter.com/vxunderground/status/1577810594924838914
-vx-underground on Twitter: "Insert commas into your password so when your credentials are dumped into a CSV it breaks it" / Twitter
-
-----------
-
-https://kazumaxneo.hatenablog.com/entry/2018/10/07/073000
-複数のbiningツールを統合し、包括的なメタゲノム解析を行うパイプライン metaWRAP - macでインフォマティクス
-https://github.com/bxlab/metaWRAP
-https://pubmed.ncbi.nlm.nih.gov/30219103/
-Microbiome
-. 2018 Sep 15;6(1):158. doi: 10.1186/s40168-018-0541-1.
-MetaWRAP-a flexible pipeline for genome-resolved metagenomic data analysis
-Gherman V Uritskiy 1, Jocelyne DiRuggiero 2, James Taylor 3
-https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-018-0541-1
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6138922/
-
-----------
-2022-07-21
-
-https://www.biorxiv.org/content/10.1101/2022.07.11.499243v1.full
-CheckM2: a rapid, scalable and accurate tool for assessing microbial genome quality using machine learning | bioRxiv
-https://www.biorxiv.org/content/10.1101/2022.07.11.499243v1.full
-
-5:17 AM · Jul 12, 2022·
-https://twitter.com/AlexJProbst/status/1546589615779463168
-𝙰𝚕𝚎𝚡 𝙿𝚛𝚘𝚋𝚜𝚝 on Twitter: "Eventually! CheckM2 is there! It also performs well in predicting genome completeness of CPR and DPANN! One grain of salt though: The software was only benchmarked against the lab’s previous version CheckM1, not against all the other tools out there… https://t.co/nmzwopG8n0" / Twitter
 
 ----------
 
@@ -653,25 +630,6 @@ Classifying mobile genetic elements and their interactions from sequence data: T
 ----------
 
 
-#### WoWキツネザルの地球を救うアカデミー
-
-https://www.youtube.com/channel/UCWcRMb8KM0ndisvo0ys9aCQ
-WoWキツネザルの地球を救うアカデミー - YouTube
-
-https://www.youtube.com/watch?v=CM5Kvm9skfQ
-温暖化対策しないと、未来はこうなってしまう！WoWキツネザルが大予言！中編 - YouTube
-
-
-#### Noriyuki Suzuki
-
-- https://twitter.com/fvgnoriyuki
-鈴木紀之 Noriyuki Suzuki (@fvgnoriyuki) / Twitter
-- https://twitter.com/fvgnoriyuki/status/1350605263691124736
-YouTubeでも！
-- https://www.youtube.com/channel/UCu_wmFZ_eLxrNg10qfHrQ7g
-鈴木紀之 / Suzuki Noriyuki - YouTube
-
-
 ### evolve
 - 
 - https://github.com/haruosuz/evolve
@@ -688,23 +646,6 @@ Related post: How to read a phylogenetic tree.
 - https://artic.network/how-to-read-a-tree.html How to read a phylogenetic tree Revision Date: 2018-07-30
 - https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/ How to read a phylogenetic tree | Dave Hone's Archosaur Musings basal taxa (at the bottom of the tree)
 
-
-
-
-- https://github.com/haruosuz/bioinfo
-- https://github.com/haruosuz/bioinfo/blob/master/references/README.reproducibility.md
-- https://github.com/haruosuz/bioinfo/blob/master/references/README.bioinfo.tools.md#sliding-window
-- https://github.com/haruosuz/bioinfo/blob/master/references/README.bioinfo.tools.md#vsearch
-- 
-- https://github.com/haruosuz/codon
-- https://twitter.com/search?q=plasmid%20codon
-- https://twitter.com/jpjhall/status/1381550560046891009
-Jamie Hall on Twitter: "Others have found similar patterns — mutations that compensate plasmid cost tend to target specific genes, rather than reducing plasmid size, ameliorating codon biases, mass silencing, etc. https://t.co/wX3lzB0TR8 ; https://t.co/B3Ccj2WxBF ; https://t.co/HNU4VRtEqQ" / Twitter
-- 
-- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#clonalframeml
-  - https://github.com/xavierdidelot/ClonalFrameML
-  - https://github.com/xavierdidelot/clonalframeml/wiki
-- 
 - 
 - https://github.com/haruosuz/statistics
 - https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/index.html 統計の落とし穴と蜘蛛の糸 - Smart Lab Life - 羊土社
