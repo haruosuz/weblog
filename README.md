@@ -10,6 +10,70 @@
 
 ----------
 
+http://sfcbus.jp/
+慶応大学本館前
+
+カウントダウン
+http://sfcbus.jp/kh-weekday.html
+時刻表（平日）
+http://sfcbus.jp/kh-weekday-j.html
+
+- https://sfcclip.net/bus/
+- http://www.kanachu.co.jp/dia/diagram/timetable/cs:0000800447-1/nid:00129985/rt:0/k:慶応大学
+- https://www.sfc.keio.ac.jp/gsmg/about/faculty/
+- https://www.sfc.keio.ac.jp/deans_diary/
+
+----------
+## twitter
+
+- https://twitter.com
+- https://twitter.com/copypasteusa
+- https://twitter.com/copypasteusa/likes
+- https://twitter.com/oikawamaru
+オイカワ丸 (@oikawamaru) / Twitter
+- 
+- https://github.com/haruosuz/books
+- https://github.com/haruosuz/books/blob/master/references/books.microbe.md
+- https://github.com/haruosuz/books/blob/master/references/books.updates.md#2019-06-15
+- https://github.com/haruosuz/r4bioinfo/blob/master/r_books/README.md
+- 
+- https://github.com/haruosuz/mgsa
+- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.metagenome.md
+- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md
+- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.k-mer.md
+
+----------
+
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010675
+Ten simple rules for investigating (meta)genomic data from environmental ecosystems | PLOS Computational Biology
+
+
+When humans go to #space, microbes go with them. Researchers are learning how space impacts the microbes living in, on and around astronauts—and how they can be used to advance future missions. Learn more: https://asm.social/S3
+https://asm.org/Articles/2022/October/Out-of-This-World-Microbes-in-Space
+
+Sept. 19, 2022 https://asm.org/Articles/2022/September/Metro-Microbes-Microbiomes-of-Public-Transit-Urban Metro Microbes: Microbiomes of Public Transit & Urban Spaces
+
+----------
+
+### metasub
+
+- 
+- https://kf.kobotoolbox.org/#/forms
+- 
+- https://github.com/haruosuz/metasub
+- https://github.com/haruosuz/metasub/blob/master/README.md
+- https://twitter.com/hashtag/MetaSUB?src=hashtag_click&f=live
+- https://twitter.com/hashtag/gCSD2022?src=hashtag_click&f=live
+- 
+- https://twitter.com/search?q=metasub
+- https://twitter.com/mason_lab
+- http://metasub.org/projects/
+Projects - MetaSUB
+- http://metasub.org/the-metasew-project/
+The MetaSEW Project - MetaSUB
+
+----------
+
 ### class
 
 - https://github.com/haruosuz/DS4GD
@@ -38,11 +102,6 @@ R 1.2 - Calculations and Variables - YouTube
 
 ----------
 
-https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010675
-Ten simple rules for investigating (meta)genomic data from environmental ecosystems | PLOS Computational Biology
-
-----------
-
 https://github.com/haruosuz/r4bioinfo/tree/master/R_codon
 
 https://github.com/jlw-ecoevo/gRodon2
@@ -68,28 +127,50 @@ Jamie Hall on Twitter: "Others have found similar patterns — mutations that co
   - https://github.com/xavierdidelot/clonalframeml/wiki
 - 
 
-----------
 
-http://sfcbus.jp/
-慶応大学本館前
 
-カウントダウン
-http://sfcbus.jp/kh-weekday.html
-時刻表（平日）
-http://sfcbus.jp/kh-weekday-j.html
 
-- https://sfcclip.net/bus/
-- http://www.kanachu.co.jp/dia/diagram/timetable/cs:0000800447-1/nid:00129985/rt:0/k:慶応大学
-- https://www.sfc.keio.ac.jp/gsmg/about/faculty/
-- https://www.sfc.keio.ac.jp/deans_diary/
+
 
 ----------
 
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.COVID-19.md
-- 
-- https://twitter.com
-- https://twitter.com/copypasteusa
-- https://twitter.com/copypasteusa/likes
+
+https://twitter.com/search?q=迷走しない！英語論文の書き方%E3%80%80秘密は「構造」作りにあり&src=typed_query&f=top
+
+https://twitter.com/search?q=Ｒが生産性を高める%20データ分析ワークフロー効率化の実践&src=typed_query&f=top
+
+https://niszet.hatenablog.com/entry/2022/02/14/183000
+「Rが生産性を高める〜データ分析ワークフロー効率化の実践」を読んだので感想を書く - niszetの日記
+
+
+https://twitter.com/search?q=%22適応と自然選択%22%20%22近代進化論批評%22&src=typed_query&f=top
+
+
+https://twitter.com/search?q=%22種の保存のための進化%22&src=typed_query&f=top
+
+2022年3月20日 16:00
+https://note.com/masakadokawata/n/n41079da12807
+「種の保存のための進化」はどこが誤りなのか｜河田 雅圭｜note
+
+----------
+
+https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#get_homologues
+
+### microbe
+
+- https://github.com/haruosuz/microbe
+- https://github.com/haruosuz/microbe/blob/master/README.md
+- https://github.com/haruosuz/microbe/blob/master/references/mbioinfo.2021.md
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.urban.md
+
+### plasmid
+
+- https://github.com/haruosuz/plasmids
+- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_resistance.md
+- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_metagenome.md
+- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_IncP1.md
+
+
 
 ----------
 
@@ -168,82 +249,6 @@ https://gendai.media/articles/-/100721
 
 https://bookclub.kodansha.co.jp/product?item=0000368928
 『最小にして人類最大の宿敵　病原体の世界　歴史をも動かすミクロの攻防』（旦部　幸博，北川　善紀）：ブルーバックス｜講談社BOOK倶楽部
-
-----------
-
-When humans go to #space, microbes go with them. Researchers are learning how space impacts the microbes living in, on and around astronauts—and how they can be used to advance future missions. Learn more: https://asm.social/S3
-https://asm.org/Articles/2022/October/Out-of-This-World-Microbes-in-Space
-
-Sept. 19, 2022 https://asm.org/Articles/2022/September/Metro-Microbes-Microbiomes-of-Public-Transit-Urban Metro Microbes: Microbiomes of Public Transit & Urban Spaces
-
-----------
-
-https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#get_homologues
-
-### microbe
-
-- https://github.com/haruosuz/microbe
-- https://github.com/haruosuz/microbe/blob/master/README.md
-- https://github.com/haruosuz/microbe/blob/master/references/mbioinfo.2021.md
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.urban.md
-
-### plasmid
-
-- https://github.com/haruosuz/plasmids
-- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_resistance.md
-- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_metagenome.md
-- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_IncP1.md
-
-----------
-
-### metasub
-
-- 
-- https://kf.kobotoolbox.org/#/forms
-- 
-- https://github.com/haruosuz/metasub
-- https://github.com/haruosuz/metasub/blob/master/README.md
-- https://twitter.com/hashtag/MetaSUB?src=hashtag_click&f=live
-- https://twitter.com/hashtag/gCSD2022?src=hashtag_click&f=live
-- 
-- https://twitter.com/search?q=metasub
-- https://twitter.com/mason_lab
-- http://metasub.org/projects/
-Projects - MetaSUB
-- http://metasub.org/the-metasew-project/
-The MetaSEW Project - MetaSUB
-
-----------
-
-https://github.com/haruosuz/bioinfo/blob/master/2022/CaseStudy.md
-
-アンブレラプロジェクトの登録
-https://www.ddbj.nig.ac.jp/bioproject/submission.html#submit-umbrella-project
-
-アンブレラプロジェクトへのリンク
-https://www.ddbj.nig.ac.jp/bioproject/submission.html#link-primary-project-umbrella
-
-
-
-----------
-
-
-https://twitter.com/search?q=迷走しない！英語論文の書き方%E3%80%80秘密は「構造」作りにあり&src=typed_query&f=top
-
-https://twitter.com/search?q=Ｒが生産性を高める%20データ分析ワークフロー効率化の実践&src=typed_query&f=top
-
-https://niszet.hatenablog.com/entry/2022/02/14/183000
-「Rが生産性を高める〜データ分析ワークフロー効率化の実践」を読んだので感想を書く - niszetの日記
-
-
-https://twitter.com/search?q=%22適応と自然選択%22%20%22近代進化論批評%22&src=typed_query&f=top
-
-
-https://twitter.com/search?q=%22種の保存のための進化%22&src=typed_query&f=top
-
-2022年3月20日 16:00
-https://note.com/masakadokawata/n/n41079da12807
-「種の保存のための進化」はどこが誤りなのか｜河田 雅圭｜note
 
 
 
@@ -900,41 +905,6 @@ James McInerney on Twitter: "#OA New book chapter with @alanmcn1 @Evol_Molly @wh
 10:45 PM · May 4, 2020
 https://twitter.com/XavierDidelot/status/1257305244146360320
 Xavier Didelot on Twitter: "I'm pleased to have contributed a chapter with @LassalleFlo to this great new book on pangenome evolution and even more pleased that it is completely open access! https://t.co/EBytWHZVnn https://t.co/kPDXGWcZqQ" / Twitter
-
-----------
-## twitter
-
-- https://twitter.com/oikawamaru
-オイカワ丸 (@oikawamaru) / Twitter
-- 
-- https://benjjneb.github.io/dada2/tutorial.html
-- 
-- https://github.com/haruosuz/books
-- https://github.com/haruosuz/books/blob/master/references/books.microbe.md
-- https://github.com/haruosuz/books/blob/master/references/books.updates.md#2019-06-15
-- https://twitter.com/search?q=%20日本社会のしくみ
-- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md
-- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.k-mer.md
-- https://github.com/haruosuz/r4bioinfo/blob/master/r_books/README.md
-- 
-- https://github.com/haruosuz/mgsa
-- https://www.ted.com/topics/biology
-- https://qiita.com/advent-calendar/2018/galaxy
-- https://ja.wikipedia.org/wiki/Sci-Hub
-
-
-----------
-
-## event
-
-Pitagora Galaxy Meetup
-- https://pitagora-network.org/events/
-- https://github.com/manabuishii/workflow-meetup
-- http://wiki.lifesciencedb.jp/mw/SPARQLthon
-	• 2020/04/23-24 SPARQLthon91 @ DBCLS (柏)
-
-----------
-
 
 
 
