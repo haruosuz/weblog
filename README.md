@@ -38,6 +38,11 @@ R 1.2 - Calculations and Variables - YouTube
 
 ----------
 
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010675
+Ten simple rules for investigating (meta)genomic data from environmental ecosystems | PLOS Computational Biology
+
+----------
+
 https://github.com/haruosuz/r4bioinfo/tree/master/R_codon
 
 https://github.com/jlw-ecoevo/gRodon2
@@ -45,8 +50,6 @@ http://microbialgamut.com/gRodon-vignette
 
 http://bioconductor.org/packages/coRdon/
 https://bioconductor.org/packages/release/bioc/vignettes/coRdon/inst/doc/coRdon.html
-
-
 
 ----------
 
