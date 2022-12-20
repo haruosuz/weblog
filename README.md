@@ -42,16 +42,85 @@ http://sfcbus.jp/kh-weekday-j.html
 - https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md
 - https://github.com/haruosuz/mgsa/blob/master/references/mgsa.k-mer.md
 
+
+----------
+
+https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#get_homologues
+
+### microbe
+
+- https://github.com/haruosuz/microbe
+- https://github.com/haruosuz/microbe/blob/master/README.md
+- https://github.com/haruosuz/microbe/blob/master/references/mbioinfo.2021.md
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.urban.md
+
+### plasmid
+
+- https://github.com/haruosuz/plasmids
+- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_resistance.md
+- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_metagenome.md
+- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_IncP1.md
+
+
+----------
+
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.urban.md
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.urban.md#danko_2021
+- https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
+
+
 ----------
 
 https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010675
 Ten simple rules for investigating (meta)genomic data from environmental ecosystems | PLOS Computational Biology
 
 
-When humans go to #space, microbes go with them. Researchers are learning how space impacts the microbes living in, on and around astronauts—and how they can be used to advance future missions. Learn more: https://asm.social/S3
-https://asm.org/Articles/2022/October/Out-of-This-World-Microbes-in-Space
+----------
 
-Sept. 19, 2022 https://asm.org/Articles/2022/September/Metro-Microbes-Microbiomes-of-Public-Transit-Urban Metro Microbes: Microbiomes of Public Transit & Urban Spaces
+https://www.nig.ac.jp/nig/ja/2018/06/research-highlights_ja/20180613.html
+高速かつ高精度に細菌群集の系統組成を推定するツールVITCOMIC2を開発
+ゲノム進化研究室・黒川研究室
+
+https://www.nig.ac.jp/nig/ja/2018/06/research-highlights_ja/20180619.html
+環境と微生物をビッグデータでつなぐ ～「環境」から微生物を検索し、微生物から「環境」を予測するウェブツール「LEA」を開発～
+Press Release
+ゲノム進化研究室・黒川研究室
+
+http://133.39.177.105/lea/help_ja.html
+LEA global map: How-To-Use
+
+
+
+----------
+
+https://github.com/haruosuz/r4bioinfo/tree/master/R_codon
+
+https://github.com/jlw-ecoevo/gRodon2
+http://microbialgamut.com/gRodon-vignette
+
+http://bioconductor.org/packages/coRdon/
+https://bioconductor.org/packages/release/bioc/vignettes/coRdon/inst/doc/coRdon.html
+
+----------
+
+https://github.com/haruosuz/r4bioinfo/blob/master/references/R.bio.md#bioseq
+
+https://cran.r-project.org/package=bioseq
+
+Vignettes:
+
+Introduction to the 'bioseq' package https://cloud.r-project.org/web/packages/bioseq/vignettes/intro-bioseq.html
+
+Reference database preparation with the 'bioseq' package https://cloud.r-project.org/web/packages/bioseq/vignettes/ref_database.html
+
+----------
+
+- https://github.com/haruosuz/bioinfo
+- https://github.com/haruosuz/bioinfo/blob/master/references/README.reproducibility.md
+- https://github.com/haruosuz/bioinfo/blob/master/references/README.bioinfo.tools.md
+- 
+- https://github.com/haruosuz/codon
+
 
 ----------
 
@@ -71,6 +140,17 @@ Sept. 19, 2022 https://asm.org/Articles/2022/September/Metro-Microbes-Microbiome
 Projects - MetaSUB
 - http://metasub.org/the-metasew-project/
 The MetaSEW Project - MetaSUB
+
+
+When humans go to #space, microbes go with them. Researchers are learning how space impacts the microbes living in, on and around astronauts—and how they can be used to advance future missions. Learn more: https://asm.social/S3
+https://asm.org/Articles/2022/October/Out-of-This-World-Microbes-in-Space
+
+Sept. 19, 2022 https://asm.org/Articles/2022/September/Metro-Microbes-Microbiomes-of-Public-Transit-Urban Metro Microbes: Microbiomes of Public Transit & Urban Spaces
+
+
+
+
+
 
 ----------
 
@@ -102,128 +182,23 @@ R 1.2 - Calculations and Variables - YouTube
 
 ----------
 
-https://github.com/haruosuz/r4bioinfo/tree/master/R_codon
+https://twitter.com/KawataMasakado
+Masakado Kawata (@KawataMasakado) / Twitter
+https://note.com/masakadokawata/
+河田 雅圭｜note
 
-https://github.com/jlw-ecoevo/gRodon2
-http://microbialgamut.com/gRodon-vignette
-
-http://bioconductor.org/packages/coRdon/
-https://bioconductor.org/packages/release/bioc/vignettes/coRdon/inst/doc/coRdon.html
-
-----------
-
-- https://github.com/haruosuz/bioinfo
-- https://github.com/haruosuz/bioinfo/blob/master/references/README.reproducibility.md
-- https://github.com/haruosuz/bioinfo/blob/master/references/README.bioinfo.tools.md#sliding-window
-- https://github.com/haruosuz/bioinfo/blob/master/references/README.bioinfo.tools.md#vsearch
-- 
-- https://github.com/haruosuz/codon
-- https://twitter.com/search?q=plasmid%20codon
-- https://twitter.com/jpjhall/status/1381550560046891009
-Jamie Hall on Twitter: "Others have found similar patterns — mutations that compensate plasmid cost tend to target specific genes, rather than reducing plasmid size, ameliorating codon biases, mass silencing, etc. https://t.co/wX3lzB0TR8 ; https://t.co/B3Ccj2WxBF ; https://t.co/HNU4VRtEqQ" / Twitter
-- 
-- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#clonalframeml
-  - https://github.com/xavierdidelot/ClonalFrameML
-  - https://github.com/xavierdidelot/clonalframeml/wiki
-- 
-
-
-
-
-
-
-----------
-
-
-https://twitter.com/search?q=迷走しない！英語論文の書き方%E3%80%80秘密は「構造」作りにあり&src=typed_query&f=top
-
-https://twitter.com/search?q=Ｒが生産性を高める%20データ分析ワークフロー効率化の実践&src=typed_query&f=top
-
-https://niszet.hatenablog.com/entry/2022/02/14/183000
-「Rが生産性を高める〜データ分析ワークフロー効率化の実践」を読んだので感想を書く - niszetの日記
-
-
-https://twitter.com/search?q=%22適応と自然選択%22%20%22近代進化論批評%22&src=typed_query&f=top
-
-
-https://twitter.com/search?q=%22種の保存のための進化%22&src=typed_query&f=top
-
-2022年3月20日 16:00
-https://note.com/masakadokawata/n/n41079da12807
-「種の保存のための進化」はどこが誤りなのか｜河田 雅圭｜note
-
-----------
-
-https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#get_homologues
-
-### microbe
-
-- https://github.com/haruosuz/microbe
-- https://github.com/haruosuz/microbe/blob/master/README.md
-- https://github.com/haruosuz/microbe/blob/master/references/mbioinfo.2021.md
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.urban.md
-
-### plasmid
-
-- https://github.com/haruosuz/plasmids
-- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_resistance.md
-- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_metagenome.md
-- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_IncP1.md
-
-
-
-----------
-
-2:15 PM · Oct 9, 2022
-https://twitter.com/KawataMasakado/status/1578977453623545856
-Masakado Kawata on Twitter: "進化学における「適応」ついて改めて解説しました。定義を明確にするというよりも、「適応」を定義することの難しさについて考察しました。 進化における「適応」という言葉をめぐって｜河田 雅圭 @KawataMasakado #note #最近の学び https://t.co/decOO7lLRS" / Twitter
 https://note.com/masakadokawata/n/n2dfc4217831e
 進化における「適応」という言葉をめぐって｜河田 雅圭｜note
+2022年10月8日 19:53
 
-2:05 PM · Oct 30, 2021 https://twitter.com/KawataMasakado/status/1454313530375622656 Masakado Kawata on Twitter: "生物多様性は感染症リスクを減少させるのかどうかについては国外では論争になっています。最近の論文をレビューして紹介しました。 生物多様性は感染症リスクを減少させるのか増大させるのか｜河田 雅圭 @KawataMasakado #note #最近の学び https://t.co/PRlRGhMtI9" / Twitter 2021年10月30日 10:03 https://note.com/masakadokawata/n/n9aaf1270abc2 生物多様性は感染症リスクを減少させるのか増大させるのか｜河田 雅圭｜note
+https://note.com/masakadokawata/n/n41079da12807
+「種の保存のための進化」はどこが誤りなのか｜河田 雅圭｜note
+2022年3月20日 16:00
+
 
 1:17 AM · Oct 15, 2022
 https://twitter.com/jlsteenwyk/status/1580956067755720710
 🧬Jacob L Steenwyk on Twitter: "NEW Publication🥳 Molecular #evolution studies often rely on single-copy orthologs (SC-OGs), resulting in large gene families—like transporters—being ignored. We present OrthoSNAP, software for identifying subsets of SC-OGs within larger gene families. 🔗https://t.co/2rWsRLsamn https://t.co/0d0SpvcRmw" / Twitter
-
-
-----------
-
-https://github.com/haruosuz/r4bioinfo/blob/master/references/R.bio.md#bioseq
-
-https://cran.r-project.org/package=bioseq
-
-Vignettes:
-
-Introduction to the 'bioseq' package https://cloud.r-project.org/web/packages/bioseq/vignettes/intro-bioseq.html
-
-Reference database preparation with the 'bioseq' package https://cloud.r-project.org/web/packages/bioseq/vignettes/ref_database.html
-
-
-----------
-
-https://www.nig.ac.jp/nig/ja/2018/06/research-highlights_ja/20180613.html
-高速かつ高精度に細菌群集の系統組成を推定するツールVITCOMIC2を開発
-ゲノム進化研究室・黒川研究室
-
-https://www.nig.ac.jp/nig/ja/2018/06/research-highlights_ja/20180619.html
-環境と微生物をビッグデータでつなぐ ～「環境」から微生物を検索し、微生物から「環境」を予測するウェブツール「LEA」を開発～
-Press Release
-ゲノム進化研究室・黒川研究室
-
-http://133.39.177.105/lea/help_ja.html
-LEA global map: How-To-Use
-
-
-----------
-
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.urban.md
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.urban.md#danko_2021
-- https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
-
-
-- https://github.com/jlw-ecoevo/gRodon2
-- http://microbialgamut.com/gRodon-vignette
 
 ----------
 
