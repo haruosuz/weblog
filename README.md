@@ -47,13 +47,6 @@ http://sfcbus.jp/kh-weekday-j.html
 
 https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#get_homologues
 
-### microbe
-
-- https://github.com/haruosuz/microbe
-- https://github.com/haruosuz/microbe/blob/master/README.md
-- https://github.com/haruosuz/microbe/blob/master/references/mbioinfo.2021.md
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.urban.md
-
 ### plasmid
 
 - https://github.com/haruosuz/plasmids
@@ -62,11 +55,23 @@ https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#get_homolo
 - https://github.com/haruosuz/plasmids/blob/master/references/plasmid_IncP1.md
 
 
-----------
+### microbe
 
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.urban.md
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.urban.md#danko_2021
+- https://github.com/haruosuz/microbe
+- https://github.com/haruosuz/microbe/blob/master/README.md
+- https://github.com/haruosuz/microbe/blob/master/references/mbioinfo.2021.md
 - https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.urban.md
+
+### metasub
+
+https://kf.kobotoolbox.org/#/forms
+https://github.com/haruosuz/metasub
+
+When humans go to #space, microbes go with them. Researchers are learning how space impacts the microbes living in, on and around astronauts—and how they can be used to advance future missions. Learn more: https://asm.social/S3
+https://asm.org/Articles/2022/October/Out-of-This-World-Microbes-in-Space
+
+Sept. 19, 2022 https://asm.org/Articles/2022/September/Metro-Microbes-Microbiomes-of-Public-Transit-Urban Metro Microbes: Microbiomes of Public Transit & Urban Spaces
 
 
 ----------
@@ -120,32 +125,6 @@ Reference database preparation with the 'bioseq' package https://cloud.r-project
 - https://github.com/haruosuz/bioinfo/blob/master/references/README.bioinfo.tools.md
 - 
 - https://github.com/haruosuz/codon
-
-
-----------
-
-### metasub
-
-- 
-- https://kf.kobotoolbox.org/#/forms
-- 
-- https://github.com/haruosuz/metasub
-- https://github.com/haruosuz/metasub/blob/master/README.md
-- https://twitter.com/hashtag/MetaSUB?src=hashtag_click&f=live
-- https://twitter.com/hashtag/gCSD2022?src=hashtag_click&f=live
-- 
-- https://twitter.com/search?q=metasub
-- https://twitter.com/mason_lab
-- http://metasub.org/projects/
-Projects - MetaSUB
-- http://metasub.org/the-metasew-project/
-The MetaSEW Project - MetaSUB
-
-
-When humans go to #space, microbes go with them. Researchers are learning how space impacts the microbes living in, on and around astronauts—and how they can be used to advance future missions. Learn more: https://asm.social/S3
-https://asm.org/Articles/2022/October/Out-of-This-World-Microbes-in-Space
-
-Sept. 19, 2022 https://asm.org/Articles/2022/September/Metro-Microbes-Microbiomes-of-Public-Transit-Urban Metro Microbes: Microbiomes of Public Transit & Urban Spaces
 
 
 
