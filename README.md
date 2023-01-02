@@ -45,6 +45,22 @@ http://sfcbus.jp/kh-weekday-j.html
 
 ----------
 
+- https://github.com/haruosuz/bioinfo
+- https://github.com/haruosuz/bioinfo/blob/master/references/README.reproducibility.md
+- https://github.com/haruosuz/bioinfo/blob/master/references/README.bioinfo.tools.md
+- 
+- https://github.com/haruosuz/codon
+
+https://github.com/haruosuz/bioinfo/blob/master/2022/CaseStudy.md#2022-12-28
+VITCOMIC2
+「LEA」
+http://133.39.177.105/lea/help_ja.html
+
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010675
+Ten simple rules for investigating (meta)genomic data from environmental ecosystems | PLOS Computational Biology
+
+----------
+
 https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#get_homologues
 
 ### plasmid
@@ -73,29 +89,6 @@ https://asm.org/Articles/2022/October/Out-of-This-World-Microbes-in-Space
 
 Sept. 19, 2022 https://asm.org/Articles/2022/September/Metro-Microbes-Microbiomes-of-Public-Transit-Urban Metro Microbes: Microbiomes of Public Transit & Urban Spaces
 
-
-----------
-
-https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010675
-Ten simple rules for investigating (meta)genomic data from environmental ecosystems | PLOS Computational Biology
-
-
-----------
-
-https://www.nig.ac.jp/nig/ja/2018/06/research-highlights_ja/20180613.html
-高速かつ高精度に細菌群集の系統組成を推定するツールVITCOMIC2を開発
-ゲノム進化研究室・黒川研究室
-
-https://www.nig.ac.jp/nig/ja/2018/06/research-highlights_ja/20180619.html
-環境と微生物をビッグデータでつなぐ ～「環境」から微生物を検索し、微生物から「環境」を予測するウェブツール「LEA」を開発～
-Press Release
-ゲノム進化研究室・黒川研究室
-
-http://133.39.177.105/lea/help_ja.html
-LEA global map: How-To-Use
-
-
-
 ----------
 
 https://github.com/haruosuz/r4bioinfo/tree/master/R_codon
@@ -117,19 +110,6 @@ Vignettes:
 Introduction to the 'bioseq' package https://cloud.r-project.org/web/packages/bioseq/vignettes/intro-bioseq.html
 
 Reference database preparation with the 'bioseq' package https://cloud.r-project.org/web/packages/bioseq/vignettes/ref_database.html
-
-----------
-
-- https://github.com/haruosuz/bioinfo
-- https://github.com/haruosuz/bioinfo/blob/master/references/README.reproducibility.md
-- https://github.com/haruosuz/bioinfo/blob/master/references/README.bioinfo.tools.md
-- 
-- https://github.com/haruosuz/codon
-
-
-
-
-
 
 ----------
 
