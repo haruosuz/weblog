@@ -42,6 +42,124 @@ http://sfcbus.jp/kh-weekday-j.html
 - https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md
 - https://github.com/haruosuz/mgsa/blob/master/references/mgsa.k-mer.md
 
+----------
+
+### microbe
+
+- https://github.com/haruosuz/microbe
+- https://github.com/haruosuz/microbe/blob/master/README.md
+- https://github.com/haruosuz/microbe/blob/master/references/mbioinfo.2021.md
+- https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.urban.md
+
+### metasub
+
+https://kf.kobotoolbox.org/#/forms
+https://github.com/haruosuz/metasub
+
+When humans go to #space, microbes go with them. Researchers are learning how space impacts the microbes living in, on and around astronauts—and how they can be used to advance future missions. Learn more: https://asm.social/S3
+https://asm.org/Articles/2022/October/Out-of-This-World-Microbes-in-Space
+
+Sept. 19, 2022 https://asm.org/Articles/2022/September/Metro-Microbes-Microbiomes-of-Public-Transit-Urban Metro Microbes: Microbiomes of Public Transit & Urban Spaces
+
+----------
+
+11:32 AM · Mar 7, 2023
+https://twitter.com/M123Takahashi/status/1632932093461397507
+高橋将宜 Masayoshi Takahashi on Twitter: "添付の図は，1標本t検定，2標本t検定，回帰分析，共分散分析を図で表したものです．それぞれの細かい説明は，次ページ以降に続きます．(1/5) https://t.co/xISeUu1sNQ" / Twitter
+
+----------
+
+https://note.com/kgcssk/n/n86abb18d46b4
+0048 最初が肝心｜海洋性ゴリラ研究者｜note
+
+https://sites.google.com/view/shiraki/2?pli=1
+ShirakiLab（公式） - 2
+学ぶ目的と方法
+つい忘れがちだが、大学は学びの場所である。では学びとは何か
+
+https://www.sbj.or.jp/wp-content/uploads/file/sbj/9711/9711_career_academia_1.pdf
+M1で論文を書く研究室の運営
+白木賢太郎
+
+----------
+2023年03月　刊行
+
+https://www.kinpodo-pub.co.jp/book/1950-8/
+超入門！　Rでできるビジュアル統計学　解析編　学会・論文発表に役立つデータ可視化マニュアル　 - 株式会社 金芳堂
+ISBN	978-4-7653-1950-8
+
+8:45 AM · Mar 8, 2023
+https://twitter.com/RF_epidemiol/status/1633252484448747521
+Ryosuke Fujii (Ryo) 🦒 藤井亮輔 on Twitter: "【拡散歓迎】可視化本の［続編］が出ます🎉（1/n） 推測統計をメインに可視化の実践まで学習できる一冊です！ 『超入門！Rでできるビジュアル統計学　解析編　学会・論文発表に役立つデータ可視化マニュアル』3,400円+税（フルカラー184ページ） #visR2023 @kinpodo_pub https://t.co/cQsMSAB18v" / Twitter
+
+
+----------
+
+11:29 AM · Mar 3, 2023
+https://twitter.com/nonbeepanda/status/1631481771987709958
+岩永直子 Naoko Iwanaga on Twitter: "専門家による8本の感染対策の吟味を1本の記事にまとめました。これ一本に8本分です。ぜひご一読、保存してください！ テーブルのアルコール消毒、ビュッフェの手袋使用、意味ある？ 専門家が吟味した8つの対策 https://t.co/Ju6lTuqxuS @nonbeepandaより" / Twitter
+2023年3月3日
+https://www.buzzfeed.com/jp/naokoiwanaga/shiwake-infection-control
+テーブルのアルコール消毒、ビュッフェの手袋使用、意味ある？ 専門家が吟味した8つの対策
+
+----------
+
+
+https://twitter.com/KawataMasakado
+Masakado Kawata (@KawataMasakado) / Twitter
+https://note.com/masakadokawata/
+河田 雅圭｜note
+
+https://note.com/masakadokawata/n/n2dfc4217831e
+進化における「適応」という言葉をめぐって｜河田 雅圭｜note
+2022年10月8日 19:53
+
+https://note.com/masakadokawata/n/n41079da12807
+「種の保存のための進化」はどこが誤りなのか｜河田 雅圭｜note
+2022年3月20日 16:00
+
+1:17 AM · Oct 15, 2022
+https://twitter.com/jlsteenwyk/status/1580956067755720710
+🧬Jacob L Steenwyk on Twitter: "NEW Publication🥳 Molecular #evolution studies often rely on single-copy orthologs (SC-OGs), resulting in large gene families—like transporters—being ignored. We present OrthoSNAP, software for identifying subsets of SC-OGs within larger gene families. 🔗https://t.co/2rWsRLsamn https://t.co/0d0SpvcRmw" / Twitter
+
+----------
+
+----------
+
+https://twitter.com/y_tambe
+
+9:14 AM · Nov 23, 2022
+https://twitter.com/y_tambe/status/1595209086001238016
+Y Tambe on Twitter: "講談社webブルーバックスでコラム公開されました。 ありがたくない冬の風物詩「ノロウイルス」寒い時期になぜ流行る？（旦部 幸博,北川 善紀） | ブルーバックス | 講談社（1/3） https://t.co/BvUh0qJIyH" / Twitter
+https://gendai.media/articles/-/100934
+ありがたくない冬の風物詩「ノロウイルス」寒い時期になぜ流行る？（旦部 幸博,北川 善紀） | ブルーバックス | 講談社（1/3）
+
+9:24 AM · Nov 17, 2022
+https://twitter.com/y_tambe/status/1593037409972731904
+Y Tambe on Twitter: "講談社WEBブルーバックスでコラムが公開されました。 なぜ生物兵器に利用される？　細菌学の由緒正しき微生物「炭疽菌」（旦部 幸博,北川 善紀） | ブルーバックス | 講談社（1/4） https://t.co/mL1sTP4uCm" / Twitter
+2022.11.16
+https://gendai.media/articles/-/100721
+なぜ生物兵器に利用される？　細菌学の由緒正しき微生物「炭疽菌」（旦部 幸博,北川 善紀） | ブルーバックス | 講談社（1/4）
+
+2022-08-18
+
+https://bookclub.kodansha.co.jp/product?item=0000368928
+『最小にして人類最大の宿敵　病原体の世界　歴史をも動かすミクロの攻防』（旦部　幸博，北川　善紀）：ブルーバックス｜講談社BOOK倶楽部
+
+
+----------
+
+- https://github.com/haruosuz/evolve
+- https://github.com/haruosuz/evolve/blob/master/references/evolve.memo.md
+- https://github.com/haruosuz/evolve/tree/master/tools/hyphy
+
+http://www.opiniomics.org/on-stuck-records-and-indel-errors-or-stop-publishing-bad-genomes/
+
+----------
+
+
+
 
 ----------
 
@@ -69,25 +187,6 @@ https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#get_homolo
 - https://github.com/haruosuz/plasmids/blob/master/references/plasmid_resistance.md
 - https://github.com/haruosuz/plasmids/blob/master/references/plasmid_metagenome.md
 - https://github.com/haruosuz/plasmids/blob/master/references/plasmid_IncP1.md
-
-
-### microbe
-
-- https://github.com/haruosuz/microbe
-- https://github.com/haruosuz/microbe/blob/master/README.md
-- https://github.com/haruosuz/microbe/blob/master/references/mbioinfo.2021.md
-- https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.urban.md
-
-### metasub
-
-https://kf.kobotoolbox.org/#/forms
-https://github.com/haruosuz/metasub
-
-When humans go to #space, microbes go with them. Researchers are learning how space impacts the microbes living in, on and around astronauts—and how they can be used to advance future missions. Learn more: https://asm.social/S3
-https://asm.org/Articles/2022/October/Out-of-This-World-Microbes-in-Space
-
-Sept. 19, 2022 https://asm.org/Articles/2022/September/Metro-Microbes-Microbiomes-of-Public-Transit-Urban Metro Microbes: Microbiomes of Public Transit & Urban Spaces
 
 ----------
 
@@ -139,89 +238,6 @@ R 1.2 - Calculations and Variables - YouTube
 - 2015-01-05 [PhyloBotanist: How to root a phylogenetic tree: outgroup, midpoint and other methods](http://phylobotanist.blogspot.com/2015/01/how-to-root-phylogenetic-tree-outgroup.html)
 - 2012-06-07 [The Cabbages of Doom: How to root a phylogenetic tree](http://cabbagesofdoom.blogspot.com/2012/06/how-to-root-phylogenetic-tree.html)
 
-----------
-
-https://twitter.com/KawataMasakado
-Masakado Kawata (@KawataMasakado) / Twitter
-https://note.com/masakadokawata/
-河田 雅圭｜note
-
-https://note.com/masakadokawata/n/n2dfc4217831e
-進化における「適応」という言葉をめぐって｜河田 雅圭｜note
-2022年10月8日 19:53
-
-https://note.com/masakadokawata/n/n41079da12807
-「種の保存のための進化」はどこが誤りなのか｜河田 雅圭｜note
-2022年3月20日 16:00
-
-
-1:17 AM · Oct 15, 2022
-https://twitter.com/jlsteenwyk/status/1580956067755720710
-🧬Jacob L Steenwyk on Twitter: "NEW Publication🥳 Molecular #evolution studies often rely on single-copy orthologs (SC-OGs), resulting in large gene families—like transporters—being ignored. We present OrthoSNAP, software for identifying subsets of SC-OGs within larger gene families. 🔗https://t.co/2rWsRLsamn https://t.co/0d0SpvcRmw" / Twitter
-
-----------
-
-----------
-
-https://twitter.com/y_tambe
-
-9:14 AM · Nov 23, 2022
-https://twitter.com/y_tambe/status/1595209086001238016
-Y Tambe on Twitter: "講談社webブルーバックスでコラム公開されました。 ありがたくない冬の風物詩「ノロウイルス」寒い時期になぜ流行る？（旦部 幸博,北川 善紀） | ブルーバックス | 講談社（1/3） https://t.co/BvUh0qJIyH" / Twitter
-https://gendai.media/articles/-/100934
-ありがたくない冬の風物詩「ノロウイルス」寒い時期になぜ流行る？（旦部 幸博,北川 善紀） | ブルーバックス | 講談社（1/3）
-
-9:24 AM · Nov 17, 2022
-https://twitter.com/y_tambe/status/1593037409972731904
-Y Tambe on Twitter: "講談社WEBブルーバックスでコラムが公開されました。 なぜ生物兵器に利用される？　細菌学の由緒正しき微生物「炭疽菌」（旦部 幸博,北川 善紀） | ブルーバックス | 講談社（1/4） https://t.co/mL1sTP4uCm" / Twitter
-2022.11.16
-https://gendai.media/articles/-/100721
-なぜ生物兵器に利用される？　細菌学の由緒正しき微生物「炭疽菌」（旦部 幸博,北川 善紀） | ブルーバックス | 講談社（1/4）
-
-
-2022-08-18
-
-https://bookclub.kodansha.co.jp/product?item=0000368928
-『最小にして人類最大の宿敵　病原体の世界　歴史をも動かすミクロの攻防』（旦部　幸博，北川　善紀）：ブルーバックス｜講談社BOOK倶楽部
-
-
-
-----------
-
-
-4:16 PM · Aug 1, 2022
-https://twitter.com/shokou5/status/1554003057246998528
-shokou5 on Twitter: "まとめました．「太刀川英輔『進化思考』と，デザイン学／生物学研究者らの批判，著者からの応答など．」 https://t.co/r3zbLTk8XR" / Twitter
-https://togetter.com/li/1923105
-太刀川英輔『進化思考』と，デザイン学／生物学研究者らの批判，著者からの応答など． - Togetter
-
-
-12:04 AM · Aug 2, 2022
-https://twitter.com/kamefuji/status/1554120919022309377
-かめふじ＠ハイアイアイ臨海実験所 on Twitter: "千葉聡著「歌うカタツムリ」&「進化のからくり」は俺のおすすめガイドでもナンバー１＆２として紹介したんだよ！ / ちゃんとした「進化生物学ブックガイド」 https://t.co/1jzjvan8zk" / Twitter
-
-2022年02月26日
-http://kamefuji-lab.seesaa.net/article/485759071.html
-ちゃんとした「進化生物学ブックガイド」: かめふじﾊｶｾの本草学研究室
-
-
-
-8:57 PM · Jul 21, 2022
-https://twitter.com/kamefuji/status/1550087618930417664
-かめふじ＠ハイアイアイ臨海実験所 on Twitter: "非常勤の講義用に作った資料をまとめなおしました。 / 『進化思考』における間違った進化理解の解説 https://t.co/ePKnebzhtt" / Twitter
-2022年07月21日
-http://kamefuji-lab.seesaa.net/article/489743059.html
-『進化思考』における間違った進化理解の解説: かめふじﾊｶｾの本草学研究室
-
-
-
-----------
-
-- https://github.com/haruosuz/evolve
-- https://github.com/haruosuz/evolve/blob/master/references/evolve.memo.md
-- https://github.com/haruosuz/evolve/tree/master/tools/hyphy
-
-http://www.opiniomics.org/on-stuck-records-and-indel-errors-or-stop-publishing-bad-genomes/
 
 ----------
 
