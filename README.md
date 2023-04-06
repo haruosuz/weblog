@@ -62,6 +62,28 @@ https://asm.org/Articles/2022/October/Out-of-This-World-Microbes-in-Space
 
 Sept. 19, 2022 https://asm.org/Articles/2022/September/Metro-Microbes-Microbiomes-of-Public-Transit-Urban Metro Microbes: Microbiomes of Public Transit & Urban Spaces
 
+
+
+----------
+
+
+11:51 AM · Apr 5, 2023
+https://twitter.com/nishiurah/status/1643446206696423425
+Hiroshi Nishiura on Twitter: "第9波は途中で緩和となります。全3回中の第3回目です。御覧ください。 https://t.co/Lcl4bxbbHL" / Twitter
+
+2023年4月5日
+https://www.buzzfeed.com/jp/naokoiwanaga/9th-wave-nishiura-3
+流行状況を把握するデータを手放して迎える第9波　どんな対策が必要？
+
+2023年4月4日
+https://www.buzzfeed.com/jp/naokoiwanaga/9th-wave-nishiura-2
+「9波は8波を超えてくる大規模な流行になる可能性」エンデミック化する英国とは違う道をたどる日本のこれから
+
+2023年4月3日
+https://www.buzzfeed.com/jp/naokoiwanaga/9th-wave-nishiura-1
+新型コロナ第9波に突入　欧米の流行状況から見える日本の予測
+
+
 ----------
 
 11:32 AM · Mar 7, 2023
