@@ -24,6 +24,72 @@ http://sfcbus.jp/kh-weekday-j.html
 - https://www.sfc.keio.ac.jp/deans_diary/
 
 ----------
+
+### class
+
+- https://github.com/haruosuz/introBI/tree/master/2023-04
+- 
+- https://github.com/haruosuz/DS4GD/tree/master/2023-04
+- https://github.com/haruosuz/r4bioinfo/blob/master/references/RStudioCloud.md
+- https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan
+- https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/index.html
+- 
+
+https://github.com/haruosuz/microbe/blob/master/references/microbe.video.md
+
+https://www.youtube.com/watch?v=6564K4-_DBI&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc Microbiome Discovery 1: Intro to the Microbiome - YouTube
+
+2013/07/02
+https://www.youtube.com/watch?v=S-o-sdlzhkE
+R 1.2 - Calculations and Variables - YouTube
+
+- Andrew Rambaut - "How to read a phylogenetic tree", 2018-07-30 https://artic.network/how-to-read-a-tree.html
+- Dave Hone - "How to read a phylogenetic tree" https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/
+- 2015-01-05 [PhyloBotanist: How to root a phylogenetic tree: outgroup, midpoint and other methods](http://phylobotanist.blogspot.com/2015/01/how-to-root-phylogenetic-tree-outgroup.html)
+- 2012-06-07 [The Cabbages of Doom: How to root a phylogenetic tree](http://cabbagesofdoom.blogspot.com/2012/06/how-to-root-phylogenetic-tree.html)
+
+----------
+
+https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md#root
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7149615/ Encyclopedia of Evolutionary Biology. 2016 : 489–493. Published online 2016 Apr 21. doi: 10.1016/B978-0-12-800049-6.00215-8 PMCID: PMC7149615 Rooting Trees, Methods for T. Kinene, J. Wainaina, S. Maina, and L.M. Boykin
+
+Brady S.G., Litman J.R., Danforth B.N. Rooting phylogenies using gene duplications: An empirical example from the bees (Apoidea) Molecular Phylogenetics and Evolution. 2011;60(3):295–304. [PubMed] [Google Scholar]
+
+https://pubmed.ncbi.nlm.nih.gov/21600997/
+Comparative Study Mol Phylogenet Evol
+. 2011 Sep;60(3):295-304. doi: 10.1016/j.ympev.2011.05.002. Epub 2011 May 12.
+Rooting phylogenies using gene duplications: an empirical example from the bees (Apoidea)
+Seán G Brady 1, Jessica R Litman, Bryan N Danforth
+
+----------
+
+
+
+
+----------
+
+https://github.com/haruosuz/r4bioinfo/tree/master/R_codon
+
+https://github.com/jlw-ecoevo/gRodon2
+http://microbialgamut.com/gRodon-vignette
+
+http://bioconductor.org/packages/coRdon/
+https://bioconductor.org/packages/release/bioc/vignettes/coRdon/inst/doc/coRdon.html
+
+----------
+
+https://github.com/haruosuz/r4bioinfo/blob/master/references/R.bio.md#bioseq
+
+https://cran.r-project.org/package=bioseq
+
+Vignettes:
+
+Introduction to the 'bioseq' package https://cloud.r-project.org/web/packages/bioseq/vignettes/intro-bioseq.html
+
+Reference database preparation with the 'bioseq' package https://cloud.r-project.org/web/packages/bioseq/vignettes/ref_database.html
+
+
+----------
 ## twitter
 
 - https://twitter.com
@@ -209,112 +275,6 @@ https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#get_homolo
 - https://github.com/haruosuz/plasmids/blob/master/references/plasmid_resistance.md
 - https://github.com/haruosuz/plasmids/blob/master/references/plasmid_metagenome.md
 - https://github.com/haruosuz/plasmids/blob/master/references/plasmid_IncP1.md
-
-----------
-
-https://github.com/haruosuz/r4bioinfo/tree/master/R_codon
-
-https://github.com/jlw-ecoevo/gRodon2
-http://microbialgamut.com/gRodon-vignette
-
-http://bioconductor.org/packages/coRdon/
-https://bioconductor.org/packages/release/bioc/vignettes/coRdon/inst/doc/coRdon.html
-
-----------
-
-https://github.com/haruosuz/r4bioinfo/blob/master/references/R.bio.md#bioseq
-
-https://cran.r-project.org/package=bioseq
-
-Vignettes:
-
-Introduction to the 'bioseq' package https://cloud.r-project.org/web/packages/bioseq/vignettes/intro-bioseq.html
-
-Reference database preparation with the 'bioseq' package https://cloud.r-project.org/web/packages/bioseq/vignettes/ref_database.html
-
-----------
-
-### class
-
-- https://github.com/haruosuz/DS4GD
-- https://github.com/haruosuz/DS4GD/tree/master/2022giga
-- https://github.com/haruosuz/r4bioinfo/blob/master/references/RStudioCloud.md
-- https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan
-- https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/index.html
-- 
-- https://github.com/haruosuz/introBI
-- https://github.com/haruosuz/introBI/tree/master/2022
-- https://github.com/vsbuffalo/bds-files
-- 
-
-https://github.com/haruosuz/microbe/blob/master/references/microbe.video.md
-
-https://www.youtube.com/watch?v=6564K4-_DBI&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc Microbiome Discovery 1: Intro to the Microbiome - YouTube
-
-2013/07/02
-https://www.youtube.com/watch?v=S-o-sdlzhkE
-R 1.2 - Calculations and Variables - YouTube
-
-- Andrew Rambaut - "How to read a phylogenetic tree", 2018-07-30 https://artic.network/how-to-read-a-tree.html
-- Dave Hone - "How to read a phylogenetic tree" https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/
-- 2015-01-05 [PhyloBotanist: How to root a phylogenetic tree: outgroup, midpoint and other methods](http://phylobotanist.blogspot.com/2015/01/how-to-root-phylogenetic-tree-outgroup.html)
-- 2012-06-07 [The Cabbages of Doom: How to root a phylogenetic tree](http://cabbagesofdoom.blogspot.com/2012/06/how-to-root-phylogenetic-tree.html)
-
-
-----------
-
-https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md#root
-https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7149615/ Encyclopedia of Evolutionary Biology. 2016 : 489–493. Published online 2016 Apr 21. doi: 10.1016/B978-0-12-800049-6.00215-8 PMCID: PMC7149615 Rooting Trees, Methods for T. Kinene, J. Wainaina, S. Maina, and L.M. Boykin
-
-Brady S.G., Litman J.R., Danforth B.N. Rooting phylogenies using gene duplications: An empirical example from the bees (Apoidea) Molecular Phylogenetics and Evolution. 2011;60(3):295–304. [PubMed] [Google Scholar]
-
-https://pubmed.ncbi.nlm.nih.gov/21600997/
-Comparative Study Mol Phylogenet Evol
-. 2011 Sep;60(3):295-304. doi: 10.1016/j.ympev.2011.05.002. Epub 2011 May 12.
-Rooting phylogenies using gene duplications: an empirical example from the bees (Apoidea)
-Seán G Brady 1, Jessica R Litman, Bryan N Danforth
-
-----------
-
-### MDMcleaner
-
-https://pubmed.ncbi.nlm.nih.gov/35536293/
-Nucleic Acids Res
-. 2022 May 10;gkac294. doi: 10.1093/nar/gkac294. Online ahead of print.
-How clear is our current view on microbial dark matter? (Re-)assessing public MAG & SAG datasets with MDMcleaner
-John Vollmers 1, Sandra Wiegand 1, Florian Lenk 1, Anne-Kristin Kaster 1
-https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac294/6583244
-
-----------
-MDMcleaner
-
-https://pubmed.ncbi.nlm.nih.gov/35536293/
-Nucleic Acids Res
-. 2022 May 10;gkac294. doi: 10.1093/nar/gkac294. Online ahead of print.
-How clear is our current view on microbial dark matter? (Re-)assessing public MAG & SAG datasets with MDMcleaner
-John Vollmers 1, Sandra Wiegand 1, Florian Lenk 1, Anne-Kristin Kaster 1
-https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac294/6583244
-
-8:05 PM · May 20, 2022
-https://twitter.com/kasterlab/status/1527606371872546818
-Kaster Lab on Twitter: "Our genome assessment pipeline for microbial dark matter, MDMcleaner, is now available via Pip & Conda! Also check out the corresponding publication at NAR: https://t.co/8lqdLnNQfD" / Twitter
-
-6:13 PM · May 16, 2022
-https://twitter.com/BioMickWatson/status/1526128600617046022
-Mick W@tson on Twitter: "Another taxonomy-based approach to MAG contamination: How clear is our current view on microbial dark matter? (Re-)assessing public MAG & SAG datasets with MDMcleaner | Nucleic Acids Research | Oxford Academic https://t.co/Fpl1iHhR4K" / Twitter
-
-In our experience these really don't work very well especially for MAGs distant from the reference DB
-
-And if your MAGs are not distant from the reference DB, why are you creating them>
-
-I mean if your microbiome contains known genomes (which you can find out using containment queries), you don't need to create MAGs
-
-
-
-
-
-
-
 
 ----------
 
