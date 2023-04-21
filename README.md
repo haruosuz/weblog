@@ -25,6 +25,66 @@ http://sfcbus.jp/kh-weekday-j.html
 
 ----------
 
+### metasub
+
+https://github.com/haruosuz/metasub
+
+https://kf.kobotoolbox.org/#/forms
+
+When humans go to #space, microbes go with them. Researchers are learning how space impacts the microbes living in, on and around astronauts—and how they can be used to advance future missions. Learn more: https://asm.social/S3
+https://asm.org/Articles/2022/October/Out-of-This-World-Microbes-in-Space
+
+Sept. 19, 2022 https://asm.org/Articles/2022/September/Metro-Microbes-Microbiomes-of-Public-Transit-Urban Metro Microbes: Microbiomes of Public Transit & Urban Spaces
+
+
+----------
+## twitter
+
+- https://twitter.com
+- https://twitter.com/copypasteusa
+- https://twitter.com/copypasteusa/likes
+- https://twitter.com/oikawamaru
+オイカワ丸 (@oikawamaru) / Twitter
+- 
+- https://github.com/haruosuz/books
+- https://github.com/haruosuz/books/blob/master/references/books.microbe.md
+- https://github.com/haruosuz/books/blob/master/references/books.updates.md#2019-06-15
+- https://github.com/haruosuz/r4bioinfo/blob/master/r_books/README.md
+- 
+- https://github.com/haruosuz/mgsa
+- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.metagenome.md
+- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md
+- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.k-mer.md
+
+----------
+
+### microbe
+
+- https://github.com/haruosuz/microbe
+- https://github.com/haruosuz/microbe/blob/master/README.md
+- https://github.com/haruosuz/microbe/blob/master/references/mbioinfo.2021.md
+- https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.urban.md
+
+----------
+
+
+2:57 AM · Mar 31, 2023
+https://twitter.com/MicrobiomeJ/status/1641499976424386560
+Microbiome on Twitter: "Beehives reveal city health and metagenomes - these could have real world implications for monitoring #epidemics and #pandemics! @lschriml @joyemwatts @IanDEALidbury @jac_ravel @sharonhuws https://t.co/o6OcIA5FiK" / Twitter
+
+9:05 PM · Apr 4, 2023
+https://twitter.com/NatGeoMagJP/status/1643223278000168960
+ナショナルジオグラフィック日本版 on Twitter: "ミツバチの巣から都市に潜む微生物がわかる、東京などで調査: ニューヨークなど世界5都市で調査。それぞれに固有の特徴が見つかりました。都市の環境や動物、そして人間の健康状態を知るのに役立つ可能性があります。 https://t.co/ct9a2G1W6p #ナショジオ" / Twitter
+
+https://news.yahoo.co.jp/articles/fdbbd73372a41f2cf656b326bc90afb144e13cce?page=2
+ミツバチの巣から都市に潜む微生物がわかる、世界5都市で調査、東京で見つかったのはなんと！（ナショナル ジオグラフィック日本版） - Yahoo!ニュース
+
+https://news.goo.ne.jp/article/natgeo/world/natgeo-0000BKXf.html?page=2
+ミツバチの巣から都市に潜む微生物がわかる、東京などで調査(ナショナル ジオグラフィック日本版) - goo ニュース
+
+----------
+
 ### class
 
 - https://github.com/haruosuz/introBI/tree/master/2023-04
@@ -61,10 +121,6 @@ Comparative Study Mol Phylogenet Evol
 Rooting phylogenies using gene duplications: an empirical example from the bees (Apoidea)
 Seán G Brady 1, Jessica R Litman, Bryan N Danforth
 
-----------
-
-
-
 
 ----------
 
@@ -88,50 +144,7 @@ Introduction to the 'bioseq' package https://cloud.r-project.org/web/packages/bi
 
 Reference database preparation with the 'bioseq' package https://cloud.r-project.org/web/packages/bioseq/vignettes/ref_database.html
 
-
 ----------
-## twitter
-
-- https://twitter.com
-- https://twitter.com/copypasteusa
-- https://twitter.com/copypasteusa/likes
-- https://twitter.com/oikawamaru
-オイカワ丸 (@oikawamaru) / Twitter
-- 
-- https://github.com/haruosuz/books
-- https://github.com/haruosuz/books/blob/master/references/books.microbe.md
-- https://github.com/haruosuz/books/blob/master/references/books.updates.md#2019-06-15
-- https://github.com/haruosuz/r4bioinfo/blob/master/r_books/README.md
-- 
-- https://github.com/haruosuz/mgsa
-- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.metagenome.md
-- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md
-- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.k-mer.md
-
-----------
-
-### microbe
-
-- https://github.com/haruosuz/microbe
-- https://github.com/haruosuz/microbe/blob/master/README.md
-- https://github.com/haruosuz/microbe/blob/master/references/mbioinfo.2021.md
-- https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.urban.md
-
-### metasub
-
-https://kf.kobotoolbox.org/#/forms
-https://github.com/haruosuz/metasub
-
-When humans go to #space, microbes go with them. Researchers are learning how space impacts the microbes living in, on and around astronauts—and how they can be used to advance future missions. Learn more: https://asm.social/S3
-https://asm.org/Articles/2022/October/Out-of-This-World-Microbes-in-Space
-
-Sept. 19, 2022 https://asm.org/Articles/2022/September/Metro-Microbes-Microbiomes-of-Public-Transit-Urban Metro Microbes: Microbiomes of Public Transit & Urban Spaces
-
-
-
-----------
-
 
 11:51 AM · Apr 5, 2023
 https://twitter.com/nishiurah/status/1643446206696423425
@@ -155,6 +168,7 @@ https://www.buzzfeed.com/jp/naokoiwanaga/9th-wave-nishiura-1
 11:32 AM · Mar 7, 2023
 https://twitter.com/M123Takahashi/status/1632932093461397507
 高橋将宜 Masayoshi Takahashi on Twitter: "添付の図は，1標本t検定，2標本t検定，回帰分析，共分散分析を図で表したものです．それぞれの細かい説明は，次ページ以降に続きます．(1/5) https://t.co/xISeUu1sNQ" / Twitter
+
 
 ----------
 
