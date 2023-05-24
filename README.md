@@ -25,6 +25,14 @@ http://sfcbus.jp/kh-weekday-j.html
 
 ----------
 
+5:10 PM · Apr 25, 2023
+https://twitter.com/sabifo4/status/1650774282387988480
+Sandra Álvarez on Twitter: "Using PAML to detect positive selection but need some guidance? @PKapli , @zihengyang , and I have been working on a protocol that we hope you find useful. The "Beginner's Guide on the Use of PAML to Detect Positive Selection" is now available! https://t.co/JW7e0uQXF3 (1/n)" / Twitter
+https://academic.oup.com/mbe/article/40/4/msad041/7140562
+Beginner's Guide on the Use of PAML to Detect Positive Selection | Molecular Biology and Evolution | Oxford Academic
+
+----------
+
 ### metasub
 
 https://github.com/haruosuz/metasub
