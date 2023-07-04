@@ -25,11 +25,41 @@ http://sfcbus.jp/kh-weekday-j.html
 
 ----------
 
+https://naokoiwanaga.theletter.jp/
+医療記者、岩永直子のニュースレター
+
+
+https://furuse-yukihiro.info/2023covidcolumn09/
+微生物との戦争――ヒトと動物、環境と微生物の葛藤（1） | MONOLOGUE
+
+
+----------
+
+2023.06.13
+https://scienceportal.jst.go.jp/newsflash/20230613_n01/
+遺伝子の消えやすさ、ゲノムの特徴も関係か 遺伝研など | Science Portal - 科学技術の最新情報サイト「サイエンスポータル」
+
+　進化の過程で生物から遺伝子が消えていく要因には、機能の要不要だけでなくDNA配列などゲノム（遺伝情報）の物理化学的な特徴も絡んでいる可能性があることを、国立遺伝学研究所などが発表した。研究チームが哺乳類の遺伝子情報を解析し、明らかにした。将来的には、病気を引き起こしやすい遺伝子の探索に応用できる可能性がある。
+
+　生物進化において、生存に有利な遺伝子は広がりやすく、機能がいらなくなった遺伝子は消えやすいとされる。東京都医学総合研究所の原雄一郎主席研究員（ゲノム科学）と遺伝研の工樂樹洋教授は、理化学研究所で分子進化学を専門としてゲノム解読などに取り組む中、「遺伝子の消えやすさにゲノムの物理化学的特徴も影響するのではないか」と研究を発案。欧米のゲノム情報データベースにある遺伝子の中から消えやすい遺伝子を探し、その特徴を調べることにした。
+
+----------
+
+
+
+----------
+
 5:10 PM · Apr 25, 2023
 https://twitter.com/sabifo4/status/1650774282387988480
 Sandra Álvarez on Twitter: "Using PAML to detect positive selection but need some guidance? @PKapli , @zihengyang , and I have been working on a protocol that we hope you find useful. The "Beginner's Guide on the Use of PAML to Detect Positive Selection" is now available! https://t.co/JW7e0uQXF3 (1/n)" / Twitter
 https://academic.oup.com/mbe/article/40/4/msad041/7140562
 Beginner's Guide on the Use of PAML to Detect Positive Selection | Molecular Biology and Evolution | Oxford Academic
+
+
+8:00 PM · May 26, 2023
+https://twitter.com/Amamino_Kurousa/status/1662051012293668870
+Amamino Kurousagi on Twitter: "『なんでHPV🦠感染が子宮頸がんの原因だと分かるの？』 素晴らしい質問だ。たった一言の質問だが、これがわかるまでには、仮説として提出されてからの、無数の科学者と(研究に参加した患者たち）の20年にわたるエビデンスの蓄積があるわけだ。 追体験してみる？😊 →" / Twitter
+
 
 ----------
 
