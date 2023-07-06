@@ -23,6 +23,25 @@ http://sfcbus.jp/kh-weekday-j.html
 - https://www.sfc.keio.ac.jp/gsmg/about/faculty/
 - https://www.sfc.keio.ac.jp/deans_diary/
 
+
+----------
+
+https://www.wbgt.env.go.jp/
+環境省熱中症予防情報サイト
+
+
+https://twitter.com/Tokyo_Fire_D/status/1677092874209591297
+東京消防庁 on Twitter: "【熱中症になってしまったら…】 気象庁の予報では、本日の東京都心の最高気温は33度になる見込みです！ ① 衣服をゆるめる ② 皮膚を濡らして、扇風機などで体を冷やす ③ 保冷剤や氷枕をタオルでくるんで脇の下や大腿部付け根に ④ 経口補水液やスポーツドリンクで水分補給 ＃東京消防庁 ＃熱中症 https://t.co/Zk8CZQbYP6" / Twitter
+
+【熱中症になってしまったら…】
+気象庁の予報では、本日の東京都心の最高気温は33度になる見込みです！
+① 衣服をゆるめる
+② 皮膚を濡らして、扇風機などで体を冷やす
+③ 保冷剤や氷枕をタオルでくるんで脇の下や大腿部付け根に
+④ 経口補水液やスポーツドリンクで水分補給
+
+
+
 ----------
 
 https://naokoiwanaga.theletter.jp/
