@@ -23,6 +23,11 @@ http://sfcbus.jp/kh-weekday-j.html
 - https://www.sfc.keio.ac.jp/gsmg/about/faculty/
 - https://www.sfc.keio.ac.jp/deans_diary/
 
+----------
+
+12:09 AM · Mar 24, 2018
+https://twitter.com/Kappa1st/status/977200633689198592
+鳥屋見習い・土曜ト33b on Twitter: "三中先生の最終高座は、研究者という生き方を選んでしまった人たちが、どうやって生き残っていくかというお話でした。 自分の全ては表に出さない。3割表に出したら、残りの力で裏の研究をする。周りがどうなろうと、自分に芯を持ってやりたいことをする。 難しいけれど、楽しい生き方だと思います。" / Twitter
 
 ----------
 
