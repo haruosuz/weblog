@@ -25,6 +25,51 @@ http://sfcbus.jp/kh-weekday-j.html
 
 ----------
 
+https://twitter.com/kakenhi_com
+科研費.com (@kakenhi_com) / X
+
+----------
+
+https://twitter.com/Yodosha_grant
+羊土社 科研費獲得の方法とコツ (@Yodosha_grant) / X
+
+科研費獲得のための応募戦略｜科研費獲得の方法とコツ Online - 羊土社
+
+11:18 AM · Aug 10, 2023
+https://twitter.com/Yodosha_grant/status/1689461267843420161
+羊土社 科研費獲得の方法とコツ on Twitter: "【Onlineコンテンツ　科研費獲得のための応募戦略　第3回/全6回】 昨日一昨日に引き続き、第3回をご紹介いたします！文章をまとめる際には、最初に全体の構成を考えてから書き始める方が効率的だということを耳にします。そのやり方について、この記事では解説しています。 ■第3回… https://t.co/k4UIZVgruT" / X
+https://www.yodosha.co.jp/kakenhi/contents/web_grant/web_grant03.html
+第3回 アイデアのまとめ方のポイント
+（2023.07.14更新）
+
+5:14 PM · Aug 9, 2023
+https://twitter.com/Yodosha_grant/status/1689188446945103872
+羊土社 科研費獲得の方法とコツ on Twitter: "【Onlineコンテンツ　科研費獲得のための応募戦略　第2回/全6回】 本日は第2回をご紹介します！ ■第2回 審査区分（応援分野）の選び方 (内容一部抜粋)… https://t.co/qvYxPzA9gr" / X
+https://www.yodosha.co.jp/kakenhi/contents/web_grant/web_grant02.html
+第2回 審査区分（応援分野）の選び方
+（2023.07.14更新）
+
+10:31 AM · Aug 8, 2023
+https://twitter.com/Yodosha_grant/status/1688724685255770112
+羊土社 科研費獲得の方法とコツ on Twitter: "【Onlineコンテンツ　科研費獲得のための応募戦略】… https://t.co/6msV9Kjq8e" / X
+yodosha.co.jp/kakenhi/contents/web_grant/web_grant01.html
+第1回 応募種目の選び方
+（2023.07.14更新）
+
+
+
+
+----------
+
+https://twitter.com/SystemsVirology/status/1687780610025406464
+The Sato Lab (Kei Sato) on Twitter: "ここのところいろいろなところでツイートされてよく見かけるこの論文（の解説和訳）に関連して、基礎ウイルス学的観点（と、これまでのG2P-Japan🇯🇵の研究成果）から、新型コロナのこれまでの進化の変遷について簡単にちょっとまとめてみようと思います🎐1/ https://t.co/nEyTuyEiDG" / X
+
+8:00 PM · Aug 5, 2023
+https://rplroseus.hatenablog.com/entry/2023/05/29/175726
+SARS-CoV-2の進化と将来のシナリオ - Dr. Tairaのブログ
+
+----------
+
 https://naokoiwanaga.theletter.jp/
 医療記者、岩永直子のニュースレター
 
