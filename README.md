@@ -23,6 +23,25 @@ http://sfcbus.jp/kh-weekday-j.html
 - https://www.sfc.keio.ac.jp/gsmg/about/faculty/
 - https://www.sfc.keio.ac.jp/deans_diary/
 
+https://helpfeel.com/SFCHelp/タクシー-635699d1fe226f002362c282
+SFCHelp - タクシー
+「デルタ館前」のように場所を指定してタクシーを呼ぶことができます
+相愛交通: 0120-87-2610
+
+----------
+
+https://twitter.com/mph_for_doctors
+手を洗う救急医Taka（木下喬弘） (@mph_for_doctors) / Twitter
+https://twitter.com/mph_for_doctors/status/1704434027850252351
+https://note.com/mph_for_doctors/n/nf0fced47fc7f?sub_rt=share_pb
+HIROTSUバイオサイエンスのNewsPicksに対する反論について｜手を洗う救急医Taka
+
+https://twitter.com/kutsunasatoshi
+忽那賢志 (@kutsunasatoshi) / Twitter
+
+https://twitter.com/metacovid19
+メタコビ公式
+
 ----------
 
 https://twitter.com/SystemsVirology
