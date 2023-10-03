@@ -32,9 +32,12 @@ SFCHelp - タクシー
 
 ### class
 
-- https://github.com/haruosuz/introBI/tree/master/2023-04
-- 
-- https://github.com/haruosuz/DS4GD/tree/master/2023-04
+- https://github.com/haruosuz/introBI/tree/master/2023-10
+- https://github.com/haruosuz/DS4GD/tree/master/2023-10
+- https://github.com/haruosuz/DS4GD/blob/master/2018/CaseStudy.md#genome-signature
+- https://github.com/haruosuz/DS4GD/blob/master/2021/CaseStudy.md#ncbi-genome-list
+- https://github.com/haruosuz/DS4GD/blob/master/2023-10/CaseStudy.md
+- https://github.com/haruosuz/DS4GD/blob/master/2023-10/CaseStudy.md#assignment-1
 - https://github.com/haruosuz/r4bioinfo/blob/master/references/RStudioCloud.md
 - https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan
 - https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/index.html
