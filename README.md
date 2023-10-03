@@ -30,6 +30,68 @@ SFCHelp - タクシー
 
 ----------
 
+### class
+
+- https://github.com/haruosuz/introBI/tree/master/2023-04
+- 
+- https://github.com/haruosuz/DS4GD/tree/master/2023-04
+- https://github.com/haruosuz/r4bioinfo/blob/master/references/RStudioCloud.md
+- https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan
+- https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/index.html
+- 
+
+https://github.com/haruosuz/microbe/blob/master/references/microbe.video.md
+
+https://www.youtube.com/watch?v=6564K4-_DBI&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc Microbiome Discovery 1: Intro to the Microbiome - YouTube
+
+2013/07/02
+https://www.youtube.com/watch?v=S-o-sdlzhkE
+R 1.2 - Calculations and Variables - YouTube
+
+- Andrew Rambaut - "How to read a phylogenetic tree", 2018-07-30 https://artic.network/how-to-read-a-tree.html
+- Dave Hone - "How to read a phylogenetic tree" https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/
+- 2015-01-05 [PhyloBotanist: How to root a phylogenetic tree: outgroup, midpoint and other methods](http://phylobotanist.blogspot.com/2015/01/how-to-root-phylogenetic-tree-outgroup.html)
+- 2012-06-07 [The Cabbages of Doom: How to root a phylogenetic tree](http://cabbagesofdoom.blogspot.com/2012/06/how-to-root-phylogenetic-tree.html)
+
+----------
+
+https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md#root
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7149615/ Encyclopedia of Evolutionary Biology. 2016 : 489–493. Published online 2016 Apr 21. doi: 10.1016/B978-0-12-800049-6.00215-8 PMCID: PMC7149615 Rooting Trees, Methods for T. Kinene, J. Wainaina, S. Maina, and L.M. Boykin
+
+Brady S.G., Litman J.R., Danforth B.N. Rooting phylogenies using gene duplications: An empirical example from the bees (Apoidea) Molecular Phylogenetics and Evolution. 2011;60(3):295–304. [PubMed] [Google Scholar]
+
+https://pubmed.ncbi.nlm.nih.gov/21600997/
+Comparative Study Mol Phylogenet Evol
+. 2011 Sep;60(3):295-304. doi: 10.1016/j.ympev.2011.05.002. Epub 2011 May 12.
+Rooting phylogenies using gene duplications: an empirical example from the bees (Apoidea)
+Seán G Brady 1, Jessica R Litman, Bryan N Danforth
+
+
+----------
+
+https://github.com/haruosuz/r4bioinfo/tree/master/R_codon
+
+https://github.com/jlw-ecoevo/gRodon2
+http://microbialgamut.com/gRodon-vignette
+
+http://bioconductor.org/packages/coRdon/
+https://bioconductor.org/packages/release/bioc/vignettes/coRdon/inst/doc/coRdon.html
+
+----------
+
+https://github.com/haruosuz/r4bioinfo/blob/master/references/R.bio.md#bioseq
+
+https://cran.r-project.org/package=bioseq
+
+Vignettes:
+
+Introduction to the 'bioseq' package https://cloud.r-project.org/web/packages/bioseq/vignettes/intro-bioseq.html
+
+Reference database preparation with the 'bioseq' package https://cloud.r-project.org/web/packages/bioseq/vignettes/ref_database.html
+
+
+----------
+
 https://twitter.com/mph_for_doctors
 手を洗う救急医Taka（木下喬弘） (@mph_for_doctors) / Twitter
 https://twitter.com/mph_for_doctors/status/1704434027850252351
@@ -221,67 +283,6 @@ https://news.yahoo.co.jp/articles/fdbbd73372a41f2cf656b326bc90afb144e13cce?page=
 
 https://news.goo.ne.jp/article/natgeo/world/natgeo-0000BKXf.html?page=2
 ミツバチの巣から都市に潜む微生物がわかる、東京などで調査(ナショナル ジオグラフィック日本版) - goo ニュース
-
-----------
-
-### class
-
-- https://github.com/haruosuz/introBI/tree/master/2023-04
-- 
-- https://github.com/haruosuz/DS4GD/tree/master/2023-04
-- https://github.com/haruosuz/r4bioinfo/blob/master/references/RStudioCloud.md
-- https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan
-- https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/index.html
-- 
-
-https://github.com/haruosuz/microbe/blob/master/references/microbe.video.md
-
-https://www.youtube.com/watch?v=6564K4-_DBI&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc Microbiome Discovery 1: Intro to the Microbiome - YouTube
-
-2013/07/02
-https://www.youtube.com/watch?v=S-o-sdlzhkE
-R 1.2 - Calculations and Variables - YouTube
-
-- Andrew Rambaut - "How to read a phylogenetic tree", 2018-07-30 https://artic.network/how-to-read-a-tree.html
-- Dave Hone - "How to read a phylogenetic tree" https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/
-- 2015-01-05 [PhyloBotanist: How to root a phylogenetic tree: outgroup, midpoint and other methods](http://phylobotanist.blogspot.com/2015/01/how-to-root-phylogenetic-tree-outgroup.html)
-- 2012-06-07 [The Cabbages of Doom: How to root a phylogenetic tree](http://cabbagesofdoom.blogspot.com/2012/06/how-to-root-phylogenetic-tree.html)
-
-----------
-
-https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md#root
-https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7149615/ Encyclopedia of Evolutionary Biology. 2016 : 489–493. Published online 2016 Apr 21. doi: 10.1016/B978-0-12-800049-6.00215-8 PMCID: PMC7149615 Rooting Trees, Methods for T. Kinene, J. Wainaina, S. Maina, and L.M. Boykin
-
-Brady S.G., Litman J.R., Danforth B.N. Rooting phylogenies using gene duplications: An empirical example from the bees (Apoidea) Molecular Phylogenetics and Evolution. 2011;60(3):295–304. [PubMed] [Google Scholar]
-
-https://pubmed.ncbi.nlm.nih.gov/21600997/
-Comparative Study Mol Phylogenet Evol
-. 2011 Sep;60(3):295-304. doi: 10.1016/j.ympev.2011.05.002. Epub 2011 May 12.
-Rooting phylogenies using gene duplications: an empirical example from the bees (Apoidea)
-Seán G Brady 1, Jessica R Litman, Bryan N Danforth
-
-
-----------
-
-https://github.com/haruosuz/r4bioinfo/tree/master/R_codon
-
-https://github.com/jlw-ecoevo/gRodon2
-http://microbialgamut.com/gRodon-vignette
-
-http://bioconductor.org/packages/coRdon/
-https://bioconductor.org/packages/release/bioc/vignettes/coRdon/inst/doc/coRdon.html
-
-----------
-
-https://github.com/haruosuz/r4bioinfo/blob/master/references/R.bio.md#bioseq
-
-https://cran.r-project.org/package=bioseq
-
-Vignettes:
-
-Introduction to the 'bioseq' package https://cloud.r-project.org/web/packages/bioseq/vignettes/intro-bioseq.html
-
-Reference database preparation with the 'bioseq' package https://cloud.r-project.org/web/packages/bioseq/vignettes/ref_database.html
 
 ----------
 
