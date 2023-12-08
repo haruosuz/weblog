@@ -30,6 +30,15 @@ SFCHelp - タクシー
 
 ----------
 
+2:00 AM · Nov 30, 2023
+https://twitter.com/ASMicrobiology/status/1729908083344691626
+ASM on X: "💠How are viruses transmitted indoors? 💠Can a virus cause disease if it settles onto a surface and is resuspended into the air? 💠What can be done to prevent the spread of viruses in buildings? This article provides some answers. ➡️https://t.co/nfJmKCmGvU" / X
+Nov. 29, 2023
+https://asm.org/Articles/2023/November/How-Viruses-Spread-Indoors-What-to-Do-About-It
+How Viruses Spread Indoors and What to Do About It
+
+----------
+
 ### class
 
 - https://github.com/haruosuz/introBI/tree/master/2023-10
