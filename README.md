@@ -28,6 +28,47 @@ SFCHelp - タクシー
 「デルタ館前」のように場所を指定してタクシーを呼ぶことができます
 相愛交通: 0120-87-2610
 
+
+----------
+
+https://twitter.com/kutsunasatoshi
+忽那賢志 (@kutsunasatoshi) / Twitter
+
+https://twitter.com/metacovid19
+メタコビ公式
+
+https://twitter.com/SystemsVirology
+The Sato Lab (Kei Sato) (@SystemsVirology) / X
+
+https://twitter.com/mph_for_doctors
+手を洗う救急医Taka（木下喬弘） (@mph_for_doctors) / Twitter
+
+----------
+
+
+
+----------
+
+https://www.keisoshobo.co.jp/book/b620100.html
+生物学者のための科学哲学 - 株式会社　勁草書房
+https://keisobiblio.com/2023/02/01/atogakitachiyomi_seibutsugakushanotamenokatetsu/
+
+https://shorebird.hatenablog.com/entry/2023/05/28/154828
+書評　「生物学者のための科学哲学」 - shorebird　進化心理学中心の書評など
+
+----------
+
+https://naokoiwanaga.theletter.jp/
+医療記者、岩永直子のニュースレター
+
+----------
+
+https://twitter.com/KawataMasakado
+Masakado Kawata (@KawataMasakado) / X
+https://note.com/masakadokawata
+https://note.com/masakadokawata/n/nb015a606e935
+新型コロナウイルスの進化と感染症の傾向｜河田 雅圭
+
 ----------
 
 2:00 AM · Nov 30, 2023
@@ -38,6 +79,67 @@ https://asm.org/Articles/2023/November/How-Viruses-Spread-Indoors-What-to-Do-Abo
 How Viruses Spread Indoors and What to Do About It
 
 ----------
+
+https://furuse-yukihiro.info/2023covidcolumn09/
+微生物との戦争――ヒトと動物、環境と微生物の葛藤（1） | MONOLOGUE
+
+
+
+----------
+
+
+2:57 AM · Mar 31, 2023
+https://twitter.com/MicrobiomeJ/status/1641499976424386560
+Microbiome on Twitter: "Beehives reveal city health and metagenomes - these could have real world implications for monitoring #epidemics and #pandemics! @lschriml @joyemwatts @IanDEALidbury @jac_ravel @sharonhuws https://t.co/o6OcIA5FiK" / Twitter
+
+9:05 PM · Apr 4, 2023
+https://twitter.com/NatGeoMagJP/status/1643223278000168960
+ナショナルジオグラフィック日本版 on Twitter: "ミツバチの巣から都市に潜む微生物がわかる、東京などで調査: ニューヨークなど世界5都市で調査。それぞれに固有の特徴が見つかりました。都市の環境や動物、そして人間の健康状態を知るのに役立つ可能性があります。 https://t.co/ct9a2G1W6p #ナショジオ" / Twitter
+
+https://news.yahoo.co.jp/articles/fdbbd73372a41f2cf656b326bc90afb144e13cce?page=2
+ミツバチの巣から都市に潜む微生物がわかる、世界5都市で調査、東京で見つかったのはなんと！（ナショナル ジオグラフィック日本版） - Yahoo!ニュース
+
+https://news.goo.ne.jp/article/natgeo/world/natgeo-0000BKXf.html?page=2
+ミツバチの巣から都市に潜む微生物がわかる、東京などで調査(ナショナル ジオグラフィック日本版) - goo ニュース
+
+
+
+----------
+
+11:32 AM · Mar 7, 2023
+https://twitter.com/M123Takahashi/status/1632932093461397507
+高橋将宜 Masayoshi Takahashi on Twitter: "添付の図は，1標本t検定，2標本t検定，回帰分析，共分散分析を図で表したものです．それぞれの細かい説明は，次ページ以降に続きます．(1/5) https://t.co/xISeUu1sNQ" / Twitter
+
+
+----------
+
+https://note.com/kgcssk/n/n86abb18d46b4
+0048 最初が肝心｜海洋性ゴリラ研究者｜note
+
+https://sites.google.com/view/shiraki/2?pli=1
+ShirakiLab（公式） - 2
+学ぶ目的と方法
+つい忘れがちだが、大学は学びの場所である。では学びとは何か
+
+https://www.sbj.or.jp/wp-content/uploads/file/sbj/9711/9711_career_academia_1.pdf
+M1で論文を書く研究室の運営
+白木賢太郎
+
+----------
+2023年03月　刊行
+
+https://www.kinpodo-pub.co.jp/book/1950-8/
+超入門！　Rでできるビジュアル統計学　解析編　学会・論文発表に役立つデータ可視化マニュアル　 - 株式会社 金芳堂
+ISBN	978-4-7653-1950-8
+
+8:45 AM · Mar 8, 2023
+https://twitter.com/RF_epidemiol/status/1633252484448747521
+Ryosuke Fujii (Ryo) 🦒 藤井亮輔 on Twitter: "【拡散歓迎】可視化本の［続編］が出ます🎉（1/n） 推測統計をメインに可視化の実践まで学習できる一冊です！ 『超入門！Rでできるビジュアル統計学　解析編　学会・論文発表に役立つデータ可視化マニュアル』3,400円+税（フルカラー184ページ） #visR2023 @kinpodo_pub https://t.co/cQsMSAB18v" / Twitter
+
+
+
+----------
+
 
 ### class
 
@@ -101,55 +203,6 @@ Introduction to the 'bioseq' package https://cloud.r-project.org/web/packages/bi
 
 Reference database preparation with the 'bioseq' package https://cloud.r-project.org/web/packages/bioseq/vignettes/ref_database.html
 
-
-----------
-
-https://twitter.com/mph_for_doctors
-手を洗う救急医Taka（木下喬弘） (@mph_for_doctors) / Twitter
-https://twitter.com/mph_for_doctors/status/1704434027850252351
-https://note.com/mph_for_doctors/n/nf0fced47fc7f?sub_rt=share_pb
-HIROTSUバイオサイエンスのNewsPicksに対する反論について｜手を洗う救急医Taka
-
-https://twitter.com/kutsunasatoshi
-忽那賢志 (@kutsunasatoshi) / Twitter
-
-https://twitter.com/metacovid19
-メタコビ公式
-
-----------
-
-https://twitter.com/SystemsVirology
-The Sato Lab (Kei Sato) (@SystemsVirology) / X
-
-https://twitter.com/SystemsVirology/status/1703980955537740155
-The Sato Lab (Kei Sato) on X: "「新型コロナの進化」3部作は週プレNEWS @shupure_news で、その「裏続編」的なBA.2.86の研究成果はLancet Infectious Diseases @TheLancetInfDis で公開しています↓ （裏と表とは🤔） https://t.co/M6tKfrTP7v" / X
-
-----------
-
-https://twitter.com/SystemsVirology/status/1687780610025406464
-The Sato Lab (Kei Sato) on Twitter: "ここのところいろいろなところでツイートされてよく見かけるこの論文（の解説和訳）に関連して、基礎ウイルス学的観点（と、これまでのG2P-Japan🇯🇵の研究成果）から、新型コロナのこれまでの進化の変遷について簡単にちょっとまとめてみようと思います🎐1/ https://t.co/nEyTuyEiDG" / X
-
-8:00 PM · Aug 5, 2023
-https://rplroseus.hatenablog.com/entry/2023/05/29/175726
-SARS-CoV-2の進化と将来のシナリオ - Dr. Tairaのブログ
-
-----------
-
-https://naokoiwanaga.theletter.jp/
-医療記者、岩永直子のニュースレター
-
-
-
-https://wpb.shueisha.co.jp/news/society/2023/07/17/120032/
-外来生物の専門家と気鋭のウイルス学者がコロナ流行の3年半を経て語る「パンデミックに強い社会」とは？ - 社会 - ニュース｜週プレNEWS
-2023年07月17日
-
-
-
-12:09 AM · Mar 24, 2018
-https://twitter.com/Kappa1st/status/977200633689198592
-鳥屋見習い・土曜ト33b on Twitter: "三中先生の最終高座は、研究者という生き方を選んでしまった人たちが、どうやって生き残っていくかというお話でした。 自分の全ては表に出さない。3割表に出したら、残りの力で裏の研究をする。周りがどうなろうと、自分に芯を持ってやりたいことをする。 難しいけれど、楽しい生き方だと思います。" / Twitter
-
 ----------
 
 https://www.wbgt.env.go.jp/
@@ -166,46 +219,6 @@ https://twitter.com/Tokyo_Fire_D/status/1677092874209591297
 ③ 保冷剤や氷枕をタオルでくるんで脇の下や大腿部付け根に
 ④ 経口補水液やスポーツドリンクで水分補給
 
-
-
-----------
-
-https://naokoiwanaga.theletter.jp/
-医療記者、岩永直子のニュースレター
-
-----------
-2023-06-27
-
-1:18 PM · Jun 27, 2023
-
-https://twitter.com/nishiurah/status/1673546345842622465
-Hiroshi Nishiura on Twitter: "空気を読まないイワケンによる正常な発展への道 https://t.co/Bb67kPAiZ7" / Twitter
-
-https://yomidr.yomiuri.co.jp/article/20230626-OYTET50017/2/
-新型コロナ　「５類」になったら「マスク外せ」は正しいか？…ヘルパンギーナ、ＲＳウイルスも流行中 | Page 2 | ヨミドクター(読売新聞)
-
-ウィズコロナ時代のたたずまいは…
-　一番合理的なのは、個人レベルならワクチン、マスク、手指消毒です。環境レベルなら換気でしょうか。当たり前すぎる話ですが、「効果的な」感染対策は、要するに普通の感染対策なのです。この四つの良いところは、ほとんど社会生活を阻害しないことです。
-
-　マスクを四六時中つけているのはしんどい、という方は当然いるでしょう。でも、四六時中つける必要はそもそもないんです。リスクがあるところは分かっているわけで、集団を形成して感染リスクが高くなった屋内では特にマスクは重要です。要するに学校です。
-
-　感染が拡大している今こそ、「学校では、少なくとも屋内ではマスクつけようね」が、責任ある政治家、官僚、教育者が言うべきことなのです。
-
-----------
-2023-06-20
-
-https://naokoiwanaga.theletter.jp/posts/a0320c60-0d7e-11ee-b2b9-dd41b9b9187e
-水面下で広がる第９波、3つの特徴 | 医療記者、岩永直子のニュースレター
-新型コロナウイルスが5類相当となって、現状がわかりにくい今、水面下で広がる第9波で何が起きているのでしょうか？理論疫学者の西浦博先生のインタビュー後編です。
-
-「流行状況が悪くなったら、屋内の空間ではマスクを着用する」という原理原則に戻って、公衆衛生の専門家としては今はマスク着用の必要性を強調しておきたいです。
-
-流行が下火の時には価値判断の議論をみんなでたくさんすると良いと思います。他方、感染リスクが高い時には専門家としてマスク着用を推奨したいと思います。
-
-----------
-
-https://furuse-yukihiro.info/2023covidcolumn09/
-微生物との戦争――ヒトと動物、環境と微生物の葛藤（1） | MONOLOGUE
 
 
 ----------
@@ -236,19 +249,6 @@ https://twitter.com/Amamino_Kurousa/status/1662051012293668870
 Amamino Kurousagi on Twitter: "『なんでHPV🦠感染が子宮頸がんの原因だと分かるの？』 素晴らしい質問だ。たった一言の質問だが、これがわかるまでには、仮説として提出されてからの、無数の科学者と(研究に参加した患者たち）の20年にわたるエビデンスの蓄積があるわけだ。 追体験してみる？😊 →" / Twitter
 
 
-----------
-
-### metasub
-
-https://github.com/haruosuz/metasub
-
-https://kf.kobotoolbox.org/#/forms
-
-When humans go to #space, microbes go with them. Researchers are learning how space impacts the microbes living in, on and around astronauts—and how they can be used to advance future missions. Learn more: https://asm.social/S3
-https://asm.org/Articles/2022/October/Out-of-This-World-Microbes-in-Space
-
-Sept. 19, 2022 https://asm.org/Articles/2022/September/Metro-Microbes-Microbiomes-of-Public-Transit-Urban Metro Microbes: Microbiomes of Public Transit & Urban Spaces
-
 
 ----------
 ## twitter
@@ -278,75 +278,6 @@ Sept. 19, 2022 https://asm.org/Articles/2022/September/Metro-Microbes-Microbiome
 - https://github.com/haruosuz/microbe/blob/master/references/mbioinfo.2021.md
 - https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.urban.md
-
-----------
-
-
-2:57 AM · Mar 31, 2023
-https://twitter.com/MicrobiomeJ/status/1641499976424386560
-Microbiome on Twitter: "Beehives reveal city health and metagenomes - these could have real world implications for monitoring #epidemics and #pandemics! @lschriml @joyemwatts @IanDEALidbury @jac_ravel @sharonhuws https://t.co/o6OcIA5FiK" / Twitter
-
-9:05 PM · Apr 4, 2023
-https://twitter.com/NatGeoMagJP/status/1643223278000168960
-ナショナルジオグラフィック日本版 on Twitter: "ミツバチの巣から都市に潜む微生物がわかる、東京などで調査: ニューヨークなど世界5都市で調査。それぞれに固有の特徴が見つかりました。都市の環境や動物、そして人間の健康状態を知るのに役立つ可能性があります。 https://t.co/ct9a2G1W6p #ナショジオ" / Twitter
-
-https://news.yahoo.co.jp/articles/fdbbd73372a41f2cf656b326bc90afb144e13cce?page=2
-ミツバチの巣から都市に潜む微生物がわかる、世界5都市で調査、東京で見つかったのはなんと！（ナショナル ジオグラフィック日本版） - Yahoo!ニュース
-
-https://news.goo.ne.jp/article/natgeo/world/natgeo-0000BKXf.html?page=2
-ミツバチの巣から都市に潜む微生物がわかる、東京などで調査(ナショナル ジオグラフィック日本版) - goo ニュース
-
-----------
-
-11:51 AM · Apr 5, 2023
-https://twitter.com/nishiurah/status/1643446206696423425
-Hiroshi Nishiura on Twitter: "第9波は途中で緩和となります。全3回中の第3回目です。御覧ください。 https://t.co/Lcl4bxbbHL" / Twitter
-
-2023年4月5日
-https://www.buzzfeed.com/jp/naokoiwanaga/9th-wave-nishiura-3
-流行状況を把握するデータを手放して迎える第9波　どんな対策が必要？
-
-2023年4月4日
-https://www.buzzfeed.com/jp/naokoiwanaga/9th-wave-nishiura-2
-「9波は8波を超えてくる大規模な流行になる可能性」エンデミック化する英国とは違う道をたどる日本のこれから
-
-2023年4月3日
-https://www.buzzfeed.com/jp/naokoiwanaga/9th-wave-nishiura-1
-新型コロナ第9波に突入　欧米の流行状況から見える日本の予測
-
-
-----------
-
-11:32 AM · Mar 7, 2023
-https://twitter.com/M123Takahashi/status/1632932093461397507
-高橋将宜 Masayoshi Takahashi on Twitter: "添付の図は，1標本t検定，2標本t検定，回帰分析，共分散分析を図で表したものです．それぞれの細かい説明は，次ページ以降に続きます．(1/5) https://t.co/xISeUu1sNQ" / Twitter
-
-
-----------
-
-https://note.com/kgcssk/n/n86abb18d46b4
-0048 最初が肝心｜海洋性ゴリラ研究者｜note
-
-https://sites.google.com/view/shiraki/2?pli=1
-ShirakiLab（公式） - 2
-学ぶ目的と方法
-つい忘れがちだが、大学は学びの場所である。では学びとは何か
-
-https://www.sbj.or.jp/wp-content/uploads/file/sbj/9711/9711_career_academia_1.pdf
-M1で論文を書く研究室の運営
-白木賢太郎
-
-----------
-2023年03月　刊行
-
-https://www.kinpodo-pub.co.jp/book/1950-8/
-超入門！　Rでできるビジュアル統計学　解析編　学会・論文発表に役立つデータ可視化マニュアル　 - 株式会社 金芳堂
-ISBN	978-4-7653-1950-8
-
-8:45 AM · Mar 8, 2023
-https://twitter.com/RF_epidemiol/status/1633252484448747521
-Ryosuke Fujii (Ryo) 🦒 藤井亮輔 on Twitter: "【拡散歓迎】可視化本の［続編］が出ます🎉（1/n） 推測統計をメインに可視化の実践まで学習できる一冊です！ 『超入門！Rでできるビジュアル統計学　解析編　学会・論文発表に役立つデータ可視化マニュアル』3,400円+税（フルカラー184ページ） #visR2023 @kinpodo_pub https://t.co/cQsMSAB18v" / Twitter
-
 
 ----------
 
@@ -1003,7 +934,6 @@ James McInerney on Twitter: "#OA New book chapter with @alanmcn1 @Evol_Molly @wh
 10:45 PM · May 4, 2020
 https://twitter.com/XavierDidelot/status/1257305244146360320
 Xavier Didelot on Twitter: "I'm pleased to have contributed a chapter with @LassalleFlo to this great new book on pangenome evolution and even more pleased that it is completely open access! https://t.co/EBytWHZVnn https://t.co/kPDXGWcZqQ" / Twitter
-
 
 
 
