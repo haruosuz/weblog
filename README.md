@@ -8,6 +8,180 @@
 - [unclassified](#unclassified)
 - 
 
+
+----------
+
+
+https://twitter.com/arakencloud
+荒木健太郎 (@arakencloud) / X
+
+雲研究者・気象庁気象研究所主任研究官・学術博士。防災・減災のために、雲の仕組みを研究してます。映画『天気の子』気象監修。出演：情熱大陸／ドラえもんなど。著書：すごすぎる #天気の図鑑 シリーズ／雲の超図鑑／読み終えた瞬間、空が美しく見える気象のはなし／雲の教室／雲を愛する技術など。発信は個人見解です
+
+9:44 PM · Feb 4, 2024
+https://twitter.com/arakencloud/status/1754123821328867674
+荒木健太郎 on X: "大雪への備えまとめです。 関東の皆さま、いま一度ご確認ください。 https://t.co/eoytT5yIaq" / X
+
+
+https://twitter.com/kutsunasatoshi
+忽那賢志 (@kutsunasatoshi) / Twitter
+
+https://twitter.com/metacovid19
+メタコビ公式
+
+https://twitter.com/SystemsVirology
+The Sato Lab (Kei Sato) (@SystemsVirology) / X
+
+https://twitter.com/mph_for_doctors
+手を洗う救急医Taka（木下喬弘） (@mph_for_doctors) / Twitter
+
+----------
+## twitter
+
+- https://twitter.com
+- https://twitter.com/copypasteusa
+- https://twitter.com/copypasteusa/likes
+- https://twitter.com/oikawamaru
+オイカワ丸 (@oikawamaru) / Twitter
+- 
+- https://github.com/haruosuz/books
+- https://github.com/haruosuz/books/blob/master/references/books.microbe.md
+- https://github.com/haruosuz/books/blob/master/references/books.updates.md#2019-06-15
+- https://github.com/haruosuz/r4bioinfo/blob/master/r_books/README.md
+- 
+- https://github.com/haruosuz/mgsa
+- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md
+- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.k-mer.md
+- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.metagenome.md
+- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.metagenome.md#unifrac
+- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.metagenome.md#rrna
+
+----------
+
+### microbe
+
+- https://github.com/haruosuz/microbe
+- https://github.com/haruosuz/microbe/blob/master/README.md
+- https://github.com/haruosuz/microbe/blob/master/references/mbioinfo.2021.md
+- https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.urban.md
+
+----------
+
+2023.06.13
+https://scienceportal.jst.go.jp/newsflash/20230613_n01/
+遺伝子の消えやすさ、ゲノムの特徴も関係か 遺伝研など | Science Portal - 科学技術の最新情報サイト「サイエンスポータル」
+
+　進化の過程で生物から遺伝子が消えていく要因には、機能の要不要だけでなくDNA配列などゲノム（遺伝情報）の物理化学的な特徴も絡んでいる可能性があることを、国立遺伝学研究所などが発表した。研究チームが哺乳類の遺伝子情報を解析し、明らかにした。将来的には、病気を引き起こしやすい遺伝子の探索に応用できる可能性がある。
+
+　生物進化において、生存に有利な遺伝子は広がりやすく、機能がいらなくなった遺伝子は消えやすいとされる。東京都医学総合研究所の原雄一郎主席研究員（ゲノム科学）と遺伝研の工樂樹洋教授は、理化学研究所で分子進化学を専門としてゲノム解読などに取り組む中、「遺伝子の消えやすさにゲノムの物理化学的特徴も影響するのではないか」と研究を発案。欧米のゲノム情報データベースにある遺伝子の中から消えやすい遺伝子を探し、その特徴を調べることにした。
+
+----------
+
+
+
+----------
+
+5:10 PM · Apr 25, 2023
+https://twitter.com/sabifo4/status/1650774282387988480
+Sandra Álvarez on Twitter: "Using PAML to detect positive selection but need some guidance? @PKapli , @zihengyang , and I have been working on a protocol that we hope you find useful. The "Beginner's Guide on the Use of PAML to Detect Positive Selection" is now available! https://t.co/JW7e0uQXF3 (1/n)" / Twitter
+https://academic.oup.com/mbe/article/40/4/msad041/7140562
+Beginner's Guide on the Use of PAML to Detect Positive Selection | Molecular Biology and Evolution | Oxford Academic
+
+
+8:00 PM · May 26, 2023
+https://twitter.com/Amamino_Kurousa/status/1662051012293668870
+Amamino Kurousagi on Twitter: "『なんでHPV🦠感染が子宮頸がんの原因だと分かるの？』 素晴らしい質問だ。たった一言の質問だが、これがわかるまでには、仮説として提出されてからの、無数の科学者と(研究に参加した患者たち）の20年にわたるエビデンスの蓄積があるわけだ。 追体験してみる？😊 →" / Twitter
+
+
+----------
+
+
+https://twitter.com/KawataMasakado
+Masakado Kawata (@KawataMasakado) / Twitter
+https://note.com/masakadokawata/
+河田 雅圭｜note
+
+https://note.com/masakadokawata/n/n2dfc4217831e
+進化における「適応」という言葉をめぐって｜河田 雅圭｜note
+2022年10月8日 19:53
+
+https://note.com/masakadokawata/n/n41079da12807
+「種の保存のための進化」はどこが誤りなのか｜河田 雅圭｜note
+2022年3月20日 16:00
+
+1:17 AM · Oct 15, 2022
+https://twitter.com/jlsteenwyk/status/1580956067755720710
+🧬Jacob L Steenwyk on Twitter: "NEW Publication🥳 Molecular #evolution studies often rely on single-copy orthologs (SC-OGs), resulting in large gene families—like transporters—being ignored. We present OrthoSNAP, software for identifying subsets of SC-OGs within larger gene families. 🔗https://t.co/2rWsRLsamn https://t.co/0d0SpvcRmw" / Twitter
+
+----------
+
+----------
+
+https://twitter.com/y_tambe
+
+9:14 AM · Nov 23, 2022
+https://twitter.com/y_tambe/status/1595209086001238016
+Y Tambe on Twitter: "講談社webブルーバックスでコラム公開されました。 ありがたくない冬の風物詩「ノロウイルス」寒い時期になぜ流行る？（旦部 幸博,北川 善紀） | ブルーバックス | 講談社（1/3） https://t.co/BvUh0qJIyH" / Twitter
+https://gendai.media/articles/-/100934
+ありがたくない冬の風物詩「ノロウイルス」寒い時期になぜ流行る？（旦部 幸博,北川 善紀） | ブルーバックス | 講談社（1/3）
+
+9:24 AM · Nov 17, 2022
+https://twitter.com/y_tambe/status/1593037409972731904
+Y Tambe on Twitter: "講談社WEBブルーバックスでコラムが公開されました。 なぜ生物兵器に利用される？　細菌学の由緒正しき微生物「炭疽菌」（旦部 幸博,北川 善紀） | ブルーバックス | 講談社（1/4） https://t.co/mL1sTP4uCm" / Twitter
+2022.11.16
+https://gendai.media/articles/-/100721
+なぜ生物兵器に利用される？　細菌学の由緒正しき微生物「炭疽菌」（旦部 幸博,北川 善紀） | ブルーバックス | 講談社（1/4）
+
+2022-08-18
+
+https://bookclub.kodansha.co.jp/product?item=0000368928
+『最小にして人類最大の宿敵　病原体の世界　歴史をも動かすミクロの攻防』（旦部　幸博，北川　善紀）：ブルーバックス｜講談社BOOK倶楽部
+
+
+----------
+
+- https://github.com/haruosuz/evolve
+- https://github.com/haruosuz/evolve/blob/master/references/evolve.memo.md
+- https://github.com/haruosuz/evolve/tree/master/tools/hyphy
+
+http://www.opiniomics.org/on-stuck-records-and-indel-errors-or-stop-publishing-bad-genomes/
+
+
+----------
+
+- https://github.com/haruosuz/bioinfo
+- https://github.com/haruosuz/bioinfo/blob/master/references/README.reproducibility.md
+- https://github.com/haruosuz/bioinfo/blob/master/references/README.bioinfo.tools.md
+- 
+- https://github.com/haruosuz/codon
+
+https://github.com/haruosuz/bioinfo/blob/master/2022/CaseStudy.md#2022-12-28
+VITCOMIC2
+「LEA」
+http://133.39.177.105/lea/help_ja.html
+
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010675
+Ten simple rules for investigating (meta)genomic data from environmental ecosystems | PLOS Computational Biology
+
+----------
+
+https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#get_homologues
+
+### plasmid
+
+- https://github.com/haruosuz/plasmids
+- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_resistance.md
+- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_metagenome.md
+- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_IncP1.md
+
+----------
+
+
+
+
+
+
+
 ----------
 
 http://sfcbus.jp/
@@ -31,23 +205,24 @@ SFCHelp - タクシー
 
 ----------
 
-https://twitter.com/kutsunasatoshi
-忽那賢志 (@kutsunasatoshi) / Twitter
-
-https://twitter.com/metacovid19
-メタコビ公式
-
-https://twitter.com/SystemsVirology
-The Sato Lab (Kei Sato) (@SystemsVirology) / X
-
-https://twitter.com/mph_for_doctors
-手を洗う救急医Taka（木下喬弘） (@mph_for_doctors) / Twitter
-
-----------
-
 
 
 ----------
+
+
+----------
+https://www.diamond.co.jp/book/9784478113400.html
+Science Fictions　あなたが知らない科学の真実 | 書籍 | ダイヤモンド社
+紙版 電子版
+スチュアート・リッチー 著/矢羽野 薫 訳
+発行年月：2024年01月 [予約受付中]
+ISBN：9784478113400
+
+たちよみする
+https://www.diamond.co.jp/_itempdf/0201_biz/11340-0/?pNo=1&detailFlg=0
+
+----------
+
 
 https://www.keisoshobo.co.jp/book/b620100.html
 生物学者のための科学哲学 - 株式会社　勁草書房
@@ -203,182 +378,9 @@ Introduction to the 'bioseq' package https://cloud.r-project.org/web/packages/bi
 
 Reference database preparation with the 'bioseq' package https://cloud.r-project.org/web/packages/bioseq/vignettes/ref_database.html
 
-----------
-
-https://www.wbgt.env.go.jp/
-環境省熱中症予防情報サイト
-
-
-https://twitter.com/Tokyo_Fire_D/status/1677092874209591297
-東京消防庁 on Twitter: "【熱中症になってしまったら…】 気象庁の予報では、本日の東京都心の最高気温は33度になる見込みです！ ① 衣服をゆるめる ② 皮膚を濡らして、扇風機などで体を冷やす ③ 保冷剤や氷枕をタオルでくるんで脇の下や大腿部付け根に ④ 経口補水液やスポーツドリンクで水分補給 ＃東京消防庁 ＃熱中症 https://t.co/Zk8CZQbYP6" / Twitter
-
-【熱中症になってしまったら…】
-気象庁の予報では、本日の東京都心の最高気温は33度になる見込みです！
-① 衣服をゆるめる
-② 皮膚を濡らして、扇風機などで体を冷やす
-③ 保冷剤や氷枕をタオルでくるんで脇の下や大腿部付け根に
-④ 経口補水液やスポーツドリンクで水分補給
-
-
 
 ----------
 
-2023.06.13
-https://scienceportal.jst.go.jp/newsflash/20230613_n01/
-遺伝子の消えやすさ、ゲノムの特徴も関係か 遺伝研など | Science Portal - 科学技術の最新情報サイト「サイエンスポータル」
-
-　進化の過程で生物から遺伝子が消えていく要因には、機能の要不要だけでなくDNA配列などゲノム（遺伝情報）の物理化学的な特徴も絡んでいる可能性があることを、国立遺伝学研究所などが発表した。研究チームが哺乳類の遺伝子情報を解析し、明らかにした。将来的には、病気を引き起こしやすい遺伝子の探索に応用できる可能性がある。
-
-　生物進化において、生存に有利な遺伝子は広がりやすく、機能がいらなくなった遺伝子は消えやすいとされる。東京都医学総合研究所の原雄一郎主席研究員（ゲノム科学）と遺伝研の工樂樹洋教授は、理化学研究所で分子進化学を専門としてゲノム解読などに取り組む中、「遺伝子の消えやすさにゲノムの物理化学的特徴も影響するのではないか」と研究を発案。欧米のゲノム情報データベースにある遺伝子の中から消えやすい遺伝子を探し、その特徴を調べることにした。
-
-----------
-
-
-
-----------
-
-5:10 PM · Apr 25, 2023
-https://twitter.com/sabifo4/status/1650774282387988480
-Sandra Álvarez on Twitter: "Using PAML to detect positive selection but need some guidance? @PKapli , @zihengyang , and I have been working on a protocol that we hope you find useful. The "Beginner's Guide on the Use of PAML to Detect Positive Selection" is now available! https://t.co/JW7e0uQXF3 (1/n)" / Twitter
-https://academic.oup.com/mbe/article/40/4/msad041/7140562
-Beginner's Guide on the Use of PAML to Detect Positive Selection | Molecular Biology and Evolution | Oxford Academic
-
-
-8:00 PM · May 26, 2023
-https://twitter.com/Amamino_Kurousa/status/1662051012293668870
-Amamino Kurousagi on Twitter: "『なんでHPV🦠感染が子宮頸がんの原因だと分かるの？』 素晴らしい質問だ。たった一言の質問だが、これがわかるまでには、仮説として提出されてからの、無数の科学者と(研究に参加した患者たち）の20年にわたるエビデンスの蓄積があるわけだ。 追体験してみる？😊 →" / Twitter
-
-
-
-----------
-## twitter
-
-- https://twitter.com
-- https://twitter.com/copypasteusa
-- https://twitter.com/copypasteusa/likes
-- https://twitter.com/oikawamaru
-オイカワ丸 (@oikawamaru) / Twitter
-- 
-- https://github.com/haruosuz/books
-- https://github.com/haruosuz/books/blob/master/references/books.microbe.md
-- https://github.com/haruosuz/books/blob/master/references/books.updates.md#2019-06-15
-- https://github.com/haruosuz/r4bioinfo/blob/master/r_books/README.md
-- 
-- https://github.com/haruosuz/mgsa
-- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.metagenome.md
-- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md
-- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.k-mer.md
-
-----------
-
-### microbe
-
-- https://github.com/haruosuz/microbe
-- https://github.com/haruosuz/microbe/blob/master/README.md
-- https://github.com/haruosuz/microbe/blob/master/references/mbioinfo.2021.md
-- https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.urban.md
-
-----------
-
-11:29 AM · Mar 3, 2023
-https://twitter.com/nonbeepanda/status/1631481771987709958
-岩永直子 Naoko Iwanaga on Twitter: "専門家による8本の感染対策の吟味を1本の記事にまとめました。これ一本に8本分です。ぜひご一読、保存してください！ テーブルのアルコール消毒、ビュッフェの手袋使用、意味ある？ 専門家が吟味した8つの対策 https://t.co/Ju6lTuqxuS @nonbeepandaより" / Twitter
-2023年3月3日
-https://www.buzzfeed.com/jp/naokoiwanaga/shiwake-infection-control
-テーブルのアルコール消毒、ビュッフェの手袋使用、意味ある？ 専門家が吟味した8つの対策
-
-----------
-
-
-https://twitter.com/KawataMasakado
-Masakado Kawata (@KawataMasakado) / Twitter
-https://note.com/masakadokawata/
-河田 雅圭｜note
-
-https://note.com/masakadokawata/n/n2dfc4217831e
-進化における「適応」という言葉をめぐって｜河田 雅圭｜note
-2022年10月8日 19:53
-
-https://note.com/masakadokawata/n/n41079da12807
-「種の保存のための進化」はどこが誤りなのか｜河田 雅圭｜note
-2022年3月20日 16:00
-
-1:17 AM · Oct 15, 2022
-https://twitter.com/jlsteenwyk/status/1580956067755720710
-🧬Jacob L Steenwyk on Twitter: "NEW Publication🥳 Molecular #evolution studies often rely on single-copy orthologs (SC-OGs), resulting in large gene families—like transporters—being ignored. We present OrthoSNAP, software for identifying subsets of SC-OGs within larger gene families. 🔗https://t.co/2rWsRLsamn https://t.co/0d0SpvcRmw" / Twitter
-
-----------
-
-----------
-
-https://twitter.com/y_tambe
-
-9:14 AM · Nov 23, 2022
-https://twitter.com/y_tambe/status/1595209086001238016
-Y Tambe on Twitter: "講談社webブルーバックスでコラム公開されました。 ありがたくない冬の風物詩「ノロウイルス」寒い時期になぜ流行る？（旦部 幸博,北川 善紀） | ブルーバックス | 講談社（1/3） https://t.co/BvUh0qJIyH" / Twitter
-https://gendai.media/articles/-/100934
-ありがたくない冬の風物詩「ノロウイルス」寒い時期になぜ流行る？（旦部 幸博,北川 善紀） | ブルーバックス | 講談社（1/3）
-
-9:24 AM · Nov 17, 2022
-https://twitter.com/y_tambe/status/1593037409972731904
-Y Tambe on Twitter: "講談社WEBブルーバックスでコラムが公開されました。 なぜ生物兵器に利用される？　細菌学の由緒正しき微生物「炭疽菌」（旦部 幸博,北川 善紀） | ブルーバックス | 講談社（1/4） https://t.co/mL1sTP4uCm" / Twitter
-2022.11.16
-https://gendai.media/articles/-/100721
-なぜ生物兵器に利用される？　細菌学の由緒正しき微生物「炭疽菌」（旦部 幸博,北川 善紀） | ブルーバックス | 講談社（1/4）
-
-2022-08-18
-
-https://bookclub.kodansha.co.jp/product?item=0000368928
-『最小にして人類最大の宿敵　病原体の世界　歴史をも動かすミクロの攻防』（旦部　幸博，北川　善紀）：ブルーバックス｜講談社BOOK倶楽部
-
-
-----------
-
-- https://github.com/haruosuz/evolve
-- https://github.com/haruosuz/evolve/blob/master/references/evolve.memo.md
-- https://github.com/haruosuz/evolve/tree/master/tools/hyphy
-
-http://www.opiniomics.org/on-stuck-records-and-indel-errors-or-stop-publishing-bad-genomes/
-
-----------
-
-
-
-
-----------
-
-- https://github.com/haruosuz/bioinfo
-- https://github.com/haruosuz/bioinfo/blob/master/references/README.reproducibility.md
-- https://github.com/haruosuz/bioinfo/blob/master/references/README.bioinfo.tools.md
-- 
-- https://github.com/haruosuz/codon
-
-https://github.com/haruosuz/bioinfo/blob/master/2022/CaseStudy.md#2022-12-28
-VITCOMIC2
-「LEA」
-http://133.39.177.105/lea/help_ja.html
-
-https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010675
-Ten simple rules for investigating (meta)genomic data from environmental ecosystems | PLOS Computational Biology
-
-----------
-
-https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#get_homologues
-
-### plasmid
-
-- https://github.com/haruosuz/plasmids
-- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_resistance.md
-- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_metagenome.md
-- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_IncP1.md
-
-----------
-
-
-3:13 AM · Mar 17, 2022
-https://twitter.com/PeacockFlu/status/1504158873938272269
-Tom Peacock on Twitter: "With three Omicron-related recombinants getting assigned Pango lineages I'm going to write a thread covering: - What are recombinants? - Why are we seeing so many now? - What exactly are the new lineages XD, XE and XF? - How concerned should we be about them? https://t.co/PrPGaUSs3p" / Twitter
 
 
 4:56 AM · Mar 18, 2022
