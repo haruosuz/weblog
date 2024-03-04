@@ -8,6 +8,24 @@
 - [unclassified](#unclassified)
 - 
 
+----------
+
+Science Fictions　あなたが知らない科学の真実
+https://twitter.com/search?q=Science%20Fictions&src=typed_query&f=top
+
+----------
+
+https://twitter.com/Jameshearsawho/status/1722929271994224908
+James Horton on X: "Are you interested in the evolution of bacteria? If so, myself and @TaylorLabGroup have recently penned ✍️ a review article for @MicrobioSoc titled Mutation Bias and Adaptation in Bacteria: (https://t.co/GosL31Cjb3). A short 🧵 on why we should care about mutation bias below (1/7" / X
+
+https://pubmed.ncbi.nlm.nih.gov/37943288/
+Review Microbiology (Reading)
+. 2023 Nov;169(11):001404. doi: 10.1099/mic.0.001404.
+Mutation bias and adaptation in bacteria
+James S Horton 1, Tiffany B Taylor 1
+https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.001404
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10710837/
+
 
 ----------
 
