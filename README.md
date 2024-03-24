@@ -10,21 +10,21 @@
 
 ----------
 
+
+https://www.keio.ac.jp/ja/gakumon150/
+ガクモンノススメ特設ページ：[慶應義塾]
+
 Science Fictions　あなたが知らない科学の真実
 https://twitter.com/search?q=Science%20Fictions&src=typed_query&f=top
 
-----------
 
-https://twitter.com/Jameshearsawho/status/1722929271994224908
-James Horton on X: "Are you interested in the evolution of bacteria? If so, myself and @TaylorLabGroup have recently penned ✍️ a review article for @MicrobioSoc titled Mutation Bias and Adaptation in Bacteria: (https://t.co/GosL31Cjb3). A short 🧵 on why we should care about mutation bias below (1/7" / X
+https://twitter.com/kosuke_yasukawa
+安川康介@米国内科専門医 (@kosuke_yasukawa) / X
 
-https://pubmed.ncbi.nlm.nih.gov/37943288/
-Review Microbiology (Reading)
-. 2023 Nov;169(11):001404. doi: 10.1099/mic.0.001404.
-Mutation bias and adaptation in bacteria
-James S Horton 1, Tiffany B Taylor 1
-https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.001404
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10710837/
+
+https://naokoiwanaga.theletter.jp/posts/c3b82470-e824-11ee-a5fb-e7f00b9eb817
+麻疹で「感染して免疫をつければいい」は実弾を込めた銃でのロシアンルーレット　2回のワクチンで予防を | 医療記者、岩永直子のニュースレター
+
 
 
 ----------
@@ -75,6 +75,60 @@ https://twitter.com/mph_for_doctors
 
 ----------
 
+----------
+
+
+
+
+----------
+2024-03-10
+
+8:33 AM · Mar 10, 2024
+https://twitter.com/Yh_Taguchi/status/1766608324588347643
+田口善弘＠発言は私の個人としての見解であり中央大学やその機関の意見を代表するものではありません on X: "拙著紹介記事第ニ十四弾です🔥" / X
+https://gendai.media/articles/-/125454
+いまとなっては「トンデモ仮説」…熱素説を科学者が信じてしまったのはなぜなのか？（田口 善弘） | 現代新書 | 講談社（1/2）
+
+
+
+2:02 AM · Mar 10, 2024
+https://twitter.com/jlsteenwyk/status/1766509988632014996
+🧬Jacob L Steenwyk on X: "NEW publication: Phylogenomics of 725 genomes reveals extensive strain misidentification in a lineage of microbial pathogens. These analyses pave way for genome-scale approaches to answer a fundamental question — what did I just sequence? #bioinformatics #genomics #evolution https://t.co/ZQUFbg1NsE" / X
+
+Our phylogenomic tree of Aspergillus species helped resolve ongoing taxonomic controversies, identified new ones, and revealed extensive strain misidentification. Specifically, 7.59% of strains (🤯‼️) were previously misidentified - see figure for some egs
+https://journals.asm.org/doi/10.1128/spectrum.03980-23
+
+This analysis also enabled us to propose a new genome-scale phylogeny of Aspergillus, providing roadmap for the study of biomedically and technologically relevant traits, knwon to be widely present in this lineage
+
+https://pubmed.ncbi.nlm.nih.gov/38445873/
+Microbiol Spectr
+. 2024 Mar 6:e0398023. doi: 10.1128/spectrum.03980-23. Online ahead of print.
+Phylogenomics reveals extensive misidentification of fungal strains from the genus Aspergillus
+Jacob L Steenwyk 1 2 3, Charu Balamurugan 2 3, Huzefa A Raja 4, Carla Gonçalves 2 3, Ningxiao Li 5 6, Frank Martin 6, Judith Berman 7, Nicholas H Oberlies 4, John G Gibbons 8 9 10, Gustavo H Goldman 11, David M Geiser 12, Jos Houbraken 13, David S Hibbett 14, Antonis Rokas 2 3 15
+
+
+
+
+
+1:53 AM · Jun 28, 2023
+https://twitter.com/jlsteenwyk/status/1673736267081867265
+🧬Jacob L Steenwyk on Twitter: "Why haven't we resolved the Tree of Life? In a NEW publication out in @NatureRevGenet, we discuss #biological and analytical factors contributing to #incongruence in the #phylogenomic era and synthesize current best practices for addressing them. 🔗: https://t.co/6wUJB0TZ3Q https://t.co/BcAAuVULux" / Twitter
+
+
+----------
+
+https://twitter.com/Jameshearsawho/status/1722929271994224908
+James Horton on X: "Are you interested in the evolution of bacteria? If so, myself and @TaylorLabGroup have recently penned ✍️ a review article for @MicrobioSoc titled Mutation Bias and Adaptation in Bacteria: (https://t.co/GosL31Cjb3). A short 🧵 on why we should care about mutation bias below (1/7" / X
+
+https://pubmed.ncbi.nlm.nih.gov/37943288/
+Review Microbiology (Reading)
+. 2023 Nov;169(11):001404. doi: 10.1099/mic.0.001404.
+Mutation bias and adaptation in bacteria
+James S Horton 1, Tiffany B Taylor 1
+https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.001404
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10710837/
+
+----------
 ### microbe
 
 - https://github.com/haruosuz/microbe
@@ -82,78 +136,6 @@ https://twitter.com/mph_for_doctors
 - https://github.com/haruosuz/microbe/blob/master/references/mbioinfo.2021.md
 - https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
 - https://github.com/haruosuz/microbe/blob/master/references/microbe.urban.md
-
-----------
-
-2023.06.13
-https://scienceportal.jst.go.jp/newsflash/20230613_n01/
-遺伝子の消えやすさ、ゲノムの特徴も関係か 遺伝研など | Science Portal - 科学技術の最新情報サイト「サイエンスポータル」
-
-　進化の過程で生物から遺伝子が消えていく要因には、機能の要不要だけでなくDNA配列などゲノム（遺伝情報）の物理化学的な特徴も絡んでいる可能性があることを、国立遺伝学研究所などが発表した。研究チームが哺乳類の遺伝子情報を解析し、明らかにした。将来的には、病気を引き起こしやすい遺伝子の探索に応用できる可能性がある。
-
-　生物進化において、生存に有利な遺伝子は広がりやすく、機能がいらなくなった遺伝子は消えやすいとされる。東京都医学総合研究所の原雄一郎主席研究員（ゲノム科学）と遺伝研の工樂樹洋教授は、理化学研究所で分子進化学を専門としてゲノム解読などに取り組む中、「遺伝子の消えやすさにゲノムの物理化学的特徴も影響するのではないか」と研究を発案。欧米のゲノム情報データベースにある遺伝子の中から消えやすい遺伝子を探し、その特徴を調べることにした。
-
-----------
-
-
-
-----------
-
-5:10 PM · Apr 25, 2023
-https://twitter.com/sabifo4/status/1650774282387988480
-Sandra Álvarez on Twitter: "Using PAML to detect positive selection but need some guidance? @PKapli , @zihengyang , and I have been working on a protocol that we hope you find useful. The "Beginner's Guide on the Use of PAML to Detect Positive Selection" is now available! https://t.co/JW7e0uQXF3 (1/n)" / Twitter
-https://academic.oup.com/mbe/article/40/4/msad041/7140562
-Beginner's Guide on the Use of PAML to Detect Positive Selection | Molecular Biology and Evolution | Oxford Academic
-
-
-8:00 PM · May 26, 2023
-https://twitter.com/Amamino_Kurousa/status/1662051012293668870
-Amamino Kurousagi on Twitter: "『なんでHPV🦠感染が子宮頸がんの原因だと分かるの？』 素晴らしい質問だ。たった一言の質問だが、これがわかるまでには、仮説として提出されてからの、無数の科学者と(研究に参加した患者たち）の20年にわたるエビデンスの蓄積があるわけだ。 追体験してみる？😊 →" / Twitter
-
-
-----------
-
-
-https://twitter.com/KawataMasakado
-Masakado Kawata (@KawataMasakado) / Twitter
-https://note.com/masakadokawata/
-河田 雅圭｜note
-
-https://note.com/masakadokawata/n/n2dfc4217831e
-進化における「適応」という言葉をめぐって｜河田 雅圭｜note
-2022年10月8日 19:53
-
-https://note.com/masakadokawata/n/n41079da12807
-「種の保存のための進化」はどこが誤りなのか｜河田 雅圭｜note
-2022年3月20日 16:00
-
-1:17 AM · Oct 15, 2022
-https://twitter.com/jlsteenwyk/status/1580956067755720710
-🧬Jacob L Steenwyk on Twitter: "NEW Publication🥳 Molecular #evolution studies often rely on single-copy orthologs (SC-OGs), resulting in large gene families—like transporters—being ignored. We present OrthoSNAP, software for identifying subsets of SC-OGs within larger gene families. 🔗https://t.co/2rWsRLsamn https://t.co/0d0SpvcRmw" / Twitter
-
-----------
-
-----------
-
-https://twitter.com/y_tambe
-
-9:14 AM · Nov 23, 2022
-https://twitter.com/y_tambe/status/1595209086001238016
-Y Tambe on Twitter: "講談社webブルーバックスでコラム公開されました。 ありがたくない冬の風物詩「ノロウイルス」寒い時期になぜ流行る？（旦部 幸博,北川 善紀） | ブルーバックス | 講談社（1/3） https://t.co/BvUh0qJIyH" / Twitter
-https://gendai.media/articles/-/100934
-ありがたくない冬の風物詩「ノロウイルス」寒い時期になぜ流行る？（旦部 幸博,北川 善紀） | ブルーバックス | 講談社（1/3）
-
-9:24 AM · Nov 17, 2022
-https://twitter.com/y_tambe/status/1593037409972731904
-Y Tambe on Twitter: "講談社WEBブルーバックスでコラムが公開されました。 なぜ生物兵器に利用される？　細菌学の由緒正しき微生物「炭疽菌」（旦部 幸博,北川 善紀） | ブルーバックス | 講談社（1/4） https://t.co/mL1sTP4uCm" / Twitter
-2022.11.16
-https://gendai.media/articles/-/100721
-なぜ生物兵器に利用される？　細菌学の由緒正しき微生物「炭疽菌」（旦部 幸博,北川 善紀） | ブルーバックス | 講談社（1/4）
-
-2022-08-18
-
-https://bookclub.kodansha.co.jp/product?item=0000368928
-『最小にして人類最大の宿敵　病原体の世界　歴史をも動かすミクロの攻防』（旦部　幸博，北川　善紀）：ブルーバックス｜講談社BOOK倶楽部
 
 
 ----------
@@ -254,13 +236,6 @@ https://shorebird.hatenablog.com/entry/2023/05/28/154828
 https://naokoiwanaga.theletter.jp/
 医療記者、岩永直子のニュースレター
 
-----------
-
-https://twitter.com/KawataMasakado
-Masakado Kawata (@KawataMasakado) / X
-https://note.com/masakadokawata
-https://note.com/masakadokawata/n/nb015a606e935
-新型コロナウイルスの進化と感染症の傾向｜河田 雅圭
 
 ----------
 
@@ -961,6 +936,88 @@ Xavier Didelot on Twitter: "I'm pleased to have contributed a chapter with @Lass
 
 
 
+
+
+
+
+----------
+
+2023.06.13
+https://scienceportal.jst.go.jp/newsflash/20230613_n01/
+遺伝子の消えやすさ、ゲノムの特徴も関係か 遺伝研など | Science Portal - 科学技術の最新情報サイト「サイエンスポータル」
+
+　進化の過程で生物から遺伝子が消えていく要因には、機能の要不要だけでなくDNA配列などゲノム（遺伝情報）の物理化学的な特徴も絡んでいる可能性があることを、国立遺伝学研究所などが発表した。研究チームが哺乳類の遺伝子情報を解析し、明らかにした。将来的には、病気を引き起こしやすい遺伝子の探索に応用できる可能性がある。
+
+　生物進化において、生存に有利な遺伝子は広がりやすく、機能がいらなくなった遺伝子は消えやすいとされる。東京都医学総合研究所の原雄一郎主席研究員（ゲノム科学）と遺伝研の工樂樹洋教授は、理化学研究所で分子進化学を専門としてゲノム解読などに取り組む中、「遺伝子の消えやすさにゲノムの物理化学的特徴も影響するのではないか」と研究を発案。欧米のゲノム情報データベースにある遺伝子の中から消えやすい遺伝子を探し、その特徴を調べることにした。
+
+----------
+
+
+
+----------
+
+5:10 PM · Apr 25, 2023
+https://twitter.com/sabifo4/status/1650774282387988480
+Sandra Álvarez on Twitter: "Using PAML to detect positive selection but need some guidance? @PKapli , @zihengyang , and I have been working on a protocol that we hope you find useful. The "Beginner's Guide on the Use of PAML to Detect Positive Selection" is now available! https://t.co/JW7e0uQXF3 (1/n)" / Twitter
+https://academic.oup.com/mbe/article/40/4/msad041/7140562
+Beginner's Guide on the Use of PAML to Detect Positive Selection | Molecular Biology and Evolution | Oxford Academic
+
+
+8:00 PM · May 26, 2023
+https://twitter.com/Amamino_Kurousa/status/1662051012293668870
+Amamino Kurousagi on Twitter: "『なんでHPV🦠感染が子宮頸がんの原因だと分かるの？』 素晴らしい質問だ。たった一言の質問だが、これがわかるまでには、仮説として提出されてからの、無数の科学者と(研究に参加した患者たち）の20年にわたるエビデンスの蓄積があるわけだ。 追体験してみる？😊 →" / Twitter
+
+
+----------
+
+----------
+
+Masakado Kawata (@KawataMasakado) / Twitter
+https://note.com/masakadokawata/
+河田 雅圭｜note
+
+https://note.com/masakadokawata/n/nb015a606e935
+新型コロナウイルスの進化と感染症の傾向｜河田 雅圭
+
+https://note.com/masakadokawata/n/n2dfc4217831e
+進化における「適応」という言葉をめぐって｜河田 雅圭｜note
+2022年10月8日 19:53
+
+https://note.com/masakadokawata/n/n41079da12807
+「種の保存のための進化」はどこが誤りなのか｜河田 雅圭｜note
+2022年3月20日 16:00
+
+1:17 AM · Oct 15, 2022
+https://twitter.com/jlsteenwyk/status/1580956067755720710
+🧬Jacob L Steenwyk on Twitter: "NEW Publication🥳 Molecular #evolution studies often rely on single-copy orthologs (SC-OGs), resulting in large gene families—like transporters—being ignored. We present OrthoSNAP, software for identifying subsets of SC-OGs within larger gene families. 🔗https://t.co/2rWsRLsamn https://t.co/0d0SpvcRmw" / Twitter
+
+----------
+
+
+https://twitter.com/y_tambe
+
+9:14 AM · Nov 23, 2022
+https://twitter.com/y_tambe/status/1595209086001238016
+Y Tambe on Twitter: "講談社webブルーバックスでコラム公開されました。 ありがたくない冬の風物詩「ノロウイルス」寒い時期になぜ流行る？（旦部 幸博,北川 善紀） | ブルーバックス | 講談社（1/3） https://t.co/BvUh0qJIyH" / Twitter
+https://gendai.media/articles/-/100934
+ありがたくない冬の風物詩「ノロウイルス」寒い時期になぜ流行る？（旦部 幸博,北川 善紀） | ブルーバックス | 講談社（1/3）
+
+9:24 AM · Nov 17, 2022
+https://twitter.com/y_tambe/status/1593037409972731904
+Y Tambe on Twitter: "講談社WEBブルーバックスでコラムが公開されました。 なぜ生物兵器に利用される？　細菌学の由緒正しき微生物「炭疽菌」（旦部 幸博,北川 善紀） | ブルーバックス | 講談社（1/4） https://t.co/mL1sTP4uCm" / Twitter
+2022.11.16
+https://gendai.media/articles/-/100721
+なぜ生物兵器に利用される？　細菌学の由緒正しき微生物「炭疽菌」（旦部 幸博,北川 善紀） | ブルーバックス | 講談社（1/4）
+
+2022-08-18
+
+https://bookclub.kodansha.co.jp/product?item=0000368928
+『最小にして人類最大の宿敵　病原体の世界　歴史をも動かすミクロの攻防』（旦部　幸博，北川　善紀）：ブルーバックス｜講談社BOOK倶楽部
+
+
+
+
+----------
 
 
 
