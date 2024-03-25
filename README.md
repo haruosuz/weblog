@@ -73,11 +73,20 @@ https://twitter.com/mph_for_doctors
 - https://github.com/haruosuz/mgsa/blob/master/references/mgsa.metagenome.md#unifrac
 - https://github.com/haruosuz/mgsa/blob/master/references/mgsa.metagenome.md#rrna
 
+
+
 ----------
 
-----------
+https://twitter.com/Jameshearsawho/status/1722929271994224908
+James Horton on X: "Are you interested in the evolution of bacteria? If so, myself and @TaylorLabGroup have recently penned ✍️ a review article for @MicrobioSoc titled Mutation Bias and Adaptation in Bacteria: (https://t.co/GosL31Cjb3). A short 🧵 on why we should care about mutation bias below (1/7" / X
 
-
+https://pubmed.ncbi.nlm.nih.gov/37943288/
+Review Microbiology (Reading)
+. 2023 Nov;169(11):001404. doi: 10.1099/mic.0.001404.
+Mutation bias and adaptation in bacteria
+James S Horton 1, Tiffany B Taylor 1
+https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.001404
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10710837/
 
 
 ----------
@@ -113,20 +122,6 @@ Jacob L Steenwyk 1 2 3, Charu Balamurugan 2 3, Huzefa A Raja 4, Carla Gonçalves
 1:53 AM · Jun 28, 2023
 https://twitter.com/jlsteenwyk/status/1673736267081867265
 🧬Jacob L Steenwyk on Twitter: "Why haven't we resolved the Tree of Life? In a NEW publication out in @NatureRevGenet, we discuss #biological and analytical factors contributing to #incongruence in the #phylogenomic era and synthesize current best practices for addressing them. 🔗: https://t.co/6wUJB0TZ3Q https://t.co/BcAAuVULux" / Twitter
-
-
-----------
-
-https://twitter.com/Jameshearsawho/status/1722929271994224908
-James Horton on X: "Are you interested in the evolution of bacteria? If so, myself and @TaylorLabGroup have recently penned ✍️ a review article for @MicrobioSoc titled Mutation Bias and Adaptation in Bacteria: (https://t.co/GosL31Cjb3). A short 🧵 on why we should care about mutation bias below (1/7" / X
-
-https://pubmed.ncbi.nlm.nih.gov/37943288/
-Review Microbiology (Reading)
-. 2023 Nov;169(11):001404. doi: 10.1099/mic.0.001404.
-Mutation bias and adaptation in bacteria
-James S Horton 1, Tiffany B Taylor 1
-https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.001404
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10710837/
 
 ----------
 ### microbe
