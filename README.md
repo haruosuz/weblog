@@ -29,6 +29,13 @@ https://naokoiwanaga.theletter.jp/posts/c3b82470-e824-11ee-a5fb-e7f00b9eb817
 
 ----------
 
+October 23, 2023
+https://theoreticalecology.wordpress.com/2023/10/23/time-to-leave-species-richness-behind-as-it-serves-no-scientific-purpose-on-x-or-y-axis/
+Time to leave “species richness” behind, as it serves no scientific purpose on x- or y-axis | theoretical ecology
+
+
+----------
+
 
 https://twitter.com/arakencloud
 荒木健太郎 (@arakencloud) / X
