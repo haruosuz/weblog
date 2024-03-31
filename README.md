@@ -8,23 +8,97 @@
 - [unclassified](#unclassified)
 - 
 
+
 ----------
+
+http://sfcbus.jp/
+慶応大学本館前
+
+カウントダウン
+http://sfcbus.jp/kh-weekday.html
+時刻表（平日）
+http://sfcbus.jp/kh-weekday-j.html
+
+- https://sfcclip.net/bus/
+- http://www.kanachu.co.jp/dia/diagram/timetable/cs:0000800447-1/nid:00129985/rt:0/k:慶応大学
+- https://www.sfc.keio.ac.jp/gsmg/about/faculty/
+- https://www.sfc.keio.ac.jp/deans_diary/
+
+https://helpfeel.com/SFCHelp/タクシー-635699d1fe226f002362c282
+SFCHelp - タクシー
+「デルタ館前」のように場所を指定してタクシーを呼ぶことができます
+相愛交通: 0120-87-2610
 
 
 https://www.keio.ac.jp/ja/gakumon150/
 ガクモンノススメ特設ページ：[慶應義塾]
 
+https://www.keio.ac.jp/ja/about/president/blog/2024/2/27/379-157072/
+塾長室だより　No. 21　大学と日本の危機－再考：[慶應義塾]
+
+----------
+
 Science Fictions　あなたが知らない科学の真実
 https://twitter.com/search?q=Science%20Fictions&src=typed_query&f=top
+
+https://www.diamond.co.jp/book/9784478113400.html
+Science Fictions　あなたが知らない科学の真実 | 書籍 | ダイヤモンド社
+紙版 電子版
+スチュアート・リッチー 著/矢羽野 薫 訳
+発行年月：2024年01月 [予約受付中]
+ISBN：9784478113400
+
+たちよみする
+https://www.diamond.co.jp/_itempdf/0201_biz/11340-0/?pNo=1&detailFlg=0
+
+----------
 
 
 https://twitter.com/kosuke_yasukawa
 安川康介@米国内科専門医 (@kosuke_yasukawa) / X
 
+----------
+
+https://naokoiwanaga.theletter.jp/
+医療記者、岩永直子のニュースレター
+
 
 https://naokoiwanaga.theletter.jp/posts/c3b82470-e824-11ee-a5fb-e7f00b9eb817
 麻疹で「感染して免疫をつければいい」は実弾を込めた銃でのロシアンルーレット　2回のワクチンで予防を | 医療記者、岩永直子のニュースレター
 
+----------
+
+
+https://www.keisoshobo.co.jp/book/b620100.html
+生物学者のための科学哲学 - 株式会社　勁草書房
+https://keisobiblio.com/2023/02/01/atogakitachiyomi_seibutsugakushanotamenokatetsu/
+
+https://shorebird.hatenablog.com/entry/2023/05/28/154828
+書評　「生物学者のための科学哲学」 - shorebird　進化心理学中心の書評など
+
+----------
+
+2:00 AM · Nov 30, 2023
+https://twitter.com/ASMicrobiology/status/1729908083344691626
+ASM on X: "💠How are viruses transmitted indoors? 💠Can a virus cause disease if it settles onto a surface and is resuspended into the air? 💠What can be done to prevent the spread of viruses in buildings? This article provides some answers. ➡️https://t.co/nfJmKCmGvU" / X
+Nov. 29, 2023
+https://asm.org/Articles/2023/November/How-Viruses-Spread-Indoors-What-to-Do-About-It
+How Viruses Spread Indoors and What to Do About It
+
+----------
+
+https://furuse-yukihiro.info/2023covidcolumn09/
+微生物との戦争――ヒトと動物、環境と微生物の葛藤（1） | MONOLOGUE
+
+
+
+
+----------
+
+https://gendai.media/list/author/Yh_Taguchi
+田口 善弘 Y-h. Taguchi | 現代新書
+https://gendai.media/list/books/gendai-shinsho/9784065346921
+学び直し高校物理 | 現代新書 | 講談社
 
 
 ----------
@@ -177,82 +251,6 @@ https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#get_homolo
 - https://github.com/haruosuz/plasmids/blob/master/references/plasmid_IncP1.md
 
 ----------
-
-
-
-
-
-
-
-----------
-
-http://sfcbus.jp/
-慶応大学本館前
-
-カウントダウン
-http://sfcbus.jp/kh-weekday.html
-時刻表（平日）
-http://sfcbus.jp/kh-weekday-j.html
-
-- https://sfcclip.net/bus/
-- http://www.kanachu.co.jp/dia/diagram/timetable/cs:0000800447-1/nid:00129985/rt:0/k:慶応大学
-- https://www.sfc.keio.ac.jp/gsmg/about/faculty/
-- https://www.sfc.keio.ac.jp/deans_diary/
-
-https://helpfeel.com/SFCHelp/タクシー-635699d1fe226f002362c282
-SFCHelp - タクシー
-「デルタ館前」のように場所を指定してタクシーを呼ぶことができます
-相愛交通: 0120-87-2610
-
-
-----------
-
-
-
-----------
-
-
-----------
-https://www.diamond.co.jp/book/9784478113400.html
-Science Fictions　あなたが知らない科学の真実 | 書籍 | ダイヤモンド社
-紙版 電子版
-スチュアート・リッチー 著/矢羽野 薫 訳
-発行年月：2024年01月 [予約受付中]
-ISBN：9784478113400
-
-たちよみする
-https://www.diamond.co.jp/_itempdf/0201_biz/11340-0/?pNo=1&detailFlg=0
-
-----------
-
-
-https://www.keisoshobo.co.jp/book/b620100.html
-生物学者のための科学哲学 - 株式会社　勁草書房
-https://keisobiblio.com/2023/02/01/atogakitachiyomi_seibutsugakushanotamenokatetsu/
-
-https://shorebird.hatenablog.com/entry/2023/05/28/154828
-書評　「生物学者のための科学哲学」 - shorebird　進化心理学中心の書評など
-
-----------
-
-https://naokoiwanaga.theletter.jp/
-医療記者、岩永直子のニュースレター
-
-
-----------
-
-2:00 AM · Nov 30, 2023
-https://twitter.com/ASMicrobiology/status/1729908083344691626
-ASM on X: "💠How are viruses transmitted indoors? 💠Can a virus cause disease if it settles onto a surface and is resuspended into the air? 💠What can be done to prevent the spread of viruses in buildings? This article provides some answers. ➡️https://t.co/nfJmKCmGvU" / X
-Nov. 29, 2023
-https://asm.org/Articles/2023/November/How-Viruses-Spread-Indoors-What-to-Do-About-It
-How Viruses Spread Indoors and What to Do About It
-
-----------
-
-https://furuse-yukihiro.info/2023covidcolumn09/
-微生物との戦争――ヒトと動物、環境と微生物の葛藤（1） | MONOLOGUE
-
 
 
 ----------
