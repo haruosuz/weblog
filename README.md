@@ -38,6 +38,13 @@ https://www.keio.ac.jp/ja/about/president/blog/2024/2/27/379-157072/
 
 ----------
 
+
+https://theoreticalecology.wordpress.com/2023/10/23/time-to-leave-species-richness-behind-as-it-serves-no-scientific-purpose-on-x-or-y-axis/
+Time to leave “species richness” behind, as it serves no scientific purpose on x- or y-axis | theoretical ecology
+
+
+----------
+
 Science Fictions　あなたが知らない科学の真実
 https://twitter.com/search?q=Science%20Fictions&src=typed_query&f=top
 
@@ -52,7 +59,6 @@ ISBN：9784478113400
 https://www.diamond.co.jp/_itempdf/0201_biz/11340-0/?pNo=1&detailFlg=0
 
 ----------
-
 
 https://twitter.com/kosuke_yasukawa
 安川康介@米国内科専門医 (@kosuke_yasukawa) / X
