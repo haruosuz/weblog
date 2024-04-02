@@ -29,6 +29,9 @@ SFCHelp - タクシー
 「デルタ館前」のように場所を指定してタクシーを呼ぶことができます
 相愛交通: 0120-87-2610
 
+- https://twitter.com/Keio_univ_PR
+- https://twitter.com/KeioSFC
+- https://twitter.com/keio_news
 
 https://www.keio.ac.jp/ja/gakumon150/
 ガクモンノススメ特設ページ：[慶應義塾]
