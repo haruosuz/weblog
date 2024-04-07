@@ -45,6 +45,10 @@ https://www.keio.ac.jp/ja/about/president/blog/2024/2/27/379-157072/
 https://theoreticalecology.wordpress.com/2023/10/23/time-to-leave-species-richness-behind-as-it-serves-no-scientific-purpose-on-x-or-y-axis/
 Time to leave “species richness” behind, as it serves no scientific purpose on x- or y-axis | theoretical ecology
 
+8:55 AM · Apr 5, 2024
+https://mt-rgslack.slack.com/archives/G01CYCBL8KT/p1712282742676019?thread_ts=1705387059.484789&cid=G01CYCBL8KT
+Tat🍣 Matsuba🌴 on X: "t-SNEとかK-means使う人は、まず shima_shimaさんの「クラスタリング」の資料だけは熟読して欲しい。 https://t.co/0gjDRQihgm" / X
+
 
 ----------
 
