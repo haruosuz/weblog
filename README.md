@@ -9,6 +9,25 @@
 - 
 
 
+
+----------
+
+
+https://www.yodosha.co.jp/yodobook/book/9784758108515/
+ネイティブが教える英語論文・グラント獲得・アウトリーチ　成功の戦略と文章術 - 羊土社
+
+https://www.yodosha.co.jp/jikkenigaku/special/biomedical_writer/index.html
+ウィズコロナ・アフターコロナの研究者応援企画 翻訳書「ネイティブが教える英語論文・グラント獲得・アウトリーチ 成功の戦略と文章術」の一部を無料公開します！ - 羊土社
+
+2020.11.25
+https://www.asca-co.com/blog/study/entry20201125120800.html
+査読者の"脳"をつかむ！:第2回 論文執筆術ウェビナー『成功の戦略と文章術』 | セミナー | トピックス | 医薬翻訳のアスカコーポレーション
+
+11:30 AM · Jul 15, 2020
+https://twitter.com/yodosha_em/status/1283227283633827840
+羊土社 実験医学 on X: "「ネイティブが教える英語論文・グラント獲得・アウトリーチ 成功の戦略と文章術」の一部無料公開、第2回をお届けします！ 今回は、文章に一貫性をもたせることについて解説。プライミング効果、新近効果、Head-Body-Foot構造などのキーワードが登場。 https://t.co/S7HqSto6HE" / X
+
+
 ----------
 
 http://sfcbus.jp/
@@ -40,25 +59,6 @@ https://www.keio.ac.jp/ja/about/president/blog/2024/2/27/379-157072/
 塾長室だより　No. 21　大学と日本の危機－再考：[慶應義塾]
 
 ----------
-
-
-----------
-
-
-https://www.yodosha.co.jp/yodobook/book/9784758108515/
-ネイティブが教える英語論文・グラント獲得・アウトリーチ　成功の戦略と文章術 - 羊土社
-
-https://www.yodosha.co.jp/jikkenigaku/special/biomedical_writer/index.html
-ウィズコロナ・アフターコロナの研究者応援企画 翻訳書「ネイティブが教える英語論文・グラント獲得・アウトリーチ 成功の戦略と文章術」の一部を無料公開します！ - 羊土社
-
-2020.11.25
-https://www.asca-co.com/blog/study/entry20201125120800.html
-査読者の"脳"をつかむ！:第2回 論文執筆術ウェビナー『成功の戦略と文章術』 | セミナー | トピックス | 医薬翻訳のアスカコーポレーション
-
-11:30 AM · Jul 15, 2020
-https://twitter.com/yodosha_em/status/1283227283633827840
-羊土社 実験医学 on X: "「ネイティブが教える英語論文・グラント獲得・アウトリーチ 成功の戦略と文章術」の一部無料公開、第2回をお届けします！ 今回は、文章に一貫性をもたせることについて解説。プライミング効果、新近効果、Head-Body-Foot構造などのキーワードが登場。 https://t.co/S7HqSto6HE" / X
-
 
 
 ----------
