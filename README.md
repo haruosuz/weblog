@@ -8,10 +8,7 @@
 - [unclassified](#unclassified)
 - 
 
-
-
 ----------
-
 
 https://www.yodosha.co.jp/yodobook/book/9784758108515/
 ネイティブが教える英語論文・グラント獲得・アウトリーチ　成功の戦略と文章術 - 羊土社
