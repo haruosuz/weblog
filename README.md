@@ -10,23 +10,6 @@
 
 ----------
 
-https://www.yodosha.co.jp/yodobook/book/9784758108515/
-ネイティブが教える英語論文・グラント獲得・アウトリーチ　成功の戦略と文章術 - 羊土社
-
-https://www.yodosha.co.jp/jikkenigaku/special/biomedical_writer/index.html
-ウィズコロナ・アフターコロナの研究者応援企画 翻訳書「ネイティブが教える英語論文・グラント獲得・アウトリーチ 成功の戦略と文章術」の一部を無料公開します！ - 羊土社
-
-2020.11.25
-https://www.asca-co.com/blog/study/entry20201125120800.html
-査読者の"脳"をつかむ！:第2回 論文執筆術ウェビナー『成功の戦略と文章術』 | セミナー | トピックス | 医薬翻訳のアスカコーポレーション
-
-11:30 AM · Jul 15, 2020
-https://twitter.com/yodosha_em/status/1283227283633827840
-羊土社 実験医学 on X: "「ネイティブが教える英語論文・グラント獲得・アウトリーチ 成功の戦略と文章術」の一部無料公開、第2回をお届けします！ 今回は、文章に一貫性をもたせることについて解説。プライミング効果、新近効果、Head-Body-Foot構造などのキーワードが登場。 https://t.co/S7HqSto6HE" / X
-
-
-----------
-
 http://sfcbus.jp/
 慶応大学本館前
 
@@ -55,7 +38,171 @@ https://www.keio.ac.jp/ja/gakumon150/
 https://www.keio.ac.jp/ja/about/president/blog/2024/2/27/379-157072/
 塾長室だより　No. 21　大学と日本の危機－再考：[慶應義塾]
 
+
 ----------
+
+----------
+
+
+### class
+
+- https://github.com/haruosuz/introBI/tree/master/2023-10
+- https://github.com/haruosuz/DS4GD/tree/master/2023-10
+- https://github.com/haruosuz/DS4GD/blob/master/2018/CaseStudy.md#genome-signature
+- https://github.com/haruosuz/DS4GD/blob/master/2021/CaseStudy.md#ncbi-genome-list
+- https://github.com/haruosuz/DS4GD/blob/master/2023-10/CaseStudy.md
+- https://github.com/haruosuz/DS4GD/blob/master/2023-10/CaseStudy.md#assignment-1
+- https://github.com/haruosuz/r4bioinfo/blob/master/references/RStudioCloud.md
+- https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan
+- https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/index.html
+- 
+
+https://github.com/haruosuz/microbe/blob/master/references/microbe.video.md
+
+https://www.youtube.com/watch?v=6564K4-_DBI&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc Microbiome Discovery 1: Intro to the Microbiome - YouTube
+
+2013/07/02
+https://www.youtube.com/watch?v=S-o-sdlzhkE
+R 1.2 - Calculations and Variables - YouTube
+
+- Andrew Rambaut - "How to read a phylogenetic tree", 2018-07-30 https://artic.network/how-to-read-a-tree.html
+- Dave Hone - "How to read a phylogenetic tree" https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/
+- 2015-01-05 [PhyloBotanist: How to root a phylogenetic tree: outgroup, midpoint and other methods](http://phylobotanist.blogspot.com/2015/01/how-to-root-phylogenetic-tree-outgroup.html)
+- 2012-06-07 [The Cabbages of Doom: How to root a phylogenetic tree](http://cabbagesofdoom.blogspot.com/2012/06/how-to-root-phylogenetic-tree.html)
+
+----------
+
+https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md#root
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7149615/ Encyclopedia of Evolutionary Biology. 2016 : 489–493. Published online 2016 Apr 21. doi: 10.1016/B978-0-12-800049-6.00215-8 PMCID: PMC7149615 Rooting Trees, Methods for T. Kinene, J. Wainaina, S. Maina, and L.M. Boykin
+
+Brady S.G., Litman J.R., Danforth B.N. Rooting phylogenies using gene duplications: An empirical example from the bees (Apoidea) Molecular Phylogenetics and Evolution. 2011;60(3):295–304. [PubMed] [Google Scholar]
+
+https://pubmed.ncbi.nlm.nih.gov/21600997/
+Comparative Study Mol Phylogenet Evol
+. 2011 Sep;60(3):295-304. doi: 10.1016/j.ympev.2011.05.002. Epub 2011 May 12.
+Rooting phylogenies using gene duplications: an empirical example from the bees (Apoidea)
+Seán G Brady 1, Jessica R Litman, Bryan N Danforth
+
+
+----------
+
+https://github.com/haruosuz/r4bioinfo/tree/master/R_codon
+
+https://github.com/jlw-ecoevo/gRodon2
+http://microbialgamut.com/gRodon-vignette
+
+http://bioconductor.org/packages/coRdon/
+https://bioconductor.org/packages/release/bioc/vignettes/coRdon/inst/doc/coRdon.html
+
+----------
+
+https://github.com/haruosuz/r4bioinfo/blob/master/references/R.bio.md#bioseq
+
+https://cran.r-project.org/package=bioseq
+
+Vignettes:
+
+Introduction to the 'bioseq' package https://cloud.r-project.org/web/packages/bioseq/vignettes/intro-bioseq.html
+
+Reference database preparation with the 'bioseq' package https://cloud.r-project.org/web/packages/bioseq/vignettes/ref_database.html
+
+
+----------
+
+
+
+4:56 AM · Mar 18, 2022
+https://twitter.com/_sam_forster_/status/1504547290564153344
+Sam Forster on Twitter: "Excited to share some new work on the movement of #antibioticresistance from the #microbiome to #pathogens with @Junyan_Liu_ @kumarnitin85 @DrEmilyGulliver @LawleyLab @Forster_Lab @Hudson_Research @sangerinstitute https://t.co/yTIIcgTr1g" / Twitter
+https://www.nature.com/articles/s41467-022-29096-9
+Strain-level characterization of broad host range mobile genetic elements transferring antibiotic resistance from the human microbiome | Nature Communications
+
+
+12:07 AM · Feb 22, 2022
+https://twitter.com/goyoiraola/status/1495777167631962117
+Gregorio Iraola on Twitter: "A very recent study showed that public human #microbiome data are dominated by highly developed countries. We can't understand and mitigate microbiome-associated diseases without data from underrepresented regions. https://t.co/jjMxQTLYab" / Twitter
+
+
+----------
+
+https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01020-2
+Exploiting genomics to mitigate the public health impact of antimicrobial resistance
+
+
+4:26 PM · Jan 20, 2022
+https://twitter.com/LauraPiddock/status/1484064663621021696
+Laura Piddock 💙 on Twitter: "Very important paper👇🏻while the world focuses on #COVID19 the ‘silent’ pandemic of #AMR continues unabated - ‘Global burden of bacterial antimicrobial resistance in 2019: a systematic analysis’ https://t.co/y5YOHuGfY8" / Twitter
+
+
+9:21 AM · Jan 22, 2022
+https://twitter.com/bbcnewsjapan/status/1484682472969359367
+BBC News Japan on Twitter: "BBCニュース - 抗生物質が効かない感染症、1年で120万人超が死亡＝国際研究チーム https://t.co/5tpEfSV6d6" / Twitter
+
+https://www.bbc.com/japanese/60064329
+抗生物質が効かない感染症、1年で120万人超が死亡＝国際研究チーム - BBCニュース
+
+
+12:36 AM · Feb 17, 2022
+https://twitter.com/Baker_Lab_Cam/status/1493972456465444871
+Stephen Baker on Twitter: "New review out today. I think illumina sequencing didn’t exist when we started it, so been updated a few times. Glad it saw the light of day. Big up to waddo, christine B @meganecarey @EllenHigginson @vbalaji7 @GenomeMedicine https://t.co/EN1JqRPNk6" / Twitter
+
+
+----------
+
+
+https://twitter.com/WvSchaik/status/1148526049300496384
+Willem van Schaik on Twitter: "Next up: Eduardo Rocha on the diversity of mobile genetic elements. Sequenced 1305 natural E. coli isolates: up to a third of the pan-genome can be in plasmids and phages #FEMS2019"
+5:35 AM - 9 Jul 2019
+
+https://www.ncbi.nlm.nih.gov/pubmed/28539477 Sci Transl Med. 2017 May 24;9(391). pii: eaah6500. doi: 10.1126/scitranslmed.aah6500. Bacterial colonization and succession in a newly opened hospital. Lax S1,2, Sangwan N2,3, Smith D4, Larsen P2, Handley KM1, Richardson M1, Guyton K3, Krezalek M3, Shogan BD3, Defazio J3, Flemming I3, Shakhsheer B3, Weber S5, Landon E5, Garcia-Houchins S5, Siegel J6,7, Alverdy J3, Knight R8,9, Stephens B10, Gilbert JA11,2,3.
+
+
+https://www.biorxiv.org/content/10.1101/688465v1
+PhyloMagnet: Fast and accurate screening of short-read meta-omics data using gene-centric phylogenetics | bioRxiv
+
+https://www.biorxiv.org/content/10.1101/653592v1
+Not just BLAST nt: WGS database joins the party | bioRxiv
+
+----------
+
+
+
+6:55 AM · May 11, 2021
+https://twitter.com/mikerappe/status/1391874644332802052
+Michael Rappe on Twitter: "Looking for good citations that reveal genomic heterogeneity between bacteria with identical 16S rRNA genes. Anyone have a favorite to share?" / Twitter
+
+10:53 AM · Mar 6, 2021
+https://twitter.com/hornistyf/status/1368016916825051137
+Sequence identityの計算法いろいろ。
+On the definition of sequence identity
+https://lh3.github.io/2018/11/25/on-the-definition-of-sequence-identity
+
+
+----------
+
+
+
+
+
+----------
+
+
+
+https://www.yodosha.co.jp/yodobook/book/9784758108515/
+ネイティブが教える英語論文・グラント獲得・アウトリーチ　成功の戦略と文章術 - 羊土社
+
+https://www.yodosha.co.jp/jikkenigaku/special/biomedical_writer/index.html
+ウィズコロナ・アフターコロナの研究者応援企画 翻訳書「ネイティブが教える英語論文・グラント獲得・アウトリーチ 成功の戦略と文章術」の一部を無料公開します！ - 羊土社
+
+2020.11.25
+https://www.asca-co.com/blog/study/entry20201125120800.html
+査読者の"脳"をつかむ！:第2回 論文執筆術ウェビナー『成功の戦略と文章術』 | セミナー | トピックス | 医薬翻訳のアスカコーポレーション
+
+11:30 AM · Jul 15, 2020
+https://twitter.com/yodosha_em/status/1283227283633827840
+羊土社 実験医学 on X: "「ネイティブが教える英語論文・グラント獲得・アウトリーチ 成功の戦略と文章術」の一部無料公開、第2回をお届けします！ 今回は、文章に一貫性をもたせることについて解説。プライミング効果、新近効果、Head-Body-Foot構造などのキーワードが登場。 https://t.co/S7HqSto6HE" / X
+
+
 
 
 ----------
@@ -337,147 +484,6 @@ ISBN	978-4-7653-1950-8
 8:45 AM · Mar 8, 2023
 https://twitter.com/RF_epidemiol/status/1633252484448747521
 Ryosuke Fujii (Ryo) 🦒 藤井亮輔 on Twitter: "【拡散歓迎】可視化本の［続編］が出ます🎉（1/n） 推測統計をメインに可視化の実践まで学習できる一冊です！ 『超入門！Rでできるビジュアル統計学　解析編　学会・論文発表に役立つデータ可視化マニュアル』3,400円+税（フルカラー184ページ） #visR2023 @kinpodo_pub https://t.co/cQsMSAB18v" / Twitter
-
-
-
-----------
-
-
-### class
-
-- https://github.com/haruosuz/introBI/tree/master/2023-10
-- https://github.com/haruosuz/DS4GD/tree/master/2023-10
-- https://github.com/haruosuz/DS4GD/blob/master/2018/CaseStudy.md#genome-signature
-- https://github.com/haruosuz/DS4GD/blob/master/2021/CaseStudy.md#ncbi-genome-list
-- https://github.com/haruosuz/DS4GD/blob/master/2023-10/CaseStudy.md
-- https://github.com/haruosuz/DS4GD/blob/master/2023-10/CaseStudy.md#assignment-1
-- https://github.com/haruosuz/r4bioinfo/blob/master/references/RStudioCloud.md
-- https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan
-- https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/index.html
-- 
-
-https://github.com/haruosuz/microbe/blob/master/references/microbe.video.md
-
-https://www.youtube.com/watch?v=6564K4-_DBI&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc Microbiome Discovery 1: Intro to the Microbiome - YouTube
-
-2013/07/02
-https://www.youtube.com/watch?v=S-o-sdlzhkE
-R 1.2 - Calculations and Variables - YouTube
-
-- Andrew Rambaut - "How to read a phylogenetic tree", 2018-07-30 https://artic.network/how-to-read-a-tree.html
-- Dave Hone - "How to read a phylogenetic tree" https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/
-- 2015-01-05 [PhyloBotanist: How to root a phylogenetic tree: outgroup, midpoint and other methods](http://phylobotanist.blogspot.com/2015/01/how-to-root-phylogenetic-tree-outgroup.html)
-- 2012-06-07 [The Cabbages of Doom: How to root a phylogenetic tree](http://cabbagesofdoom.blogspot.com/2012/06/how-to-root-phylogenetic-tree.html)
-
-----------
-
-https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md#root
-https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7149615/ Encyclopedia of Evolutionary Biology. 2016 : 489–493. Published online 2016 Apr 21. doi: 10.1016/B978-0-12-800049-6.00215-8 PMCID: PMC7149615 Rooting Trees, Methods for T. Kinene, J. Wainaina, S. Maina, and L.M. Boykin
-
-Brady S.G., Litman J.R., Danforth B.N. Rooting phylogenies using gene duplications: An empirical example from the bees (Apoidea) Molecular Phylogenetics and Evolution. 2011;60(3):295–304. [PubMed] [Google Scholar]
-
-https://pubmed.ncbi.nlm.nih.gov/21600997/
-Comparative Study Mol Phylogenet Evol
-. 2011 Sep;60(3):295-304. doi: 10.1016/j.ympev.2011.05.002. Epub 2011 May 12.
-Rooting phylogenies using gene duplications: an empirical example from the bees (Apoidea)
-Seán G Brady 1, Jessica R Litman, Bryan N Danforth
-
-
-----------
-
-https://github.com/haruosuz/r4bioinfo/tree/master/R_codon
-
-https://github.com/jlw-ecoevo/gRodon2
-http://microbialgamut.com/gRodon-vignette
-
-http://bioconductor.org/packages/coRdon/
-https://bioconductor.org/packages/release/bioc/vignettes/coRdon/inst/doc/coRdon.html
-
-----------
-
-https://github.com/haruosuz/r4bioinfo/blob/master/references/R.bio.md#bioseq
-
-https://cran.r-project.org/package=bioseq
-
-Vignettes:
-
-Introduction to the 'bioseq' package https://cloud.r-project.org/web/packages/bioseq/vignettes/intro-bioseq.html
-
-Reference database preparation with the 'bioseq' package https://cloud.r-project.org/web/packages/bioseq/vignettes/ref_database.html
-
-
-----------
-
-
-
-4:56 AM · Mar 18, 2022
-https://twitter.com/_sam_forster_/status/1504547290564153344
-Sam Forster on Twitter: "Excited to share some new work on the movement of #antibioticresistance from the #microbiome to #pathogens with @Junyan_Liu_ @kumarnitin85 @DrEmilyGulliver @LawleyLab @Forster_Lab @Hudson_Research @sangerinstitute https://t.co/yTIIcgTr1g" / Twitter
-https://www.nature.com/articles/s41467-022-29096-9
-Strain-level characterization of broad host range mobile genetic elements transferring antibiotic resistance from the human microbiome | Nature Communications
-
-
-12:07 AM · Feb 22, 2022
-https://twitter.com/goyoiraola/status/1495777167631962117
-Gregorio Iraola on Twitter: "A very recent study showed that public human #microbiome data are dominated by highly developed countries. We can't understand and mitigate microbiome-associated diseases without data from underrepresented regions. https://t.co/jjMxQTLYab" / Twitter
-
-
-----------
-
-https://genomemedicine.biomedcentral.com/articles/10.1186/s13073-022-01020-2
-Exploiting genomics to mitigate the public health impact of antimicrobial resistance
-
-
-4:26 PM · Jan 20, 2022
-https://twitter.com/LauraPiddock/status/1484064663621021696
-Laura Piddock 💙 on Twitter: "Very important paper👇🏻while the world focuses on #COVID19 the ‘silent’ pandemic of #AMR continues unabated - ‘Global burden of bacterial antimicrobial resistance in 2019: a systematic analysis’ https://t.co/y5YOHuGfY8" / Twitter
-
-
-9:21 AM · Jan 22, 2022
-https://twitter.com/bbcnewsjapan/status/1484682472969359367
-BBC News Japan on Twitter: "BBCニュース - 抗生物質が効かない感染症、1年で120万人超が死亡＝国際研究チーム https://t.co/5tpEfSV6d6" / Twitter
-
-https://www.bbc.com/japanese/60064329
-抗生物質が効かない感染症、1年で120万人超が死亡＝国際研究チーム - BBCニュース
-
-
-12:36 AM · Feb 17, 2022
-https://twitter.com/Baker_Lab_Cam/status/1493972456465444871
-Stephen Baker on Twitter: "New review out today. I think illumina sequencing didn’t exist when we started it, so been updated a few times. Glad it saw the light of day. Big up to waddo, christine B @meganecarey @EllenHigginson @vbalaji7 @GenomeMedicine https://t.co/EN1JqRPNk6" / Twitter
-
-
-----------
-
-
-
-
-
-https://twitter.com/WvSchaik/status/1148526049300496384
-Willem van Schaik on Twitter: "Next up: Eduardo Rocha on the diversity of mobile genetic elements. Sequenced 1305 natural E. coli isolates: up to a third of the pan-genome can be in plasmids and phages #FEMS2019"
-5:35 AM - 9 Jul 2019
-
-https://www.ncbi.nlm.nih.gov/pubmed/28539477 Sci Transl Med. 2017 May 24;9(391). pii: eaah6500. doi: 10.1126/scitranslmed.aah6500. Bacterial colonization and succession in a newly opened hospital. Lax S1,2, Sangwan N2,3, Smith D4, Larsen P2, Handley KM1, Richardson M1, Guyton K3, Krezalek M3, Shogan BD3, Defazio J3, Flemming I3, Shakhsheer B3, Weber S5, Landon E5, Garcia-Houchins S5, Siegel J6,7, Alverdy J3, Knight R8,9, Stephens B10, Gilbert JA11,2,3.
-
-
-https://www.biorxiv.org/content/10.1101/688465v1
-PhyloMagnet: Fast and accurate screening of short-read meta-omics data using gene-centric phylogenetics | bioRxiv
-
-https://www.biorxiv.org/content/10.1101/653592v1
-Not just BLAST nt: WGS database joins the party | bioRxiv
-
-----------
-
-
-
-6:55 AM · May 11, 2021
-https://twitter.com/mikerappe/status/1391874644332802052
-Michael Rappe on Twitter: "Looking for good citations that reveal genomic heterogeneity between bacteria with identical 16S rRNA genes. Anyone have a favorite to share?" / Twitter
-
-10:53 AM · Mar 6, 2021
-https://twitter.com/hornistyf/status/1368016916825051137
-Sequence identityの計算法いろいろ。
-On the definition of sequence identity
-https://lh3.github.io/2018/11/25/on-the-definition-of-sequence-identity
 
 
 ----------
