@@ -1007,9 +1007,17 @@ Amamino Kurousagi on Twitter: "『なんでHPV🦠感染が子宮頸がんの原
 
 ----------
 
+1:17 AM · Oct 15, 2022
+https://twitter.com/jlsteenwyk/status/1580956067755720710
+🧬Jacob L Steenwyk on Twitter: "NEW Publication🥳 Molecular #evolution studies often rely on single-copy orthologs (SC-OGs), resulting in large gene families—like transporters—being ignored. We present OrthoSNAP, software for identifying subsets of SC-OGs within larger gene families. 🔗https://t.co/2rWsRLsamn https://t.co/0d0SpvcRmw" / Twitter
+
+
 ----------
 
-Masakado Kawata (@KawataMasakado) / Twitter
+
+https://twitter.com/KawataMasakado
+Masakado Kawata (@KawataMasakado) / X
+
 https://note.com/masakadokawata/
 河田 雅圭｜note
 
@@ -1023,10 +1031,6 @@ https://note.com/masakadokawata/n/n2dfc4217831e
 https://note.com/masakadokawata/n/n41079da12807
 「種の保存のための進化」はどこが誤りなのか｜河田 雅圭｜note
 2022年3月20日 16:00
-
-1:17 AM · Oct 15, 2022
-https://twitter.com/jlsteenwyk/status/1580956067755720710
-🧬Jacob L Steenwyk on Twitter: "NEW Publication🥳 Molecular #evolution studies often rely on single-copy orthologs (SC-OGs), resulting in large gene families—like transporters—being ignored. We present OrthoSNAP, software for identifying subsets of SC-OGs within larger gene families. 🔗https://t.co/2rWsRLsamn https://t.co/0d0SpvcRmw" / Twitter
 
 ----------
 
