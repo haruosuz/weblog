@@ -84,6 +84,50 @@ Rooting phylogenies using gene duplications: an empirical example from the bees 
 Seán G Brady 1, Jessica R Litman, Bryan N Danforth
 
 
+
+
+
+
+----------
+
+1:17 AM · Oct 15, 2022
+https://twitter.com/jlsteenwyk/status/1580956067755720710
+🧬Jacob L Steenwyk on Twitter: "NEW Publication🥳 Molecular #evolution studies often rely on single-copy orthologs (SC-OGs), resulting in large gene families—like transporters—being ignored. We present OrthoSNAP, software for identifying subsets of SC-OGs within larger gene families. 🔗https://t.co/2rWsRLsamn https://t.co/0d0SpvcRmw" / Twitter
+
+
+----------
+
+
+4:25 PM · Apr 24, 2024
+https://twitter.com/KawataMasakado/status/1783034509971329326
+Masakado Kawata on X: "抜粋紹介されているのは「集団選択」が働いた例です。 血縁選択も、集団選択の一様式であると見なすこともできます。詳しくは『ダーウィンの進化論はどこまで正しいのか』の第3章参照　 https://t.co/B1zNiEkD4y「自分を犠牲にする行動」は進化できるのか」 @gendai_biz https://t.co/qJUV3BUkmZ" / X
+https://gendai.media/articles/-/127170
+「自分を犠牲にする行動」は進化できるのか…個体にとって不利なのに進化する「不思議な仕組み」（河田 雅圭） | 現代ビジネス | 講談社（1/3）
+
+4:00 PM · Apr 17, 2024
+https://twitter.com/KawataMasakado/status/1780491468194685048
+Masakado Kawata on X: "進化について誤解されやすいトピックスを題材に、進化学の基礎を分かりやすく解説しました。リンクから「はじめに」全文が読めます。是非、ご一読ください。 『ダーウィンの進化論はどこまで正しいのか?』｜河田雅圭｜光文社新書 @kobunsha_shin #光文社新書 #私の仕事 https://t.co/bFQKUl0QuX" / X
+https://shinsho.kobunsha.com/n/na78453f8e457?sub_rt=share_pw
+心配性なのは進化のせいでもある!? 身近にあふれる「進化」の話｜河田雅圭｜光文社新書
+
+https://twitter.com/KawataMasakado
+Masakado Kawata (@KawataMasakado) / X
+
+https://note.com/masakadokawata/
+河田 雅圭｜note
+
+https://note.com/masakadokawata/n/nb015a606e935
+新型コロナウイルスの進化と感染症の傾向｜河田 雅圭
+
+https://note.com/masakadokawata/n/n2dfc4217831e
+進化における「適応」という言葉をめぐって｜河田 雅圭｜note
+2022年10月8日 19:53
+
+https://note.com/masakadokawata/n/n41079da12807
+「種の保存のための進化」はどこが誤りなのか｜河田 雅圭｜note
+2022年3月20日 16:00
+
+
 ----------
 
 https://github.com/haruosuz/r4bioinfo/tree/master/R_codon
@@ -1007,33 +1051,6 @@ Beginner's Guide on the Use of PAML to Detect Positive Selection | Molecular Bio
 https://twitter.com/Amamino_Kurousa/status/1662051012293668870
 Amamino Kurousagi on Twitter: "『なんでHPV🦠感染が子宮頸がんの原因だと分かるの？』 素晴らしい質問だ。たった一言の質問だが、これがわかるまでには、仮説として提出されてからの、無数の科学者と(研究に参加した患者たち）の20年にわたるエビデンスの蓄積があるわけだ。 追体験してみる？😊 →" / Twitter
 
-
-----------
-
-1:17 AM · Oct 15, 2022
-https://twitter.com/jlsteenwyk/status/1580956067755720710
-🧬Jacob L Steenwyk on Twitter: "NEW Publication🥳 Molecular #evolution studies often rely on single-copy orthologs (SC-OGs), resulting in large gene families—like transporters—being ignored. We present OrthoSNAP, software for identifying subsets of SC-OGs within larger gene families. 🔗https://t.co/2rWsRLsamn https://t.co/0d0SpvcRmw" / Twitter
-
-
-----------
-
-
-https://twitter.com/KawataMasakado
-Masakado Kawata (@KawataMasakado) / X
-
-https://note.com/masakadokawata/
-河田 雅圭｜note
-
-https://note.com/masakadokawata/n/nb015a606e935
-新型コロナウイルスの進化と感染症の傾向｜河田 雅圭
-
-https://note.com/masakadokawata/n/n2dfc4217831e
-進化における「適応」という言葉をめぐって｜河田 雅圭｜note
-2022年10月8日 19:53
-
-https://note.com/masakadokawata/n/n41079da12807
-「種の保存のための進化」はどこが誤りなのか｜河田 雅圭｜note
-2022年3月20日 16:00
 
 ----------
 
