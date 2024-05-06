@@ -38,20 +38,11 @@ https://www.keio.ac.jp/ja/gakumon150/
 https://www.keio.ac.jp/ja/about/president/blog/2024/2/27/379-157072/
 塾長室だより　No. 21　大学と日本の危機－再考：[慶應義塾]
 
-
 ----------
-
-----------
-
 
 ### class
-
-- https://github.com/haruosuz/introBI/tree/master/2023-10
-- https://github.com/haruosuz/DS4GD/tree/master/2023-10
-- https://github.com/haruosuz/DS4GD/blob/master/2018/CaseStudy.md#genome-signature
-- https://github.com/haruosuz/DS4GD/blob/master/2021/CaseStudy.md#ncbi-genome-list
-- https://github.com/haruosuz/DS4GD/blob/master/2023-10/CaseStudy.md
-- https://github.com/haruosuz/DS4GD/blob/master/2023-10/CaseStudy.md#assignment-1
+- https://github.com/haruosuz/introBI/tree/main/2024-04
+- https://github.com/haruosuz/DS4GD/tree/master/2024-04
 - https://github.com/haruosuz/r4bioinfo/blob/master/references/RStudioCloud.md
 - https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan
 - https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/index.html
