@@ -74,10 +74,27 @@ Comparative Study Mol Phylogenet Evol
 Rooting phylogenies using gene duplications: an empirical example from the bees (Apoidea)
 Seán G Brady 1, Jessica R Litman, Bryan N Danforth
 
+----------
+2022-10-19
 
+http://www.baifukan.co.jp/cgi-bin/db/baifu_new_search.pl?ISBN=4-563-07832-8
+書籍名	Web連携テキスト　バイオインフォマティクス 　 基礎から応用
 
+https://www.iu.a.u-tokyo.ac.jp/textbook/
 
+https://www.iu.a.u-tokyo.ac.jp/textbook/chapter3.html
+第3章 生物配列解析
 
+https://www.iu.a.u-tokyo.ac.jp/textbook/chapter3/W3.2.pdf
+W3.2
+PAMの求め方に関する補足資料です。
+
+https://www.iu.a.u-tokyo.ac.jp/textbook/chapter3/W3.3.pdf
+W3.3
+BLOSUMの求め方に関する補足資料です。
+
+https://www.iu.a.u-tokyo.ac.jp/textbook/chapter6.html
+第6章 生物配列統計学
 
 ----------
 
