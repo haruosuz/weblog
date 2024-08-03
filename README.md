@@ -40,6 +40,12 @@ https://www.keio.ac.jp/ja/about/president/blog/2024/2/27/379-157072/
 
 ----------
 
+6:05 PM · Aug 1, 2024
+https://x.com/seitaemori/status/1818936025068036275
+Seita Emori（気候変動の解説のおじさん 江守正多） on X: "#何もしないともっと暑くなる 国連による気候変動を解決するための #10の行動 や、わかってる。ちょっと待って。 いろいろ言いたいことある人いると思う。 僕もあります。 各項目について、僕個人の受け止めを書いていこうと思います。異論は受け付けます。 #1.5℃の約束 https://t.co/ptso0dcG4u https://t.co/9UVXizIbib" / X
+
+----------
+
 ### class
 - https://github.com/haruosuz/introBI/tree/main/2024-04
 - https://github.com/haruosuz/DS4GD/tree/master/2024-04
