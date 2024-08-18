@@ -10,6 +10,20 @@
 
 ----------
 
+https://x.com/Yodosha_grant
+羊土社 科研費獲得の方法とコツ (@Yodosha_grant) / X
+
+https://x.com/kakenhi_com
+科研費.com (@kakenhi_com) / X
+
+https://x.com/kakenhi_g_rant
+児島将康 (@kakenhi_g_rant) / X
+
+https://x.com/kakenhi_g_rant/status/1824914315796963504
+児島将康 on X: "科研費の新しい記載項目である(6)国際性だが、書いていない人がしばしばいる。変更を知らないのかと思っていたが、どうもそうではなく、「関係するものがないから」書いていないようだ。ここは評価項目なので、書かないと間違いなく、＊が付く。絶対に書いてください。 #科研費　#申請書　#添削" / X
+
+----------
+
 http://sfcbus.jp/
 慶応大学本館前
 
