@@ -25,6 +25,27 @@
   - [plagiarism](#plagiarism) 盗用
 - [presentation](#presentation)
   - [Presentation Zen](#presentation)
+- [](#)
+- [ABT](#abt)
+
+----------
+## ABT
+[2018-07-30](#2018-07-30)
+
+http://abtframework.com/
+The ABT Framework
+
+This is our tool, the ABT Narrative Template:
+
+_____ AND _____ BUT _____ THEREFORE _____
+
+2021/09/04
+https://www.youtube.com/watch?v=gU_5uinhmmU
+ABT - The And, But, Therefore Structure: Storytelling in Science Writing
+
+2013/06/25
+https://www.youtube.com/watch?v=ERB7ITvabA4
+Randy Olson Great Challenges Day at TEDMED 2013
 
 ----------
 ## unclassified
@@ -160,9 +181,6 @@ https://www.keio-up.co.jp/np/isbn/9784766425239/
 p.175: 
 https://www.ted.com/talks/matthew_winkler_what_makes_a_hero?language=ja
 Matthew Winkler: ヒーローズ・ジャーニー　―あなたと英雄の共通点― | TED Talk
-
-https://www.youtube.com/watch?v=ERB7ITvabA4
-Randy Olson Great Challenges Day at TEDMED 2013 - YouTube
 
 https://twitter.com/search?q=なぜ科学はストーリーを必要としているのか
 
