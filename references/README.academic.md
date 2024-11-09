@@ -254,6 +254,10 @@ https://www.kspub.co.jp/book/detail/images/9784061556270-1.pdf
 ## 2015-04-08
 How to Write a Lot: A Practical Guide to Productive Academic Writing
 
+- https://www.jstor.org/stable/j.ctv1chrsg5
+- https://phdlife.warwick.ac.uk/2015/11/18/review-paul-j-silvia-how-to-write-a-lot/
+- https://thesiswhisperer.com/2010/06/10/how-to-write-a-lot/
+
 http://bookclub.kodansha.co.jp/product?item=0000147753
 『できる研究者の論文生産術　どうすれば「たくさん」書けるのか』（ポール．Ｊ・シルヴィア，高橋　さきの）｜講談社BOOK倶楽部
 - https://naka3-3dsuki.hatenablog.com/entry/2017/10/17/220000
