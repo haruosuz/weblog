@@ -8,6 +8,24 @@
 - [unclassified](#unclassified)
 - 
 
+
+----------
+
+
+
+https://twitter.com/mason_lab/status/1397733925057970177
+ Chris Mason on Twitter: "I'm elated to release four @metasub papers today, with new species, data interfaces, & online resources. The first is in @CellCellPress, "A global metagenomic map of urban microbiomes and antimicrobial resistance"
+
+----------
+
+
+4:24 PM · Nov 8, 2024
+https://x.com/VirtualSoil/status/1854787058109128941
+藤井一至 (土の研究者) on X: "不耕起栽培について、国や素人（私を含む）が気軽に推進していいほど単純じゃないよという話をしました。好き勝手話したのに、お見せできる形にまとめていただけて感謝。 @greenzjp @madoka_yng https://t.co/N77NXWJ6Bd" / X
+2024.11.08
+https://greenz.jp/2024/11/08/fujii-kazumichi/
+5億年の歴史に刻まれた人類の営み。土の専門家・藤井一至さんに聞いた、不耕起栽培のこと | greenz.jp グリーンズ
+
 ----------
 
 https://x.com/Yodosha_grant
