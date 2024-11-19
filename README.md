@@ -13,6 +13,26 @@
 
 
 
+https://x.com/ys_jpd/status/1858441052517986386
+清水唯一朗 Yuichiro Shimizu
+@ys_jpd
+私の大好きな、阿川先生の「おかしら日記」（1/N）
+「新しく学部長になって」2007.06.01
+https://sfc.keio.ac.jp/magazine/002503.html
+「『ナオユキ』という名をつけられそうになった、迷子の子ねこの話」2007.07.05
+https://sfc.keio.ac.jp/magazine/002504.html
+「おかしら川柳：憂ひつつ」2007.08.08
+https://sfc.keio.ac.jp/magazine/002486.html
+（つづきます
+
+https://x.com/ys_jpd/status/1858859520421990809
+私の大好きな、阿川先生の「おかしら日記」（9/N）
+「丘にのぼれば」2012.05.11
+https://sfc.keio.ac.jp/magazine/002347.html
+「元おかしらの日記」2016.03.23
+https://sfc.keio.ac.jp/magazine/007419.html
+
+
 https://twitter.com/mason_lab/status/1397733925057970177
  Chris Mason on Twitter: "I'm elated to release four @metasub papers today, with new species, data interfaces, & online resources. The first is in @CellCellPress, "A global metagenomic map of urban microbiomes and antimicrobial resistance"
 
