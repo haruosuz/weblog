@@ -43,8 +43,15 @@ _____ AND _____ BUT _____ THEREFORE _____
 https://www.youtube.com/watch?v=gU_5uinhmmU
 ABT - The And, But, Therefore Structure: Storytelling in Science Writing
 
+
+2020/12/19
+https://www.youtube.com/watch?v=ijC2g6FBdXI
+41:30
+Episode 015 Randy Olson: And, But, Therefore
+
 2013/06/25
 https://www.youtube.com/watch?v=ERB7ITvabA4
+9:36
 Randy Olson Great Challenges Day at TEDMED 2013
 
 ----------
