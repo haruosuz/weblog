@@ -13,6 +13,30 @@
 
 
 
+7:30 PM · Dec 6, 2024
+https://x.com/ScholarshipfPhd/status/1864980654607245638
+Scholarship for PhD on X: "Mastering Time Management: https://t.co/RwJVYS9UDo" / X
+
+
+
+----------
+
+
+https://x.com/mask_must_data
+マスク必須店データベース (@mask_must_data) / X
+
+10:18 PM · Dec 9, 2024
+https://x.com/mask_must_data/status/1866110098851934409
+マスク必須店データベース on X: "マスクお願い店情報 バーガーキング 南千住駅前店｜東京都荒川区　飲食店 確認日　2023/03/29 「食事中以外はマスクをしましょう」 https://t.co/H5zN5NdSLP" / X
+
+7:23 PM · Dec 8, 2024
+https://x.com/mask_must_data/status/1865703688959910091
+マスク必須店データベース on X: "マスクお願い店情報 ラーメン道楽 旗の台店 | 東京都品川区　飲食店 確認日　2023/11/21 「ご飲食時以外は可能な限りマスク着用をお願いします」 https://t.co/89Z99znSpt" / X
+
+
+----------
+
+
 https://x.com/ys_jpd/status/1858441052517986386
 清水唯一朗 Yuichiro Shimizu
 @ys_jpd
