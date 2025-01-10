@@ -12,6 +12,14 @@
 ----------
 
 
+----------
+2025-01-10
+
+
+https://www.webchikuma.jp/articles/-/3761
+打越くんのバカ話｜追悼・打越正行｜上間 陽子｜webちくま
+
+----------
 
 7:30 PM · Dec 6, 2024
 https://x.com/ScholarshipfPhd/status/1864980654607245638
