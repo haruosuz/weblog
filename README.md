@@ -13,11 +13,21 @@
 
 
 ----------
-2025-01-10
 
 
-https://www.webchikuma.jp/articles/-/3761
-打越くんのバカ話｜追悼・打越正行｜上間 陽子｜webちくま
+----------
+
+
+
+https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md#basal
+
+https://evolution-outreach.biomedcentral.com/articles/10.1007/s12052-010-0273-6
+McLennan, D.A. How to Read a Phylogenetic Tree. Evo Edu Outreach 3, 506–519 (2010). https://doi.org/10.1007/s12052-010-0273-6
+
+https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md#character-trait
+https://ja.wikipedia.org/wiki/共有原始形質 原始形質/祖先形質 plesiomorphy
+https://ja.wikipedia.org/wiki/固有派生形質 autapomorphy
+https://ja.wikipedia.org/wiki/共有派生形質 synapomorphy
 
 ----------
 
