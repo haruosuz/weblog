@@ -17,7 +17,9 @@
 
 ----------
 
-
+https://www.nig.ac.jp/jimu/soken/courses/OSC/contents/Q&A_j.pdf
+Q＆Aを楽しもう！ その1：質問をしよう
+国立遺伝学研究所
 
 https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md#basal
 
@@ -34,7 +36,6 @@ https://ja.wikipedia.org/wiki/共有派生形質 synapomorphy
 7:30 PM · Dec 6, 2024
 https://x.com/ScholarshipfPhd/status/1864980654607245638
 Scholarship for PhD on X: "Mastering Time Management: https://t.co/RwJVYS9UDo" / X
-
 
 
 ----------
