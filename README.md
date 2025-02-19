@@ -11,8 +11,16 @@
 
 ----------
 
+https://www.sfc.keio.ac.jp/faculty_profile/list/
+
+https://www.sfc.keio.ac.jp/faculty_profile/en/list/
+
 
 ----------
+
+
+https://gendai.media/list/books/bluebacks/9784065382929
+世界一シンプルな進化論講義 | ブルーバックス | 講談社
 
 
 ----------
