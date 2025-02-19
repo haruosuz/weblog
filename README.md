@@ -11,9 +11,15 @@
 
 ----------
 
-https://www.sfc.keio.ac.jp/faculty_profile/list/
+
+
+https://www.sfc.keio.ac.jp/faculty_profile/en/list/gsmg-member/
+https://www.sfc.keio.ac.jp/faculty_profile/list/gsmg-member/
+政策・メディア研究科委員一覧 | 慶應義塾大学湘南藤沢キャンパス（SFC） 教員プロフィール
 
 https://www.sfc.keio.ac.jp/faculty_profile/en/list/
+https://www.sfc.keio.ac.jp/faculty_profile/list/
+教員プロフィール一覧 | 慶應義塾大学湘南藤沢キャンパス（SFC） 教員プロフィール
 
 
 ----------
