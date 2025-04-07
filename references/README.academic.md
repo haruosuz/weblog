@@ -55,6 +55,25 @@ https://www.youtube.com/watch?v=ERB7ITvabA4
 Randy Olson Great Challenges Day at TEDMED 2013
 
 ----------
+## negative
+
+Jan 27, 2021
+https://www.enago.jp/academy/publish-your-negative-results/
+否定的な結果をジャーナルに投稿する／しない？ - エナゴ学術アカデミー
+
+過去の質問 2018年05月10日
+https://www.editage.jp/insights/should-i-give-up-writing-the-manuscript-if-all-the-results-of-my-study-are-negative
+ネガティブな研究結果は、論文として発表すべきでない？ | エディテージ・インサイト
+
+Asked on 10 May, 2018
+https://www.editage.jp/insights/en/node/3324
+ネガティブな研究結果は、論文として発表すべきでない？ | Editage Insights
+
+https://www.jbsoc.or.jp/letter-archive-nakanishi/2014-03.html
+公益社団法人 日本生化学会 » Blog Archive » 会長便り第4号：Negative data論文
+二つ目は、ネガティブデータを記述した論文を掲載するジャーナルの登場です。ここでのネガティブデータとは、“適正に実施された実験において作業仮説が否定されることが判明した”場合などの結果を指します。ネガティブデータの公表は他の研究者による不必要な実験を省くとともに定説の覆しに寄与することにあるという考え方のもとに、複数のジャーナルが創刊されています。
+
+----------
 ## unclassified
 
 
