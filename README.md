@@ -8,11 +8,28 @@
 - [unclassified](#unclassified)
 - 
 
+----------
+## updates
+
+----------
+## unclassified
 
 ----------
 
+http://sfcbus.jp/
+慶応大学本館前
 
+カウントダウン
+http://sfcbus.jp/kh-weekday.html
+時刻表（平日）
+http://sfcbus.jp/kh-weekday-j.html
 
+- https://sfcclip.net/bus/
+- http://www.kanachu.co.jp/dia/diagram/timetable/cs:0000800447-1/nid:00129985/rt:0/k:慶応大学
+- https://www.sfc.keio.ac.jp/deans_diary/
+- 
+
+https://www.sfc.keio.ac.jp/gsmg/about/faculty/
 https://www.sfc.keio.ac.jp/faculty_profile/en/list/gsmg-member/
 https://www.sfc.keio.ac.jp/faculty_profile/list/gsmg-member/
 政策・メディア研究科委員一覧 | 慶應義塾大学湘南藤沢キャンパス（SFC） 教員プロフィール
@@ -22,18 +39,169 @@ https://www.sfc.keio.ac.jp/faculty_profile/list/
 教員プロフィール一覧 | 慶應義塾大学湘南藤沢キャンパス（SFC） 教員プロフィール
 
 
+https://helpfeel.com/SFCHelp/タクシー-635699d1fe226f002362c282
+SFCHelp - タクシー
+「デルタ館前」のように場所を指定してタクシーを呼ぶことができます
+相愛交通: 0120-87-2610
+
+- https://twitter.com/Keio_univ_PR
+- https://twitter.com/KeioSFC
+- https://twitter.com/keio_news
+
+https://www.keio.ac.jp/ja/gakumon150/
+ガクモンノススメ特設ページ：[慶應義塾]
+
+https://www.keio.ac.jp/ja/about/president/blog/2024/2/27/379-157072/
+塾長室だより　No. 21　大学と日本の危機－再考：[慶應義塾]
+
 ----------
+
+### class
+- https://github.com/haruosuz/introBI/tree/main/2025-04
+- https://github.com/haruosuz/DS4GD/tree/master/2025-04
+- https://github.com/haruosuz/r4bioinfo/blob/master/references/RStudioCloud.md
+- https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan
+- https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/index.html
+- 
+
+https://github.com/haruosuz/microbe/blob/master/references/microbe.video.md
+
+https://www.youtube.com/watch?v=6564K4-_DBI&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc Microbiome Discovery 1: Intro to the Microbiome - YouTube
+
+2013/07/02
+https://www.youtube.com/watch?v=S-o-sdlzhkE
+R 1.2 - Calculations and Variables - YouTube
+
+- Andrew Rambaut - "How to read a phylogenetic tree", 2018-07-30 https://artic.network/how-to-read-a-tree.html
+- Dave Hone - "How to read a phylogenetic tree" https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/
+- 2015-01-05 [PhyloBotanist: How to root a phylogenetic tree: outgroup, midpoint and other methods](http://phylobotanist.blogspot.com/2015/01/how-to-root-phylogenetic-tree-outgroup.html)
+- 2012-06-07 [The Cabbages of Doom: How to root a phylogenetic tree](http://cabbagesofdoom.blogspot.com/2012/06/how-to-root-phylogenetic-tree.html)
+
+
+----------
+2022-10-19
+
+http://www.baifukan.co.jp/cgi-bin/db/baifu_new_search.pl?ISBN=4-563-07832-8
+書籍名	Web連携テキスト　バイオインフォマティクス 　 基礎から応用
+
+https://www.iu.a.u-tokyo.ac.jp/textbook/
+
+https://www.iu.a.u-tokyo.ac.jp/textbook/chapter3.html
+第3章 生物配列解析
+
+https://www.iu.a.u-tokyo.ac.jp/textbook/chapter3/W3.2.pdf
+W3.2
+PAMの求め方に関する補足資料です。
+
+https://www.iu.a.u-tokyo.ac.jp/textbook/chapter3/W3.3.pdf
+W3.3
+BLOSUMの求め方に関する補足資料です。
+
+https://www.iu.a.u-tokyo.ac.jp/textbook/chapter6.html
+第6章 生物配列統計学
+
+
+----------
+
+6:05 PM · Aug 1, 2024
+https://x.com/seitaemori/status/1818936025068036275
+Seita Emori（気候変動の解説のおじさん 江守正多） on X: "#何もしないともっと暑くなる 国連による気候変動を解決するための #10の行動 や、わかってる。ちょっと待って。 いろいろ言いたいことある人いると思う。 僕もあります。 各項目について、僕個人の受け止めを書いていこうと思います。異論は受け付けます。 #1.5℃の約束 https://t.co/ptso0dcG4u https://t.co/9UVXizIbib" / X
+
+----------
+
+1:17 AM · Oct 15, 2022
+https://twitter.com/jlsteenwyk/status/1580956067755720710
+🧬Jacob L Steenwyk on Twitter: "NEW Publication🥳 Molecular #evolution studies often rely on single-copy orthologs (SC-OGs), resulting in large gene families—like transporters—being ignored. We present OrthoSNAP, software for identifying subsets of SC-OGs within larger gene families. 🔗https://t.co/2rWsRLsamn https://t.co/0d0SpvcRmw" / Twitter
+
+
+----------
+
+
+4:25 PM · Apr 24, 2024
+https://twitter.com/KawataMasakado/status/1783034509971329326
+Masakado Kawata on X: "抜粋紹介されているのは「集団選択」が働いた例です。 血縁選択も、集団選択の一様式であると見なすこともできます。詳しくは『ダーウィンの進化論はどこまで正しいのか』の第3章参照　 https://t.co/B1zNiEkD4y「自分を犠牲にする行動」は進化できるのか」 @gendai_biz https://t.co/qJUV3BUkmZ" / X
+https://gendai.media/articles/-/127170
+「自分を犠牲にする行動」は進化できるのか…個体にとって不利なのに進化する「不思議な仕組み」（河田 雅圭） | 現代ビジネス | 講談社（1/3）
+
+4:00 PM · Apr 17, 2024
+https://twitter.com/KawataMasakado/status/1780491468194685048
+Masakado Kawata on X: "進化について誤解されやすいトピックスを題材に、進化学の基礎を分かりやすく解説しました。リンクから「はじめに」全文が読めます。是非、ご一読ください。 『ダーウィンの進化論はどこまで正しいのか?』｜河田雅圭｜光文社新書 @kobunsha_shin #光文社新書 #私の仕事 https://t.co/bFQKUl0QuX" / X
+https://shinsho.kobunsha.com/n/na78453f8e457?sub_rt=share_pw
+心配性なのは進化のせいでもある!? 身近にあふれる「進化」の話｜河田雅圭｜光文社新書
+
+https://twitter.com/KawataMasakado
+Masakado Kawata (@KawataMasakado) / X
+
+https://note.com/masakadokawata/
+河田 雅圭｜note
+
+https://note.com/masakadokawata/n/nb015a606e935
+新型コロナウイルスの進化と感染症の傾向｜河田 雅圭
+
+https://note.com/masakadokawata/n/n2dfc4217831e
+進化における「適応」という言葉をめぐって｜河田 雅圭｜note
+2022年10月8日 19:53
+
+https://note.com/masakadokawata/n/n41079da12807
+「種の保存のための進化」はどこが誤りなのか｜河田 雅圭｜note
+2022年3月20日 16:00
+
+
+
+
+
+----------
+
+7:30 PM · Dec 6, 2024
+https://x.com/ScholarshipfPhd/status/1864980654607245638
+Scholarship for PhD on X: "Mastering Time Management: https://t.co/RwJVYS9UDo" / X
+
+
+
+----------
+
+
+
+https://www.nig.ac.jp/jimu/soken/courses/OSC/contents/Q&A_j.pdf
+Q＆Aを楽しもう！ その1：質問をしよう
+国立遺伝学研究所
 
 
 https://gendai.media/list/books/bluebacks/9784065382929
 世界一シンプルな進化論講義 | ブルーバックス | 講談社
 
+----------
+
+https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md#root
+https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7149615/ Encyclopedia of Evolutionary Biology. 2016 : 489–493. Published online 2016 Apr 21. doi: 10.1016/B978-0-12-800049-6.00215-8 PMCID: PMC7149615 Rooting Trees, Methods for T. Kinene, J. Wainaina, S. Maina, and L.M. Boykin
+
+Brady S.G., Litman J.R., Danforth B.N. Rooting phylogenies using gene duplications: An empirical example from the bees (Apoidea) Molecular Phylogenetics and Evolution. 2011;60(3):295–304. [PubMed] [Google Scholar]
+
+https://pubmed.ncbi.nlm.nih.gov/21600997/
+Comparative Study Mol Phylogenet Evol
+. 2011 Sep;60(3):295-304. doi: 10.1016/j.ympev.2011.05.002. Epub 2011 May 12.
+Rooting phylogenies using gene duplications: an empirical example from the bees (Apoidea)
+Seán G Brady 1, Jessica R Litman, Bryan N Danforth
+
 
 ----------
 
-https://www.nig.ac.jp/jimu/soken/courses/OSC/contents/Q&A_j.pdf
-Q＆Aを楽しもう！ その1：質問をしよう
-国立遺伝学研究所
+### evolve
+- 
+- https://github.com/haruosuz/evolve
+- https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md
+- https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md
+- https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md#outgroup
+- https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md#root
+- http://phylobotanist.blogspot.com/2015/01/how-to-root-phylogenetic-tree-outgroup.html How to root a phylogenetic tree: outgroup, midpoint and other methods
+- http://cabbagesofdoom.blogspot.com/2012/06/how-to-root-phylogenetic-tree.html How to root a phylogenetic tree Unrooted. Midpoint Rooting. Outgroup Rooting. Why does the root matter?
+Related post: How to read a phylogenetic tree.
+- http://cabbagesofdoom.blogspot.com/2013/04/how-to-read-phylogenetic-tree.html
+- 
+- https://nextstrain.org/help/general/how-to-read-a-tree How to interpret the phylogenetic trees
+- https://artic.network/how-to-read-a-tree.html How to read a phylogenetic tree Revision Date: 2018-07-30
+- https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/ How to read a phylogenetic tree | Dave Hone's Archosaur Musings basal taxa (at the bottom of the tree)
+
 
 https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md#basal
 
@@ -45,11 +213,19 @@ https://ja.wikipedia.org/wiki/共有原始形質 原始形質/祖先形質 plesi
 https://ja.wikipedia.org/wiki/固有派生形質 autapomorphy
 https://ja.wikipedia.org/wiki/共有派生形質 synapomorphy
 
-----------
 
-7:30 PM · Dec 6, 2024
-https://x.com/ScholarshipfPhd/status/1864980654607245638
-Scholarship for PhD on X: "Mastering Time Management: https://t.co/RwJVYS9UDo" / X
+- 
+- https://github.com/haruosuz/statistics
+- https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/index.html 統計の落とし穴と蜘蛛の糸 - Smart Lab Life - 羊土社
+- 
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md
+- 
+- 
+- https://github.com/haruosuz/weblog/blob/master/references/README.academic.md
+- https://github.com/haruosuz/weblog/blob/master/references/README.academic.md#2012-11-21
+2012-11-21 論理が伝わる　世界標準の「書く技術」
+- https://github.com/haruosuz/weblog/blob/master/references/README.academic.md#2001-01-01
+2001-01-01 どう書くか ―理科系のための論文作法―
 
 
 ----------
@@ -116,143 +292,6 @@ https://x.com/kakenhi_g_rant
 
 https://x.com/kakenhi_g_rant/status/1824914315796963504
 児島将康 on X: "科研費の新しい記載項目である(6)国際性だが、書いていない人がしばしばいる。変更を知らないのかと思っていたが、どうもそうではなく、「関係するものがないから」書いていないようだ。ここは評価項目なので、書かないと間違いなく、＊が付く。絶対に書いてください。 #科研費　#申請書　#添削" / X
-
-----------
-
-http://sfcbus.jp/
-慶応大学本館前
-
-カウントダウン
-http://sfcbus.jp/kh-weekday.html
-時刻表（平日）
-http://sfcbus.jp/kh-weekday-j.html
-
-- https://sfcclip.net/bus/
-- http://www.kanachu.co.jp/dia/diagram/timetable/cs:0000800447-1/nid:00129985/rt:0/k:慶応大学
-- https://www.sfc.keio.ac.jp/gsmg/about/faculty/
-- https://www.sfc.keio.ac.jp/deans_diary/
-
-https://helpfeel.com/SFCHelp/タクシー-635699d1fe226f002362c282
-SFCHelp - タクシー
-「デルタ館前」のように場所を指定してタクシーを呼ぶことができます
-相愛交通: 0120-87-2610
-
-- https://twitter.com/Keio_univ_PR
-- https://twitter.com/KeioSFC
-- https://twitter.com/keio_news
-
-https://www.keio.ac.jp/ja/gakumon150/
-ガクモンノススメ特設ページ：[慶應義塾]
-
-https://www.keio.ac.jp/ja/about/president/blog/2024/2/27/379-157072/
-塾長室だより　No. 21　大学と日本の危機－再考：[慶應義塾]
-
-----------
-
-### class
-- https://github.com/haruosuz/introBI/tree/main/2024-10
-- https://github.com/haruosuz/DS4GD/tree/master/2024-10
-- https://github.com/haruosuz/r4bioinfo/blob/master/references/RStudioCloud.md
-- https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan
-- https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/index.html
-- 
-
-https://github.com/haruosuz/microbe/blob/master/references/microbe.video.md
-
-https://www.youtube.com/watch?v=6564K4-_DBI&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc Microbiome Discovery 1: Intro to the Microbiome - YouTube
-
-2013/07/02
-https://www.youtube.com/watch?v=S-o-sdlzhkE
-R 1.2 - Calculations and Variables - YouTube
-
-- Andrew Rambaut - "How to read a phylogenetic tree", 2018-07-30 https://artic.network/how-to-read-a-tree.html
-- Dave Hone - "How to read a phylogenetic tree" https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/
-- 2015-01-05 [PhyloBotanist: How to root a phylogenetic tree: outgroup, midpoint and other methods](http://phylobotanist.blogspot.com/2015/01/how-to-root-phylogenetic-tree-outgroup.html)
-- 2012-06-07 [The Cabbages of Doom: How to root a phylogenetic tree](http://cabbagesofdoom.blogspot.com/2012/06/how-to-root-phylogenetic-tree.html)
-
-----------
-
-https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md#root
-https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7149615/ Encyclopedia of Evolutionary Biology. 2016 : 489–493. Published online 2016 Apr 21. doi: 10.1016/B978-0-12-800049-6.00215-8 PMCID: PMC7149615 Rooting Trees, Methods for T. Kinene, J. Wainaina, S. Maina, and L.M. Boykin
-
-Brady S.G., Litman J.R., Danforth B.N. Rooting phylogenies using gene duplications: An empirical example from the bees (Apoidea) Molecular Phylogenetics and Evolution. 2011;60(3):295–304. [PubMed] [Google Scholar]
-
-https://pubmed.ncbi.nlm.nih.gov/21600997/
-Comparative Study Mol Phylogenet Evol
-. 2011 Sep;60(3):295-304. doi: 10.1016/j.ympev.2011.05.002. Epub 2011 May 12.
-Rooting phylogenies using gene duplications: an empirical example from the bees (Apoidea)
-Seán G Brady 1, Jessica R Litman, Bryan N Danforth
-
-----------
-2022-10-19
-
-http://www.baifukan.co.jp/cgi-bin/db/baifu_new_search.pl?ISBN=4-563-07832-8
-書籍名	Web連携テキスト　バイオインフォマティクス 　 基礎から応用
-
-https://www.iu.a.u-tokyo.ac.jp/textbook/
-
-https://www.iu.a.u-tokyo.ac.jp/textbook/chapter3.html
-第3章 生物配列解析
-
-https://www.iu.a.u-tokyo.ac.jp/textbook/chapter3/W3.2.pdf
-W3.2
-PAMの求め方に関する補足資料です。
-
-https://www.iu.a.u-tokyo.ac.jp/textbook/chapter3/W3.3.pdf
-W3.3
-BLOSUMの求め方に関する補足資料です。
-
-https://www.iu.a.u-tokyo.ac.jp/textbook/chapter6.html
-第6章 生物配列統計学
-
-
-
-
-
-----------
-
-6:05 PM · Aug 1, 2024
-https://x.com/seitaemori/status/1818936025068036275
-Seita Emori（気候変動の解説のおじさん 江守正多） on X: "#何もしないともっと暑くなる 国連による気候変動を解決するための #10の行動 や、わかってる。ちょっと待って。 いろいろ言いたいことある人いると思う。 僕もあります。 各項目について、僕個人の受け止めを書いていこうと思います。異論は受け付けます。 #1.5℃の約束 https://t.co/ptso0dcG4u https://t.co/9UVXizIbib" / X
-
-----------
-
-1:17 AM · Oct 15, 2022
-https://twitter.com/jlsteenwyk/status/1580956067755720710
-🧬Jacob L Steenwyk on Twitter: "NEW Publication🥳 Molecular #evolution studies often rely on single-copy orthologs (SC-OGs), resulting in large gene families—like transporters—being ignored. We present OrthoSNAP, software for identifying subsets of SC-OGs within larger gene families. 🔗https://t.co/2rWsRLsamn https://t.co/0d0SpvcRmw" / Twitter
-
-
-----------
-
-
-4:25 PM · Apr 24, 2024
-https://twitter.com/KawataMasakado/status/1783034509971329326
-Masakado Kawata on X: "抜粋紹介されているのは「集団選択」が働いた例です。 血縁選択も、集団選択の一様式であると見なすこともできます。詳しくは『ダーウィンの進化論はどこまで正しいのか』の第3章参照　 https://t.co/B1zNiEkD4y「自分を犠牲にする行動」は進化できるのか」 @gendai_biz https://t.co/qJUV3BUkmZ" / X
-https://gendai.media/articles/-/127170
-「自分を犠牲にする行動」は進化できるのか…個体にとって不利なのに進化する「不思議な仕組み」（河田 雅圭） | 現代ビジネス | 講談社（1/3）
-
-4:00 PM · Apr 17, 2024
-https://twitter.com/KawataMasakado/status/1780491468194685048
-Masakado Kawata on X: "進化について誤解されやすいトピックスを題材に、進化学の基礎を分かりやすく解説しました。リンクから「はじめに」全文が読めます。是非、ご一読ください。 『ダーウィンの進化論はどこまで正しいのか?』｜河田雅圭｜光文社新書 @kobunsha_shin #光文社新書 #私の仕事 https://t.co/bFQKUl0QuX" / X
-https://shinsho.kobunsha.com/n/na78453f8e457?sub_rt=share_pw
-心配性なのは進化のせいでもある!? 身近にあふれる「進化」の話｜河田雅圭｜光文社新書
-
-https://twitter.com/KawataMasakado
-Masakado Kawata (@KawataMasakado) / X
-
-https://note.com/masakadokawata/
-河田 雅圭｜note
-
-https://note.com/masakadokawata/n/nb015a606e935
-新型コロナウイルスの進化と感染症の傾向｜河田 雅圭
-
-https://note.com/masakadokawata/n/n2dfc4217831e
-進化における「適応」という言葉をめぐって｜河田 雅圭｜note
-2022年10月8日 19:53
-
-https://note.com/masakadokawata/n/n41079da12807
-「種の保存のための進化」はどこが誤りなのか｜河田 雅圭｜note
-2022年3月20日 16:00
 
 
 ----------
@@ -880,47 +919,6 @@ https://www.ncbi.nlm.nih.gov/labs/pmc/articles/PMC7784347/
 https://www.pnas.org/content/118/35/e2104685118
 Classifying mobile genetic elements and their interactions from sequence data: The importance of existing biological knowledge
 
-
-----------
-
-
-### evolve
-- 
-- https://github.com/haruosuz/evolve
-- https://github.com/haruosuz/evolve/blob/master/references/README.evolve.tools.md
-- https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md
-- https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md#outgroup
-- https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md#root
-- http://phylobotanist.blogspot.com/2015/01/how-to-root-phylogenetic-tree-outgroup.html How to root a phylogenetic tree: outgroup, midpoint and other methods
-- http://cabbagesofdoom.blogspot.com/2012/06/how-to-root-phylogenetic-tree.html How to root a phylogenetic tree Unrooted. Midpoint Rooting. Outgroup Rooting. Why does the root matter?
-Related post: How to read a phylogenetic tree.
-- http://cabbagesofdoom.blogspot.com/2013/04/how-to-read-phylogenetic-tree.html
-- 
-- https://nextstrain.org/help/general/how-to-read-a-tree How to interpret the phylogenetic trees
-- https://artic.network/how-to-read-a-tree.html How to read a phylogenetic tree Revision Date: 2018-07-30
-- https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/ How to read a phylogenetic tree | Dave Hone's Archosaur Musings basal taxa (at the bottom of the tree)
-
-- 
-- https://github.com/haruosuz/statistics
-- https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/index.html 統計の落とし穴と蜘蛛の糸 - Smart Lab Life - 羊土社
-- 
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md
-- 
-- 
-- https://github.com/haruosuz/weblog/blob/master/references/README.academic.md
-- https://github.com/haruosuz/weblog/blob/master/references/README.academic.md#2012-11-21
-2012-11-21 論理が伝わる　世界標準の「書く技術」
-- https://github.com/haruosuz/weblog/blob/master/references/README.academic.md#2001-01-01
-2001-01-01 どう書くか ―理科系のための論文作法―
-
-
-
-----------
-## updates
-
-
-----------
-## unclassified
 
 ----------
 
