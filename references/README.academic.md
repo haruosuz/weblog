@@ -8,6 +8,7 @@
 - [](#)
 - [2019-02-28](#2019-02-28) 国際誌にアクセプトされる医学論文　第2版
 - [2018-07-30](#2018-07-30) なぜ科学はストーリーを必要としているのか
+- [ABT](#abt)
 - [2018-07-12](#2018-07-12) これから学会発表する若者のために 第2版 ―ポスターと口頭のプレゼン技術―
 - [2017-08-01](#2017-08-01) なぜあなたの発表は伝わらないのか？
 - [2016-07-07](#2016-07-07) なぜあなたは論文が書けないのか？
@@ -26,33 +27,6 @@
 - [presentation](#presentation)
   - [Presentation Zen](#presentation)
 - [](#)
-- [ABT](#abt)
-
-----------
-## ABT
-[2018-07-30](#2018-07-30)
-
-http://abtframework.com/
-The ABT Framework
-
-This is our tool, the ABT Narrative Template:
-
-_____ AND _____ BUT _____ THEREFORE _____
-
-2021/09/04
-https://www.youtube.com/watch?v=gU_5uinhmmU
-ABT - The And, But, Therefore Structure: Storytelling in Science Writing
-
-
-2020/12/19
-https://www.youtube.com/watch?v=ijC2g6FBdXI
-41:30
-Episode 015 Randy Olson: And, But, Therefore
-
-2013/06/25
-https://www.youtube.com/watch?v=ERB7ITvabA4
-9:36
-Randy Olson Great Challenges Day at TEDMED 2013
 
 ----------
 ## negative
@@ -197,7 +171,6 @@ ISBN	978-4-8157-0152-9
 ----------
 ## 2018
 
-
 ----------
 ## 2018-07-30
 
@@ -215,6 +188,32 @@ https://twitter.com/KEIOUP/status/1306456124292431872
 
 https://www.dokushok.com/entry/2018/10/27/080000
 ABTの三文字が伝え方を劇的に変えるー読書感想「なぜ科学はストーリーを必要としているのか」（ランディ・オルソン） - 読書熊録
+
+----------
+## ABT
+[2018-07-30](#2018-07-30)
+
+http://abtframework.com/
+The ABT Framework
+
+This is our tool, the ABT Narrative Template:
+
+_____ AND _____ BUT _____ THEREFORE _____
+
+2021/09/04
+https://www.youtube.com/watch?v=gU_5uinhmmU
+ABT - The And, But, Therefore Structure: Storytelling in Science Writing
+
+
+2020/12/19
+https://www.youtube.com/watch?v=ijC2g6FBdXI
+41:30
+Episode 015 Randy Olson: And, But, Therefore
+
+2013/06/25
+https://www.youtube.com/watch?v=ERB7ITvabA4
+9:36
+Randy Olson Great Challenges Day at TEDMED 2013
 
 ----------
 ## 2018-07-12
