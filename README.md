@@ -14,6 +14,19 @@
 ----------
 ## unclassified
 
+
+January 23, 2023
+https://www.tkfd.or.jp/research/detail.php?id=4161
+東京オリンピックの感染への影響の推定：Synthetic control method | 研究プログラム | 東京財団
+
+2021/7/24(土) 17:02
+https://news.yahoo.co.jp/expert/articles/cd82da97b90d8b64cdaace2ffb12b4b28e098ed0
+オリパラ、大阪万博、スポーツイベントなど、人が多く集まる「マスギャザリング」で問題になる感染症は？
+忽那賢志
+感染症専門医
+
+
+
 ----------
 
 http://sfcbus.jp/
