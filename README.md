@@ -25,38 +25,18 @@ https://news.yahoo.co.jp/expert/articles/cd82da97b90d8b64cdaace2ffb12b4b28e098ed
 感染症専門医
 
 ----------
-
-http://sfcbus.jp/
-慶応大学本館前
-
-カウントダウン
-http://sfcbus.jp/kh-weekday.html
-時刻表（平日）
-http://sfcbus.jp/kh-weekday-j.html
-
-- https://sfcclip.net/bus/
-- http://www.kanachu.co.jp/dia/diagram/timetable/cs:0000800447-1/nid:00129985/rt:0/k:慶応大学
-- https://www.sfc.keio.ac.jp/deans_diary/
-- 
-
-https://www.sfc.keio.ac.jp/gsmg/about/faculty/
-https://www.sfc.keio.ac.jp/faculty_profile/en/list/gsmg-member/
-https://www.sfc.keio.ac.jp/faculty_profile/list/gsmg-member/
-政策・メディア研究科委員一覧 | 慶應義塾大学湘南藤沢キャンパス（SFC） 教員プロフィール
-
-https://www.sfc.keio.ac.jp/faculty_profile/en/list/
-https://www.sfc.keio.ac.jp/faculty_profile/list/
-教員プロフィール一覧 | 慶應義塾大学湘南藤沢キャンパス（SFC） 教員プロフィール
-
-
-https://helpfeel.com/SFCHelp/タクシー-635699d1fe226f002362c282
-SFCHelp - タクシー
-「デルタ館前」のように場所を指定してタクシーを呼ぶことができます
-相愛交通: 0120-87-2610
+# Keio
 
 - https://twitter.com/Keio_univ_PR
-- https://twitter.com/KeioSFC
 - https://twitter.com/keio_news
+- https://twitter.com/KeioSFC
+
+https://www.sfc.keio.ac.jp/gsmg/about/faculty/
+慶應義塾大学湘南藤沢キャンパス（SFC） 教員プロフィール
+https://www.sfc.keio.ac.jp/faculty_profile/en/
+
+https://www.sfc.keio.ac.jp/deans_diary/
+おかしら日記 | 慶應義塾大学 湘南藤沢キャンパス（SFC）
 
 https://www.keio.ac.jp/ja/gakumon150/
 ガクモンノススメ特設ページ：[慶應義塾]
@@ -64,17 +44,21 @@ https://www.keio.ac.jp/ja/gakumon150/
 https://www.keio.ac.jp/ja/about/president/blog/2024/2/27/379-157072/
 塾長室だより　No. 21　大学と日本の危機－再考：[慶應義塾]
 
-----------
+https://sfcclip.net/bus/
+バス時刻表 | SFC CLIP
 
+http://www.kanachu.co.jp/dia/diagram/timetable/cs:0000800447-1/nid:00129985/rt:0/k:慶応大学
+「慶応大学」バス停の時刻表 | 神奈川中央交通
+
+https://helpfeel.com/SFCHelp/タクシー-635699d1fe226f002362c282
+SFCHelp - タクシー
+「デルタ館前」のように場所を指定してタクシーを呼ぶことができます
+相愛交通: 0120-87-2610
+
+----------
 ### class
 - https://github.com/haruosuz/introBI/tree/main/2025-04
 - https://github.com/haruosuz/DS4GD/tree/master/2025-04
-- https://github.com/haruosuz/r4bioinfo/blob/master/references/RStudioCloud.md
-- https://github.com/haruosuz/r4bioinfo/tree/master/R_Avril_Coghlan
-- https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/index.html
-- 
-
-https://github.com/haruosuz/microbe/blob/master/references/microbe.video.md
 
 https://www.youtube.com/watch?v=6564K4-_DBI&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc Microbiome Discovery 1: Intro to the Microbiome - YouTube
 
@@ -82,7 +66,6 @@ https://www.youtube.com/watch?v=6564K4-_DBI&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9
 https://www.youtube.com/watch?v=S-o-sdlzhkE
 R 1.2 - Calculations and Variables - YouTube
 
-- Andrew Rambaut - "How to read a phylogenetic tree", 2018-07-30 https://artic.network/how-to-read-a-tree.html
 - Dave Hone - "How to read a phylogenetic tree" https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/
 - 2015-01-05 [PhyloBotanist: How to root a phylogenetic tree: outgroup, midpoint and other methods](http://phylobotanist.blogspot.com/2015/01/how-to-root-phylogenetic-tree-outgroup.html)
 - 2012-06-07 [The Cabbages of Doom: How to root a phylogenetic tree](http://cabbagesofdoom.blogspot.com/2012/06/how-to-root-phylogenetic-tree.html)
@@ -152,6 +135,58 @@ Prof. Akiko Iwasaki
 As we approach the cold winter months in the Northern Hemisphere, I want to share these movies of mucociliary clearance (MCC) in the trachea of mice housed at 10% vs. 50% relative humidity (RH). Captured by 
 @ericsongg
   (1/n)
+
+
+
+----------
+### microbe
+
+- https://github.com/haruosuz/microbe
+- https://github.com/haruosuz/microbe/blob/master/README.md
+- https://github.com/haruosuz/microbe/blob/master/references/mbioinfo.2021.md
+- https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.urban.md
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.video.md
+
+
+----------
+
+- https://github.com/haruosuz/evolve
+- https://github.com/haruosuz/evolve/blob/master/references/evolve.memo.md
+- https://github.com/haruosuz/evolve/tree/master/tools/hyphy
+
+http://www.opiniomics.org/on-stuck-records-and-indel-errors-or-stop-publishing-bad-genomes/
+
+
+----------
+
+- https://github.com/haruosuz/bioinfo
+- https://github.com/haruosuz/bioinfo/blob/master/references/README.reproducibility.md
+- https://github.com/haruosuz/bioinfo/blob/master/references/README.bioinfo.tools.md
+- 
+- https://github.com/haruosuz/codon
+
+https://github.com/haruosuz/bioinfo/blob/master/2022/CaseStudy.md#2022-12-28
+VITCOMIC2
+「LEA」
+http://133.39.177.105/lea/help_ja.html
+
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010675
+Ten simple rules for investigating (meta)genomic data from environmental ecosystems | PLOS Computational Biology
+
+----------
+
+https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#get_homologues
+
+### plasmid
+
+- https://github.com/haruosuz/plasmids
+- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_resistance.md
+- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_metagenome.md
+- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_IncP1.md
+
+----------
 
 
 ----------
@@ -270,9 +305,6 @@ https://ja.wikipedia.org/wiki/共有派生形質 synapomorphy
 - 
 - https://github.com/haruosuz/statistics
 - https://www.yodosha.co.jp/smart-lab-life/statics_pitfalls/index.html 統計の落とし穴と蜘蛛の糸 - Smart Lab Life - 羊土社
-- 
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md
-- 
 - 
 - https://github.com/haruosuz/weblog/blob/master/references/README.academic.md
 - https://github.com/haruosuz/weblog/blob/master/references/README.academic.md#2012-11-21
@@ -647,55 +679,6 @@ Jacob L Steenwyk 1 2 3, Charu Balamurugan 2 3, Huzefa A Raja 4, Carla Gonçalves
 1:53 AM · Jun 28, 2023
 https://twitter.com/jlsteenwyk/status/1673736267081867265
 🧬Jacob L Steenwyk on Twitter: "Why haven't we resolved the Tree of Life? In a NEW publication out in @NatureRevGenet, we discuss #biological and analytical factors contributing to #incongruence in the #phylogenomic era and synthesize current best practices for addressing them. 🔗: https://t.co/6wUJB0TZ3Q https://t.co/BcAAuVULux" / Twitter
-
-----------
-### microbe
-
-- https://github.com/haruosuz/microbe
-- https://github.com/haruosuz/microbe/blob/master/README.md
-- https://github.com/haruosuz/microbe/blob/master/references/mbioinfo.2021.md
-- https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.urban.md
-
-
-----------
-
-- https://github.com/haruosuz/evolve
-- https://github.com/haruosuz/evolve/blob/master/references/evolve.memo.md
-- https://github.com/haruosuz/evolve/tree/master/tools/hyphy
-
-http://www.opiniomics.org/on-stuck-records-and-indel-errors-or-stop-publishing-bad-genomes/
-
-
-----------
-
-- https://github.com/haruosuz/bioinfo
-- https://github.com/haruosuz/bioinfo/blob/master/references/README.reproducibility.md
-- https://github.com/haruosuz/bioinfo/blob/master/references/README.bioinfo.tools.md
-- 
-- https://github.com/haruosuz/codon
-
-https://github.com/haruosuz/bioinfo/blob/master/2022/CaseStudy.md#2022-12-28
-VITCOMIC2
-「LEA」
-http://133.39.177.105/lea/help_ja.html
-
-https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010675
-Ten simple rules for investigating (meta)genomic data from environmental ecosystems | PLOS Computational Biology
-
-----------
-
-https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#get_homologues
-
-### plasmid
-
-- https://github.com/haruosuz/plasmids
-- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_resistance.md
-- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_metagenome.md
-- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_IncP1.md
-
-----------
-
 
 ----------
 
