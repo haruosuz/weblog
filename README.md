@@ -34,6 +34,10 @@ https://x.com/tangming2005/status/1914314433352077695
 Ming "Tommy" Tang on X: "1/17 Confused by plus/minus strands, coding/template, or forward/reverse in DNA data? You're not alone. Here's how to never mix them up 🧵 https://t.co/Da20cGXHJc" / X
 
 
+2019年12月25日
+https://qiita.com/khigashi02/items/48a216839b13af6c0826
+マイクロバイオームとメタボロームの「相関」を検出する確率モデルmmvec #Python - Qiita
+
 https://note.com/masakadokawata/n/n2dfc4217831e 進化における「適応」という言葉をめぐって｜河田 雅圭｜note 2022年10月8日 19:53
 https://github.com/haruosuz/evolve/blob/master/README.md#kawatamasakado
 
