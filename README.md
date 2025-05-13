@@ -14,8 +14,9 @@
 ----------
 ## unclassified
 
-https://note.com/masakadokawata/n/n2dfc4217831e 進化における「適応」という言葉をめぐって｜河田 雅圭｜note 2022年10月8日 19:53
-https://github.com/haruosuz/evolve/blob/master/README.md#kawatamasakado
+2024/10/30
+https://database.medica.co.jp/floor/article.php?article_id=528
+【連載】速報TOPiC「マスギャザリングイベントにおける感染対策 ―2025年大阪・関西万博に向けて―」｜感染症・感染管理/インフェクションコントロール
 
 January 23, 2023
 https://www.tkfd.or.jp/research/detail.php?id=4161
@@ -26,6 +27,16 @@ https://news.yahoo.co.jp/expert/articles/cd82da97b90d8b64cdaace2ffb12b4b28e098ed
 オリパラ、大阪万博、スポーツイベントなど、人が多く集まる「マスギャザリング」で問題になる感染症は？
 忽那賢志
 感染症専門医
+
+
+10:45 PM · Apr 21, 2025
+https://x.com/tangming2005/status/1914314433352077695
+Ming "Tommy" Tang on X: "1/17 Confused by plus/minus strands, coding/template, or forward/reverse in DNA data? You're not alone. Here's how to never mix them up 🧵 https://t.co/Da20cGXHJc" / X
+
+
+https://note.com/masakadokawata/n/n2dfc4217831e 進化における「適応」という言葉をめぐって｜河田 雅圭｜note 2022年10月8日 19:53
+https://github.com/haruosuz/evolve/blob/master/README.md#kawatamasakado
+
 
 ----------
 # Keio
