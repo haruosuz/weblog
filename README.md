@@ -41,6 +41,22 @@ https://qiita.com/khigashi02/items/48a216839b13af6c0826
 https://note.com/masakadokawata/n/n2dfc4217831e 進化における「適応」という言葉をめぐって｜河田 雅圭｜note 2022年10月8日 19:53
 https://github.com/haruosuz/evolve/blob/master/README.md#kawatamasakado
 
+----------
+
+2024年11月28日
+https://www.neb.com/ja-jp/nebinspired-blog/interview-nebnext-shiwa
+2024 JP interview NEBNext Shiwa | NEB
+巨生物に埋もれたウイルスを見つけ出す！
+
+https://www.ir-mail.com/grant2024_neb.html
+ＩＲＭＡＩＬサイエンスグラント｜ＩＲＭＡＩＬ
+NEB賞　受賞者インタビュー
+東京農業大学　生命科学部　分子微生物学科
+准教授　志波優　先生
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10326927/
+Evaluation of rRNA depletion methods for capturing the RNA virome from environmental surfaces
+
 
 ----------
 # Keio
