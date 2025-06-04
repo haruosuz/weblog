@@ -14,6 +14,20 @@
 ----------
 ## unclassified
 
+
+
+----------
+
+
+
+
+2025.05.27
+https://encount.press/archives/802531/
+万博ユスリカ大量発生は「起こるべくして起こった」　夢洲で失われた貴重な生態系「万博推進が最優先」 | ENCOUNT
+
+
+
+
 2024/10/30
 https://database.medica.co.jp/floor/article.php?article_id=528
 【連載】速報TOPiC「マスギャザリングイベントにおける感染対策 ―2025年大阪・関西万博に向けて―」｜感染症・感染管理/インフェクションコントロール
