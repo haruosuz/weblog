@@ -12,6 +12,59 @@
 ## updates
 
 ----------
+### microbe
+
+- https://github.com/haruosuz/microbe
+- https://github.com/haruosuz/microbe/blob/master/README.md
+- https://github.com/haruosuz/microbe/blob/master/references/mbioinfo.2021.md
+- https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.video.md
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.urban.md
+
+
+----------
+
+- https://github.com/haruosuz/evolve
+- https://github.com/haruosuz/evolve/blob/master/references/evolve.memo.md
+- https://github.com/haruosuz/evolve/tree/master/tools/hyphy
+
+http://www.opiniomics.org/on-stuck-records-and-indel-errors-or-stop-publishing-bad-genomes/
+
+
+----------
+
+- https://github.com/haruosuz/bioinfo
+- https://github.com/haruosuz/bioinfo/blob/master/references/README.reproducibility.md
+- https://github.com/haruosuz/bioinfo/blob/master/references/README.bioinfo.tools.md
+- 
+- https://github.com/haruosuz/codon
+
+https://github.com/haruosuz/bioinfo/blob/master/2022/CaseStudy.md#2022-12-28
+VITCOMIC2
+「LEA」
+http://133.39.177.105/lea/help_ja.html
+
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010675
+Ten simple rules for investigating (meta)genomic data from environmental ecosystems | PLOS Computational Biology
+
+----------
+
+https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#get_homologues
+
+### plasmid
+
+- https://github.com/haruosuz/plasmids
+- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_resistance.md
+- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_metagenome.md
+- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_IncP1.md
+
+----------
+
+
+
+
+----------
 ## unclassified
 
 
@@ -203,58 +256,6 @@ Prof. Akiko Iwasaki
 As we approach the cold winter months in the Northern Hemisphere, I want to share these movies of mucociliary clearance (MCC) in the trachea of mice housed at 10% vs. 50% relative humidity (RH). Captured by 
 @ericsongg
   (1/n)
-
-
-
-----------
-### microbe
-
-- https://github.com/haruosuz/microbe
-- https://github.com/haruosuz/microbe/blob/master/README.md
-- https://github.com/haruosuz/microbe/blob/master/references/mbioinfo.2021.md
-- https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.urban.md
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.video.md
-
-
-----------
-
-- https://github.com/haruosuz/evolve
-- https://github.com/haruosuz/evolve/blob/master/references/evolve.memo.md
-- https://github.com/haruosuz/evolve/tree/master/tools/hyphy
-
-http://www.opiniomics.org/on-stuck-records-and-indel-errors-or-stop-publishing-bad-genomes/
-
-
-----------
-
-- https://github.com/haruosuz/bioinfo
-- https://github.com/haruosuz/bioinfo/blob/master/references/README.reproducibility.md
-- https://github.com/haruosuz/bioinfo/blob/master/references/README.bioinfo.tools.md
-- 
-- https://github.com/haruosuz/codon
-
-https://github.com/haruosuz/bioinfo/blob/master/2022/CaseStudy.md#2022-12-28
-VITCOMIC2
-「LEA」
-http://133.39.177.105/lea/help_ja.html
-
-https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010675
-Ten simple rules for investigating (meta)genomic data from environmental ecosystems | PLOS Computational Biology
-
-----------
-
-https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#get_homologues
-
-### plasmid
-
-- https://github.com/haruosuz/plasmids
-- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_resistance.md
-- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_metagenome.md
-- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_IncP1.md
-
-----------
 
 
 ----------
