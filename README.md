@@ -9,6 +9,166 @@
 - 
 
 ----------
+2025-08-16
+
+https://pubmed.ncbi.nlm.nih.gov/40825471/
+Plasmid
+. 2025 Aug 16:102756. doi: 10.1016/j.plasmid.2025.102756. Online ahead of print.
+Insights from public database sequences related to the replication initiation protein TrfA of the IncP-1 plasmid RK2
+Haruo Suzuki 1, Kazuki Moriguchi 2, Masaki Shintani 3, Masato Suzuki 4, Hideaki Nojiri 5
+https://www.sciencedirect.com/science/article/pii/S0147619X25000149?via%3Dihub
+
+----------
+
+https://www.nig.ac.jp/nig/research/nig-meetings?
+
+Date	Title	Representative	Venue(Language)
+2025/08/25 12:00-19:00
+2025/08/26 09:00-13:00	第3回プラスミド研究会 「プラスミドの網羅的データベース構築に向けて」	新谷政己	D201
+Japanese
+
+https://www.nig.ac.jp/nig/research/nig-meetings?list=old
+
+2024/12/24 13:00-19:00
+2024/12/25 10:00-13:30	第2回プラスミド研究会「プラスミドの網羅的データベース構築に向けて」	新谷 政己（静岡大学）	D201
+Japanese
+
+2023/09/14 13:00-18:00
+2023/09/15 09:00-13:00	プラスミドの網羅的データベースの再整備に向けて	新谷政己 (静岡大学)	D201
+Japanese
+
+----------
+
+多元論、一元論
+
+https://github.com/haruosuz/mgsa/blob/master/references/mgsa.taxonomy.md
+
+https://ja.wikipedia.org/wiki/種_(分類学)
+種の定義・概念は、現在、22以上あり、研究が進むほどに増加している[1]。
+
+2016-12-22 https://shorebird.hatenablog.com/entries/2016/12/22 書評　「生物学の哲学入門」 - shorebird　進化心理学中心の書評など
+
+種の多元論（複数の種概念を使い分けようという立場），伝統的本質主義と種カテゴリー恒常的性質クラスター
+
+http://leeswijzer.org/R/R-cluster.html
+クラスター分析の光と闇
+――なぜヒトは分類に憑かれるのか？――
+三中信宏
+
+
+----------
+# Keio
+
+- https://twitter.com/Keio_univ_PR
+- https://twitter.com/keio_news
+- https://twitter.com/KeioSFC
+
+https://www.sfc.keio.ac.jp/gsmg/about/faculty/
+慶應義塾大学湘南藤沢キャンパス（SFC） 教員プロフィール
+https://www.sfc.keio.ac.jp/faculty_profile/en/
+
+https://www.sfc.keio.ac.jp/deans_diary/
+おかしら日記 | 慶應義塾大学 湘南藤沢キャンパス（SFC）
+
+https://www.keio.ac.jp/ja/gakumon150/
+ガクモンノススメ特設ページ：[慶應義塾]
+
+https://www.keio.ac.jp/ja/about/president/blog/2024/2/27/379-157072/
+塾長室だより　No. 21　大学と日本の危機－再考：[慶應義塾]
+
+https://sfcclip.net/bus/
+バス時刻表 | SFC CLIP
+
+http://www.kanachu.co.jp/dia/diagram/timetable/cs:0000800447-1/nid:00129985/rt:0/k:慶応大学
+「慶応大学」バス停の時刻表 | 神奈川中央交通
+
+https://helpfeel.com/SFCHelp/タクシー-635699d1fe226f002362c282
+SFCHelp - タクシー
+「デルタ館前」のように場所を指定してタクシーを呼ぶことができます
+相愛交通: 0120-87-2610
+
+----------
+
+https://www.students.keio.ac.jp/com/class/registration/chatgpt.html
+ChatGPT等生成AIの利用について：慶應義塾大学塾生サイト
+
+https://www.itc.keio.ac.jp/ja/software_ai_guideline.html
+慶應義塾における生成AIの利用ガイドライン | 慶應義塾ITC
+
+----------
+### class
+- https://github.com/haruosuz/introBI/tree/main/2025-04
+- https://github.com/haruosuz/DS4GD/tree/master/2025-04
+
+https://www.youtube.com/watch?v=6564K4-_DBI&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc Microbiome Discovery 1: Intro to the Microbiome - YouTube
+
+2013/07/02
+https://www.youtube.com/watch?v=S-o-sdlzhkE
+R 1.2 - Calculations and Variables - YouTube
+
+- Dave Hone - "How to read a phylogenetic tree" https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/
+- 2015-01-05 [PhyloBotanist: How to root a phylogenetic tree: outgroup, midpoint and other methods](http://phylobotanist.blogspot.com/2015/01/how-to-root-phylogenetic-tree-outgroup.html)
+- 2012-06-07 [The Cabbages of Doom: How to root a phylogenetic tree](http://cabbagesofdoom.blogspot.com/2012/06/how-to-root-phylogenetic-tree.html)
+
+----------
+2022-10-19
+
+http://www.baifukan.co.jp/cgi-bin/db/baifu_new_search.pl?ISBN=4-563-07832-8
+書籍名	Web連携テキスト　バイオインフォマティクス 　 基礎から応用
+
+Web資料
+https://www.iu.a.u-tokyo.ac.jp/textbook/
+
+https://www.iu.a.u-tokyo.ac.jp/textbook/chapter3.html
+第3章 生物配列解析
+
+https://www.iu.a.u-tokyo.ac.jp/textbook/chapter6.html
+第6章 生物配列統計学
+https://www.iu.a.u-tokyo.ac.jp/textbook/chapter6.html#65_分岐年代推定
+
+----------
+
+https://www.kodansha.co.jp/book/products/0000404469
+
+5:48 PM · Jul 1, 2025
+https://x.com/VirtualSoil/status/1939969307951108607
+藤井一至 (土の研究者) on X: "死因として癌は戦後に増えたっていうのは事実ですが、結核などそれ以外の理由で死ななくなった、寿命が伸びたということ。細胞の最後の病である癌が死因になるのは先進国の証でもあります。 https://t.co/naiXhRd13F" / X
+https://x.com/VirtualSoil/status/1940177465064006102
+藤井一至 (土の研究者) on X: "図は『土と生命の46億年史』3章にあります。こういう話が面白くないという方にはおすすめできません。 https://t.co/7MlqZXhAh5" / X
+
+6:06 AM · Feb 14, 2025
+https://x.com/bluebacks_pub/status/1890145660332306864
+講談社ブルーバックス on X: "なんと「日本の土」から「世界を救う発見」が…「ノーベル賞」も受賞した「日本」の「微生物」の底力！ https://t.co/77SNRVXGxq #ブルーバックス" / X
+https://gendai.media/articles/-/146098
+なんと「日本の土」から「世界を救う発見」が…「ノーベル賞」も受賞した「日本」の「微生物」の底力！（藤井 一至） | ブルーバックス | 講談社
+
+
+----------
+
+https://kazumaxneo.hatenablog.com/entry/2018/05/11/180244
+MinHashを使い高速にゲノムを比較する MASH - macでインフォマティクス
+
+https://pubmed.ncbi.nlm.nih.gov/27323842/
+Genome Biol
+. 2016 Jun 20;17(1):132. doi: 10.1186/s13059-016-0997-x.
+Mash: fast genome and metagenome distance estimation using MinHash
+Brian D Ondov 1, Todd J Treangen 1, Páll Melsted 2, Adam B Mallonee 1, Nicholas H Bergman 1, Sergey Koren 3, Adam M Phillippy 4
+https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0997-x
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4915045/
+
+https://kazumaxneo.hatenablog.com/entry/2018/09/14/141442
+MinHashを使った高速なANI計算ツール fastANI - macでインフォマティクス
+
+https://pubmed.ncbi.nlm.nih.gov/30504855/
+Nat Commun
+. 2018 Nov 30;9(1):5114. doi: 10.1038/s41467-018-07641-9.
+High throughput ANI analysis of 90K prokaryotic genomes reveals clear species boundaries
+Chirag Jain 1 2, Luis M Rodriguez-R 3 4, Adam M Phillippy 2, Konstantinos T Konstantinidis 5 6, Srinivas Aluru 7 8
+https://www.nature.com/articles/s41467-018-07641-9
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6269478/
+
+
+----------
 ## updates
 
 ----------
@@ -141,69 +301,6 @@ NEB賞　受賞者インタビュー
 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC10326927/
 Evaluation of rRNA depletion methods for capturing the RNA virome from environmental surfaces
-
-
-----------
-# Keio
-
-- https://twitter.com/Keio_univ_PR
-- https://twitter.com/keio_news
-- https://twitter.com/KeioSFC
-
-https://www.sfc.keio.ac.jp/gsmg/about/faculty/
-慶應義塾大学湘南藤沢キャンパス（SFC） 教員プロフィール
-https://www.sfc.keio.ac.jp/faculty_profile/en/
-
-https://www.sfc.keio.ac.jp/deans_diary/
-おかしら日記 | 慶應義塾大学 湘南藤沢キャンパス（SFC）
-
-https://www.keio.ac.jp/ja/gakumon150/
-ガクモンノススメ特設ページ：[慶應義塾]
-
-https://www.keio.ac.jp/ja/about/president/blog/2024/2/27/379-157072/
-塾長室だより　No. 21　大学と日本の危機－再考：[慶應義塾]
-
-https://sfcclip.net/bus/
-バス時刻表 | SFC CLIP
-
-http://www.kanachu.co.jp/dia/diagram/timetable/cs:0000800447-1/nid:00129985/rt:0/k:慶応大学
-「慶応大学」バス停の時刻表 | 神奈川中央交通
-
-https://helpfeel.com/SFCHelp/タクシー-635699d1fe226f002362c282
-SFCHelp - タクシー
-「デルタ館前」のように場所を指定してタクシーを呼ぶことができます
-相愛交通: 0120-87-2610
-
-----------
-### class
-- https://github.com/haruosuz/introBI/tree/main/2025-04
-- https://github.com/haruosuz/DS4GD/tree/master/2025-04
-
-https://www.youtube.com/watch?v=6564K4-_DBI&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc Microbiome Discovery 1: Intro to the Microbiome - YouTube
-
-2013/07/02
-https://www.youtube.com/watch?v=S-o-sdlzhkE
-R 1.2 - Calculations and Variables - YouTube
-
-- Dave Hone - "How to read a phylogenetic tree" https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/
-- 2015-01-05 [PhyloBotanist: How to root a phylogenetic tree: outgroup, midpoint and other methods](http://phylobotanist.blogspot.com/2015/01/how-to-root-phylogenetic-tree-outgroup.html)
-- 2012-06-07 [The Cabbages of Doom: How to root a phylogenetic tree](http://cabbagesofdoom.blogspot.com/2012/06/how-to-root-phylogenetic-tree.html)
-
-----------
-2022-10-19
-
-http://www.baifukan.co.jp/cgi-bin/db/baifu_new_search.pl?ISBN=4-563-07832-8
-書籍名	Web連携テキスト　バイオインフォマティクス 　 基礎から応用
-
-Web資料
-https://www.iu.a.u-tokyo.ac.jp/textbook/
-
-https://www.iu.a.u-tokyo.ac.jp/textbook/chapter3.html
-第3章 生物配列解析
-
-https://www.iu.a.u-tokyo.ac.jp/textbook/chapter6.html
-第6章 生物配列統計学
-https://www.iu.a.u-tokyo.ac.jp/textbook/chapter6.html#65_分岐年代推定
 
 
 
