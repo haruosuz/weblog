@@ -20,22 +20,8 @@ https://www.sciencedirect.com/science/article/pii/S0147619X25000149?via%3Dihub
 
 ----------
 
-https://www.nig.ac.jp/nig/research/nig-meetings?
-
-Date	Title	Representative	Venue(Language)
-2025/08/25 12:00-19:00
-2025/08/26 09:00-13:00	第3回プラスミド研究会 「プラスミドの網羅的データベース構築に向けて」	新谷政己	D201
-Japanese
-
-https://www.nig.ac.jp/nig/research/nig-meetings?list=old
-
-2024/12/24 13:00-19:00
-2024/12/25 10:00-13:30	第2回プラスミド研究会「プラスミドの網羅的データベース構築に向けて」	新谷 政己（静岡大学）	D201
-Japanese
-
-2023/09/14 13:00-18:00
-2023/09/15 09:00-13:00	プラスミドの網羅的データベースの再整備に向けて	新谷政己 (静岡大学)	D201
-Japanese
+第3回プラスミド研究会 「プラスミドの網羅的データベース構築に向けて」
+https://www.nig.ac.jp/nig/research/nig-meetings?id=1734
 
 ----------
 
