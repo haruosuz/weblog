@@ -25,6 +25,36 @@ https://www.nig.ac.jp/nig/research/nig-meetings?id=1734
 
 ----------
 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC8628078/
+Philos Trans R Soc Lond B Biol Sci. 2021 Nov 29;377(1842):20200472. doi: 10.1098/rstb.2020.0472
+What makes a megaplasmid?
+
+There exist relatively small plasmids that are absolutely essential for physiological functioning of cells, such as the 9.4 kb ribosomal RNA-encoding plasmids of Aureimonas [48], and gigantic plasmids that are expendable and whose fitness effects are only apparent in specific niches and contexts, for example, the 1.35 Mb pSymA of Sinorhizobium meliloti, deletion of which has only minor effects on growth, transcription and proteome phenotypes [49–51].
+
+48.Anda M, Ohtsubo Y, Okubo T, Sugawara M, Nagata Y, Tsuda M, Minamisawa K, Mitsui H. 2015. Bacterial clade with the ribosomal RNA operon on a small plasmid rather than the chromosome. Proc. Natl Acad. Sci. USA 112, 14343-14 347. ( 10.1073/pnas.1514326112) [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+----------
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5584315/
+Microbiol Mol Biol Rev. 2017 Aug 9;81(3):e00019-17. doi: 10.1128/MMBR.00019-17
+The Divided Bacterial Genome: Structure, Function, and Evolution
+George C diCenzo 1, Turlough M Finan 1,✉
+
+There is also the peculiar case of an unusual clade within the Aureimonas genus that has the sole copy of the rRNA operon on a 9.4-kb plasmid (10). 
+
+10.Anda M, Ohtsubo Y, Okubo T, Sugawara M, Nagata Y, Tsuda M, Minamisawa K, Mitsui H. 2015. Bacterial clade with the ribosomal RNA operon on a small plasmid rather than the chromosome. Proc Natl Acad Sci U S A 112:14343–14347. doi: 10.1073/pnas.1514326112. [DOI] [PMC free article] [PubMed] [Google Scholar]
+
+----------
+
+https://colil.dbcls.jp/browse/papers/26534993/1/100/year
+Bacterial clade with the ribosomal RNA operon on a small plasmid rather than the chromosome.
+Anda M, Ohtsubo Y, Okubo T, Sugawara M, Nagata Y, Tsuda M, Minamisawa K, Mitsui H Proc Natl Acad Sci U S A. 2015 Nov 17;112(46):14343-7. PMID:26534993
+    is cited by the following papers.
+
+----------
+
+----------
+
 多元論、一元論
 
 https://github.com/haruosuz/mgsa/blob/master/references/mgsa.taxonomy.md
