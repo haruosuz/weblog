@@ -9,14 +9,29 @@
 - 
 
 ----------
-2025-08-16
+2025-09
+----------
 
-https://pubmed.ncbi.nlm.nih.gov/40825471/
-Plasmid
-. 2025 Aug 16:102756. doi: 10.1016/j.plasmid.2025.102756. Online ahead of print.
-Insights from public database sequences related to the replication initiation protein TrfA of the IncP-1 plasmid RK2
-Haruo Suzuki 1, Kazuki Moriguchi 2, Masaki Shintani 3, Masato Suzuki 4, Hideaki Nojiri 5
-https://www.sciencedirect.com/science/article/pii/S0147619X25000149?via%3Dihub
+https://x.com/ChikumaShinsho/status/1854744523534221664
+ちくま新書 on X: "【本日発売 11月新刊】佐藤郁哉『リサーチ・クエスチョンとは何か？』(ちくま新書) 問いを立て、調査・分析して報告する……その営みにおいて最初の関門である「問いを立てる」ことはそう簡単なものではない。問いは磨かれ、育ち、よりよい問いへ変化を遂げるものだ。そのためのメソッドを解説する。 https://t.co/hyTk1Pr0vI" / X
+
+https://www.webchikuma.com/n/n32adff7e019d
+「リサーチ・クエスチョン」をめぐる不都合な真実｜webちくま（筑摩書房の読みものサイト）
+
+----------
+# DNBSEQ
+
+https://genome-lead.co.jp/J_NGS_DNBseq.php
+DNBSEQーT7/G400次世代シークエンスの受託
+
+https://genebay.co.jp/dnbseq/
+DNBSEQ（MGISEQ）シーケンス受託サービス | 株式会社ジーンベイ（GeneBay）
+
+https://jp.mgi-tech.com/products/instruments_info/2/
+DNBSEQ-G400: ハイスループット遺伝子シーケンサー-MGI Tech Japan 株式会社
+
+https://jp.mgi-tech.com/products/
+MGIシーケンシングプラットフォーム: ハイスループット遺伝子シーケンサー, DNBSEQ™ シーケンシング技術-MGI Tech Japan 株式会社
 
 ----------
 
