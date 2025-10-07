@@ -8,6 +8,104 @@
 - [unclassified](#unclassified)
 - 
 
+
+
+----------
+
+
+
+
+----------
+# Keio
+
+- https://twitter.com/Keio_univ_PR
+- https://twitter.com/keio_news
+- https://twitter.com/KeioSFC
+
+https://www.sfc.keio.ac.jp/gsmg/about/faculty/
+慶應義塾大学湘南藤沢キャンパス（SFC） 教員プロフィール
+https://www.sfc.keio.ac.jp/faculty_profile/en/
+
+https://www.sfc.keio.ac.jp/deans_diary/
+おかしら日記 | 慶應義塾大学 湘南藤沢キャンパス（SFC）
+
+https://www.keio.ac.jp/ja/gakumon150/
+ガクモンノススメ特設ページ：[慶應義塾]
+
+https://www.keio.ac.jp/ja/about/president/blog/2024/2/27/379-157072/
+塾長室だより　No. 21　大学と日本の危機－再考：[慶應義塾]
+
+https://sfcclip.net/bus/
+バス時刻表 | SFC CLIP
+
+http://www.kanachu.co.jp/dia/diagram/timetable/cs:0000800447-1/nid:00129985/rt:0/k:慶応大学
+「慶応大学」バス停の時刻表 | 神奈川中央交通
+
+https://helpfeel.com/SFCHelp/タクシー-635699d1fe226f002362c282
+SFCHelp - タクシー
+「デルタ館前」のように場所を指定してタクシーを呼ぶことができます
+相愛交通: 0120-87-2610
+
+----------
+
+https://www.students.keio.ac.jp/com/class/registration/chatgpt.html
+ChatGPT等生成AIの利用について：慶應義塾大学塾生サイト
+
+https://www.itc.keio.ac.jp/ja/software_ai_guideline.html
+慶應義塾における生成AIの利用ガイドライン | 慶應義塾ITC
+
+----------
+### class
+- https://github.com/haruosuz/DS4GD/tree/master/2025-10
+- https://github.com/haruosuz/introBI/tree/main/2025-10
+
+https://gslbs.keio.jp/syllabus/detail?ttblyr=2025&entno=12811&lang=en
+DATA SCIENCE FOR GENOME DYNAMICS[DS2](GIGA/GG/GI)
+
+https://gslbs.keio.jp/syllabus/detail?ttblyr=2025&entno=27404&lang=jp
+バイオインフォマティクスのデータサイエンス[DS2]
+
+
+https://www.youtube.com/watch?v=6564K4-_DBI&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc Microbiome Discovery 1: Intro to the Microbiome - YouTube
+
+2013/07/02
+https://www.youtube.com/watch?v=S-o-sdlzhkE
+R 1.2 - Calculations and Variables - YouTube
+
+- Dave Hone - "How to read a phylogenetic tree" https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/
+- 2015-01-05 [PhyloBotanist: How to root a phylogenetic tree: outgroup, midpoint and other methods](http://phylobotanist.blogspot.com/2015/01/how-to-root-phylogenetic-tree-outgroup.html)
+- 2012-06-07 [The Cabbages of Doom: How to root a phylogenetic tree](http://cabbagesofdoom.blogspot.com/2012/06/how-to-root-phylogenetic-tree.html)
+
+----------
+2022-10-19
+
+http://www.baifukan.co.jp/cgi-bin/db/baifu_new_search.pl?ISBN=4-563-07832-8
+書籍名	Web連携テキスト　バイオインフォマティクス 　 基礎から応用
+
+Web資料
+https://www.iu.a.u-tokyo.ac.jp/textbook/
+
+https://www.iu.a.u-tokyo.ac.jp/textbook/chapter3.html
+第3章 生物配列解析
+
+https://www.iu.a.u-tokyo.ac.jp/textbook/chapter6.html
+第6章 生物配列統計学
+https://www.iu.a.u-tokyo.ac.jp/textbook/chapter6.html#65_分岐年代推定
+
+
+
+
+----------
+
+10:35 AM · Jul 16, 2025
+https://x.com/fvgnoriyuki/status/1945296305720308067
+鈴木紀之 Noriyuki Suzuki on X: "ひろゆき×進化生態学者・鈴木紀之のシン・進化論①「進化の結果で、理にかなっていないものもあるって本当？」【この件について】(週プレNEWS) https://t.co/1WowCPiAAA" / X
+
+https://wpb.shueisha.co.jp/news/entertainment/2025/07/15/127616/
+ひろゆき×進化生態学者・鈴木紀之のシン・進化論①「進化の結果で、理にかなっていないものもあるって本当？」【この件について】 - エンタメ - ニュース｜週プレNEWS
+2025年07月15日
+
+
 ----------
 2025-09
 ----------
@@ -86,76 +184,6 @@ http://leeswijzer.org/R/R-cluster.html
 ――なぜヒトは分類に憑かれるのか？――
 三中信宏
 
-
-----------
-# Keio
-
-- https://twitter.com/Keio_univ_PR
-- https://twitter.com/keio_news
-- https://twitter.com/KeioSFC
-
-https://www.sfc.keio.ac.jp/gsmg/about/faculty/
-慶應義塾大学湘南藤沢キャンパス（SFC） 教員プロフィール
-https://www.sfc.keio.ac.jp/faculty_profile/en/
-
-https://www.sfc.keio.ac.jp/deans_diary/
-おかしら日記 | 慶應義塾大学 湘南藤沢キャンパス（SFC）
-
-https://www.keio.ac.jp/ja/gakumon150/
-ガクモンノススメ特設ページ：[慶應義塾]
-
-https://www.keio.ac.jp/ja/about/president/blog/2024/2/27/379-157072/
-塾長室だより　No. 21　大学と日本の危機－再考：[慶應義塾]
-
-https://sfcclip.net/bus/
-バス時刻表 | SFC CLIP
-
-http://www.kanachu.co.jp/dia/diagram/timetable/cs:0000800447-1/nid:00129985/rt:0/k:慶応大学
-「慶応大学」バス停の時刻表 | 神奈川中央交通
-
-https://helpfeel.com/SFCHelp/タクシー-635699d1fe226f002362c282
-SFCHelp - タクシー
-「デルタ館前」のように場所を指定してタクシーを呼ぶことができます
-相愛交通: 0120-87-2610
-
-----------
-
-https://www.students.keio.ac.jp/com/class/registration/chatgpt.html
-ChatGPT等生成AIの利用について：慶應義塾大学塾生サイト
-
-https://www.itc.keio.ac.jp/ja/software_ai_guideline.html
-慶應義塾における生成AIの利用ガイドライン | 慶應義塾ITC
-
-----------
-### class
-- https://github.com/haruosuz/introBI/tree/main/2025-04
-- https://github.com/haruosuz/DS4GD/tree/master/2025-04
-
-https://www.youtube.com/watch?v=6564K4-_DBI&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc Microbiome Discovery 1: Intro to the Microbiome - YouTube
-
-2013/07/02
-https://www.youtube.com/watch?v=S-o-sdlzhkE
-R 1.2 - Calculations and Variables - YouTube
-
-- Dave Hone - "How to read a phylogenetic tree" https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/
-- 2015-01-05 [PhyloBotanist: How to root a phylogenetic tree: outgroup, midpoint and other methods](http://phylobotanist.blogspot.com/2015/01/how-to-root-phylogenetic-tree-outgroup.html)
-- 2012-06-07 [The Cabbages of Doom: How to root a phylogenetic tree](http://cabbagesofdoom.blogspot.com/2012/06/how-to-root-phylogenetic-tree.html)
-
-----------
-2022-10-19
-
-http://www.baifukan.co.jp/cgi-bin/db/baifu_new_search.pl?ISBN=4-563-07832-8
-書籍名	Web連携テキスト　バイオインフォマティクス 　 基礎から応用
-
-Web資料
-https://www.iu.a.u-tokyo.ac.jp/textbook/
-
-https://www.iu.a.u-tokyo.ac.jp/textbook/chapter3.html
-第3章 生物配列解析
-
-https://www.iu.a.u-tokyo.ac.jp/textbook/chapter6.html
-第6章 生物配列統計学
-https://www.iu.a.u-tokyo.ac.jp/textbook/chapter6.html#65_分岐年代推定
 
 ----------
 
