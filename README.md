@@ -92,9 +92,6 @@ https://www.iu.a.u-tokyo.ac.jp/textbook/chapter6.html
 第6章 生物配列統計学
 https://www.iu.a.u-tokyo.ac.jp/textbook/chapter6.html#65_分岐年代推定
 
-
-
-
 ----------
 
 10:35 AM · Jul 16, 2025
@@ -105,6 +102,38 @@ https://wpb.shueisha.co.jp/news/entertainment/2025/07/15/127616/
 ひろゆき×進化生態学者・鈴木紀之のシン・進化論①「進化の結果で、理にかなっていないものもあるって本当？」【この件について】 - エンタメ - ニュース｜週プレNEWS
 2025年07月15日
 
+
+----------
+
+----------
+
+2024/11/29
+https://www.maruzen-publishing.co.jp/book/b10123256.html
+廻り道の進化 - 丸善出版 理工・医学・人文社会科学の専門書出版社
+原書タイトル	Life Finds a Way: What Evolution Teaches Us About Creativity
+著者	アンドレアス・ワグナー 著
+和田　洋 訳
+
+目次
+
+正誤表
+
+12:25 PM · Jun 19, 2025
+https://x.com/maruzenpub/status/1935539410570985812
+丸善出版営業部 on X: "仲野先生の書評、ぜひご覧ください！ &gt;「廻り道をすることの重要性を知らしめるのが、この本最大のメッセージなのだから。」 仲野先生も半年積ん読されていたという本書（笑）！ぜひお近くの書店などでお求めください！㋑ 廻り道の進化　生命の問題解決にみる創造性のルール https://t.co/NVsBif3kbD" / X
+https://jbpress.ismedia.jp/articles/-/88969
+【書評】『廻り道の進化』〜進化が明らかにした創造性の科学、廻り道が進歩を促す〜 評者：仲野 徹（隠居・大阪大学名誉教授）(1/4) | JBpress (ジェイビープレス)
+
+2025.4.2
+https://www.zoology.or.jp/archives/news/book_review_250402
+廻り道の進化 —生命の問題解決にみる創造性のルール　書評 | 公益社団法人 日本動物学会
+鶴崎展巨（鳥取大学　名誉教授）
+廻り道の進化　—生命の問題解決にみる創造性のルール　書評（PDFファイル）
+https://www.zoology.or.jp/wp-content/uploads/2025/04/d13da5c1f7340ec8fbf0698a1a9ed526.pdf
+
+10:51 AM · Jan 31, 2025
+https://x.com/maruzenpub/status/1885143872273342692
+丸善出版営業部 on X: "『廻り道の進化 生命の問題解決にみる創造性のルール』 https://t.co/9rXuiJSXxM 日本生物学オリンピック(JBO)「生物学が好きな中高生への推薦書籍」に挙げていただきました！👇 https://t.co/nSSjucs1IH Amazon等で訳者である和田洋先生のまえがきがご覧いただけます。ぜひご一読ください（イ）" / X
 
 ----------
 2025-09
