@@ -77,6 +77,29 @@ R 1.2 - Calculations and Variables - YouTube
 - 2012-06-07 [The Cabbages of Doom: How to root a phylogenetic tree](http://cabbagesofdoom.blogspot.com/2012/06/how-to-root-phylogenetic-tree.html)
 
 ----------
+
+
+- https://github.com/haruosuz/mgsa
+- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md
+- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.k-mer.md
+- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.metagenome.md
+- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.metagenome.md#unifrac
+- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.metagenome.md#rrna
+
+https://github.com/haruosuz/mgsa/blob/master/references/mgsa.metagenome.md#singlem
+
+SingleM
+
+MetaCompass
+
+- https://github.com/haruosuz/books
+- https://github.com/haruosuz/books/blob/master/references/books.microbe.md
+- https://github.com/haruosuz/books/blob/master/references/books.updates.md#2019-06-15
+- https://github.com/haruosuz/r4bioinfo/blob/master/r_books/README.md
+
+
+
+----------
 2022-10-19
 
 http://www.baifukan.co.jp/cgi-bin/db/baifu_new_search.pl?ISBN=4-563-07832-8
@@ -104,6 +127,150 @@ https://wpb.shueisha.co.jp/news/entertainment/2025/07/15/127616/
 
 
 ----------
+
+
+
+
+----------
+
+October 23, 2023
+https://theoreticalecology.wordpress.com/2023/10/23/time-to-leave-species-richness-behind-as-it-serves-no-scientific-purpose-on-x-or-y-axis/
+Time to leave “species richness” behind, as it serves no scientific purpose on x- or y-axis | theoretical ecology
+
+
+----------
+
+
+https://twitter.com/arakencloud
+荒木健太郎 (@arakencloud) / X
+
+雲研究者・気象庁気象研究所主任研究官・学術博士。防災・減災のために、雲の仕組みを研究してます。映画『天気の子』気象監修。出演：情熱大陸／ドラえもんなど。著書：すごすぎる #天気の図鑑 シリーズ／雲の超図鑑／読み終えた瞬間、空が美しく見える気象のはなし／雲の教室／雲を愛する技術など。発信は個人見解です
+
+9:44 PM · Feb 4, 2024
+https://twitter.com/arakencloud/status/1754123821328867674
+荒木健太郎 on X: "大雪への備えまとめです。 関東の皆さま、いま一度ご確認ください。 https://t.co/eoytT5yIaq" / X
+
+
+https://twitter.com/kutsunasatoshi
+忽那賢志 (@kutsunasatoshi) / Twitter
+
+https://twitter.com/metacovid19
+メタコビ公式
+
+https://twitter.com/SystemsVirology
+The Sato Lab (Kei Sato) (@SystemsVirology) / X
+
+https://twitter.com/mph_for_doctors
+手を洗う救急医Taka（木下喬弘） (@mph_for_doctors) / Twitter
+
+----------
+## twitter
+
+- https://twitter.com
+- https://twitter.com/copypasteusa
+- https://twitter.com/copypasteusa/likes
+- https://twitter.com/oikawamaru
+オイカワ丸 (@oikawamaru) / Twitter
+
+
+----------
+
+https://kazumaxneo.hatenablog.com/entry/2018/05/11/180244
+MinHashを使い高速にゲノムを比較する MASH - macでインフォマティクス
+
+https://pubmed.ncbi.nlm.nih.gov/27323842/
+Genome Biol
+. 2016 Jun 20;17(1):132. doi: 10.1186/s13059-016-0997-x.
+Mash: fast genome and metagenome distance estimation using MinHash
+Brian D Ondov 1, Todd J Treangen 1, Páll Melsted 2, Adam B Mallonee 1, Nicholas H Bergman 1, Sergey Koren 3, Adam M Phillippy 4
+https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0997-x
+https://pmc.ncbi.nlm.nih.gov/articles/PMC4915045/
+
+https://kazumaxneo.hatenablog.com/entry/2018/09/14/141442
+MinHashを使った高速なANI計算ツール fastANI - macでインフォマティクス
+
+https://pubmed.ncbi.nlm.nih.gov/30504855/
+Nat Commun
+. 2018 Nov 30;9(1):5114. doi: 10.1038/s41467-018-07641-9.
+High throughput ANI analysis of 90K prokaryotic genomes reveals clear species boundaries
+Chirag Jain 1 2, Luis M Rodriguez-R 3 4, Adam M Phillippy 2, Konstantinos T Konstantinidis 5 6, Srinivas Aluru 7 8
+https://www.nature.com/articles/s41467-018-07641-9
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6269478/
+
+
+----------
+## updates
+
+----------
+### microbe
+
+- https://github.com/haruosuz/microbe
+- https://github.com/haruosuz/microbe/blob/master/README.md
+- https://github.com/haruosuz/microbe/blob/master/references/mbioinfo.2021.md
+- https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.video.md
+- https://github.com/haruosuz/microbe/blob/master/references/microbe.urban.md
+
+
+----------
+
+- https://github.com/haruosuz/evolve
+- https://github.com/haruosuz/evolve/blob/master/references/evolve.memo.md
+- https://github.com/haruosuz/evolve/tree/master/tools/hyphy
+
+http://www.opiniomics.org/on-stuck-records-and-indel-errors-or-stop-publishing-bad-genomes/
+
+
+----------
+
+- https://github.com/haruosuz/bioinfo
+- https://github.com/haruosuz/bioinfo/blob/master/references/README.reproducibility.md
+- https://github.com/haruosuz/bioinfo/blob/master/references/README.bioinfo.tools.md
+- 
+- https://github.com/haruosuz/codon
+
+https://github.com/haruosuz/bioinfo/blob/master/2022/CaseStudy.md#2022-12-28
+VITCOMIC2
+「LEA」
+http://133.39.177.105/lea/help_ja.html
+
+https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010675
+Ten simple rules for investigating (meta)genomic data from environmental ecosystems | PLOS Computational Biology
+
+----------
+
+https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#get_homologues
+
+### plasmid
+
+- https://github.com/haruosuz/plasmids
+- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_resistance.md
+- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_metagenome.md
+- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_IncP1.md
+
+----------
+
+
+----------
+## unclassified
+
+
+----------
+
+6:44 PM · Jun 4, 2025
+https://x.com/Alien_Evolve/status/1930198973400396168
+深野　祐也 on X: "この記事では、なぜ都市の生物多様性が大事なのかを色々な観点から議論しています。その中でも、都市の人々のメンタルヘルス（特に労働者）に与える影響は特に大事だと思っています。定量的なデータが蓄積すれば、昨今の潮流の中で、都市部の自然再生を大きく牽引するポテンシャルがあると思います。" / X
+7:40 AM · Jun 4, 2025
+https://x.com/Alien_Evolve/status/1930031747024203849
+深野　祐也 on X: "みすず書房さんの連載で、「都市」の自然について書きました。https://t.co/cm3CpzhkNM 色々述べてますが大事だと思うのはコレです 「ここは元々どんな生態系で、どんなふうに改変され、今残っているのはどんな自然で、誰が守ってきたのか。」感想などいただけると嬉しいです！ https://t.co/9mvErDjDp5" / X
+2025年6月2日
+https://magazine.msz.co.jp/series/evolution-ecology/4/
+都市の生物多様性とその恩恵 | なぜ人は自然を守りたいのか？ | 深野祐也 | WEBみすず
+なぜ人は自然を守りたいのか？――進化と生態で迫る深層4
+都市の生物多様性とその恩恵
+深野祐也
+
 
 ----------
 
@@ -229,107 +396,6 @@ https://x.com/bluebacks_pub/status/1890145660332306864
 講談社ブルーバックス on X: "なんと「日本の土」から「世界を救う発見」が…「ノーベル賞」も受賞した「日本」の「微生物」の底力！ https://t.co/77SNRVXGxq #ブルーバックス" / X
 https://gendai.media/articles/-/146098
 なんと「日本の土」から「世界を救う発見」が…「ノーベル賞」も受賞した「日本」の「微生物」の底力！（藤井 一至） | ブルーバックス | 講談社
-
-
-----------
-
-https://kazumaxneo.hatenablog.com/entry/2018/05/11/180244
-MinHashを使い高速にゲノムを比較する MASH - macでインフォマティクス
-
-https://pubmed.ncbi.nlm.nih.gov/27323842/
-Genome Biol
-. 2016 Jun 20;17(1):132. doi: 10.1186/s13059-016-0997-x.
-Mash: fast genome and metagenome distance estimation using MinHash
-Brian D Ondov 1, Todd J Treangen 1, Páll Melsted 2, Adam B Mallonee 1, Nicholas H Bergman 1, Sergey Koren 3, Adam M Phillippy 4
-https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0997-x
-https://pmc.ncbi.nlm.nih.gov/articles/PMC4915045/
-
-https://kazumaxneo.hatenablog.com/entry/2018/09/14/141442
-MinHashを使った高速なANI計算ツール fastANI - macでインフォマティクス
-
-https://pubmed.ncbi.nlm.nih.gov/30504855/
-Nat Commun
-. 2018 Nov 30;9(1):5114. doi: 10.1038/s41467-018-07641-9.
-High throughput ANI analysis of 90K prokaryotic genomes reveals clear species boundaries
-Chirag Jain 1 2, Luis M Rodriguez-R 3 4, Adam M Phillippy 2, Konstantinos T Konstantinidis 5 6, Srinivas Aluru 7 8
-https://www.nature.com/articles/s41467-018-07641-9
-https://pmc.ncbi.nlm.nih.gov/articles/PMC6269478/
-
-
-----------
-## updates
-
-----------
-### microbe
-
-- https://github.com/haruosuz/microbe
-- https://github.com/haruosuz/microbe/blob/master/README.md
-- https://github.com/haruosuz/microbe/blob/master/references/mbioinfo.2021.md
-- https://github.com/haruosuz/microbe/blob/master/references/README.MoBE.md
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.virus.md
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.video.md
-- https://github.com/haruosuz/microbe/blob/master/references/microbe.urban.md
-
-
-----------
-
-- https://github.com/haruosuz/evolve
-- https://github.com/haruosuz/evolve/blob/master/references/evolve.memo.md
-- https://github.com/haruosuz/evolve/tree/master/tools/hyphy
-
-http://www.opiniomics.org/on-stuck-records-and-indel-errors-or-stop-publishing-bad-genomes/
-
-
-----------
-
-- https://github.com/haruosuz/bioinfo
-- https://github.com/haruosuz/bioinfo/blob/master/references/README.reproducibility.md
-- https://github.com/haruosuz/bioinfo/blob/master/references/README.bioinfo.tools.md
-- 
-- https://github.com/haruosuz/codon
-
-https://github.com/haruosuz/bioinfo/blob/master/2022/CaseStudy.md#2022-12-28
-VITCOMIC2
-「LEA」
-http://133.39.177.105/lea/help_ja.html
-
-https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010675
-Ten simple rules for investigating (meta)genomic data from environmental ecosystems | PLOS Computational Biology
-
-----------
-
-https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#get_homologues
-
-### plasmid
-
-- https://github.com/haruosuz/plasmids
-- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_resistance.md
-- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_metagenome.md
-- https://github.com/haruosuz/plasmids/blob/master/references/plasmid_IncP1.md
-
-----------
-
-
-
-
-----------
-## unclassified
-
-
-----------
-
-6:44 PM · Jun 4, 2025
-https://x.com/Alien_Evolve/status/1930198973400396168
-深野　祐也 on X: "この記事では、なぜ都市の生物多様性が大事なのかを色々な観点から議論しています。その中でも、都市の人々のメンタルヘルス（特に労働者）に与える影響は特に大事だと思っています。定量的なデータが蓄積すれば、昨今の潮流の中で、都市部の自然再生を大きく牽引するポテンシャルがあると思います。" / X
-7:40 AM · Jun 4, 2025
-https://x.com/Alien_Evolve/status/1930031747024203849
-深野　祐也 on X: "みすず書房さんの連載で、「都市」の自然について書きました。https://t.co/cm3CpzhkNM 色々述べてますが大事だと思うのはコレです 「ここは元々どんな生態系で、どんなふうに改変され、今残っているのはどんな自然で、誰が守ってきたのか。」感想などいただけると嬉しいです！ https://t.co/9mvErDjDp5" / X
-2025年6月2日
-https://magazine.msz.co.jp/series/evolution-ecology/4/
-都市の生物多様性とその恩恵 | なぜ人は自然を守りたいのか？ | 深野祐也 | WEBみすず
-なぜ人は自然を守りたいのか？――進化と生態で迫る深層4
-都市の生物多様性とその恩恵
-深野祐也
 
 ----------
 
@@ -793,60 +859,6 @@ https://gendai.media/list/author/Yh_Taguchi
 田口 善弘 Y-h. Taguchi | 現代新書
 https://gendai.media/list/books/gendai-shinsho/9784065346921
 学び直し高校物理 | 現代新書 | 講談社
-
-
-----------
-
-October 23, 2023
-https://theoreticalecology.wordpress.com/2023/10/23/time-to-leave-species-richness-behind-as-it-serves-no-scientific-purpose-on-x-or-y-axis/
-Time to leave “species richness” behind, as it serves no scientific purpose on x- or y-axis | theoretical ecology
-
-
-----------
-
-
-https://twitter.com/arakencloud
-荒木健太郎 (@arakencloud) / X
-
-雲研究者・気象庁気象研究所主任研究官・学術博士。防災・減災のために、雲の仕組みを研究してます。映画『天気の子』気象監修。出演：情熱大陸／ドラえもんなど。著書：すごすぎる #天気の図鑑 シリーズ／雲の超図鑑／読み終えた瞬間、空が美しく見える気象のはなし／雲の教室／雲を愛する技術など。発信は個人見解です
-
-9:44 PM · Feb 4, 2024
-https://twitter.com/arakencloud/status/1754123821328867674
-荒木健太郎 on X: "大雪への備えまとめです。 関東の皆さま、いま一度ご確認ください。 https://t.co/eoytT5yIaq" / X
-
-
-https://twitter.com/kutsunasatoshi
-忽那賢志 (@kutsunasatoshi) / Twitter
-
-https://twitter.com/metacovid19
-メタコビ公式
-
-https://twitter.com/SystemsVirology
-The Sato Lab (Kei Sato) (@SystemsVirology) / X
-
-https://twitter.com/mph_for_doctors
-手を洗う救急医Taka（木下喬弘） (@mph_for_doctors) / Twitter
-
-----------
-## twitter
-
-- https://twitter.com
-- https://twitter.com/copypasteusa
-- https://twitter.com/copypasteusa/likes
-- https://twitter.com/oikawamaru
-オイカワ丸 (@oikawamaru) / Twitter
-- 
-- https://github.com/haruosuz/books
-- https://github.com/haruosuz/books/blob/master/references/books.microbe.md
-- https://github.com/haruosuz/books/blob/master/references/books.updates.md#2019-06-15
-- https://github.com/haruosuz/r4bioinfo/blob/master/r_books/README.md
-- 
-- https://github.com/haruosuz/mgsa
-- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md
-- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.k-mer.md
-- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.metagenome.md
-- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.metagenome.md#unifrac
-- https://github.com/haruosuz/mgsa/blob/master/references/mgsa.metagenome.md#rrna
 
 
 
