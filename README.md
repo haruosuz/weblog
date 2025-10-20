@@ -8,12 +8,36 @@
 - [unclassified](#unclassified)
 - 
 
-
-
 ----------
 
+----------
+### class
+- https://github.com/haruosuz/DS4GD/tree/master/2025-10
+- https://github.com/haruosuz/introBI/tree/main/2025-10
 
+https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md
+DNA Sequence Statistics (1)
+https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#dna-sequence-statistics-1
 
+https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/index.html
+DNA Sequence Statistics (1)
+https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapter1.html
+
+https://gslbs.keio.jp/syllabus/detail?ttblyr=2025&entno=12811&lang=en
+DATA SCIENCE FOR GENOME DYNAMICS[DS2](GIGA/GG/GI)
+
+https://gslbs.keio.jp/syllabus/detail?ttblyr=2025&entno=27404&lang=jp
+バイオインフォマティクスのデータサイエンス[DS2]
+
+https://www.youtube.com/watch?v=6564K4-_DBI&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc Microbiome Discovery 1: Intro to the Microbiome - YouTube
+
+2013/07/02
+https://www.youtube.com/watch?v=S-o-sdlzhkE
+R 1.2 - Calculations and Variables - YouTube
+
+- Dave Hone - "How to read a phylogenetic tree" https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/
+- 2015-01-05 [PhyloBotanist: How to root a phylogenetic tree: outgroup, midpoint and other methods](http://phylobotanist.blogspot.com/2015/01/how-to-root-phylogenetic-tree-outgroup.html)
+- 2012-06-07 [The Cabbages of Doom: How to root a phylogenetic tree](http://cabbagesofdoom.blogspot.com/2012/06/how-to-root-phylogenetic-tree.html)
 
 ----------
 # Keio
@@ -53,28 +77,6 @@ ChatGPT等生成AIの利用について：慶應義塾大学塾生サイト
 
 https://www.itc.keio.ac.jp/ja/software_ai_guideline.html
 慶應義塾における生成AIの利用ガイドライン | 慶應義塾ITC
-
-----------
-### class
-- https://github.com/haruosuz/DS4GD/tree/master/2025-10
-- https://github.com/haruosuz/introBI/tree/main/2025-10
-
-https://gslbs.keio.jp/syllabus/detail?ttblyr=2025&entno=12811&lang=en
-DATA SCIENCE FOR GENOME DYNAMICS[DS2](GIGA/GG/GI)
-
-https://gslbs.keio.jp/syllabus/detail?ttblyr=2025&entno=27404&lang=jp
-バイオインフォマティクスのデータサイエンス[DS2]
-
-
-https://www.youtube.com/watch?v=6564K4-_DBI&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc Microbiome Discovery 1: Intro to the Microbiome - YouTube
-
-2013/07/02
-https://www.youtube.com/watch?v=S-o-sdlzhkE
-R 1.2 - Calculations and Variables - YouTube
-
-- Dave Hone - "How to read a phylogenetic tree" https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/
-- 2015-01-05 [PhyloBotanist: How to root a phylogenetic tree: outgroup, midpoint and other methods](http://phylobotanist.blogspot.com/2015/01/how-to-root-phylogenetic-tree-outgroup.html)
-- 2012-06-07 [The Cabbages of Doom: How to root a phylogenetic tree](http://cabbagesofdoom.blogspot.com/2012/06/how-to-root-phylogenetic-tree.html)
 
 ----------
 
