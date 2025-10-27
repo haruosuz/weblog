@@ -39,6 +39,32 @@ R 1.2 - Calculations and Variables - YouTube
 - 2015-01-05 [PhyloBotanist: How to root a phylogenetic tree: outgroup, midpoint and other methods](http://phylobotanist.blogspot.com/2015/01/how-to-root-phylogenetic-tree-outgroup.html)
 - 2012-06-07 [The Cabbages of Doom: How to root a phylogenetic tree](http://cabbagesofdoom.blogspot.com/2012/06/how-to-root-phylogenetic-tree.html)
 
+
+----------
+
+
+----------
+Microbiome Discovery
+Dan Knights
+
+https://github.com/haruosuz/introBI/blob/main/CaseStudy.md#mice8992
+
+2016/01/23
+https://www.youtube.com/watch?v=u2IQQUMeWy8&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc&index=7
+Microbiome Discovery 4.5: (Optional) UNIX Command Line
+
+----------
+
+https://video.ucdavis.edu/channel/BIS180L+SQ2020/158861492
+BIS180L SQ2020 - University of California, Davis
+
+https://video.ucdavis.edu/media/BIS180L-SQ20-Lecture+01/0_qdzowjow
+BIS180L-SQ20-Lecture 01 - University of California, Davis
+
+https://video.ucdavis.edu/media/BIS180L+Lecture3b+For+Loops/0_c206k3g2/158861492
+BIS180L Lecture3b For Loops - University of California, Davis
+
+
 ----------
 # Keio
 
