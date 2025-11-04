@@ -10,6 +10,14 @@
 
 ----------
 
+https://x.com/kutsunasatoshi
+
+https://www.youtube.com/playlist?list=PLwYqPUoLreQNIysCX6yhE776FozTL3U11
+【感染症を分かりやすく解説】くつ王アカデミア - YouTube
+
+https://www.youtube.com/playlist?list=PLwYqPUoLreQMsjNgQkqwHflNboUpC6eud
+【医療者向け・音声のみ】くつ王レディオ – 最新感染症論文紹介 - YouTube
+
 ----------
 ### class
 - https://github.com/haruosuz/DS4GD/tree/master/2025-10
@@ -38,9 +46,6 @@ R 1.2 - Calculations and Variables - YouTube
 - Dave Hone - "How to read a phylogenetic tree" https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/
 - 2015-01-05 [PhyloBotanist: How to root a phylogenetic tree: outgroup, midpoint and other methods](http://phylobotanist.blogspot.com/2015/01/how-to-root-phylogenetic-tree-outgroup.html)
 - 2012-06-07 [The Cabbages of Doom: How to root a phylogenetic tree](http://cabbagesofdoom.blogspot.com/2012/06/how-to-root-phylogenetic-tree.html)
-
-
-----------
 
 
 ----------
