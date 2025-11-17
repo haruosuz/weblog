@@ -19,17 +19,37 @@ https://www.youtube.com/playlist?list=PLwYqPUoLreQMsjNgQkqwHflNboUpC6eud
 【医療者向け・音声のみ】くつ王レディオ – 最新感染症論文紹介 - YouTube
 
 ----------
+
+https://x.com/arakencloud
+荒木健太郎 (@arakencloud) / X
+雲研究者・気象庁気象研究所主任研究官・学術博士。防災・減災のために雲の仕組みを研究しています。映画『天気の子』気象監修。情熱大陸／ドラえもん／マツコの知らない世界など出演。著書：すごすぎる #天気の図鑑 シリーズ／読み終えた瞬間、空が美しく見える気象のはなし／天気の写真えほんシリーズ／雲を愛する技術など。発信は個人見解
+
+https://x.com/fvgnoriyuki
+鈴木紀之 Noriyuki Suzuki (@fvgnoriyuki) / X
+昆虫の生態と進化について研究しています/ チョウとテントウムシ / 三重大学 生物資源学部 准教授 / 農学博士 / 著書『すごい進化』『博士の愛したジミな昆虫』『繁殖干渉』『ダーウィン』/ ポッドキャスト「すごい進化ラジオ」
+
+https://wpb.shueisha.co.jp/news/entertainment/20251111-129103/
+ひろゆき×進化生態学者・鈴木紀之のシン・進化論⑬「一般教養は落第ギリギリでも、専門分野の成績だけ異常に高い学生のほうが本当は優秀なんじゃないですか？」【この件について】 - 週プレNEWS
+
+11:47 PM · Dec 18, 2024
+https://x.com/iMetaScience/status/1869394134412493045
+iMeta on X: "🎥 Watch the video on how to analyze #amplicon sequencing data with the user-friendly pipeline #EasyAmplicon! 📄 Read the full paper: https://t.co/xdcpZm4Pnc 🔗 Access it on GitHub: https://t.co/fETjdYWHwh #iMetaOmics #Bioinformatics #microbiome https://t.co/b3tAwFVTzJ" / X
+
+
+----------
 ### class
 - https://github.com/haruosuz/DS4GD/tree/master/2025-10
 - https://github.com/haruosuz/introBI/tree/main/2025-10
 
 https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md
-DNA Sequence Statistics (1)
-https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#dna-sequence-statistics-1
+2本のDNA配列間の大域アラインメント
+https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#pairwise-global-alignment-of-dna-sequences-using-the-needleman-wunsch-algorithm
 
 https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/index.html
-DNA Sequence Statistics (1)
-https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapter1.html
+Pairwise Sequence Alignment
+https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapter4.html
+Pairwise global alignment of DNA sequences using the Needleman-Wunsch algorithm
+https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapter4.html#pairwise-global-alignment-of-dna-sequences-using-the-needleman-wunsch-algorithm
 
 https://gslbs.keio.jp/syllabus/detail?ttblyr=2025&entno=12811&lang=en
 DATA SCIENCE FOR GENOME DYNAMICS[DS2](GIGA/GG/GI)
@@ -46,7 +66,6 @@ R 1.2 - Calculations and Variables - YouTube
 - Dave Hone - "How to read a phylogenetic tree" https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/
 - 2015-01-05 [PhyloBotanist: How to root a phylogenetic tree: outgroup, midpoint and other methods](http://phylobotanist.blogspot.com/2015/01/how-to-root-phylogenetic-tree-outgroup.html)
 - 2012-06-07 [The Cabbages of Doom: How to root a phylogenetic tree](http://cabbagesofdoom.blogspot.com/2012/06/how-to-root-phylogenetic-tree.html)
-
 
 ----------
 Microbiome Discovery
