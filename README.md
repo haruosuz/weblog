@@ -18,6 +18,17 @@ https://www.youtube.com/playlist?list=PLwYqPUoLreQNIysCX6yhE776FozTL3U11
 https://www.youtube.com/playlist?list=PLwYqPUoLreQMsjNgQkqwHflNboUpC6eud
 【医療者向け・音声のみ】くつ王レディオ – 最新感染症論文紹介 - YouTube
 
+
+
+----------
+
+
+https://x.com/ai_biostat
+わたヤク@AI臨床研究 (@ai_biostat) / X
+
+https://note.com/ai_biostat/n/n5c12975136f0
+読んだ論文を忘れない。Paperpile × NotebookLMで作る「最強」の文献管理術｜わたヤク
+
 ----------
 
 https://x.com/arakencloud
@@ -151,21 +162,6 @@ MetaCompass
 
 
 
-----------
-2022-10-19
-
-http://www.baifukan.co.jp/cgi-bin/db/baifu_new_search.pl?ISBN=4-563-07832-8
-書籍名	Web連携テキスト　バイオインフォマティクス 　 基礎から応用
-
-Web資料
-https://www.iu.a.u-tokyo.ac.jp/textbook/
-
-https://www.iu.a.u-tokyo.ac.jp/textbook/chapter3.html
-第3章 生物配列解析
-
-https://www.iu.a.u-tokyo.ac.jp/textbook/chapter6.html
-第6章 生物配列統計学
-https://www.iu.a.u-tokyo.ac.jp/textbook/chapter6.html#65_分岐年代推定
 
 ----------
 
@@ -179,6 +175,115 @@ https://wpb.shueisha.co.jp/news/entertainment/2025/07/15/127616/
 
 
 ----------
+
+
+
+----------
+
+
+
+
+2025.05.27
+https://encount.press/archives/802531/
+万博ユスリカ大量発生は「起こるべくして起こった」　夢洲で失われた貴重な生態系「万博推進が最優先」 | ENCOUNT
+
+
+
+
+2024/10/30
+https://database.medica.co.jp/floor/article.php?article_id=528
+【連載】速報TOPiC「マスギャザリングイベントにおける感染対策 ―2025年大阪・関西万博に向けて―」｜感染症・感染管理/インフェクションコントロール
+
+January 23, 2023
+https://www.tkfd.or.jp/research/detail.php?id=4161
+東京オリンピックの感染への影響の推定：Synthetic control method | 研究プログラム | 東京財団
+
+2021/7/24(土) 17:02
+https://news.yahoo.co.jp/expert/articles/cd82da97b90d8b64cdaace2ffb12b4b28e098ed0
+オリパラ、大阪万博、スポーツイベントなど、人が多く集まる「マスギャザリング」で問題になる感染症は？
+忽那賢志
+感染症専門医
+
+
+10:45 PM · Apr 21, 2025
+https://x.com/tangming2005/status/1914314433352077695
+Ming "Tommy" Tang on X: "1/17 Confused by plus/minus strands, coding/template, or forward/reverse in DNA data? You're not alone. Here's how to never mix them up 🧵 https://t.co/Da20cGXHJc" / X
+
+
+2019年12月25日
+https://qiita.com/khigashi02/items/48a216839b13af6c0826
+マイクロバイオームとメタボロームの「相関」を検出する確率モデルmmvec #Python - Qiita
+
+
+----------
+
+2024年11月28日
+https://www.neb.com/ja-jp/nebinspired-blog/interview-nebnext-shiwa
+2024 JP interview NEBNext Shiwa | NEB
+巨生物に埋もれたウイルスを見つけ出す！
+
+https://www.ir-mail.com/grant2024_neb.html
+ＩＲＭＡＩＬサイエンスグラント｜ＩＲＭＡＩＬ
+NEB賞　受賞者インタビュー
+東京農業大学　生命科学部　分子微生物学科
+准教授　志波優　先生
+
+https://pmc.ncbi.nlm.nih.gov/articles/PMC10326927/
+Evaluation of rRNA depletion methods for capturing the RNA virome from environmental surfaces
+
+
+
+----------
+- AMR
+- https://asm.org/Articles/2020/November/Some-Good-News-for-World-Antimicrobial-Awareness-W
+- https://www.cdc.gov/drugresistance/biggest-threats.html
+
+人と物の移動により微生物が移動する
+
+出典: Zhu et al. (2017) Science. 357(6356):1099-1100. "Microbial mass movements."
+
+Faria et al. (2016) Science. 352(6283):345-349. "Zika virus in the Americas: Early epidemiological and genetic findings.”
+
+
+
+https://www.primate.or.jp/serialization/109%EF%BC%8Eブラジルでの小頭症は1個のアミノ酸が置換し/ ブラジルにウイルスが持ち込まれた経路については、2014年のサッカー・ワールドカップ（6月から7月）、その直後のリオデジャネイロでのカヌー競技（8月）、2013年6月のコンフェデレーション・カップが候補に挙げられていた。ジカウイルスのゲノムでは、1年間に1000塩基中の1個の割合で変異が起きていると推定されている。この分子進化速度に基づいて計算すると、ウイルスがアメリカ大陸に持ち込まれた時期は、ワールドカップやカヌー競技よりも前で、コンフェデレーション・カップの時期に一致していた。しかし、この競技はポリネシアで最初のジカウイルス感染が確認される前に終わっていたため、このイベントとは関係ないと考えられた（1）。
+
+
+https://pubmed.ncbi.nlm.nih.gov/27013429/
+Science
+. 2016 Apr 15;352(6283):345-349. doi: 10.1126/science.aaf5036. Epub 2016 Mar 24.
+Zika virus in the Americas: Early epidemiological and genetic findings
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4918795/
+https://science.sciencemag.org/content/352/6283/345.long
+
+----------
+
+https://www.ncbi.nlm.nih.gov/pubmed/32265315
+mSystems. 2020 Apr 7;5(2). pii: e00245-20. doi: 10.1128/mSystems.00245-20.
+2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission.
+Dietz L#1, Horve PF#2, Coil DA3, Fretz M1,4, Eisen JA5,6,3, Van Den Wymelenberg K1,4.
+https://msystems.asm.org/content/5/2/e00245-20
+人工環境(built environment; BE)の微生物学研究と新型コロナウイルス（SARS-CoV-2）に関する既知の情報を統合し、感染を減らすための実行可能なガイダンスを提供
+
+- 室内温度では、相対湿度(RH)40%以上は一般的なウィルスの生存に有害である(63, 66, 67)
+- 高いRHは感染性インフルエンザウイルスを減少させる(67)
+- 高いRHはウイルス粒子の空気中の飛散を減少させる(63, 68, 69)
+- 高湿度は、脂質膜に影響を与え、ウイルスを不活性化する(70, 71)
+- 湿度の変化は、個人がウイルス粒子による感染を受けやすいかどうか(72)、ウイルス粒子がどの程度まで気道に沈着しやすいか(68)に影響を与える可能性
+- RHの低下は、侵入した病原体の気道粘液線毛クリアランス mucociliary clearance (MCC)を減少させ、自然免疫応答を弱める(72-74)
+- しかし、RH80%以上は、カビの増殖を促進する（健康に有害な）可能性(75)
+
+相対湿度(RH)40-60%を推奨
+https://40to60rh.com
+
+https://twitter.com/VirusesImmunity/status/1320430656481120256
+Prof. Akiko Iwasaki
+@VirusesImmunity
+As we approach the cold winter months in the Northern Hemisphere, I want to share these movies of mucociliary clearance (MCC) in the trachea of mice housed at 10% vs. 50% relative humidity (RH). Captured by 
+@ericsongg
+  (1/n)
+
+
 
 
 
@@ -450,115 +555,6 @@ https://gendai.media/articles/-/146098
 なんと「日本の土」から「世界を救う発見」が…「ノーベル賞」も受賞した「日本」の「微生物」の底力！（藤井 一至） | ブルーバックス | 講談社
 
 ----------
-
-
-
-----------
-
-
-
-
-2025.05.27
-https://encount.press/archives/802531/
-万博ユスリカ大量発生は「起こるべくして起こった」　夢洲で失われた貴重な生態系「万博推進が最優先」 | ENCOUNT
-
-
-
-
-2024/10/30
-https://database.medica.co.jp/floor/article.php?article_id=528
-【連載】速報TOPiC「マスギャザリングイベントにおける感染対策 ―2025年大阪・関西万博に向けて―」｜感染症・感染管理/インフェクションコントロール
-
-January 23, 2023
-https://www.tkfd.or.jp/research/detail.php?id=4161
-東京オリンピックの感染への影響の推定：Synthetic control method | 研究プログラム | 東京財団
-
-2021/7/24(土) 17:02
-https://news.yahoo.co.jp/expert/articles/cd82da97b90d8b64cdaace2ffb12b4b28e098ed0
-オリパラ、大阪万博、スポーツイベントなど、人が多く集まる「マスギャザリング」で問題になる感染症は？
-忽那賢志
-感染症専門医
-
-
-10:45 PM · Apr 21, 2025
-https://x.com/tangming2005/status/1914314433352077695
-Ming "Tommy" Tang on X: "1/17 Confused by plus/minus strands, coding/template, or forward/reverse in DNA data? You're not alone. Here's how to never mix them up 🧵 https://t.co/Da20cGXHJc" / X
-
-
-2019年12月25日
-https://qiita.com/khigashi02/items/48a216839b13af6c0826
-マイクロバイオームとメタボロームの「相関」を検出する確率モデルmmvec #Python - Qiita
-
-https://note.com/masakadokawata/n/n2dfc4217831e 進化における「適応」という言葉をめぐって｜河田 雅圭｜note 2022年10月8日 19:53
-https://github.com/haruosuz/evolve/blob/master/README.md#kawatamasakado
-
-----------
-
-2024年11月28日
-https://www.neb.com/ja-jp/nebinspired-blog/interview-nebnext-shiwa
-2024 JP interview NEBNext Shiwa | NEB
-巨生物に埋もれたウイルスを見つけ出す！
-
-https://www.ir-mail.com/grant2024_neb.html
-ＩＲＭＡＩＬサイエンスグラント｜ＩＲＭＡＩＬ
-NEB賞　受賞者インタビュー
-東京農業大学　生命科学部　分子微生物学科
-准教授　志波優　先生
-
-https://pmc.ncbi.nlm.nih.gov/articles/PMC10326927/
-Evaluation of rRNA depletion methods for capturing the RNA virome from environmental surfaces
-
-
-
-----------
-- AMR
-- https://asm.org/Articles/2020/November/Some-Good-News-for-World-Antimicrobial-Awareness-W
-- https://www.cdc.gov/drugresistance/biggest-threats.html
-
-人と物の移動により微生物が移動する
-
-出典: Zhu et al. (2017) Science. 357(6356):1099-1100. "Microbial mass movements."
-
-Faria et al. (2016) Science. 352(6283):345-349. "Zika virus in the Americas: Early epidemiological and genetic findings.”
-
-
-
-https://www.primate.or.jp/serialization/109%EF%BC%8Eブラジルでの小頭症は1個のアミノ酸が置換し/ ブラジルにウイルスが持ち込まれた経路については、2014年のサッカー・ワールドカップ（6月から7月）、その直後のリオデジャネイロでのカヌー競技（8月）、2013年6月のコンフェデレーション・カップが候補に挙げられていた。ジカウイルスのゲノムでは、1年間に1000塩基中の1個の割合で変異が起きていると推定されている。この分子進化速度に基づいて計算すると、ウイルスがアメリカ大陸に持ち込まれた時期は、ワールドカップやカヌー競技よりも前で、コンフェデレーション・カップの時期に一致していた。しかし、この競技はポリネシアで最初のジカウイルス感染が確認される前に終わっていたため、このイベントとは関係ないと考えられた（1）。
-
-
-https://pubmed.ncbi.nlm.nih.gov/27013429/
-Science
-. 2016 Apr 15;352(6283):345-349. doi: 10.1126/science.aaf5036. Epub 2016 Mar 24.
-Zika virus in the Americas: Early epidemiological and genetic findings
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4918795/
-https://science.sciencemag.org/content/352/6283/345.long
-
-----------
-
-https://www.ncbi.nlm.nih.gov/pubmed/32265315
-mSystems. 2020 Apr 7;5(2). pii: e00245-20. doi: 10.1128/mSystems.00245-20.
-2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission.
-Dietz L#1, Horve PF#2, Coil DA3, Fretz M1,4, Eisen JA5,6,3, Van Den Wymelenberg K1,4.
-https://msystems.asm.org/content/5/2/e00245-20
-人工環境(built environment; BE)の微生物学研究と新型コロナウイルス（SARS-CoV-2）に関する既知の情報を統合し、感染を減らすための実行可能なガイダンスを提供
-
-- 室内温度では、相対湿度(RH)40%以上は一般的なウィルスの生存に有害である(63, 66, 67)
-- 高いRHは感染性インフルエンザウイルスを減少させる(67)
-- 高いRHはウイルス粒子の空気中の飛散を減少させる(63, 68, 69)
-- 高湿度は、脂質膜に影響を与え、ウイルスを不活性化する(70, 71)
-- 湿度の変化は、個人がウイルス粒子による感染を受けやすいかどうか(72)、ウイルス粒子がどの程度まで気道に沈着しやすいか(68)に影響を与える可能性
-- RHの低下は、侵入した病原体の気道粘液線毛クリアランス mucociliary clearance (MCC)を減少させ、自然免疫応答を弱める(72-74)
-- しかし、RH80%以上は、カビの増殖を促進する（健康に有害な）可能性(75)
-
-相対湿度(RH)40-60%を推奨
-https://40to60rh.com
-
-https://twitter.com/VirusesImmunity/status/1320430656481120256
-Prof. Akiko Iwasaki
-@VirusesImmunity
-As we approach the cold winter months in the Northern Hemisphere, I want to share these movies of mucociliary clearance (MCC) in the trachea of mice housed at 10% vs. 50% relative humidity (RH). Captured by 
-@ericsongg
-  (1/n)
 
 
 ----------
