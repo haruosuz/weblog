@@ -18,6 +18,68 @@ https://www.youtube.com/playlist?list=PLwYqPUoLreQNIysCX6yhE776FozTL3U11
 https://www.youtube.com/playlist?list=PLwYqPUoLreQMsjNgQkqwHflNboUpC6eud
 【医療者向け・音声のみ】くつ王レディオ – 最新感染症論文紹介 - YouTube
 
+----------
+
+
+https://www.mita-hyoron.keio.ac.jp/features/2025/
+特集｜三田評論ONLINE
+
+2025年12月号
+【特集：「排外主義」を問い直す】
+【特集：「排外主義」を問い直す】座談会：「外国人問題」の構造から何が見えるか
+【特集：「排外主義」を問い直す】毛受　敏浩：人口減少と外国人受入れ──共生政策の課題と展望
+【特集：「排外主義」を問い直す】安田　菜津紀：日本における外国人差別の現場から考える、共生への道
+
+https://www.mita-hyoron.keio.ac.jp/features/2025/12-1.html
+座談会：「外国人問題」の構造から何が見えるか｜特集｜三田評論ONLINE
+
+https://www.mita-hyoron.keio.ac.jp/features/2025/12-2.html
+昔農　英明：移民の統合と排外主義に揺れるドイツ｜特集｜三田評論ONLINE
+
+https://www.mita-hyoron.keio.ac.jp/features/2025/12-3.html
+毛受　敏浩：人口減少と外国人受入れ──共生政策の課題と展望｜特集｜三田評論ONLINE
+
+https://www.mita-hyoron.keio.ac.jp/features/2025/12-4.html
+安田　菜津紀：日本における外国人差別の現場から考える、共生への道｜特集｜三田評論ONLINE
+
+----------
+# Keio
+
+- https://twitter.com/Keio_univ_PR
+- https://twitter.com/keio_news
+- https://twitter.com/KeioSFC
+
+https://www.sfc.keio.ac.jp/gsmg/about/faculty/
+慶應義塾大学湘南藤沢キャンパス（SFC） 教員プロフィール
+https://www.sfc.keio.ac.jp/faculty_profile/en/
+
+https://www.sfc.keio.ac.jp/deans_diary/
+おかしら日記 | 慶應義塾大学 湘南藤沢キャンパス（SFC）
+
+https://www.keio.ac.jp/ja/gakumon150/
+ガクモンノススメ特設ページ：[慶應義塾]
+
+https://www.keio.ac.jp/ja/about/president/blog/2024/2/27/379-157072/
+塾長室だより　No. 21　大学と日本の危機－再考：[慶應義塾]
+
+https://sfcclip.net/bus/
+バス時刻表 | SFC CLIP
+
+http://www.kanachu.co.jp/dia/diagram/timetable/cs:0000800447-1/nid:00129985/rt:0/k:慶応大学
+「慶応大学」バス停の時刻表 | 神奈川中央交通
+
+https://helpfeel.com/SFCHelp/タクシー-635699d1fe226f002362c282
+SFCHelp - タクシー
+「デルタ館前」のように場所を指定してタクシーを呼ぶことができます
+相愛交通: 0120-87-2610
+
+----------
+
+https://www.students.keio.ac.jp/com/class/registration/chatgpt.html
+ChatGPT等生成AIの利用について：慶應義塾大学塾生サイト
+
+https://www.itc.keio.ac.jp/ja/software_ai_guideline.html
+慶應義塾における生成AIの利用ガイドライン | 慶應義塾ITC
 
 
 ----------
@@ -100,44 +162,7 @@ https://video.ucdavis.edu/media/BIS180L+Lecture3b+For+Loops/0_c206k3g2/158861492
 BIS180L Lecture3b For Loops - University of California, Davis
 
 
-----------
-# Keio
 
-- https://twitter.com/Keio_univ_PR
-- https://twitter.com/keio_news
-- https://twitter.com/KeioSFC
-
-https://www.sfc.keio.ac.jp/gsmg/about/faculty/
-慶應義塾大学湘南藤沢キャンパス（SFC） 教員プロフィール
-https://www.sfc.keio.ac.jp/faculty_profile/en/
-
-https://www.sfc.keio.ac.jp/deans_diary/
-おかしら日記 | 慶應義塾大学 湘南藤沢キャンパス（SFC）
-
-https://www.keio.ac.jp/ja/gakumon150/
-ガクモンノススメ特設ページ：[慶應義塾]
-
-https://www.keio.ac.jp/ja/about/president/blog/2024/2/27/379-157072/
-塾長室だより　No. 21　大学と日本の危機－再考：[慶應義塾]
-
-https://sfcclip.net/bus/
-バス時刻表 | SFC CLIP
-
-http://www.kanachu.co.jp/dia/diagram/timetable/cs:0000800447-1/nid:00129985/rt:0/k:慶応大学
-「慶応大学」バス停の時刻表 | 神奈川中央交通
-
-https://helpfeel.com/SFCHelp/タクシー-635699d1fe226f002362c282
-SFCHelp - タクシー
-「デルタ館前」のように場所を指定してタクシーを呼ぶことができます
-相愛交通: 0120-87-2610
-
-----------
-
-https://www.students.keio.ac.jp/com/class/registration/chatgpt.html
-ChatGPT等生成AIの利用について：慶應義塾大学塾生サイト
-
-https://www.itc.keio.ac.jp/ja/software_ai_guideline.html
-慶應義塾における生成AIの利用ガイドライン | 慶應義塾ITC
 
 ----------
 
@@ -806,28 +831,6 @@ https://lh3.github.io/2018/11/25/on-the-definition-of-sequence-identity
 
 
 ----------
-
-
-
-
-
-----------
-
-
-
-https://www.yodosha.co.jp/yodobook/book/9784758108515/
-ネイティブが教える英語論文・グラント獲得・アウトリーチ　成功の戦略と文章術 - 羊土社
-
-https://www.yodosha.co.jp/jikkenigaku/special/biomedical_writer/index.html
-ウィズコロナ・アフターコロナの研究者応援企画 翻訳書「ネイティブが教える英語論文・グラント獲得・アウトリーチ 成功の戦略と文章術」の一部を無料公開します！ - 羊土社
-
-2020.11.25
-https://www.asca-co.com/blog/study/entry20201125120800.html
-査読者の"脳"をつかむ！:第2回 論文執筆術ウェビナー『成功の戦略と文章術』 | セミナー | トピックス | 医薬翻訳のアスカコーポレーション
-
-11:30 AM · Jul 15, 2020
-https://twitter.com/yodosha_em/status/1283227283633827840
-羊土社 実験医学 on X: "「ネイティブが教える英語論文・グラント獲得・アウトリーチ 成功の戦略と文章術」の一部無料公開、第2回をお届けします！ 今回は、文章に一貫性をもたせることについて解説。プライミング効果、新近効果、Head-Body-Foot構造などのキーワードが登場。 https://t.co/S7HqSto6HE" / X
 
 
 
