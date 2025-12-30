@@ -18,19 +18,20 @@ https://www.youtube.com/playlist?list=PLwYqPUoLreQNIysCX6yhE776FozTL3U11
 https://www.youtube.com/playlist?list=PLwYqPUoLreQMsjNgQkqwHflNboUpC6eud
 【医療者向け・音声のみ】くつ王レディオ – 最新感染症論文紹介 - YouTube
 
-
 ----------
+
+https://x.com/YujiY0402
+山田 悠史 | Yuji Yamada, MD (@YujiY0402) / X
+米国老年医学専門医 | Sr Assistant Professor at Mount Sinai | NewsPicksプロピッカー | Ishify共同代表 | めどはぶ | 📺YouTube「医者のいらないTV」⬇️ | ポッドキャスト「医者のいらないラジオ」 | 著書「最高の老後」など
+
+https://twitter.com/keiyou30
+山本健人(外科医けいゆう, Takehito Yamamoto) (@keiyou30) / X
 
 https://x.com/enodon
-
 https://note.com/enodon
-
-https://note.com/enodon/n/n020bb5b26ced
-【大阪・臓器遺棄】なぜ「人間の臓器」は市場に捨てられたのか。病理医が読み解く、医療廃棄物の深い闇｜榎木英介（フリーランス病理医・科学ジャーナリスト賞受賞者）
-
+榎木英介（フリーランス病理医・科学ジャーナリスト賞受賞者）
 
 ----------
-
 
 https://www.mita-hyoron.keio.ac.jp/features/2025/
 特集｜三田評論ONLINE
