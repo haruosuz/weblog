@@ -31,6 +31,97 @@ https://x.com/enodon
 https://note.com/enodon
 榎木英介（フリーランス病理医・科学ジャーナリスト賞受賞者）
 
+
+----------
+
+12 2月 2025
+https://www.microbial-ecology.jp/?p=12252
+日本微生物生態学会 » ISME SeqCode ならびにICSP対応WGの設置と参加者募集について
+
+----------
+
+https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md
+
+https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#ani
+https://kazumaxneo.hatenablog.com/entry/2024/03/04/052056 ANIについて - macでインフォマティクス
+
+多元論、一元論
+
+https://github.com/haruosuz/mgsa/blob/master/references/mgsa.taxonomy.md
+
+https://ja.wikipedia.org/wiki/種_(分類学)
+種の定義・概念は、現在、22以上あり、研究が進むほどに増加している[1]。
+
+2016-12-22 https://shorebird.hatenablog.com/entries/2016/12/22 書評　「生物学の哲学入門」 - shorebird　進化心理学中心の書評など
+
+種の多元論（複数の種概念を使い分けようという立場），伝統的本質主義と種カテゴリー恒常的性質クラスター
+
+http://leeswijzer.org/R/R-cluster.html
+クラスター分析の光と闇
+――なぜヒトは分類に憑かれるのか？――
+三中信宏
+
+----------
+
+October 23, 2023
+https://theoreticalecology.wordpress.com/2023/10/23/time-to-leave-species-richness-behind-as-it-serves-no-scientific-purpose-on-x-or-y-axis/
+Time to leave “species richness” behind, as it serves no scientific purpose on x- or y-axis | theoretical ecology
+
+
+----------
+
+
+https://twitter.com/arakencloud
+荒木健太郎 (@arakencloud) / X
+
+雲研究者・気象庁気象研究所主任研究官・学術博士。防災・減災のために、雲の仕組みを研究してます。映画『天気の子』気象監修。出演：情熱大陸／ドラえもんなど。著書：すごすぎる #天気の図鑑 シリーズ／雲の超図鑑／読み終えた瞬間、空が美しく見える気象のはなし／雲の教室／雲を愛する技術など。発信は個人見解です
+
+9:44 PM · Feb 4, 2024
+https://twitter.com/arakencloud/status/1754123821328867674
+荒木健太郎 on X: "大雪への備えまとめです。 関東の皆さま、いま一度ご確認ください。 https://t.co/eoytT5yIaq" / X
+
+
+https://twitter.com/kutsunasatoshi
+忽那賢志 (@kutsunasatoshi) / Twitter
+
+https://twitter.com/metacovid19
+メタコビ公式
+
+https://twitter.com/SystemsVirology
+The Sato Lab (Kei Sato) (@SystemsVirology) / X
+
+https://twitter.com/mph_for_doctors
+手を洗う救急医Taka（木下喬弘） (@mph_for_doctors) / Twitter
+
+----------
+## twitter
+
+- https://twitter.com
+- https://twitter.com/copypasteusa
+- https://twitter.com/copypasteusa/likes
+- https://twitter.com/oikawamaru
+オイカワ丸 (@oikawamaru) / Twitter
+
+----------
+# DNBSEQ
+
+https://genome-lead.co.jp/J_NGS_DNBseq.php
+DNBSEQーT7/G400次世代シークエンスの受託
+
+https://genebay.co.jp/dnbseq/
+DNBSEQ（MGISEQ）シーケンス受託サービス | 株式会社ジーンベイ（GeneBay）
+
+https://jp.mgi-tech.com/products/instruments_info/2/
+DNBSEQ-G400: ハイスループット遺伝子シーケンサー-MGI Tech Japan 株式会社
+
+https://jp.mgi-tech.com/products/
+MGIシーケンシングプラットフォーム: ハイスループット遺伝子シーケンサー, DNBSEQ™ シーケンシング技術-MGI Tech Japan 株式会社
+
+
+
+
+
+
 ----------
 
 https://www.mita-hyoron.keio.ac.jp/features/2025/
@@ -174,8 +265,6 @@ https://video.ucdavis.edu/media/BIS180L+Lecture3b+For+Loops/0_c206k3g2/158861492
 BIS180L Lecture3b For Loops - University of California, Davis
 
 
-
-
 ----------
 
 
@@ -223,8 +312,6 @@ https://wpb.shueisha.co.jp/news/entertainment/2025/07/15/127616/
 2025.05.27
 https://encount.press/archives/802531/
 万博ユスリカ大量発生は「起こるべくして起こった」　夢洲で失われた貴重な生態系「万博推進が最優先」 | ENCOUNT
-
-
 
 
 2024/10/30
@@ -320,76 +407,6 @@ As we approach the cold winter months in the Northern Hemisphere, I want to shar
 @ericsongg
   (1/n)
 
-
-
-
-
-
-----------
-
-October 23, 2023
-https://theoreticalecology.wordpress.com/2023/10/23/time-to-leave-species-richness-behind-as-it-serves-no-scientific-purpose-on-x-or-y-axis/
-Time to leave “species richness” behind, as it serves no scientific purpose on x- or y-axis | theoretical ecology
-
-
-----------
-
-
-https://twitter.com/arakencloud
-荒木健太郎 (@arakencloud) / X
-
-雲研究者・気象庁気象研究所主任研究官・学術博士。防災・減災のために、雲の仕組みを研究してます。映画『天気の子』気象監修。出演：情熱大陸／ドラえもんなど。著書：すごすぎる #天気の図鑑 シリーズ／雲の超図鑑／読み終えた瞬間、空が美しく見える気象のはなし／雲の教室／雲を愛する技術など。発信は個人見解です
-
-9:44 PM · Feb 4, 2024
-https://twitter.com/arakencloud/status/1754123821328867674
-荒木健太郎 on X: "大雪への備えまとめです。 関東の皆さま、いま一度ご確認ください。 https://t.co/eoytT5yIaq" / X
-
-
-https://twitter.com/kutsunasatoshi
-忽那賢志 (@kutsunasatoshi) / Twitter
-
-https://twitter.com/metacovid19
-メタコビ公式
-
-https://twitter.com/SystemsVirology
-The Sato Lab (Kei Sato) (@SystemsVirology) / X
-
-https://twitter.com/mph_for_doctors
-手を洗う救急医Taka（木下喬弘） (@mph_for_doctors) / Twitter
-
-----------
-## twitter
-
-- https://twitter.com
-- https://twitter.com/copypasteusa
-- https://twitter.com/copypasteusa/likes
-- https://twitter.com/oikawamaru
-オイカワ丸 (@oikawamaru) / Twitter
-
-
-----------
-
-https://kazumaxneo.hatenablog.com/entry/2018/05/11/180244
-MinHashを使い高速にゲノムを比較する MASH - macでインフォマティクス
-
-https://pubmed.ncbi.nlm.nih.gov/27323842/
-Genome Biol
-. 2016 Jun 20;17(1):132. doi: 10.1186/s13059-016-0997-x.
-Mash: fast genome and metagenome distance estimation using MinHash
-Brian D Ondov 1, Todd J Treangen 1, Páll Melsted 2, Adam B Mallonee 1, Nicholas H Bergman 1, Sergey Koren 3, Adam M Phillippy 4
-https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0997-x
-https://pmc.ncbi.nlm.nih.gov/articles/PMC4915045/
-
-https://kazumaxneo.hatenablog.com/entry/2018/09/14/141442
-MinHashを使った高速なANI計算ツール fastANI - macでインフォマティクス
-
-https://pubmed.ncbi.nlm.nih.gov/30504855/
-Nat Commun
-. 2018 Nov 30;9(1):5114. doi: 10.1038/s41467-018-07641-9.
-High throughput ANI analysis of 90K prokaryotic genomes reveals clear species boundaries
-Chirag Jain 1 2, Luis M Rodriguez-R 3 4, Adam M Phillippy 2, Konstantinos T Konstantinidis 5 6, Srinivas Aluru 7 8
-https://www.nature.com/articles/s41467-018-07641-9
-https://pmc.ncbi.nlm.nih.gov/articles/PMC6269478/
 
 
 ----------
@@ -506,73 +523,8 @@ https://x.com/ChikumaShinsho/status/1854744523534221664
 https://www.webchikuma.com/n/n32adff7e019d
 「リサーチ・クエスチョン」をめぐる不都合な真実｜webちくま（筑摩書房の読みものサイト）
 
-----------
-# DNBSEQ
 
-https://genome-lead.co.jp/J_NGS_DNBseq.php
-DNBSEQーT7/G400次世代シークエンスの受託
 
-https://genebay.co.jp/dnbseq/
-DNBSEQ（MGISEQ）シーケンス受託サービス | 株式会社ジーンベイ（GeneBay）
-
-https://jp.mgi-tech.com/products/instruments_info/2/
-DNBSEQ-G400: ハイスループット遺伝子シーケンサー-MGI Tech Japan 株式会社
-
-https://jp.mgi-tech.com/products/
-MGIシーケンシングプラットフォーム: ハイスループット遺伝子シーケンサー, DNBSEQ™ シーケンシング技術-MGI Tech Japan 株式会社
-
-----------
-
-第3回プラスミド研究会 「プラスミドの網羅的データベース構築に向けて」
-https://www.nig.ac.jp/nig/research/nig-meetings?id=1734
-
-----------
-
-https://pmc.ncbi.nlm.nih.gov/articles/PMC8628078/
-Philos Trans R Soc Lond B Biol Sci. 2021 Nov 29;377(1842):20200472. doi: 10.1098/rstb.2020.0472
-What makes a megaplasmid?
-
-There exist relatively small plasmids that are absolutely essential for physiological functioning of cells, such as the 9.4 kb ribosomal RNA-encoding plasmids of Aureimonas [48], and gigantic plasmids that are expendable and whose fitness effects are only apparent in specific niches and contexts, for example, the 1.35 Mb pSymA of Sinorhizobium meliloti, deletion of which has only minor effects on growth, transcription and proteome phenotypes [49–51].
-
-48.Anda M, Ohtsubo Y, Okubo T, Sugawara M, Nagata Y, Tsuda M, Minamisawa K, Mitsui H. 2015. Bacterial clade with the ribosomal RNA operon on a small plasmid rather than the chromosome. Proc. Natl Acad. Sci. USA 112, 14343-14 347. ( 10.1073/pnas.1514326112) [DOI] [PMC free article] [PubMed] [Google Scholar]
-
-----------
-
-https://pmc.ncbi.nlm.nih.gov/articles/PMC5584315/
-Microbiol Mol Biol Rev. 2017 Aug 9;81(3):e00019-17. doi: 10.1128/MMBR.00019-17
-The Divided Bacterial Genome: Structure, Function, and Evolution
-George C diCenzo 1, Turlough M Finan 1,✉
-
-There is also the peculiar case of an unusual clade within the Aureimonas genus that has the sole copy of the rRNA operon on a 9.4-kb plasmid (10). 
-
-10.Anda M, Ohtsubo Y, Okubo T, Sugawara M, Nagata Y, Tsuda M, Minamisawa K, Mitsui H. 2015. Bacterial clade with the ribosomal RNA operon on a small plasmid rather than the chromosome. Proc Natl Acad Sci U S A 112:14343–14347. doi: 10.1073/pnas.1514326112. [DOI] [PMC free article] [PubMed] [Google Scholar]
-
-----------
-
-https://colil.dbcls.jp/browse/papers/26534993/1/100/year
-Bacterial clade with the ribosomal RNA operon on a small plasmid rather than the chromosome.
-Anda M, Ohtsubo Y, Okubo T, Sugawara M, Nagata Y, Tsuda M, Minamisawa K, Mitsui H Proc Natl Acad Sci U S A. 2015 Nov 17;112(46):14343-7. PMID:26534993
-    is cited by the following papers.
-
-----------
-
-----------
-
-多元論、一元論
-
-https://github.com/haruosuz/mgsa/blob/master/references/mgsa.taxonomy.md
-
-https://ja.wikipedia.org/wiki/種_(分類学)
-種の定義・概念は、現在、22以上あり、研究が進むほどに増加している[1]。
-
-2016-12-22 https://shorebird.hatenablog.com/entries/2016/12/22 書評　「生物学の哲学入門」 - shorebird　進化心理学中心の書評など
-
-種の多元論（複数の種概念を使い分けようという立場），伝統的本質主義と種カテゴリー恒常的性質クラスター
-
-http://leeswijzer.org/R/R-cluster.html
-クラスター分析の光と闇
-――なぜヒトは分類に憑かれるのか？――
-三中信宏
 
 
 ----------
