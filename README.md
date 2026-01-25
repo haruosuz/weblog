@@ -38,28 +38,6 @@ https://note.com/enodon
 https://www.microbial-ecology.jp/?p=12252
 日本微生物生態学会 » ISME SeqCode ならびにICSP対応WGの設置と参加者募集について
 
-----------
-
-https://github.com/haruosuz/evolve/blob/master/references/README.evolve.jargon.md
-
-https://github.com/haruosuz/mgsa/blob/master/references/mgsa.tools.md#ani
-https://kazumaxneo.hatenablog.com/entry/2024/03/04/052056 ANIについて - macでインフォマティクス
-
-多元論、一元論
-
-https://github.com/haruosuz/mgsa/blob/master/references/mgsa.taxonomy.md
-
-https://ja.wikipedia.org/wiki/種_(分類学)
-種の定義・概念は、現在、22以上あり、研究が進むほどに増加している[1]。
-
-2016-12-22 https://shorebird.hatenablog.com/entries/2016/12/22 書評　「生物学の哲学入門」 - shorebird　進化心理学中心の書評など
-
-種の多元論（複数の種概念を使い分けようという立場），伝統的本質主義と種カテゴリー恒常的性質クラスター
-
-http://leeswijzer.org/R/R-cluster.html
-クラスター分析の光と闇
-――なぜヒトは分類に憑かれるのか？――
-三中信宏
 
 ----------
 
@@ -117,36 +95,11 @@ DNBSEQ-G400: ハイスループット遺伝子シーケンサー-MGI Tech Japan 
 https://jp.mgi-tech.com/products/
 MGIシーケンシングプラットフォーム: ハイスループット遺伝子シーケンサー, DNBSEQ™ シーケンシング技術-MGI Tech Japan 株式会社
 
-
-
-
-
-
 ----------
-
-https://www.mita-hyoron.keio.ac.jp/features/2025/
-特集｜三田評論ONLINE
-
-2025年12月号
-【特集：「排外主義」を問い直す】
-【特集：「排外主義」を問い直す】座談会：「外国人問題」の構造から何が見えるか
-【特集：「排外主義」を問い直す】毛受　敏浩：人口減少と外国人受入れ──共生政策の課題と展望
-【特集：「排外主義」を問い直す】安田　菜津紀：日本における外国人差別の現場から考える、共生への道
-
-https://www.mita-hyoron.keio.ac.jp/features/2025/12-1.html
-座談会：「外国人問題」の構造から何が見えるか｜特集｜三田評論ONLINE
-
-https://www.mita-hyoron.keio.ac.jp/features/2025/12-2.html
-昔農　英明：移民の統合と排外主義に揺れるドイツ｜特集｜三田評論ONLINE
-
-https://www.mita-hyoron.keio.ac.jp/features/2025/12-3.html
-毛受　敏浩：人口減少と外国人受入れ──共生政策の課題と展望｜特集｜三田評論ONLINE
-
-https://www.mita-hyoron.keio.ac.jp/features/2025/12-4.html
-安田　菜津紀：日本における外国人差別の現場から考える、共生への道｜特集｜三田評論ONLINE
 
 ----------
 # Keio
+
 
 - https://twitter.com/Keio_univ_PR
 - https://twitter.com/keio_news
@@ -156,14 +109,18 @@ https://www.sfc.keio.ac.jp/gsmg/about/faculty/
 慶應義塾大学湘南藤沢キャンパス（SFC） 教員プロフィール
 https://www.sfc.keio.ac.jp/faculty_profile/en/
 
-https://www.sfc.keio.ac.jp/deans_diary/
-おかしら日記 | 慶應義塾大学 湘南藤沢キャンパス（SFC）
 
 https://www.keio.ac.jp/ja/gakumon150/
 ガクモンノススメ特設ページ：[慶應義塾]
 
-https://www.keio.ac.jp/ja/about/president/blog/2024/2/27/379-157072/
-塾長室だより　No. 21　大学と日本の危機－再考：[慶應義塾]
+https://www.sfc.keio.ac.jp/magazine/deans_diary/
+おかしら日記 | 慶應義塾大学 湘南藤沢キャンパス（SFC）
+
+https://www.keio.ac.jp/ja/about/president/blog/2026/
+塾長室だより一覧：[慶應義塾]
+
+https://www.mita-hyoron.keio.ac.jp/
+三田評論ONLINE
 
 https://sfcclip.net/bus/
 バス時刻表 | SFC CLIP
