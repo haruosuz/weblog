@@ -34,6 +34,23 @@ https://x.com/enodon
 https://note.com/enodon
 榎木英介（フリーランス病理医・科学ジャーナリスト賞受賞者）
 
+----------
+
+https://x.com/dritoshi
+
+6:45 PM · Apr 9, 2026
+https://x.com/dritoshi/status/2042176982138671453
+ゲノムのほうの愛ちゃん🌙 🐧 on X: "移動中スマホで読みたいひとはgithubの公式アプリがおすすめです。https://t.co/3pSNaony82 https://t.co/mAg5fH52py" / X
+
+5:12 PM · Apr 9, 2026
+https://x.com/dritoshi/status/2042153557240246672
+ゲノムのほうの愛ちゃん🌙 🐧 on X: "プログラミング初心者な実験生物学者がVibe codingで研究加速するうえで知っておきたいコンピュータサイエンスやプログラミング、バイオインフォの基礎だけを抽出したドキュメントを公開しました 。「はじめに」だけでも読んでみてください。URLは次の投稿で" / X
+
+5:12 PM · Apr 9, 2026
+https://x.com/dritoshi/status/2042153558913786006
+ゲノムのほうの愛ちゃん🌙 🐧 on X: "「AIエージェントを使いこなす はじめてのバイオインフォマティクス開発作法 -- 情報技術の基礎から環境構築・設計・テスト・公開まで」Vibe coding初心者から上級者までフィードバック待ってます! https://t.co/EvnSxZl4ek" / X
+
+https://github.com/dritoshi/ai-biocode-kata
 
 ----------
 
