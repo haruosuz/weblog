@@ -8,9 +8,6 @@
 - [unclassified](#unclassified)
 - 
 
-https://x.com/ai_jitan/status/2029032869738496135
-えーたん/AI×時短で仕事効率化 on X: "NotebookLMの全機能を、本気で全部書く。【2026年完全版】" / X
-
 ----------
 
 https://x.com/kutsunasatoshi
@@ -54,6 +51,20 @@ https://github.com/dritoshi/ai-biocode-kata
 
 ----------
 
+https://oimachi-keio.com/topics/orf2025/
+
+https://oimachi-keio.com/topics/orf2025report/
+
+https://oimachi-keio.com/topics/orf2025-2/
+
+----------
+
+
+
+
+https://x.com/ai_jitan/status/2029032869738496135
+えーたん/AI×時短で仕事効率化 on X: "NotebookLMの全機能を、本気で全部書く。【2026年完全版】" / X
+
 12 2月 2025
 https://www.microbial-ecology.jp/?p=12252
 日本微生物生態学会 » ISME SeqCode ならびにICSP対応WGの設置と参加者募集について
@@ -64,7 +75,6 @@ https://www.microbial-ecology.jp/?p=12252
 October 23, 2023
 https://theoreticalecology.wordpress.com/2023/10/23/time-to-leave-species-richness-behind-as-it-serves-no-scientific-purpose-on-x-or-y-axis/
 Time to leave “species richness” behind, as it serves no scientific purpose on x- or y-axis | theoretical ecology
-
 
 
 10:45 PM · Apr 21, 2025
