@@ -9,6 +9,85 @@
 - 
 
 ----------
+### class
+
+https://github.com/haruosuz/introBI/tree/main/2026-04
+
+https://github.com/haruosuz/DS4GD/tree/master/2026-04
+
+https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md
+2本のDNA配列間の大域アラインメント
+https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#pairwise-global-alignment-of-dna-sequences-using-the-needleman-wunsch-algorithm
+
+https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/index.html
+Pairwise Sequence Alignment
+https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapter4.html
+Pairwise global alignment of DNA sequences using the Needleman-Wunsch algorithm
+https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapter4.html#pairwise-global-alignment-of-dna-sequences-using-the-needleman-wunsch-algorithm
+
+
+https://www.youtube.com/watch?v=6564K4-_DBI&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc Microbiome Discovery 1: Intro to the Microbiome - YouTube
+
+2013/07/02
+https://www.youtube.com/watch?v=S-o-sdlzhkE
+R 1.2 - Calculations and Variables - YouTube
+
+- Dave Hone - "How to read a phylogenetic tree" https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/
+- 2015-01-05 [PhyloBotanist: How to root a phylogenetic tree: outgroup, midpoint and other methods](http://phylobotanist.blogspot.com/2015/01/how-to-root-phylogenetic-tree-outgroup.html)
+- 2012-06-07 [The Cabbages of Doom: How to root a phylogenetic tree](http://cabbagesofdoom.blogspot.com/2012/06/how-to-root-phylogenetic-tree.html)
+
+----------
+Microbiome Discovery
+Dan Knights
+
+https://github.com/haruosuz/introBI/blob/main/CaseStudy.md#mice8992
+
+2016/01/23
+https://www.youtube.com/watch?v=u2IQQUMeWy8&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc&index=7
+Microbiome Discovery 4.5: (Optional) UNIX Command Line
+
+----------
+
+https://video.ucdavis.edu/channel/BIS180L+SQ2020/158861492
+BIS180L SQ2020 - University of California, Davis
+
+https://video.ucdavis.edu/media/BIS180L-SQ20-Lecture+01/0_qdzowjow
+BIS180L-SQ20-Lecture 01 - University of California, Davis
+
+https://video.ucdavis.edu/media/BIS180L+Lecture3b+For+Loops/0_c206k3g2/158861492
+BIS180L Lecture3b For Loops - University of California, Davis
+
+----------
+
+https://oimachi-keio.com/topics/orf2025/
+
+https://oimachi-keio.com/topics/orf2025report/
+
+https://oimachi-keio.com/topics/orf2025-2/
+
+
+----------
+
+https://github.com/dritoshi/ai-biocode-kata
+
+https://x.com/dritoshi
+
+6:45 PM · Apr 9, 2026
+https://x.com/dritoshi/status/2042176982138671453
+ゲノムのほうの愛ちゃん🌙 🐧 on X: "移動中スマホで読みたいひとはgithubの公式アプリがおすすめです。https://t.co/3pSNaony82 https://t.co/mAg5fH52py" / X
+
+5:12 PM · Apr 9, 2026
+https://x.com/dritoshi/status/2042153557240246672
+ゲノムのほうの愛ちゃん🌙 🐧 on X: "プログラミング初心者な実験生物学者がVibe codingで研究加速するうえで知っておきたいコンピュータサイエンスやプログラミング、バイオインフォの基礎だけを抽出したドキュメントを公開しました 。「はじめに」だけでも読んでみてください。URLは次の投稿で" / X
+
+5:12 PM · Apr 9, 2026
+https://x.com/dritoshi/status/2042153558913786006
+ゲノムのほうの愛ちゃん🌙 🐧 on X: "「AIエージェントを使いこなす はじめてのバイオインフォマティクス開発作法 -- 情報技術の基礎から環境構築・設計・テスト・公開まで」Vibe coding初心者から上級者までフィードバック待ってます! https://t.co/EvnSxZl4ek" / X
+
+https://github.com/dritoshi/ai-biocode-kata
+
+
+----------
 
 https://x.com/kutsunasatoshi
 
@@ -31,35 +110,11 @@ https://x.com/enodon
 https://note.com/enodon
 榎木英介（フリーランス病理医・科学ジャーナリスト賞受賞者）
 
-----------
 
-https://x.com/dritoshi
 
-6:45 PM · Apr 9, 2026
-https://x.com/dritoshi/status/2042176982138671453
-ゲノムのほうの愛ちゃん🌙 🐧 on X: "移動中スマホで読みたいひとはgithubの公式アプリがおすすめです。https://t.co/3pSNaony82 https://t.co/mAg5fH52py" / X
 
-5:12 PM · Apr 9, 2026
-https://x.com/dritoshi/status/2042153557240246672
-ゲノムのほうの愛ちゃん🌙 🐧 on X: "プログラミング初心者な実験生物学者がVibe codingで研究加速するうえで知っておきたいコンピュータサイエンスやプログラミング、バイオインフォの基礎だけを抽出したドキュメントを公開しました 。「はじめに」だけでも読んでみてください。URLは次の投稿で" / X
-
-5:12 PM · Apr 9, 2026
-https://x.com/dritoshi/status/2042153558913786006
-ゲノムのほうの愛ちゃん🌙 🐧 on X: "「AIエージェントを使いこなす はじめてのバイオインフォマティクス開発作法 -- 情報技術の基礎から環境構築・設計・テスト・公開まで」Vibe coding初心者から上級者までフィードバック待ってます! https://t.co/EvnSxZl4ek" / X
-
-https://github.com/dritoshi/ai-biocode-kata
 
 ----------
-
-https://oimachi-keio.com/topics/orf2025/
-
-https://oimachi-keio.com/topics/orf2025report/
-
-https://oimachi-keio.com/topics/orf2025-2/
-
-----------
-
-
 
 
 https://x.com/ai_jitan/status/2029032869738496135
@@ -256,56 +311,6 @@ https://wpb.shueisha.co.jp/news/entertainment/20251111-129103/
 11:47 PM · Dec 18, 2024
 https://x.com/iMetaScience/status/1869394134412493045
 iMeta on X: "🎥 Watch the video on how to analyze #amplicon sequencing data with the user-friendly pipeline #EasyAmplicon! 📄 Read the full paper: https://t.co/xdcpZm4Pnc 🔗 Access it on GitHub: https://t.co/fETjdYWHwh #iMetaOmics #Bioinformatics #microbiome https://t.co/b3tAwFVTzJ" / X
-
-
-----------
-### class
-- https://github.com/haruosuz/DS4GD/tree/master/2025-10
-- https://github.com/haruosuz/introBI/tree/main/2025-10
-
-https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md
-2本のDNA配列間の大域アラインメント
-https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#pairwise-global-alignment-of-dna-sequences-using-the-needleman-wunsch-algorithm
-
-https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/index.html
-Pairwise Sequence Alignment
-https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapter4.html
-Pairwise global alignment of DNA sequences using the Needleman-Wunsch algorithm
-https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapter4.html#pairwise-global-alignment-of-dna-sequences-using-the-needleman-wunsch-algorithm
-
-
-
-https://www.youtube.com/watch?v=6564K4-_DBI&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc Microbiome Discovery 1: Intro to the Microbiome - YouTube
-
-2013/07/02
-https://www.youtube.com/watch?v=S-o-sdlzhkE
-R 1.2 - Calculations and Variables - YouTube
-
-- Dave Hone - "How to read a phylogenetic tree" https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/
-- 2015-01-05 [PhyloBotanist: How to root a phylogenetic tree: outgroup, midpoint and other methods](http://phylobotanist.blogspot.com/2015/01/how-to-root-phylogenetic-tree-outgroup.html)
-- 2012-06-07 [The Cabbages of Doom: How to root a phylogenetic tree](http://cabbagesofdoom.blogspot.com/2012/06/how-to-root-phylogenetic-tree.html)
-
-----------
-Microbiome Discovery
-Dan Knights
-
-https://github.com/haruosuz/introBI/blob/main/CaseStudy.md#mice8992
-
-2016/01/23
-https://www.youtube.com/watch?v=u2IQQUMeWy8&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc&index=7
-Microbiome Discovery 4.5: (Optional) UNIX Command Line
-
-----------
-
-https://video.ucdavis.edu/channel/BIS180L+SQ2020/158861492
-BIS180L SQ2020 - University of California, Davis
-
-https://video.ucdavis.edu/media/BIS180L-SQ20-Lecture+01/0_qdzowjow
-BIS180L-SQ20-Lecture 01 - University of California, Davis
-
-https://video.ucdavis.edu/media/BIS180L+Lecture3b+For+Loops/0_c206k3g2/158861492
-BIS180L Lecture3b For Loops - University of California, Davis
-
 
 ----------
 
