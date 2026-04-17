@@ -9,6 +9,29 @@
 - 
 
 ----------
+
+https://x.com/kutsunasatoshi
+
+https://www.youtube.com/playlist?list=PLwYqPUoLreQNIysCX6yhE776FozTL3U11
+【感染症を分かりやすく解説】くつ王アカデミア - YouTube
+
+https://www.youtube.com/playlist?list=PLwYqPUoLreQMsjNgQkqwHflNboUpC6eud
+【医療者向け・音声のみ】くつ王レディオ – 最新感染症論文紹介 - YouTube
+
+----------
+
+https://x.com/YujiY0402
+山田 悠史 | Yuji Yamada, MD (@YujiY0402) / X
+米国老年医学専門医 | Sr Assistant Professor at Mount Sinai | NewsPicksプロピッカー | Ishify共同代表 | めどはぶ | 📺YouTube「医者のいらないTV」⬇️ | ポッドキャスト「医者のいらないラジオ」 | 著書「最高の老後」など
+
+https://twitter.com/keiyou30
+山本健人(外科医けいゆう, Takehito Yamamoto) (@keiyou30) / X
+
+https://x.com/enodon
+https://note.com/enodon
+榎木英介（フリーランス病理医・科学ジャーナリスト賞受賞者）
+
+----------
 ### class
 
 https://github.com/haruosuz/introBI/tree/main/2026-04
@@ -16,15 +39,8 @@ https://github.com/haruosuz/introBI/tree/main/2026-04
 https://github.com/haruosuz/DS4GD/tree/master/2026-04
 
 https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md
-2本のDNA配列間の大域アラインメント
-https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md#pairwise-global-alignment-of-dna-sequences-using-the-needleman-wunsch-algorithm
 
 https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/index.html
-Pairwise Sequence Alignment
-https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapter4.html
-Pairwise global alignment of DNA sequences using the Needleman-Wunsch algorithm
-https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/src/chapter4.html#pairwise-global-alignment-of-dna-sequences-using-the-needleman-wunsch-algorithm
-
 
 https://www.youtube.com/watch?v=6564K4-_DBI&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc Microbiome Discovery 1: Intro to the Microbiome - YouTube
 
@@ -85,31 +101,6 @@ https://x.com/dritoshi/status/2042153558913786006
 ゲノムのほうの愛ちゃん🌙 🐧 on X: "「AIエージェントを使いこなす はじめてのバイオインフォマティクス開発作法 -- 情報技術の基礎から環境構築・設計・テスト・公開まで」Vibe coding初心者から上級者までフィードバック待ってます! https://t.co/EvnSxZl4ek" / X
 
 https://github.com/dritoshi/ai-biocode-kata
-
-
-----------
-
-https://x.com/kutsunasatoshi
-
-https://www.youtube.com/playlist?list=PLwYqPUoLreQNIysCX6yhE776FozTL3U11
-【感染症を分かりやすく解説】くつ王アカデミア - YouTube
-
-https://www.youtube.com/playlist?list=PLwYqPUoLreQMsjNgQkqwHflNboUpC6eud
-【医療者向け・音声のみ】くつ王レディオ – 最新感染症論文紹介 - YouTube
-
-----------
-
-https://x.com/YujiY0402
-山田 悠史 | Yuji Yamada, MD (@YujiY0402) / X
-米国老年医学専門医 | Sr Assistant Professor at Mount Sinai | NewsPicksプロピッカー | Ishify共同代表 | めどはぶ | 📺YouTube「医者のいらないTV」⬇️ | ポッドキャスト「医者のいらないラジオ」 | 著書「最高の老後」など
-
-https://twitter.com/keiyou30
-山本健人(外科医けいゆう, Takehito Yamamoto) (@keiyou30) / X
-
-https://x.com/enodon
-https://note.com/enodon
-榎木英介（フリーランス病理医・科学ジャーナリスト賞受賞者）
-
 
 
 
