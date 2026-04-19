@@ -12,11 +12,30 @@
 
 https://x.com/kutsunasatoshi
 
+https://www.youtube.com/playlist?list=PLwYqPUoLreQMsjNgQkqwHflNboUpC6eud
+【医療者向け・音声のみ】くつ王レディオ – 最新感染症論文紹介 - YouTube
+
 https://www.youtube.com/playlist?list=PLwYqPUoLreQNIysCX6yhE776FozTL3U11
 【感染症を分かりやすく解説】くつ王アカデミア - YouTube
 
-https://www.youtube.com/playlist?list=PLwYqPUoLreQMsjNgQkqwHflNboUpC6eud
-【医療者向け・音声のみ】くつ王レディオ – 最新感染症論文紹介 - YouTube
+麻しんワクチン：2回接種すれば罹らない？
+
+麻疹はマスクで防げる？
+
+大人がかかる「百日咳」
+
+8:11 AM · Feb 27, 2026
+https://x.com/kutsunasatoshi/status/2027159659250082210
+忽那賢志 on X: "百日咳というと、若い世代の感染症というイメージがあるかもしれませんが、成人も感染します。私も罹ったことがありますが、かなり辛かった覚えがあります。未だに国内では多く発生していますが、百日咳はワクチンで防げる感染症でもあります。 大人がかかる「百日咳」 https://t.co/0QQP7aGPfU" / X
+
+8:05 AM · Feb 26, 2026
+https://x.com/kutsunasatoshi/status/2026795811594711082
+忽那賢志 on X: "昨日も申し上げましたが、麻疹の症例が世界的に増加しています。近年、小児期の麻疹風疹ワクチン1期・2期の接種率が低下してきており、欧米のような流行になることが懸念されます。ご自身のワクチン接種歴をご確認ください。 麻しんワクチン：2回接種すれば罹らない？ https://t.co/SRMmmGzPq5" / X
+
+8:29 AM · Feb 25, 2026
+https://x.com/kutsunasatoshi/status/2026439248728219781
+忽那賢志 on X: "日本全国で麻疹の症例が増加しています。麻疹は空気感染しますので、通常のマスクで完全に防ぐことはできません。ご自身のワクチン接種歴または抗体検査結果をご確認ください。 麻疹はマスクで防げる？ https://t.co/ztOWIbykuN" / X
+
 
 ----------
 
