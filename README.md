@@ -9,6 +9,27 @@
 - 
 
 ----------
+##### AI4S
+
+"AI for Science" SPReAD
+https://x.com/search?q=%22AI%20for%20Science%22%20SPReAD&src=typed_query
+
+----------
+##### NIG
+
+12:01 PM · Apr 23, 2026
+https://x.com/NIG_idenken/status/2047148833327771661
+国立遺伝学研究所 on X: "遺伝研所長・近藤滋、AIと対話する。生命の謎解明は、AIとビッグデータだけで可能なのか。過去半世紀に有効だった人間の手法は、もう時代遅れなのか。「なんとなく」でなく、より突っ込んで考えるため、ChatGPTと議論してみた──。所長メッセージ第3回、果たしてその結末は。https://t.co/2rS3sM2omF https://t.co/1lLwsSgaGh" / X
+
+https://www.nig.ac.jp/public/director-message-2/
+所長 近藤滋のメッセージ　第3回　新プロジェクトと生命科学の未来（後編） | 国立遺伝学研究所
+
+https://www.nig.ac.jp/public/director-message/
+所長 近藤滋のメッセージ　第2回　新プロジェクトと生命科学の未来（前編） | 国立遺伝学研究所
+
+
+----------
+##### kutsunasatoshi
 
 https://x.com/kutsunasatoshi
 
@@ -36,17 +57,7 @@ https://x.com/kutsunasatoshi/status/2026795811594711082
 https://x.com/kutsunasatoshi/status/2026439248728219781
 忽那賢志 on X: "日本全国で麻疹の症例が増加しています。麻疹は空気感染しますので、通常のマスクで完全に防ぐことはできません。ご自身のワクチン接種歴または抗体検査結果をご確認ください。 麻疹はマスクで防げる？ https://t.co/ztOWIbykuN" / X
 
-----------
 
-12:01 PM · Apr 23, 2026
-https://x.com/NIG_idenken/status/2047148833327771661
-国立遺伝学研究所 on X: "遺伝研所長・近藤滋、AIと対話する。生命の謎解明は、AIとビッグデータだけで可能なのか。過去半世紀に有効だった人間の手法は、もう時代遅れなのか。「なんとなく」でなく、より突っ込んで考えるため、ChatGPTと議論してみた──。所長メッセージ第3回、果たしてその結末は。https://t.co/2rS3sM2omF https://t.co/1lLwsSgaGh" / X
-
-https://www.nig.ac.jp/public/director-message-2/
-所長 近藤滋のメッセージ　第3回　新プロジェクトと生命科学の未来（後編） | 国立遺伝学研究所
-
-https://www.nig.ac.jp/public/director-message/
-所長 近藤滋のメッセージ　第2回　新プロジェクトと生命科学の未来（前編） | 国立遺伝学研究所
 
 ----------
 
