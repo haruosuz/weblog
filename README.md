@@ -16,6 +16,17 @@ https://x.com/search?q=%22AI%20for%20Science%22%20SPReAD&src=typed_query
 
 https://github.com/dritoshi/ai-biocode-kata
 
+2026年04月20日
+https://www.yodosha.co.jp/yodobook/book/9784758126038/
+実験医学：特集1：研究が超絶はかどる生成AI活用術／特集2：AI活用のその先　研究の完全自動化へ挑む - 羊土社
+https://www.yodosha.co.jp/jikkenigaku/book/9784758126038/634400.html
+概論-生成AIとAI for Science【尾崎　遼】
+https://www.yodosha.co.jp/jikkenigaku/articles/index.html?ci=634400
+
+2026/01/20
+https://www.keio-up.co.jp/np/isbn/9784766430837/
+慶應義塾大学出版会 | 生成AIを活用したレポート・論文の書き方 | 伊藤貴之
+
 ----------
 ##### kutsunasatoshi
 
