@@ -14,6 +14,19 @@
 "AI for Science" SPReAD
 https://x.com/search?q=%22AI%20for%20Science%22%20SPReAD&src=typed_query
 
+https://github.com/dritoshi/ai-biocode-kata
+
+----------
+##### kutsunasatoshi
+
+https://x.com/kutsunasatoshi
+
+https://www.youtube.com/playlist?list=PLwYqPUoLreQMsjNgQkqwHflNboUpC6eud
+【医療者向け・音声のみ】くつ王レディオ – 最新感染症論文紹介 - YouTube
+
+https://www.youtube.com/playlist?list=PLwYqPUoLreQNIysCX6yhE776FozTL3U11
+【感染症を分かりやすく解説】くつ王アカデミア - YouTube
+
 ----------
 ##### NIG
 
@@ -29,37 +42,6 @@ https://www.nig.ac.jp/public/director-message/
 
 
 ----------
-##### kutsunasatoshi
-
-https://x.com/kutsunasatoshi
-
-https://www.youtube.com/playlist?list=PLwYqPUoLreQMsjNgQkqwHflNboUpC6eud
-【医療者向け・音声のみ】くつ王レディオ – 最新感染症論文紹介 - YouTube
-
-https://www.youtube.com/playlist?list=PLwYqPUoLreQNIysCX6yhE776FozTL3U11
-【感染症を分かりやすく解説】くつ王アカデミア - YouTube
-
-麻しんワクチン：2回接種すれば罹らない？
-
-麻疹はマスクで防げる？
-
-大人がかかる「百日咳」
-
-8:11 AM · Feb 27, 2026
-https://x.com/kutsunasatoshi/status/2027159659250082210
-忽那賢志 on X: "百日咳というと、若い世代の感染症というイメージがあるかもしれませんが、成人も感染します。私も罹ったことがありますが、かなり辛かった覚えがあります。未だに国内では多く発生していますが、百日咳はワクチンで防げる感染症でもあります。 大人がかかる「百日咳」 https://t.co/0QQP7aGPfU" / X
-
-8:05 AM · Feb 26, 2026
-https://x.com/kutsunasatoshi/status/2026795811594711082
-忽那賢志 on X: "昨日も申し上げましたが、麻疹の症例が世界的に増加しています。近年、小児期の麻疹風疹ワクチン1期・2期の接種率が低下してきており、欧米のような流行になることが懸念されます。ご自身のワクチン接種歴をご確認ください。 麻しんワクチン：2回接種すれば罹らない？ https://t.co/SRMmmGzPq5" / X
-
-8:29 AM · Feb 25, 2026
-https://x.com/kutsunasatoshi/status/2026439248728219781
-忽那賢志 on X: "日本全国で麻疹の症例が増加しています。麻疹は空気感染しますので、通常のマスクで完全に防ぐことはできません。ご自身のワクチン接種歴または抗体検査結果をご確認ください。 麻疹はマスクで防げる？ https://t.co/ztOWIbykuN" / X
-
-
-
-----------
 
 https://x.com/YujiY0402
 山田 悠史 | Yuji Yamada, MD (@YujiY0402) / X
@@ -71,6 +53,39 @@ https://twitter.com/keiyou30
 https://x.com/enodon
 https://note.com/enodon
 榎木英介（フリーランス病理医・科学ジャーナリスト賞受賞者）
+
+
+----------
+
+https://github.com/dritoshi/ai-biocode-kata
+
+https://x.com/dritoshi
+
+6:45 PM · Apr 9, 2026
+https://x.com/dritoshi/status/2042176982138671453
+ゲノムのほうの愛ちゃん🌙 🐧 on X: "移動中スマホで読みたいひとはgithubの公式アプリがおすすめです。https://t.co/3pSNaony82 https://t.co/mAg5fH52py" / X
+
+5:12 PM · Apr 9, 2026
+https://x.com/dritoshi/status/2042153557240246672
+ゲノムのほうの愛ちゃん🌙 🐧 on X: "プログラミング初心者な実験生物学者がVibe codingで研究加速するうえで知っておきたいコンピュータサイエンスやプログラミング、バイオインフォの基礎だけを抽出したドキュメントを公開しました 。「はじめに」だけでも読んでみてください。URLは次の投稿で" / X
+
+5:12 PM · Apr 9, 2026
+https://x.com/dritoshi/status/2042153558913786006
+ゲノムのほうの愛ちゃん🌙 🐧 on X: "「AIエージェントを使いこなす はじめてのバイオインフォマティクス開発作法 -- 情報技術の基礎から環境構築・設計・テスト・公開まで」Vibe coding初心者から上級者までフィードバック待ってます! https://t.co/EvnSxZl4ek" / X
+
+
+
+
+----------
+
+https://x.com/ai_jitan/status/2029032869738496135
+えーたん/AI×時短で仕事効率化 on X: "NotebookLMの全機能を、本気で全部書く。【2026年完全版】" / X
+
+12 2月 2025
+https://www.microbial-ecology.jp/?p=12252
+日本微生物生態学会 » ISME SeqCode ならびにICSP対応WGの設置と参加者募集について
+
+
 
 ----------
 ### class
@@ -121,40 +136,6 @@ https://oimachi-keio.com/topics/orf2025/
 https://oimachi-keio.com/topics/orf2025report/
 
 https://oimachi-keio.com/topics/orf2025-2/
-
-
-----------
-
-https://github.com/dritoshi/ai-biocode-kata
-
-https://x.com/dritoshi
-
-6:45 PM · Apr 9, 2026
-https://x.com/dritoshi/status/2042176982138671453
-ゲノムのほうの愛ちゃん🌙 🐧 on X: "移動中スマホで読みたいひとはgithubの公式アプリがおすすめです。https://t.co/3pSNaony82 https://t.co/mAg5fH52py" / X
-
-5:12 PM · Apr 9, 2026
-https://x.com/dritoshi/status/2042153557240246672
-ゲノムのほうの愛ちゃん🌙 🐧 on X: "プログラミング初心者な実験生物学者がVibe codingで研究加速するうえで知っておきたいコンピュータサイエンスやプログラミング、バイオインフォの基礎だけを抽出したドキュメントを公開しました 。「はじめに」だけでも読んでみてください。URLは次の投稿で" / X
-
-5:12 PM · Apr 9, 2026
-https://x.com/dritoshi/status/2042153558913786006
-ゲノムのほうの愛ちゃん🌙 🐧 on X: "「AIエージェントを使いこなす はじめてのバイオインフォマティクス開発作法 -- 情報技術の基礎から環境構築・設計・テスト・公開まで」Vibe coding初心者から上級者までフィードバック待ってます! https://t.co/EvnSxZl4ek" / X
-
-https://github.com/dritoshi/ai-biocode-kata
-
-
-
-
-----------
-
-
-https://x.com/ai_jitan/status/2029032869738496135
-えーたん/AI×時短で仕事効率化 on X: "NotebookLMの全機能を、本気で全部書く。【2026年完全版】" / X
-
-12 2月 2025
-https://www.microbial-ecology.jp/?p=12252
-日本微生物生態学会 » ISME SeqCode ならびにICSP対応WGの設置と参加者募集について
 
 
 ----------
