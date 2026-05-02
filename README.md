@@ -84,8 +84,14 @@ https://x.com/dritoshi/status/2042153557240246672
 https://x.com/dritoshi/status/2042153558913786006
 ゲノムのほうの愛ちゃん🌙 🐧 on X: "「AIエージェントを使いこなす はじめてのバイオインフォマティクス開発作法 -- 情報技術の基礎から環境構築・設計・テスト・公開まで」Vibe coding初心者から上級者までフィードバック待ってます! https://t.co/EvnSxZl4ek" / X
 
+----------
 
-
+https://x.com/Dain_sugohon
+スゴ本の中の人 (@Dain_sugohon) / X
+https://dain.cocolog-nifty.com/
+わたしが知らないスゴ本は、きっとあなたが読んでいる
+2020.4.30
+https://gihyo.jp/book/2020/978-4-297-11153-3
 
 ----------
 
@@ -95,8 +101,6 @@ https://x.com/ai_jitan/status/2029032869738496135
 12 2月 2025
 https://www.microbial-ecology.jp/?p=12252
 日本微生物生態学会 » ISME SeqCode ならびにICSP対応WGの設置と参加者募集について
-
-
 
 ----------
 ### class
