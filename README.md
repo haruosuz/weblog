@@ -58,12 +58,18 @@ https://x.com/YujiY0402
 山田 悠史 | Yuji Yamada, MD (@YujiY0402) / X
 米国老年医学専門医 | Sr Assistant Professor at Mount Sinai | NewsPicksプロピッカー | Ishify共同代表 | めどはぶ | 📺YouTube「医者のいらないTV」⬇️ | ポッドキャスト「医者のいらないラジオ」 | 著書「最高の老後」など
 
-https://twitter.com/keiyou30
-山本健人(外科医けいゆう, Takehito Yamamoto) (@keiyou30) / X
-
 https://x.com/enodon
 https://note.com/enodon
 榎木英介（フリーランス病理医・科学ジャーナリスト賞受賞者）
+
+https://twitter.com/keiyou30
+山本健人(外科医けいゆう, Takehito Yamamoto) (@keiyou30) / X
+
+https://www.diamond.co.jp/book/9784478113271.html
+2021年08月　すばらしい人体　あなたの体をめぐる知的冒険
+
+https://www.diamond.co.jp/book/9784478118016.html
+2023年09月　すばらしい医学　あなたの体の謎に迫る知的冒険
 
 
 ----------
