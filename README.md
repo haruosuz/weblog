@@ -11,6 +11,9 @@
 ----------
 ##### AI4S
 
+SPReAD 1000
+https://x.com/search?q=SPReAD%201000&src=typed_query
+
 "AI for Science" SPReAD
 https://x.com/search?q=%22AI%20for%20Science%22%20SPReAD&src=typed_query
 
