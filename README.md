@@ -9,53 +9,6 @@
 - 
 
 ----------
-##### AI4S
-
-SPReAD 1000
-https://x.com/search?q=SPReAD%201000&src=typed_query
-
-"AI for Science" SPReAD
-https://x.com/search?q=%22AI%20for%20Science%22%20SPReAD&src=typed_query
-
-https://github.com/dritoshi/ai-biocode-kata
-
-2026年04月20日
-https://www.yodosha.co.jp/yodobook/book/9784758126038/
-実験医学：特集1：研究が超絶はかどる生成AI活用術／特集2：AI活用のその先　研究の完全自動化へ挑む - 羊土社
-https://www.yodosha.co.jp/jikkenigaku/book/9784758126038/634400.html
-概論-生成AIとAI for Science【尾崎　遼】
-https://www.yodosha.co.jp/jikkenigaku/articles/index.html?ci=634400
-
-2026/01/20
-https://www.keio-up.co.jp/np/isbn/9784766430837/
-慶應義塾大学出版会 | 生成AIを活用したレポート・論文の書き方 | 伊藤貴之
-
-----------
-##### kutsunasatoshi
-
-https://x.com/kutsunasatoshi
-
-https://www.youtube.com/playlist?list=PLwYqPUoLreQMsjNgQkqwHflNboUpC6eud
-【医療者向け・音声のみ】くつ王レディオ – 最新感染症論文紹介 - YouTube
-
-https://www.youtube.com/playlist?list=PLwYqPUoLreQNIysCX6yhE776FozTL3U11
-【感染症を分かりやすく解説】くつ王アカデミア - YouTube
-
-----------
-##### NIG
-
-12:01 PM · Apr 23, 2026
-https://x.com/NIG_idenken/status/2047148833327771661
-国立遺伝学研究所 on X: "遺伝研所長・近藤滋、AIと対話する。生命の謎解明は、AIとビッグデータだけで可能なのか。過去半世紀に有効だった人間の手法は、もう時代遅れなのか。「なんとなく」でなく、より突っ込んで考えるため、ChatGPTと議論してみた──。所長メッセージ第3回、果たしてその結末は。https://t.co/2rS3sM2omF https://t.co/1lLwsSgaGh" / X
-
-https://www.nig.ac.jp/public/director-message-2/
-所長 近藤滋のメッセージ　第3回　新プロジェクトと生命科学の未来（後編） | 国立遺伝学研究所
-
-https://www.nig.ac.jp/public/director-message/
-所長 近藤滋のメッセージ　第2回　新プロジェクトと生命科学の未来（前編） | 国立遺伝学研究所
-
-
-----------
 
 https://x.com/YujiY0402
 山田 悠史 | Yuji Yamada, MD (@YujiY0402) / X
@@ -74,6 +27,49 @@ https://www.diamond.co.jp/book/9784478113271.html
 https://www.diamond.co.jp/book/9784478118016.html
 2023年09月　すばらしい医学　あなたの体の謎に迫る知的冒険
 
+
+
+----------
+##### kutsunasatoshi
+
+https://twitter.com/kutsunasatoshi
+
+https://www.youtube.com/playlist?list=PLwYqPUoLreQMsjNgQkqwHflNboUpC6eud
+【医療者向け・音声のみ】くつ王レディオ – 最新感染症論文紹介 - YouTube
+
+https://www.youtube.com/playlist?list=PLwYqPUoLreQNIysCX6yhE776FozTL3U11
+【感染症を分かりやすく解説】くつ王アカデミア - YouTube
+
+----------
+
+
+https://twitter.com/arakencloud
+荒木健太郎 (@arakencloud) / X
+
+雲研究者・気象庁気象研究所主任研究官・学術博士。防災・減災のために、雲の仕組みを研究してます。映画『天気の子』気象監修。出演：情熱大陸／ドラえもんなど。著書：すごすぎる #天気の図鑑 シリーズ／雲の超図鑑／読み終えた瞬間、空が美しく見える気象のはなし／雲の教室／雲を愛する技術など。発信は個人見解です
+
+9:44 PM · Feb 4, 2024
+https://twitter.com/arakencloud/status/1754123821328867674
+荒木健太郎 on X: "大雪への備えまとめです。 関東の皆さま、いま一度ご確認ください。 https://t.co/eoytT5yIaq" / X
+
+
+https://twitter.com/metacovid19
+メタコビ公式
+
+https://twitter.com/SystemsVirology
+The Sato Lab (Kei Sato) (@SystemsVirology) / X
+
+https://twitter.com/mph_for_doctors
+手を洗う救急医Taka（木下喬弘） (@mph_for_doctors) / Twitter
+
+----------
+## twitter
+
+- https://twitter.com
+- https://twitter.com/copypasteusa
+- https://twitter.com/copypasteusa/likes
+- https://twitter.com/oikawamaru
+オイカワ丸 (@oikawamaru) / Twitter
 
 ----------
 
@@ -104,12 +100,121 @@ https://gihyo.jp/book/2020/978-4-297-11153-3
 
 ----------
 
+
+
+
+----------
+# DNBSEQ
+
+https://genome-lead.co.jp/J_NGS_DNBseq.php
+DNBSEQーT7/G400次世代シークエンスの受託
+
+https://genebay.co.jp/dnbseq/
+DNBSEQ（MGISEQ）シーケンス受託サービス | 株式会社ジーンベイ（GeneBay）
+
+https://jp.mgi-tech.com/products/instruments_info/2/
+DNBSEQ-G400: ハイスループット遺伝子シーケンサー-MGI Tech Japan 株式会社
+
+https://jp.mgi-tech.com/products/
+MGIシーケンシングプラットフォーム: ハイスループット遺伝子シーケンサー, DNBSEQ™ シーケンシング技術-MGI Tech Japan 株式会社
+
+----------
+
+----------
+# Keio
+
+
+- https://twitter.com/Keio_univ_PR
+- https://twitter.com/keio_news
+- https://twitter.com/KeioSFC
+
+https://www.sfc.keio.ac.jp/gsmg/about/faculty/
+慶應義塾大学湘南藤沢キャンパス（SFC） 教員プロフィール
+https://www.sfc.keio.ac.jp/faculty_profile/en/
+
+https://www.mita-hyoron.keio.ac.jp/
+三田評論ONLINE
+https://www.mita-hyoron.keio.ac.jp/category/all/
+
+https://www.sfc.keio.ac.jp/magazine/deans_diary/
+おかしら日記 | 慶應義塾大学 湘南藤沢キャンパス（SFC）
+
+https://www.keio.ac.jp/ja/about/president/blog/2026/
+塾長室だより一覧：[慶應義塾]
+
+https://www.keio.ac.jp/ja/gakumon150/
+ガクモンノススメ特設ページ：[慶應義塾]
+
+https://sfcclip.net/bus/
+バス時刻表 | SFC CLIP
+
+http://www.kanachu.co.jp/dia/diagram/timetable/cs:0000800447-1/nid:00129985/rt:0/k:慶応大学
+「慶応大学」バス停の時刻表 | 神奈川中央交通
+
+https://helpfeel.com/SFCHelp/タクシー-635699d1fe226f002362c282
+SFCHelp - タクシー
+「デルタ館前」のように場所を指定してタクシーを呼ぶことができます
+相愛交通: 0120-87-2610
+
+----------
+
+https://www.students.keio.ac.jp/com/class/registration/chatgpt.html
+ChatGPT等生成AIの利用について：慶應義塾大学塾生サイト
+
+https://www.itc.keio.ac.jp/ja/software_ai_guideline.html
+慶應義塾における生成AIの利用ガイドライン | 慶應義塾ITC
+
+
+----------
+
+
+https://x.com/ai_biostat
+わたヤク@AI臨床研究 (@ai_biostat) / X
+
+https://note.com/ai_biostat/n/n5c12975136f0
+読んだ論文を忘れない。Paperpile × NotebookLMで作る「最強」の文献管理術｜わたヤク
+
+----------
+
 https://x.com/ai_jitan/status/2029032869738496135
 えーたん/AI×時短で仕事効率化 on X: "NotebookLMの全機能を、本気で全部書く。【2026年完全版】" / X
 
 12 2月 2025
 https://www.microbial-ecology.jp/?p=12252
 日本微生物生態学会 » ISME SeqCode ならびにICSP対応WGの設置と参加者募集について
+
+
+----------
+
+https://x.com/arakencloud
+荒木健太郎 (@arakencloud) / X
+雲研究者・気象庁気象研究所主任研究官・学術博士。防災・減災のために雲の仕組みを研究しています。映画『天気の子』気象監修。情熱大陸／ドラえもん／マツコの知らない世界など出演。著書：すごすぎる #天気の図鑑 シリーズ／読み終えた瞬間、空が美しく見える気象のはなし／天気の写真えほんシリーズ／雲を愛する技術など。発信は個人見解
+
+https://x.com/fvgnoriyuki
+鈴木紀之 Noriyuki Suzuki (@fvgnoriyuki) / X
+昆虫の生態と進化について研究しています/ チョウとテントウムシ / 三重大学 生物資源学部 准教授 / 農学博士 / 著書『すごい進化』『博士の愛したジミな昆虫』『繁殖干渉』『ダーウィン』/ ポッドキャスト「すごい進化ラジオ」
+
+https://wpb.shueisha.co.jp/news/entertainment/20251111-129103/
+ひろゆき×進化生態学者・鈴木紀之のシン・進化論⑬「一般教養は落第ギリギリでも、専門分野の成績だけ異常に高い学生のほうが本当は優秀なんじゃないですか？」【この件について】 - 週プレNEWS
+
+11:47 PM · Dec 18, 2024
+https://x.com/iMetaScience/status/1869394134412493045
+iMeta on X: "🎥 Watch the video on how to analyze #amplicon sequencing data with the user-friendly pipeline #EasyAmplicon! 📄 Read the full paper: https://t.co/xdcpZm4Pnc 🔗 Access it on GitHub: https://t.co/fETjdYWHwh #iMetaOmics #Bioinformatics #microbiome https://t.co/b3tAwFVTzJ" / X
+
+----------
+##### NIG
+
+12:01 PM · Apr 23, 2026
+https://x.com/NIG_idenken/status/2047148833327771661
+国立遺伝学研究所 on X: "遺伝研所長・近藤滋、AIと対話する。生命の謎解明は、AIとビッグデータだけで可能なのか。過去半世紀に有効だった人間の手法は、もう時代遅れなのか。「なんとなく」でなく、より突っ込んで考えるため、ChatGPTと議論してみた──。所長メッセージ第3回、果たしてその結末は。https://t.co/2rS3sM2omF https://t.co/1lLwsSgaGh" / X
+
+https://www.nig.ac.jp/public/director-message-2/
+所長 近藤滋のメッセージ　第3回　新プロジェクトと生命科学の未来（後編） | 国立遺伝学研究所
+
+https://www.nig.ac.jp/public/director-message/
+所長 近藤滋のメッセージ　第2回　新プロジェクトと生命科学の未来（前編） | 国立遺伝学研究所
+
+
 
 ----------
 ### class
@@ -220,134 +325,6 @@ Q＆Aを楽しもう！ その1：質問をしよう
 国立遺伝学研究所
 
 
-
-----------
-
-
-
-
-
-----------
-
-
-https://twitter.com/arakencloud
-荒木健太郎 (@arakencloud) / X
-
-雲研究者・気象庁気象研究所主任研究官・学術博士。防災・減災のために、雲の仕組みを研究してます。映画『天気の子』気象監修。出演：情熱大陸／ドラえもんなど。著書：すごすぎる #天気の図鑑 シリーズ／雲の超図鑑／読み終えた瞬間、空が美しく見える気象のはなし／雲の教室／雲を愛する技術など。発信は個人見解です
-
-9:44 PM · Feb 4, 2024
-https://twitter.com/arakencloud/status/1754123821328867674
-荒木健太郎 on X: "大雪への備えまとめです。 関東の皆さま、いま一度ご確認ください。 https://t.co/eoytT5yIaq" / X
-
-
-https://twitter.com/kutsunasatoshi
-忽那賢志 (@kutsunasatoshi) / Twitter
-
-https://twitter.com/metacovid19
-メタコビ公式
-
-https://twitter.com/SystemsVirology
-The Sato Lab (Kei Sato) (@SystemsVirology) / X
-
-https://twitter.com/mph_for_doctors
-手を洗う救急医Taka（木下喬弘） (@mph_for_doctors) / Twitter
-
-----------
-## twitter
-
-- https://twitter.com
-- https://twitter.com/copypasteusa
-- https://twitter.com/copypasteusa/likes
-- https://twitter.com/oikawamaru
-オイカワ丸 (@oikawamaru) / Twitter
-
-----------
-# DNBSEQ
-
-https://genome-lead.co.jp/J_NGS_DNBseq.php
-DNBSEQーT7/G400次世代シークエンスの受託
-
-https://genebay.co.jp/dnbseq/
-DNBSEQ（MGISEQ）シーケンス受託サービス | 株式会社ジーンベイ（GeneBay）
-
-https://jp.mgi-tech.com/products/instruments_info/2/
-DNBSEQ-G400: ハイスループット遺伝子シーケンサー-MGI Tech Japan 株式会社
-
-https://jp.mgi-tech.com/products/
-MGIシーケンシングプラットフォーム: ハイスループット遺伝子シーケンサー, DNBSEQ™ シーケンシング技術-MGI Tech Japan 株式会社
-
-----------
-
-----------
-# Keio
-
-
-- https://twitter.com/Keio_univ_PR
-- https://twitter.com/keio_news
-- https://twitter.com/KeioSFC
-
-https://www.sfc.keio.ac.jp/gsmg/about/faculty/
-慶應義塾大学湘南藤沢キャンパス（SFC） 教員プロフィール
-https://www.sfc.keio.ac.jp/faculty_profile/en/
-
-https://www.mita-hyoron.keio.ac.jp/
-三田評論ONLINE
-https://www.mita-hyoron.keio.ac.jp/category/all/
-
-https://www.sfc.keio.ac.jp/magazine/deans_diary/
-おかしら日記 | 慶應義塾大学 湘南藤沢キャンパス（SFC）
-
-https://www.keio.ac.jp/ja/about/president/blog/2026/
-塾長室だより一覧：[慶應義塾]
-
-https://www.keio.ac.jp/ja/gakumon150/
-ガクモンノススメ特設ページ：[慶應義塾]
-
-https://sfcclip.net/bus/
-バス時刻表 | SFC CLIP
-
-http://www.kanachu.co.jp/dia/diagram/timetable/cs:0000800447-1/nid:00129985/rt:0/k:慶応大学
-「慶応大学」バス停の時刻表 | 神奈川中央交通
-
-https://helpfeel.com/SFCHelp/タクシー-635699d1fe226f002362c282
-SFCHelp - タクシー
-「デルタ館前」のように場所を指定してタクシーを呼ぶことができます
-相愛交通: 0120-87-2610
-
-----------
-
-https://www.students.keio.ac.jp/com/class/registration/chatgpt.html
-ChatGPT等生成AIの利用について：慶應義塾大学塾生サイト
-
-https://www.itc.keio.ac.jp/ja/software_ai_guideline.html
-慶應義塾における生成AIの利用ガイドライン | 慶應義塾ITC
-
-
-----------
-
-
-https://x.com/ai_biostat
-わたヤク@AI臨床研究 (@ai_biostat) / X
-
-https://note.com/ai_biostat/n/n5c12975136f0
-読んだ論文を忘れない。Paperpile × NotebookLMで作る「最強」の文献管理術｜わたヤク
-
-----------
-
-https://x.com/arakencloud
-荒木健太郎 (@arakencloud) / X
-雲研究者・気象庁気象研究所主任研究官・学術博士。防災・減災のために雲の仕組みを研究しています。映画『天気の子』気象監修。情熱大陸／ドラえもん／マツコの知らない世界など出演。著書：すごすぎる #天気の図鑑 シリーズ／読み終えた瞬間、空が美しく見える気象のはなし／天気の写真えほんシリーズ／雲を愛する技術など。発信は個人見解
-
-https://x.com/fvgnoriyuki
-鈴木紀之 Noriyuki Suzuki (@fvgnoriyuki) / X
-昆虫の生態と進化について研究しています/ チョウとテントウムシ / 三重大学 生物資源学部 准教授 / 農学博士 / 著書『すごい進化』『博士の愛したジミな昆虫』『繁殖干渉』『ダーウィン』/ ポッドキャスト「すごい進化ラジオ」
-
-https://wpb.shueisha.co.jp/news/entertainment/20251111-129103/
-ひろゆき×進化生態学者・鈴木紀之のシン・進化論⑬「一般教養は落第ギリギリでも、専門分野の成績だけ異常に高い学生のほうが本当は優秀なんじゃないですか？」【この件について】 - 週プレNEWS
-
-11:47 PM · Dec 18, 2024
-https://x.com/iMetaScience/status/1869394134412493045
-iMeta on X: "🎥 Watch the video on how to analyze #amplicon sequencing data with the user-friendly pipeline #EasyAmplicon! 📄 Read the full paper: https://t.co/xdcpZm4Pnc 🔗 Access it on GitHub: https://t.co/fETjdYWHwh #iMetaOmics #Bioinformatics #microbiome https://t.co/b3tAwFVTzJ" / X
 
 ----------
 
