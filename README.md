@@ -8,6 +8,14 @@
 - [unclassified](#unclassified)
 - 
 
+
+----------
+
+修士論文の作り方 http://itolab.is.ocha.ac.jp/~itot/message/msthesis.html
+卒論の書き方 / Happy Writing https://speakerdeck.com/kaityo256/happy-writing
+これから論文を書く若者のために https://www7b.biglobe.ne.jp/~satoki/ronbun/kyo/korekara/korekara.html (edited)
+
+
 ----------
 
 https://x.com/YujiY0402
@@ -88,6 +96,36 @@ https://x.com/dritoshi/status/2042153557240246672
 5:12 PM · Apr 9, 2026
 https://x.com/dritoshi/status/2042153558913786006
 ゲノムのほうの愛ちゃん🌙 🐧 on X: "「AIエージェントを使いこなす はじめてのバイオインフォマティクス開発作法 -- 情報技術の基礎から環境構築・設計・テスト・公開まで」Vibe coding初心者から上級者までフィードバック待ってます! https://t.co/EvnSxZl4ek" / X
+
+----------
+
+https://www.yodosha.co.jp/jikkenigaku/book/9784758126038/index.html
+実験医学 2026年5月号 Vol.44 No.8
+特集1：研究が超絶はかどる生成AI活用術／特集2：AI活用のその先　研究の完全自動化へ挑む
+
+Dry解析に関するAI活用術【瀬尾茂人】
+https://www.yodosha.co.jp/jikkenigaku/articles/index.html?ci=634800
+
+https://www.oreilly.co.jp/books/9784814401420/
+バイブコーディングを超えて - O'Reilly Japan
+目次
+
+https://missing.csail.mit.edu/
+The Missing Semester of Your CS Education
+
+Syllabus
+1/12/26: Course Overview + Introduction to the Shell
+https://missing.csail.mit.edu/2026/course-shell/
+
+YouTube (2026, 2020, 2019)
+https://www.youtube.com/playlist?list=PLyzOVJj3bHQunmnnTXrNbZnBaCA-ieK4L
+Missing Semester IAP 2026
+
+
+https://missing-semester-jp.github.io/
+The Missing Semester of Your CS Education (日本語版) · the missing semester of your cs education
+
+https://www.youtube.com/c/MissingSemester
 
 ----------
 
