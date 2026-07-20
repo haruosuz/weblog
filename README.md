@@ -16,6 +16,7 @@
 これから論文を書く若者のために https://www7b.biglobe.ne.jp/~satoki/ronbun/kyo/korekara/korekara.html (edited)
 
 
+
 ----------
 
 https://x.com/YujiY0402
@@ -47,6 +48,78 @@ https://www.youtube.com/playlist?list=PLwYqPUoLreQMsjNgQkqwHflNboUpC6eud
 
 https://www.youtube.com/playlist?list=PLwYqPUoLreQNIysCX6yhE776FozTL3U11
 【感染症を分かりやすく解説】くつ王アカデミア - YouTube
+
+----------
+
+# DNBSEQ
+
+https://genome-lead.co.jp/J_NGS_DNBseq.php
+DNBSEQーT7/G400次世代シークエンスの受託
+
+https://genebay.co.jp/dnbseq/
+DNBSEQ（MGISEQ）シーケンス受託サービス | 株式会社ジーンベイ（GeneBay）
+DNBSEQの原理
+
+https://gikenbio.com/look-up/dnbseq-hiseq/
+DNBSEQ-G400（MGI社）とHiSeq（イルミナ社）の比較 | 株式会社生物技研
+
+https://fasmac.co.jp/dnb_analysis
+DNBSEQによる解析 - FASMAC
+
+https://www.summitpharma.co.jp/japanese/service/products/ngs.html
+次世代シーケンス·遺伝子解析 関連 | 取扱製品 | 創薬研究機器・装置 | 住商ファーマインターナショナル株式会社
+次世代シーケンサー DNBSEQシリーズ
+
+
+----------
+
+----------
+# Keio
+
+
+- https://twitter.com/Keio_univ_PR
+- https://twitter.com/keio_news
+- https://twitter.com/KeioSFC
+
+https://www.sfc.keio.ac.jp/gsmg/about/faculty/
+慶應義塾大学湘南藤沢キャンパス（SFC） 教員プロフィール
+https://www.sfc.keio.ac.jp/faculty_profile/en/
+
+https://www.mita-hyoron.keio.ac.jp/
+三田評論ONLINE
+https://www.mita-hyoron.keio.ac.jp/category/all/
+
+https://www.sfc.keio.ac.jp/magazine/deans_diary/
+おかしら日記 | 慶應義塾大学 湘南藤沢キャンパス（SFC）
+
+https://www.keio.ac.jp/ja/about/president/blog/2026/
+塾長室だより一覧：[慶應義塾]
+
+https://www.keio.ac.jp/ja/gakumon150/
+ガクモンノススメ特設ページ：[慶應義塾]
+
+https://sfcclip.net/bus/
+バス時刻表 | SFC CLIP
+
+http://www.kanachu.co.jp/dia/diagram/timetable/cs:0000800447-1/nid:00129985/rt:0/k:慶応大学
+「慶応大学」バス停の時刻表 | 神奈川中央交通
+
+https://helpfeel.com/SFCHelp/タクシー-635699d1fe226f002362c282
+SFCHelp - タクシー
+「デルタ館前」のように場所を指定してタクシーを呼ぶことができます
+相愛交通: 0120-87-2610
+
+----------
+
+https://www.students.keio.ac.jp/com/class/registration/chatgpt.html
+ChatGPT等生成AIの利用について：慶應義塾大学塾生サイト
+
+https://www.itc.keio.ac.jp/ja/software_ai_guideline.html
+慶應義塾における生成AIの利用ガイドライン | 慶應義塾ITC
+
+
+
+
 
 ----------
 
@@ -139,68 +212,6 @@ https://gihyo.jp/book/2020/978-4-297-11153-3
 ----------
 
 
-
-
-----------
-# DNBSEQ
-
-https://genome-lead.co.jp/J_NGS_DNBseq.php
-DNBSEQーT7/G400次世代シークエンスの受託
-
-https://genebay.co.jp/dnbseq/
-DNBSEQ（MGISEQ）シーケンス受託サービス | 株式会社ジーンベイ（GeneBay）
-
-https://jp.mgi-tech.com/products/instruments_info/2/
-DNBSEQ-G400: ハイスループット遺伝子シーケンサー-MGI Tech Japan 株式会社
-
-https://jp.mgi-tech.com/products/
-MGIシーケンシングプラットフォーム: ハイスループット遺伝子シーケンサー, DNBSEQ™ シーケンシング技術-MGI Tech Japan 株式会社
-
-----------
-
-----------
-# Keio
-
-
-- https://twitter.com/Keio_univ_PR
-- https://twitter.com/keio_news
-- https://twitter.com/KeioSFC
-
-https://www.sfc.keio.ac.jp/gsmg/about/faculty/
-慶應義塾大学湘南藤沢キャンパス（SFC） 教員プロフィール
-https://www.sfc.keio.ac.jp/faculty_profile/en/
-
-https://www.mita-hyoron.keio.ac.jp/
-三田評論ONLINE
-https://www.mita-hyoron.keio.ac.jp/category/all/
-
-https://www.sfc.keio.ac.jp/magazine/deans_diary/
-おかしら日記 | 慶應義塾大学 湘南藤沢キャンパス（SFC）
-
-https://www.keio.ac.jp/ja/about/president/blog/2026/
-塾長室だより一覧：[慶應義塾]
-
-https://www.keio.ac.jp/ja/gakumon150/
-ガクモンノススメ特設ページ：[慶應義塾]
-
-https://sfcclip.net/bus/
-バス時刻表 | SFC CLIP
-
-http://www.kanachu.co.jp/dia/diagram/timetable/cs:0000800447-1/nid:00129985/rt:0/k:慶応大学
-「慶応大学」バス停の時刻表 | 神奈川中央交通
-
-https://helpfeel.com/SFCHelp/タクシー-635699d1fe226f002362c282
-SFCHelp - タクシー
-「デルタ館前」のように場所を指定してタクシーを呼ぶことができます
-相愛交通: 0120-87-2610
-
-----------
-
-https://www.students.keio.ac.jp/com/class/registration/chatgpt.html
-ChatGPT等生成AIの利用について：慶應義塾大学塾生サイト
-
-https://www.itc.keio.ac.jp/ja/software_ai_guideline.html
-慶應義塾における生成AIの利用ガイドライン | 慶應義塾ITC
 
 
 ----------
