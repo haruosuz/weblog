@@ -8,14 +8,23 @@
 - [unclassified](#unclassified)
 - 
 
+----------
+
+https://x.com/_daichikonno
+Daichi Konno / 紺野 大地 (@_daichikonno) / X
+2026-08-08
+https://x.com/_daichikonno/status/2085670313690607789
+Daichi Konno / 紺野 大地 on X: "【決定版】研究者のためのAIエージェント入門ガイド（2026） という無料note記事を書きました！🎉 CodexやClaude Codeを始めとするAIエージェントは、このさき間違いなく研究者にとって必須となります。 この記事だけでAIエージェントが導入できるので、ぜひご一読下さい☺️ (リンクはリプライへ↓) https://t.co/6tolzXaxzF" / X
+
+2026年8月7日 19:00
+https://note.com/daichi_konno/n/n9d482fb0284c
+【決定版】研究者のためのAIエージェント入門ガイド（2026）｜Daichi Konno / 紺野 大地
 
 ----------
 
 修士論文の作り方 http://itolab.is.ocha.ac.jp/~itot/message/msthesis.html
 卒論の書き方 / Happy Writing https://speakerdeck.com/kaityo256/happy-writing
 これから論文を書く若者のために https://www7b.biglobe.ne.jp/~satoki/ronbun/kyo/korekara/korekara.html (edited)
-
-
 
 ----------
 
