@@ -8,6 +8,7 @@
 - [unclassified](#unclassified)
 - 
 
+
 ----------
 
 https://x.com/_daichikonno
@@ -19,68 +20,6 @@ Daichi Konno / 紺野 大地 on X: "【決定版】研究者のためのAIエー
 2026年8月7日 19:00
 https://note.com/daichi_konno/n/n9d482fb0284c
 【決定版】研究者のためのAIエージェント入門ガイド（2026）｜Daichi Konno / 紺野 大地
-
-----------
-
-修士論文の作り方 http://itolab.is.ocha.ac.jp/~itot/message/msthesis.html
-卒論の書き方 / Happy Writing https://speakerdeck.com/kaityo256/happy-writing
-これから論文を書く若者のために https://www7b.biglobe.ne.jp/~satoki/ronbun/kyo/korekara/korekara.html (edited)
-
-----------
-
-https://x.com/YujiY0402
-山田 悠史 | Yuji Yamada, MD (@YujiY0402) / X
-米国老年医学専門医 | Sr Assistant Professor at Mount Sinai | NewsPicksプロピッカー | Ishify共同代表 | めどはぶ | 📺YouTube「医者のいらないTV」⬇️ | ポッドキャスト「医者のいらないラジオ」 | 著書「最高の老後」など
-
-https://x.com/enodon
-https://note.com/enodon
-榎木英介（フリーランス病理医・科学ジャーナリスト賞受賞者）
-
-https://twitter.com/keiyou30
-山本健人(外科医けいゆう, Takehito Yamamoto) (@keiyou30) / X
-
-https://www.diamond.co.jp/book/9784478113271.html
-2021年08月　すばらしい人体　あなたの体をめぐる知的冒険
-
-https://www.diamond.co.jp/book/9784478118016.html
-2023年09月　すばらしい医学　あなたの体の謎に迫る知的冒険
-
-
-
-----------
-##### kutsunasatoshi
-
-https://twitter.com/kutsunasatoshi
-
-https://www.youtube.com/playlist?list=PLwYqPUoLreQMsjNgQkqwHflNboUpC6eud
-【医療者向け・音声のみ】くつ王レディオ – 最新感染症論文紹介 - YouTube
-
-https://www.youtube.com/playlist?list=PLwYqPUoLreQNIysCX6yhE776FozTL3U11
-【感染症を分かりやすく解説】くつ王アカデミア - YouTube
-
-----------
-
-# DNBSEQ
-
-https://genome-lead.co.jp/J_NGS_DNBseq.php
-DNBSEQーT7/G400次世代シークエンスの受託
-
-https://genebay.co.jp/dnbseq/
-DNBSEQ（MGISEQ）シーケンス受託サービス | 株式会社ジーンベイ（GeneBay）
-DNBSEQの原理
-
-https://gikenbio.com/look-up/dnbseq-hiseq/
-DNBSEQ-G400（MGI社）とHiSeq（イルミナ社）の比較 | 株式会社生物技研
-
-https://fasmac.co.jp/dnb_analysis
-DNBSEQによる解析 - FASMAC
-
-https://www.summitpharma.co.jp/japanese/service/products/ngs.html
-次世代シーケンス·遺伝子解析 関連 | 取扱製品 | 創薬研究機器・装置 | 住商ファーマインターナショナル株式会社
-次世代シーケンサー DNBSEQシリーズ
-
-
-----------
 
 ----------
 # Keio
@@ -126,7 +65,116 @@ ChatGPT等生成AIの利用について：慶應義塾大学塾生サイト
 https://www.itc.keio.ac.jp/ja/software_ai_guideline.html
 慶應義塾における生成AIの利用ガイドライン | 慶應義塾ITC
 
+----------
+### class
 
+https://github.com/haruosuz/DS4GD/tree/master/2026-10
+
+https://github.com/haruosuz/introBI/tree/main/2026-10
+
+https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md
+
+https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/index.html
+
+https://www.youtube.com/watch?v=6564K4-_DBI&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc Microbiome Discovery 1: Intro to the Microbiome - YouTube
+
+2013/07/02
+https://www.youtube.com/watch?v=S-o-sdlzhkE
+R 1.2 - Calculations and Variables - YouTube
+
+- Dave Hone - "How to read a phylogenetic tree" https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/
+- 2015-01-05 [PhyloBotanist: How to root a phylogenetic tree: outgroup, midpoint and other methods](http://phylobotanist.blogspot.com/2015/01/how-to-root-phylogenetic-tree-outgroup.html)
+- 2012-06-07 [The Cabbages of Doom: How to root a phylogenetic tree](http://cabbagesofdoom.blogspot.com/2012/06/how-to-root-phylogenetic-tree.html)
+
+----------
+Microbiome Discovery
+Dan Knights
+
+https://github.com/haruosuz/introBI/blob/main/CaseStudy.md#mice8992
+
+2016/01/23
+https://www.youtube.com/watch?v=u2IQQUMeWy8&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc&index=7
+Microbiome Discovery 4.5: (Optional) UNIX Command Line
+
+----------
+
+https://video.ucdavis.edu/channel/BIS180L+SQ2020/158861492
+BIS180L SQ2020 - University of California, Davis
+
+https://video.ucdavis.edu/media/BIS180L-SQ20-Lecture+01/0_qdzowjow
+BIS180L-SQ20-Lecture 01 - University of California, Davis
+
+https://video.ucdavis.edu/media/BIS180L+Lecture3b+For+Loops/0_c206k3g2/158861492
+BIS180L Lecture3b For Loops - University of California, Davis
+
+----------
+
+https://oimachi-keio.com/topics/orf2025/
+
+https://oimachi-keio.com/topics/orf2025report/
+
+https://oimachi-keio.com/topics/orf2025-2/
+
+
+
+----------
+
+# DNBSEQ
+
+https://genome-lead.co.jp/J_NGS_DNBseq.php
+DNBSEQーT7/G400次世代シークエンスの受託
+
+https://genebay.co.jp/dnbseq/
+DNBSEQ（MGISEQ）シーケンス受託サービス | 株式会社ジーンベイ（GeneBay）
+DNBSEQの原理
+
+https://gikenbio.com/look-up/dnbseq-hiseq/
+DNBSEQ-G400（MGI社）とHiSeq（イルミナ社）の比較 | 株式会社生物技研
+
+https://fasmac.co.jp/dnb_analysis
+DNBSEQによる解析 - FASMAC
+
+https://www.summitpharma.co.jp/japanese/service/products/ngs.html
+次世代シーケンス·遺伝子解析 関連 | 取扱製品 | 創薬研究機器・装置 | 住商ファーマインターナショナル株式会社
+次世代シーケンサー DNBSEQシリーズ
+
+
+
+----------
+
+修士論文の作り方 http://itolab.is.ocha.ac.jp/~itot/message/msthesis.html
+卒論の書き方 / Happy Writing https://speakerdeck.com/kaityo256/happy-writing
+これから論文を書く若者のために https://www7b.biglobe.ne.jp/~satoki/ronbun/kyo/korekara/korekara.html (edited)
+
+----------
+##### kutsunasatoshi
+
+https://twitter.com/kutsunasatoshi
+
+https://www.youtube.com/playlist?list=PLwYqPUoLreQMsjNgQkqwHflNboUpC6eud
+【医療者向け・音声のみ】くつ王レディオ – 最新感染症論文紹介 - YouTube
+
+https://www.youtube.com/playlist?list=PLwYqPUoLreQNIysCX6yhE776FozTL3U11
+【感染症を分かりやすく解説】くつ王アカデミア - YouTube
+
+----------
+
+https://x.com/YujiY0402
+山田 悠史 | Yuji Yamada, MD (@YujiY0402) / X
+米国老年医学専門医 | Sr Assistant Professor at Mount Sinai | NewsPicksプロピッカー | Ishify共同代表 | めどはぶ | 📺YouTube「医者のいらないTV」⬇️ | ポッドキャスト「医者のいらないラジオ」 | 著書「最高の老後」など
+
+https://x.com/enodon
+https://note.com/enodon
+榎木英介（フリーランス病理医・科学ジャーナリスト賞受賞者）
+
+https://twitter.com/keiyou30
+山本健人(外科医けいゆう, Takehito Yamamoto) (@keiyou30) / X
+
+https://www.diamond.co.jp/book/9784478113271.html
+2021年08月　すばらしい人体　あなたの体をめぐる知的冒険
+
+https://www.diamond.co.jp/book/9784478118016.html
+2023年09月　すばらしい医学　あなたの体の謎に迫る知的冒険
 
 
 
@@ -271,59 +319,6 @@ https://www.nig.ac.jp/public/director-message-2/
 
 https://www.nig.ac.jp/public/director-message/
 所長 近藤滋のメッセージ　第2回　新プロジェクトと生命科学の未来（前編） | 国立遺伝学研究所
-
-
-
-----------
-### class
-
-https://github.com/haruosuz/introBI/tree/main/2026-04
-
-https://github.com/haruosuz/DS4GD/tree/master/2026-04
-
-https://github.com/haruosuz/r4bioinfo/blob/master/R_Avril_Coghlan/README.md
-
-https://a-little-book-of-r-for-bioinformatics.readthedocs.io/en/latest/index.html
-
-https://www.youtube.com/watch?v=6564K4-_DBI&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc Microbiome Discovery 1: Intro to the Microbiome - YouTube
-
-2013/07/02
-https://www.youtube.com/watch?v=S-o-sdlzhkE
-R 1.2 - Calculations and Variables - YouTube
-
-- Dave Hone - "How to read a phylogenetic tree" https://archosaurmusings.wordpress.com/2008/12/18/how-to-read-a-phylogenetic-tree/
-- 2015-01-05 [PhyloBotanist: How to root a phylogenetic tree: outgroup, midpoint and other methods](http://phylobotanist.blogspot.com/2015/01/how-to-root-phylogenetic-tree-outgroup.html)
-- 2012-06-07 [The Cabbages of Doom: How to root a phylogenetic tree](http://cabbagesofdoom.blogspot.com/2012/06/how-to-root-phylogenetic-tree.html)
-
-----------
-Microbiome Discovery
-Dan Knights
-
-https://github.com/haruosuz/introBI/blob/main/CaseStudy.md#mice8992
-
-2016/01/23
-https://www.youtube.com/watch?v=u2IQQUMeWy8&list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc&index=7
-Microbiome Discovery 4.5: (Optional) UNIX Command Line
-
-----------
-
-https://video.ucdavis.edu/channel/BIS180L+SQ2020/158861492
-BIS180L SQ2020 - University of California, Davis
-
-https://video.ucdavis.edu/media/BIS180L-SQ20-Lecture+01/0_qdzowjow
-BIS180L-SQ20-Lecture 01 - University of California, Davis
-
-https://video.ucdavis.edu/media/BIS180L+Lecture3b+For+Loops/0_c206k3g2/158861492
-BIS180L Lecture3b For Loops - University of California, Davis
-
-----------
-
-https://oimachi-keio.com/topics/orf2025/
-
-https://oimachi-keio.com/topics/orf2025report/
-
-https://oimachi-keio.com/topics/orf2025-2/
-
 
 ----------
 
