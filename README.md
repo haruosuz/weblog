@@ -8,18 +8,28 @@
 - [unclassified](#unclassified)
 - 
 
-
 ----------
 
-https://x.com/_daichikonno
-Daichi Konno / 紺野 大地 (@_daichikonno) / X
-2026-08-08
-https://x.com/_daichikonno/status/2085670313690607789
-Daichi Konno / 紺野 大地 on X: "【決定版】研究者のためのAIエージェント入門ガイド（2026） という無料note記事を書きました！🎉 CodexやClaude Codeを始めとするAIエージェントは、このさき間違いなく研究者にとって必須となります。 この記事だけでAIエージェントが導入できるので、ぜひご一読下さい☺️ (リンクはリプライへ↓) https://t.co/6tolzXaxzF" / X
 
-2026年8月7日 19:00
-https://note.com/daichi_konno/n/n9d482fb0284c
-【決定版】研究者のためのAIエージェント入門ガイド（2026）｜Daichi Konno / 紺野 大地
+https://x.com/mita_hyoron
+
+公開日：2026.10.13
+
+7:39 AM · Oct 13, 2026
+https://x.com/mita_hyoron/status/2109775933960077344
+三田評論ONLINE on X: "【小特集】鶴岡タウンキャンパス開設25周年 座談会：次なるイノベーションを生む知の拠点にむけて 渡部 康羽 岩崎 由香 玉木 聡志 前橋 和毅 湯澤 陽子（司会） #三田評論　10月号 https://t.co/A76UMM3S2B" / X
+https://www.keio.ac.jp/ja/about/public-relations/mita-hyoron/other/20261013-1/
+【小特集・鶴岡タウンキャンパス開設25周年】座談会：次なるイノベーションを生む知の拠点にむけて | その他 | 慶應義塾
+
+https://www.keio.ac.jp/ja/about/public-relations/mita-hyoron/other/20261013-2/
+【小特集・鶴岡タウンキャンパス開設25周年】25周年を迎えた先端生命科学研究所
+
+https://www.keio.ac.jp/ja/about/public-relations/mita-hyoron/other/20261013-3/
+【小特集・鶴岡タウンキャンパス開設25周年】鶴岡タウンキャンパスに期待する食・運動、そして心の健康
+仰木　裕嗣（おおぎ　ゆうじ）
+
+
+
 
 ----------
 # Keio
@@ -115,6 +125,34 @@ https://oimachi-keio.com/topics/orf2025report/
 
 https://oimachi-keio.com/topics/orf2025-2/
 
+
+
+
+
+
+----------
+
+
+5:51 PM · Oct 22, 2026
+https://x.com/kando_abugen/status/2113191454600487163
+貫洞欣寛(Kando, Yoshihiro)🌍 on X: "インドで最も貧しい週の一つビハールで、貧しいけど、数学の原石のような才能を持つ少年30人を寝食も無料で1年鍛え上げ、インドの最高峰インド工科大（IIT）に次々と送り込んでいる教育者、アナンド・クマール氏。 その活動を包括的に紹介する読み応え満点の記事。" / X
+
+https://president.jp/articles/-/120181
+ケンブリッジ大留学の夢は貧困で潰えた…絶望の天才数学青年が｢インドの東大｣合格率100%の無償塾を創るまで | PRESIDENT Online（プレジデントオンライン）
+https://president.jp/articles/-/120181?page=4
+
+
+----------
+
+https://x.com/_daichikonno
+Daichi Konno / 紺野 大地 (@_daichikonno) / X
+2026-08-08
+https://x.com/_daichikonno/status/2085670313690607789
+Daichi Konno / 紺野 大地 on X: "【決定版】研究者のためのAIエージェント入門ガイド（2026） という無料note記事を書きました！🎉 CodexやClaude Codeを始めとするAIエージェントは、このさき間違いなく研究者にとって必須となります。 この記事だけでAIエージェントが導入できるので、ぜひご一読下さい☺️ (リンクはリプライへ↓) https://t.co/6tolzXaxzF" / X
+
+2026年8月7日 19:00
+https://note.com/daichi_konno/n/n9d482fb0284c
+【決定版】研究者のためのAIエージェント入門ガイド（2026）｜Daichi Konno / 紺野 大地
 
 
 ----------
