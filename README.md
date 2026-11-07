@@ -10,6 +10,15 @@
 
 ----------
 
+9:28 PM · Nov 1, 2026
+https://x.com/1t0ocha/status/2116870066256204070
+Takayuki Itoh on X: "note「研究室運営の一例」を大幅更新しました。 「どうしても〇〇に関する研究に着手したい、着手させてくれるならどこの研究室でもいい」という学生もいれば、「どうしても□□研究室に入りたい、入れてくれるなら研究テーマは何でもいい」という学生もいます https://t.co/fZu35zka2u" / X
+
+https://note.com/itot0103/n/ne5a8b9550465?app_launch=false
+研究室運営の一例｜itot
+
+
+----------
 
 https://x.com/mita_hyoron
 
@@ -27,9 +36,6 @@ https://www.keio.ac.jp/ja/about/public-relations/mita-hyoron/other/20261013-2/
 https://www.keio.ac.jp/ja/about/public-relations/mita-hyoron/other/20261013-3/
 【小特集・鶴岡タウンキャンパス開設25周年】鶴岡タウンキャンパスに期待する食・運動、そして心の健康
 仰木　裕嗣（おおぎ　ゆうじ）
-
-
-
 
 ----------
 # Keio
