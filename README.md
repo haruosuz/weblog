@@ -8,13 +8,7 @@
 - [unclassified](#unclassified)
 - 
 
-
-
 ----------
-
-
-----------
-
 
 https://x.com/search?q=夢洲駅&src=typed_query&f=live
 9:31 PM · Nov 9, 2026
@@ -22,8 +16,6 @@ https://x.com/cloche5143D/status/2119769848217780495
 くれ on X: "＊ブログを更新しました＊ 各駅探訪No.1110 夢洲駅(Osaka Metro中央線) https://t.co/l4jQTsQQvQ" / X
 https://chiropura173.blog.fc2.com/blog-entry-1590.html
 各駅探訪No.1110 夢洲駅(Osaka Metro中央線) - チロキシンな日常±
-
-
 
 
 ----------
@@ -35,6 +27,16 @@ Takayuki Itoh on X: "note「研究室運営の一例」を大幅更新しまし�
 https://note.com/itot0103/n/ne5a8b9550465?app_launch=false
 研究室運営の一例｜itot
 
+----------
+
+10:00 AM · Nov 14, 2026
+https://x.com/NatureJapan/status/2121407775649546414
+Nature Japan on X: "🧬🦠先史時代の社会におけるペスト流行の現存する最古の証 #HL Ruairidh Macleod、Eske Willerslevらの@Nature #OA #論文 Lethal plague outbreaks in Lake Baikal hunter-gatherers 5,500 years ago DOI: 10.1038/s41586-026-10540-5 #オープンアクセス @uniofoxford @koebenhavns_uni https://t.co/SYzaRqqtZc" / X
+https://x.com/nikkei/status/2119777329865986104
+日本経済新聞 電子版（日経電子版） on X: "人類最古のペスト流行は5500年前　カギはシベリアのマーモット https://t.co/KMZlLelXyu マーモットからヒトへの感染は数千年にわたって続いてきました。この動物は、さまざまな面でペスト菌にとって「うってつけの宿主」だと研究者は言います。" / X
+https://www.nikkei.com/article/DGXZQOSG299M90Z21C26A0000000/
+人類で最古のペスト流行は5500年前のシベリアで？　歴史ひもとく鍵はマーモット、身近な存在が媒介 - 日本経済新聞
+マーモットも、そしてペストもそうした試みを生き延びた。1990年までにはペスト撲滅計画は終了した。その失敗によって、科学者たちの長年の主張の正しさが証明された。すなわち、一部の病気はその土地に根付いたものであり、私たちにできる最善のことは、病気と共存する術を学ぶことなのだ。
 
 ----------
 
